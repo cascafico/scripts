@@ -1,8 +1,10 @@
 # scripts & queries
-Various scripts and quesries for OSM and Qality assurance
+Various scripts and queries for OSM and Qality assurance
 
-## overpass-turbo query to get codici ISTAT of all italian municipalities:
+## Italy Highway Names
+### getting municipalities
+we need an overpass-turbo query to get codici ISTAT of all italian municipalities:
 http://overpass-turbo.eu/s/zJg
 
-## gathering street names in batches
-ItalyHighwayNames.sh 
+### gathering street names in batches
+ItalyHighwayNames.sh splits query task in several province based queries
