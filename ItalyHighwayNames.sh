@@ -16,12 +16,21 @@ if [ $# -eq 0 ]
      exit
 fi
 
+# first run municipality and province codes generation
+if [ $1 == 0 ]
+   then
+     wget -nc -O municipality_codes 'http://overpass-api.de/api/interpreter?data=[out:csv("ref:ISTAT";false)];area[name="Italia"];relation(area)["ref:ISTAT"][admin_level=8];out;' 
+     cat municipality_codes | cut -c 1-3 | sort -u > province_codes
+     exit
+fi
+
+# overpass-turbo actual highway=name queries
 for i in $(eval echo {$1..$2}); do 
 wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")][timeout:600];area["ref:ISTAT"~"'$i'..."];way(area)[highway][name];out center;' 
 sort -u -t, -k1,1 $i.lst -o $i.lst
 done
 
-
+# optionallyi, odonym filter on all italian municipalities
 if [ $# -gt 2 ]
   then
     echo "\"$3 $4 $5\" occourences are being written in $3.csv file"
