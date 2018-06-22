@@ -1,10 +1,30 @@
 #!/bin/bash
-# multiple overpass-turbo queries that aim to list highway=name dissemination in Italy
+# multiple overpass-turbo queries that aim to list highway NAME dissemination in Italy
 # ref:ISTAT OSM tag is used, since it is a unique identifier for each italian municipality
-# ref:ISTAT code is a 6 digit; first can be 0|1
-# with first two arguments you can select a subset range to generate .lst files (one file, one province)
+# ref:ISTAT code is a 6 digit; first can be 0|1; here a small range has been set 042-043
+
+if [ $# -eq 0 ]
+   then
+     echo ""
+     echo "Usage: script accepts two provincia codes and optionally one odonym (max 3 words), ie: 023 027 Emanuele Terzo"
+     echo ""
+     echo "Scripts runs several overpass-turbo queries in a selected provincie range"
+     echo "Each provincia query create a .lst file"
+     echo "If for some reason you get zero size lst,(overpass-turbo timeouts), remove those files (find *.lst -size  0 -print0 |xargs -0 rm --) and rerun script"
+     echo "Script does not overwrite .lst files"
+     echo ""
+     exit
+fi
 
 for i in $(eval echo {$1..$2}); do 
-wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")];area["ref:ISTAT"~"'$i'..."];way(area)[highway][name];out center;' 
+wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")][timeout:600];area["ref:ISTAT"~"'$i'..."];way(area)[highway][name];out center;' 
 sort -u -t, -k1,1 $i.lst -o $i.lst
 done
+
+
+if [ $# -gt 2 ]
+  then
+    echo "\"$3 $4 $5\" occourences are being written in $3.csv file"
+    cat ???.lst | grep "$3 $4 $5" > $3.csv
+    sed -i '1 i\odonimo,lat,lon' $3.csv
+fi
