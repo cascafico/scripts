@@ -26,7 +26,7 @@ fi
 
 # overpass-turbo actual highway=name queries
 for i in $(eval echo {$1..$2}); do 
-wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")][timeout:600];area["ref:ISTAT"~"'$i'..."];way(area)[highway][name];out center;' 
+wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")][timeout:600];area["ref:ISTAT"~"'$i'..."][admin_level=8];way(area)[highway][name];out center;' 
 sort -u -t, -k1,1 $i.lst -o $i.lst
 done
 
