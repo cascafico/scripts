@@ -7,7 +7,7 @@ if [ $# -eq 0 ]
    then
      echo ""
      echo "Usage: script accepts two provincia codes and optionally one odonym (max 3 words), ie: 023 027 Emanuele Terzo"
-     echo "       first argument 0 for province and municipality codes generation"
+     echo "       optionally first argument 0 for province and municipality codes generation"
      echo ""
      echo "Scripts runs several overpass-turbo queries in a selected provincie range"
      echo "Each provincia query creates a .lst file"
@@ -25,16 +25,44 @@ if [ $1 == 0 ]
      exit
 fi
 
+
 # overpass-turbo actual highway=name queries
-for i in $(eval echo {$1..$2}); do 
-wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")][timeout:600];area["ref:ISTAT"~"'$i'..."][admin_level=8];way(area)[highway][name];out center;' 
+if [ $# -eq 2 ] 
+   then
+   for i in $(eval echo {$1..$2}); do 
+   wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")][timeout:600];area["ref:ISTAT"~"'$i'..."][admin_level=8];way(area)[highway][name];out center;' 
 sort -u -t, -k1,1 $i.lst -o $i.lst
 done
+fi
+
+if [ $# -eq 3 ] 
+   then
+   for i in $(eval echo {$1..$2}); do 
+   wget -nc -O $i.lst 'http://overpass-api.de/api/interpreter?data=[out:csv("name",::lat,::lon;false;",")][timeout:600];area["ref:ISTAT"~"'$i'..."][admin_level=8];way(area)[highway]["name"~"'$3'"];out center;' 
+sort -u -t, -k1,1 $i.lst -o $i.lst
+done
+fi
+
+$answer=n
+read -t 999 -n 1 -p "Do you wish to remove zero size results (y/N)? " answer
+if [ $answer == "y" ] 
+   then
+      find *.lst -size  0 -print0 |xargs -0 rm --
+fi
+
+#echo "Do you wish to remove zero size results?"
+#select yn in "Yes" "No"; do
+#    case $yn in
+#        Yes ) find *.lst -size  0 -print0 |xargs -0 rm --;;
+#        No ) exit;;
+#    esac
+#done
+
 
 # optionallyi, odonym filter on all italian municipalities
-if [ $# -gt 2 ]
-  then
-    echo "\"$3 $4 $5\" occourences are being written in $3.csv file"
-    cat ???.lst | grep "$3 $4 $5" > $3.csv
-    sed -i '1 i\odonimo,lat,lon' $3.csv
-fi
+#if [ $# -gt 2 ]
+#  then
+#    echo "\"$3 $4 $5\" occourences are being written in $3.csv file"
+#    cat ???.lst | grep "$3 $4 $5" > $3.csv
+#    sed -i '1 i\odonimo,lat,lon' $3.csv
+#fi
