@@ -49,7 +49,7 @@ echo ""
 read -t 999 -n 1 -p "Do you wish to remove zero size results (y/N)? " answer
 if [ "$answer" == "y" ] 
    then
-   find *.lst -size  0 -print0 |xargs -0 rm --
+   find . -size  0 -print0 |xargs -0 rm --
 fi
 
 
