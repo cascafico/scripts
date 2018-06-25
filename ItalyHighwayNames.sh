@@ -7,10 +7,11 @@ if [ $# -eq 0 ]
    then
      echo ""
      echo "Usage: script accepts two provincia codes and optionally one odonym (max 3 words), ie: 023 027 Emanuele Terzo"
+     echo "       first argument 0 for province and municipality codes generation"
      echo ""
      echo "Scripts runs several overpass-turbo queries in a selected provincie range"
-     echo "Each provincia query create a .lst file"
-     echo "If for some reason you get zero size lst,(overpass-turbo timeouts), remove those files (find *.lst -size  0 -print0 |xargs -0 rm --) and rerun script"
+     echo "Each provincia query creates a .lst file"
+     echo "If for some reason you get zero size lst (likely for overpass-turbo timeouts), remove lst files (find *.lst -size  0 -print0 |xargs -0 rm --) and rerun script"
      echo "Script does not overwrite .lst files"
      echo ""
      exit
