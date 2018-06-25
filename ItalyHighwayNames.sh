@@ -43,20 +43,14 @@ sort -u -t, -k1,1 $i.lst -o $i.lst
 done
 fi
 
-$answer=n
+echo "Empty files: "
+find . -size 0
+echo ""
 read -t 999 -n 1 -p "Do you wish to remove zero size results (y/N)? " answer
-if [ $answer == "y" ] 
+if [ "$answer" == "y" ] 
    then
-      find *.lst -size  0 -print0 |xargs -0 rm --
+   find *.lst -size  0 -print0 |xargs -0 rm --
 fi
-
-#echo "Do you wish to remove zero size results?"
-#select yn in "Yes" "No"; do
-#    case $yn in
-#        Yes ) find *.lst -size  0 -print0 |xargs -0 rm --;;
-#        No ) exit;;
-#    esac
-#done
 
 
 # optionallyi, odonym filter on all italian municipalities
