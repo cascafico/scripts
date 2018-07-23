@@ -6,7 +6,7 @@
 if [ $# -eq 0 ]
    then
      echo ""
-     echo "Usage: script accepts two provincia codes and optionally one odonym (max 3 words), ie: 023 027 Emanuele Terzo"
+     echo "Usage: script accepts two provincia codes as range and optionally one odonym (max 3 words), ie: 023 027 Emanuele Terzo"
      echo "       optionally first argument 0 for province and municipality codes generation"
      echo ""
      echo "Scripts runs several overpass-turbo queries in a selected provincie range"
