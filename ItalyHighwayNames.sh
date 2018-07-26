@@ -3,9 +3,14 @@
 # ref:ISTAT OSM tag is used, since it is a unique identifier for each italian municipality
 # ref:ISTAT code is a 6 digit; first can be 0|1; here a small range has been set 042-043
 
+# batch runs for nationwide extractions can be compiled as:
+# for i in ???; do echo "./ItalyHighwayNames.sh $i" >> batchrun; done
+# where ??? files are the generated province code files (arg 0 option)
+# containing municipality codes
+
+
 PROVINCECODE="$1"
 
-#echo "nome,lat,lon" > $2_$3.csv
 
 if [ $# -eq 0 ]
    then
@@ -72,21 +77,3 @@ if [ $# -ge 2 ]
    rm $PROVINCECODE.csv
    done < $PROVINCECODE
 fi
-
-#echo "Empty files: "
-#find . -size 0
-#echo ""
-#read -t 999 -n 1 -p "Do you wish to remove zero size results (y/N)? " answer
-#if [ "$answer" == "y" ] 
-#   then
-#   find . -size  0 -print0 |xargs -0 rm --
-#fi
-
-
-# optionallyi, odonym filter on all italian municipalities
-#if [ $# -gt 2 ]
-#  then
-#    echo "\"$3 $4 $5\" occourences are being written in $3.csv file"
-#    cat ???.lst | grep "$3 $4 $5" > $3.csv
-#    sed -i '1 i\odonimo,lat,lon' $3.csv
-#fi
