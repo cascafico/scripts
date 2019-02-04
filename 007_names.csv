@@ -106,6 +106,7 @@ Via del Ponte,45.6026575,7.7641211
 Via Janin,45.6042066,7.7704237
 Via La Balme,45.6037966,7.7755356
 Via Lillettaz,45.6020535,7.7732238
+Via Mamy,45.6001531,7.7665979
 Via Martorey,45.6039024,7.7721011
 Via Ospedale,45.6033865,7.7650797
 Via Principe Tommaso,45.6028405,7.7640905
@@ -138,6 +139,20 @@ Alta Via 1,45.6195539,7.8640098
 Ponte Giassit,45.6163450,7.8672902
 Strada interpoderale Truc Becchera,45.6067353,7.8707670
 Strada Regionale 44 della Valle del Lys,45.6199015,7.8248181
+Frazione La Bèthaz,45.6442432,7.0672306
+La Rognettaz,45.5913795,7.0315647
+Mulattiera militare,45.6217703,7.0473649
+Mulattiera Planté,45.6414709,7.0677508
+Rifugio degli Angeli - Testa del Rutor,45.6296540,7.0218575
+Sentiero 9A Surrier Rifugio Chalet De L'Epée,45.5835288,7.0412823
+Sentiero Rocher Prariond,45.6083119,7.0609329
+Strada Comunale Planté,45.6402757,7.0690310
+Strada Comunale Revers,45.6627437,7.0770236
+Strada Magazzino Fontine,45.6293522,7.0622724
+Strada Regionale n. 25 della Valgrisenche,45.6259748,7.0603980
+Strada Sterrata Arp Vieille,45.6118516,7.0360843
+Strada Vieux Quartier,45.6300867,7.0628597
+Via Ferrata Bethaz Bovard,45.6293077,7.0604853
 Frazione Cachoz,45.6519897,7.1543367
 Frazione Coveyrand,45.6574826,7.1581366
 Frazione Frassiney,45.6368222,7.1459662
@@ -204,19 +219,22 @@ Via Verna,45.5963347,7.7976614
 Via XXV Aprile,45.5928115,7.8005570
 Vicolo Abbé O. Perrenchio,45.5996164,7.7970970
 Chemin Vallaise,45.6164181,7.8125577
+Le Chemin de la Vallaise,45.6162787,7.8100090
 Mulattiera Pesse Col Finestra,45.6324534,7.7877015
 Pont Moretta,45.6165872,7.8113809
 Rue Cappellin - Strada Regionale 1 di Perloz,45.6135833,7.8081177
+Sentiero (1),45.6062075,7.8028904
 Sentiero 9,45.6072860,7.7916109
 Sentiero La Korma,45.6285408,7.7869534
 Strada comunale di Cresta,45.6278198,7.8102906
 Strada Regionale 1 di Perloz,45.6222668,7.8186512
 Strada Regionale 44 della Valle del Lys,45.6119080,7.8154550
 Autostrada della Valle d'Aosta,45.6064339,7.7416002
+Ponte di Bard,45.6117881,7.7442710
 Rue de la Crousetta,45.6133225,7.7365598
-Rue della Guia,45.6148391,7.7371097
+Rue de la Guia,45.6148391,7.7371097
 Rue de Vareyna,45.6132275,7.7342255
-Rue E. Chanoux,45.6115916,7.7419821
+Rue E. Chanoux,45.6115967,7.7419807
 Rue M. Colliard,45.6125940,7.7378725
 Rue Nerey,45.6142314,7.7385129
 Rue Stazione,45.6167413,7.7384909
@@ -228,10 +246,13 @@ Via F.lli Alfano,45.6120845,7.7336890
 Via Ronc,45.6144099,7.7402061
 Accesso Barma di Ban,45.6223318,7.7379054
 Parcheggio San Giovanni,45.6062086,7.7442554
+Piazza Cavour,45.6079346,7.7464746
+Piazza Don Zeffirino Aldo Navillod,45.6084166,7.7459261
+Ponte di Bard,45.6117881,7.7442710
 Sentiero La Cou Testa de La Cou,45.6253094,7.7596669
 Strada Militare Vecchia da Bard a Machaby,45.6256737,7.7391487
 Strada Romana,45.6048235,7.7511044
-Via Vittorio Emanuele II,45.6109846,7.7449908
+Via Vittorio Emanuele II,45.6109721,7.7450144
 Arnad Le Vieux,45.6454181,7.7196148
 Autostrada della Valle d'Aosta,45.6403656,7.7199181
 Chez Fornelle,45.6516149,7.7114505
@@ -279,21 +300,23 @@ Ponte della Cerise,45.7183258,7.5018493
 Sentiero2C - Servettaz-Druges,45.7083447,7.4907326
 Sentiero dei pescatori,45.7436282,7.4850091
 Sentiero dei Pescatori,45.7415877,7.4854455
-Sentiero intervallivo 102,45.6460441,7.4598759
+Sentiero intervallivo 102,45.6460451,7.4598759
+Sentiero Ru Charnicloz,45.7276482,7.4915771
 Strada Charnicloz,45.7192582,7.4985300
 Strada Clavalité,45.6363739,7.5024513
 Strada comunale Clavalité,45.7197040,7.5055951
 "Strada comunale ""Delle Piane""",45.7345828,7.4924072
 Strada Comunale Fénis,45.7330886,7.5045280
 "Strada del ""Fereun""",45.7371051,7.5115515
-Strada del Novaillo,45.7333867,7.4786665
+Strada di Le Novailloz,45.7333867,7.4786665
 Strada interna fraz. Baraveyes,45.7344800,7.4936078
 Strada interna fraz. Barche,45.7335419,7.5028869
 Strada interna fraz. Miseregne Alta,45.7320804,7.5069410
 Strada interna fraz. Miseregne-Rovarey,45.7329253,7.5081282
 Strada interna fraz. Perron,45.7328170,7.4908074
 Strada Lexert,45.7342972,7.5026173
-Strada per lo Chenoz,45.7323867,7.4890877
+Strada per Le Chenoz,45.7323867,7.4890877
+Strada per lo Chenoz,45.7352125,7.4728242
 Strada privata,45.7334202,7.5107182
 variante x mtb,45.7282515,7.5023935
 Vecchia strada Clavalité,45.7019786,7.4988037
@@ -308,14 +331,25 @@ Strada Regionale 44 della Valle del Lys,45.6542050,7.8593172
 Alta via 2,45.6879897,7.0156912
 Chaz Dura,45.6903840,6.9163152
 Colle San Carlo,45.7273244,6.9685491
+Grand Assaly via normale,45.6603094,6.9756224
 Loc Moulin,45.7170358,6.9525145
+MTB Thuile: B Garin,45.7043338,6.9500562
+MTB-Thuile: C La Joux,45.6923552,6.9304409
+MTB Thuile: D Le Volpi,45.7039252,6.9360333
+MTB Thuile: E Muret,45.7023218,6.9476723
+MTB Thuile: H Flow,45.6984559,6.9327347
+MTB-Thuile: J Cambogia,45.6957516,6.9518730
+MTB-Thuile: K2 Ponteilles,45.6798060,6.9398642
+MTB-Thuile: K Maisonnetes,45.6821998,6.9369638
+MTB Thuile: P La Tour,45.7040586,6.9223736
+MTB Thuile: S2 Tombeau,45.7094693,6.9468174
+MTB Thuile: S Touriasse,45.7063918,6.9338711
 Rifugio degli Angeli - Testa del Rutor,45.6296540,7.0218575
 Scorciatoia Sentiero 11B Colle Chavanne Mont Fortin,45.7577550,6.8615800
 Sentiero 10 Mont Fortin Colle di Youla,45.7632272,6.8710119
 Sentiero 11B Colle Chavanne Mont Fortin,45.7517053,6.8454272
 Sentiero Colle Chavanne Colle Bassa Serra,45.7487663,6.8348038
 Sentiero Di Cresta,45.7505673,6.8372759
-sentiero P,45.7058119,6.9218424
 Sentiero S,45.7000688,6.9274966
 sentiero T,45.6883750,6.8881997
 Sentiero Valle Sospesa,45.6786269,6.9994987
@@ -323,7 +357,7 @@ Strada per Petosan,45.7367792,6.9738649
 Strada statale 26 della Valle d'Aosta,45.7225277,6.9489713
 Tratto attrezzato,45.6812377,6.9802620
 Via Piccolo San Bernardo,45.7178149,6.9463682
-Accesso Via Ferrata,45.6852059,7.6117636
+Accesso Via Ferrata,45.6858503,7.6117400
 Autostrada della Valle d'Aosta,45.6966752,7.6684853
 Frazione Fabbrica,45.6816721,7.6717676
 Frazione Le Sale,45.6864437,7.6617057
@@ -338,6 +372,8 @@ Raccordo Via Ferrata Ru Montjovet,45.6867885,7.6115123
 Rientro Via Ferrata,45.6864663,7.6120183
 Ru de Chevrère et Montjovet,45.6759317,7.5869922
 Sentiero 10 Herin Proveche,45.6944809,7.6408698
+sentiero 8A,45.6947114,7.6308226
+sentiero 8B,45.7052511,7.6263898
 Sentiero Herin,45.6877524,7.6392267
 Sentiero Herin Losson,45.6916769,7.6334092
 Strada Comunale Crestaz Herin,45.6894822,7.6377403
@@ -362,11 +398,15 @@ Via Corrado Gex,45.7027784,7.1629943
 Via du Chateau,45.7029393,7.1694072
 Via Lostan,45.7031102,7.1668039
 Autostrada della Valle d'Aosta,45.7082050,7.2468803
+Frazione Clos Savin,45.7028662,7.2403540
+Frazione Ferriere SR20,45.7026017,7.2433437
+Frazione Moulins,45.7022316,7.2378741
 Frazione Pompiod,45.7080581,7.2606517
-loc. Villettos,45.7046170,7.2456950
+Frazione Villetos,45.7046170,7.2456950
 Pila MTB n.10,45.6988592,7.2620225
 Pont D'Aël,45.6767227,7.2221572
 Ru d'aberio,45.7036600,7.2621194
+SR20 Strada Regionale 20,45.7089334,7.2576812
 Strada Comunale del Bettex,45.7005422,7.2479134
 Strada Comunale del Croux,45.7010360,7.2501471
 Strada Comunale della Cave,45.7050837,7.2507548
@@ -379,7 +419,9 @@ Strada Comunale Raccordo Crêtes,45.7055831,7.2534196
 Strada Comunale Urbains-Montbel,45.7011371,7.2513397
 Strada Comunale Vercellod Pompiod,45.7068948,7.2576331
 Strada Pila-Ozein,45.6871282,7.2871093
-Strada regionale di Cogne,45.7055037,7.2441966
+Strada regionale di Cogne,45.7102148,7.2478521
+Strada regionale di Cogne SR47,45.7055037,7.2441966
+Via Localita Ferriere,45.7040288,7.2429849
 Via Micheley,45.7015717,7.2458415
 Autostrada della Valle d'Aosta,45.6996779,7.2159922
 Frazione Balmet,45.7013769,7.2153982
@@ -453,17 +495,18 @@ Autostrada della Valle d'Aosta,45.7376775,7.4538557
 Ex Accesso SS 26,45.7401408,7.4410689
 Itinerario alpinistico Alpe Bonplan Sella Becca Salé,45.6856078,7.4221856
 Itinerario alpinistico Laures Sella Becca Salé,45.6848155,7.4167098
-Sentiero (16),45.7075858,7.4614504
+Sentiero (16),45.7071821,7.4563237
 Sentiero Alpe Bonplan,45.6957650,7.4296798
-Sentiero intervallivo 102,45.6492834,7.4532526
+Sentiero intervallivo 102,45.6492834,7.4532640
+Sentiero Ru Ruvier,45.7065604,7.4692511
 Strada Agricola Campo Sportivo,45.7348505,7.4372479
 Strada Campo Sportivo,45.7371911,7.4409504
 Strada Cavour,45.7222120,7.4511274
 Strada Comunale,45.7369912,7.4445765
 Strada Comunale Grand-Seissogne,45.7210253,7.4617487
-Strada del Novaillo,45.7324981,7.4740718
+Strada di Le Novailloz,45.7324981,7.4740718
 Strada Druges,45.7076684,7.4744500
-Strada per lo Chenoz,45.7341214,7.4720901
+Strada per Le Chenoz,45.7341235,7.4720994
 Strada per Vurvian e Fove,45.7274260,7.4441230
 Strada privata Malga Mulac,45.6805012,7.4531683
 Strada Regionale 14,45.7360238,7.4418979
@@ -485,6 +528,7 @@ Autostrada della Valle d'Aosta,45.7371385,7.4040266
 Itinerario alpinistico Laures Sella Becca Salé,45.6848155,7.4167098
 Les Iles de Brissogne,45.7370768,7.4052690
 Petit Pollein,45.7304462,7.3803057
+Sentiero (1),45.7024234,7.4061766
 Sentiero Bivacco Menabreaz Alpe Laures,45.6845465,7.4095792
 Sentiero Oratorio Laures - Ommo di Bonplan,45.6918235,7.4150962
 Strada Regionale 15 di Brissogne,45.7370298,7.4156670
@@ -546,6 +590,7 @@ Strada Regionale 45 della Valle D'Ayas,45.6925871,7.7158790
 Via Alpina,45.6784061,7.7742360
 Autostrada della Valle d'Aosta,45.7031348,7.1431661
 Ru de Charbonnière (Sentiero Storico),45.7185131,7.1423485
+Sentiero de l'Artze,45.7280122,7.1050539
 Strada Regionale 22 Saint Nicolas,45.7137466,7.1805499
 Autostrada della Valle d'Aosta,45.7209126,7.6697199
 Frazione Berriaz,45.7062432,7.6757941
@@ -578,7 +623,7 @@ Sentiero 1,45.7483785,7.5679092
 Sentiero Ru Chandianaz,45.7484423,7.5811814
 Strada comunale,45.7308215,7.5407022
 Strada comunale Cesseya,45.7466225,7.5616124
-Strada Comunale Chandianaz,45.7464197,7.5661464
+Strada Comunale Chandianaz,45.7464186,7.5664260
 Strada comunale Croux,45.7439955,7.5294239
 Strada Comunale di Fary,45.7481893,7.5705000
 Strada Comunale Di Fary,45.7480714,7.5682013
@@ -603,6 +648,7 @@ Via del Molino,45.7436617,7.5499812
 Alta via 2,45.6879897,7.0156912
 Autostrada della Valle d'Aosta,45.7471246,7.0505939
 Piazza San Cassiano,45.7456095,7.0712286
+Sentiero de l'Artze,45.7280122,7.1050539
 Via Cesare Ollietti,45.7437495,7.0728383
 Via del Nord,45.7459416,7.0714248
 Via E. Chanoux,45.7470184,7.0695875
@@ -636,6 +682,7 @@ Strada Centrale Saint Clair,45.7408623,7.6184008
 Strada Comunale,45.7378035,7.5881184
 Strada comunale per Verthuy,45.7332143,7.5591953
 Strada Pontey Chambave,45.7391934,7.5848822
+Villaggio Clapey,45.7380908,7.5928181
 Panoramica di Rumiod,45.7176634,7.1906552
 Ru de Clavel,45.7239711,7.1578906
 Strada Comunale Lyveroulaz,45.7094660,7.1923883
@@ -692,6 +739,7 @@ Ciclabile Sarre-Piscina Tzambarlet,45.7248628,7.2832057
 Frazione Pompiod,45.7108671,7.2610105
 Pila MTB n.10,45.6956119,7.2662103
 Ru d'aberio,45.7036600,7.2621194
+SR20 Strada Regionale 20,45.7089334,7.2576812
 Strada Pila-Ozein,45.6871282,7.2871093
 Autostrada della Valle d'Aosta,45.7287721,7.3092937
 Avenue de la Paix - Viale della Pace,45.7403827,7.3173676
@@ -726,6 +774,7 @@ loc Roppoz Porossan,45.7436089,7.3309106
 Passage Folliez,45.7361858,7.3180056
 Passage Pier Louis Vescoz,45.7378187,7.3224180
 Passage Pierre Louis Vescoz,45.7374614,7.3227884
+Petit Arvou,45.7580716,7.3280319
 Piazza Arco d'Augusto,45.7393220,7.3283291
 Piazza Arco d'Augusto (banca),45.7391296,7.3284273
 Piazza Cavalieri di Vittorio Veneto,45.7367431,7.3254188
@@ -978,6 +1027,7 @@ Aosta Est,45.7375992,7.3714793
 Autostrada della Valle d'Aosta,45.7354185,7.3486138
 Bivio Chenaux,45.7285996,7.3468971
 Bivio Eliporto,45.7285548,7.3502766
+Cammino Balteo \3/,45.7277705,7.3758748
 Ex pista di slittino,45.7239828,7.3494977
 Località Les Iles,45.7323630,7.3621164
 Petit Pollein,45.7304462,7.3803057
@@ -993,12 +1043,11 @@ Località Clappey,45.7453508,7.3686690
 Località Gerardin,45.7433863,7.3507124
 Località Grand Chemin,45.7393266,7.3499706
 Località Grande Charrière,45.7444970,7.3547924
-Località Meladiere,45.7404025,7.3578050
+Località La Maladière,45.7432321,7.3560345
 Località Nicolin,45.7462631,7.3598814
 Loc Loup,45.7466571,7.3432445
 Regione Borgnalle 3/a,45.7412541,7.3445193
 Rue de Beauregard,45.7441509,7.3404926
-Sentiero 26D Tzanté de Parleaz,45.7670224,7.3536864
 Sentiero Ru Pompillard,45.7568036,7.3732799
 Strada Comunale Maximian,45.7547433,7.3692551
 Strada Comunale Sorreley,45.7546859,7.3594801
@@ -1042,22 +1091,30 @@ Rue des Seigneurs,45.7440571,7.4657893
 Rue Margnier,45.7405883,7.4614104
 Sentiero Col Finestra Becca d'Avert,45.8063263,7.5360965
 Sentiero Col Tsomioy,45.8426581,7.5344970
+Sentiero n. 3 Cima Bianca,45.8533743,7.5400389
 Stada comunale per Nus,45.7632682,7.5084507
 Strada Agricola,45.7813644,7.4920920
-Strada Comunale,45.7479727,7.5113427
+Strada Comunale,45.7478866,7.5110164
 Strada Comunale di Chantroil,45.7497551,7.5128552
 Strada Regionale 14,45.7397111,7.4389896
 Vecchia SS 26,45.7398434,7.4280659
 Via Aosta,45.7392803,7.4637630
+Via Cavalieri di Vittorio Veneto,45.7408175,7.4679499
+Via della Stazione,45.7398501,7.4698315
 Via Dora,45.7398005,7.4687797
 Via Martinet,45.7400231,7.4645585
 Vicolo Foi,45.7399307,7.4678658
+Vicolo Jaccod,45.7399935,7.4681860
+Vicolo San Rocco,45.7408671,7.4684438
 Autostrada della Valle d'Aosta,45.7471246,7.0505939
 Chemin de l'Echely,45.7611166,7.0322620
+Chemin du Villair,45.7604854,7.0440398
 Colle san Carlo,45.7480910,7.0221725
 Colle San Carlo,45.7546540,7.0395072
 Piazza della Repubblica,45.7575016,7.0352054
 Rue du Mont Blanc,45.7538645,7.0415799
+Ruelle Liconi,45.7608551,7.0441791
+Ruelle Saint-Roch,45.7606183,7.0439719
 Sentiero 14a,45.7472063,7.0160253
 Sentiero 16 Colle della Croce,45.7254932,6.9876167
 Sentiero Colle della Croce,45.7354269,6.9912995
@@ -1080,7 +1137,7 @@ via Tolley,45.7607656,7.0419765
 Autostrada della Valle d'Aosta,45.7426854,7.5137010
 Frazione Cretaz,45.7480020,7.5290880
 Frazione Grangeon,45.7480381,7.5243425
-Frazione Oley Dessus,45.7467500,7.5213186
+Frazione Oley Dessus,45.7467500,7.5212923
 Pista di Rapy,45.7607552,7.5413369
 Raccordo SS SR,45.7425839,7.5232187
 Sentiero 1 dell'Arboretum,45.7656425,7.5299591
@@ -1096,7 +1153,7 @@ Strada Agricola Malavieille,45.7816339,7.5501469
 Strada Agricola Pallu,45.7515707,7.5188856
 Strada Agricola Ru Chavacour,45.7799522,7.5578011
 Strada Agricola Semon,45.7745080,7.5598653
-Strada Comunale,45.7479727,7.5113427
+Strada Comunale,45.7478866,7.5110164
 Strada Comunale Area Sportiva Rapy,45.7609200,7.5430830
 Strada Comunale Baravette,45.7607096,7.5269365
 Strada Comunale Champlong,45.7808364,7.5424150
@@ -1106,21 +1163,21 @@ Strada Comunale di Champoaz,45.7503631,7.5186572
 Strada Comunale di Chantroil,45.7497551,7.5128552
 Strada Comunale Di Cherolinaz,45.7555916,7.5209117
 Strada comunale di Diemoz,45.7486392,7.5171634
-Strada Comunale di Diemoz,45.7476680,7.5158961
-Strada Comunale Di Diemoz,45.7453886,7.5169891
-Strada Comunale Di Fraye,45.7605289,7.5173902
+Strada Comunale di Diemoz,45.7447560,7.5184013
+Strada Comunale Di Diemoz,45.7482388,7.5161708
+Strada Comunale Di Fraye,45.7605159,7.5173875
 Strada Comunale Di Grossaix,45.7495468,7.5163052
 Strada Comunale di Here,45.7531144,7.5219215
 Strada Comunale Di Here-Dessous,45.7525770,7.5225891
-Strada Comunale di La-Barma,45.7487918,7.5151907
+Strada Comunale di La-Barma,45.7489734,7.5150704
 Strada Comunale Di La-Comba,45.7510380,7.5197975
 Strada comunale di Pallu,45.7527391,7.5179152
 Strada Comunale Di Plan-Verrayes,45.7642127,7.5393868
 Strada Comunale Di Vevoz,45.7561247,7.5211208
 Strada Comunale Di Voisinal,45.7636916,7.5360074
-Strada Comunale Di Vrignier,45.7601970,7.5139920
+Strada Comunale Di Vrignier,45.7602191,7.5139920
 Strada Comunale Grand-Villa Vencorere,45.7759636,7.5191390
-Strada Comunale Gros-Ollian,45.7621144,7.5494766
+Strada Comunale Gros-Ollian,45.7621033,7.5494766
 Strada Comunale Pallu-Dessous,45.7516882,7.5169042
 Strada Comunale Plan-D'Arey,45.7631743,7.5306093
 Strada Comunale Vallet,45.7573017,7.5244631
@@ -1130,14 +1187,14 @@ Strada Malavieille,45.7804754,7.5472763
 Strada Regionale 11 di Verrayes,45.7571302,7.5365498
 Strada Regionale 12 di Saint-Denis,45.7750499,7.5640440
 Strada Regionale 42 Col Saint-Pantaleon,45.7498370,7.5151851
-Strada Ru Verrayes,45.8105449,7.5523371
+Strada Ru Verrayes,45.7994161,7.5478960
 Pista Parafrane,45.7509689,7.5840900
 Pista Raffort,45.7512417,7.5726552
 Raccordo Lavesé,45.7676905,7.5798635
 Raccordo Sentiero Berzin Saint-Evence,45.7706060,7.5812487
 Sentiero 2A della Palestra di Roccia,45.7693685,7.5803541
 Sentiero Barma Statale,45.7461604,7.5788620
-Sentiero Ru Chandianaz,45.7566242,7.6008892
+Sentiero Ru Chandianaz,45.7566307,7.6008892
 Sentiero Ru Marseiller,45.7762750,7.5933975
 Sentiero Sez Crevo,45.7787816,7.5738651
 Sterrata Cappella S. Pantaleone,45.7842771,7.5684414
@@ -1145,7 +1202,7 @@ Sterrata per Blavesse,45.7637840,7.5756322
 Strada Agricola Cellier,45.7491469,7.5477832
 Strada Agricola Cly,45.7497214,7.5568503
 Strada Agricola Plau,45.7693417,7.5618111
-Strada Agricola Praz de Tard,45.7678614,7.5882151
+Strada Agricola Praz de Tard,45.7665998,7.5882151
 Strada Agricola Semon,45.7745080,7.5598653
 Strada Comunale,45.7504343,7.5555103
 Strada Comunale Capoluogo,45.7534351,7.5552936
@@ -1191,7 +1248,9 @@ Strada statale 26 della Valle d'Aosta,45.7473003,6.9700599
 Strada Statale 26 dir della Valle d'Aosta,45.7641617,6.9874348
 Via Cordelloz,45.7640752,6.9870307
 Autostrada della Valle d'Aosta,45.7833299,6.9650811
-interrotto per frana,45.8199570,6.9699749
+Grandes Jorasses,45.8550373,6.9767743
+Grandes Jorasses Traverse,45.8686955,6.9844310
+interrotto per frana,45.8199371,6.9698570
 Les Bosses,45.8338866,6.8604976
 Lungolago Miage,45.7782695,6.8708326
 Mulattiera Militare,45.7579119,6.8228991
@@ -1206,7 +1265,8 @@ Sentiero Colle della Seigne Colle Des Chavannes,45.7490488,6.8120981
 Sentiero Colle delle Pyramides Calcaires,45.7606500,6.8179374
 Sentiero Di Cresta,45.7505673,6.8372759
 Sentiero Militare al Colle delle Pyramides Calcaires,45.7581483,6.8206675
-Sentiero per Rifugio Boccalatte-Piolti,45.8443815,6.9841138
+Sentiero Pavillon rifugio Torino,45.8376373,6.9402858
+Sentiero per Rifugio Boccalatte-Piolti,45.8444211,6.9841698
 Sentiero Rifugio Elisabetta Colle delle Pyramides Calcaires,45.7662096,6.8332816
 Sentiero Testa Bernarda,45.8318891,7.0429953
 Sentiero Villair - Ermitage,45.7981643,6.9821292
@@ -1267,14 +1327,18 @@ Strada comunale di Maisonnettes,45.8219082,7.1732818
 Strada comunale di Pontaramey,45.8215804,7.1766623
 Strada Comunale Mottes,45.8205033,7.1589759
 Strada Gorres,45.8209195,7.1649421
-Traforo del Gran San Bernardo - Tunnel du Grand-Saint-Bernard,45.8209818,7.1676265
+Traforo del Gran San Bernardo - Tunnel du Grand-Saint-Bernard,45.8209760,7.1676208
 Tunnel du Grand-Saint-Bernard,45.8240977,7.1876950
 Tunnel du Grand-Saint-Bernard - Traforo del Gran San Bernardo,45.8575489,7.1669513
+Via Grande Rochère,45.8234088,7.1785666
 Alta Via 1,45.8629557,7.5212965
+Cima Bianca-Chomioi,45.8481094,7.5394061
+condominio Petit Monde,45.8070397,7.5685184
+Easy downhill,45.8232625,7.5598729
 Pista Forestale Bois De Berzin,45.7829337,7.5808548
-Pista Ru Torgnon,45.8204723,7.5675410
+Pista Ru Torgnon,45.8203996,7.5675410
 Raccordo Sentiero Berzin Saint-Evence,45.7702613,7.5832036
-Rue Molinet,45.8059545,7.5674341
+Rue Molinet,45.8053146,7.5683955
 Sentiero 105 107 Etirol Alpe Chancevella,45.8313707,7.5703536
 Sentiero 105 Grand - Moulin - Triatel,45.8088350,7.5831145
 Sentiero 105 Triatel Torrente Petit Monde,45.8290376,7.5718218
@@ -1291,12 +1355,15 @@ Sentiero Antenne,45.8104814,7.5778800
 Sentiero Chaté Triatel,45.8138412,7.5742442
 Sentiero Chesod Perteille,45.8435647,7.5955905
 Sentiero Chesod Praz-de-Tard,45.7863300,7.5741346
-Sentiero Col Finestra,45.8117110,7.5426005
+Sentiero Col Finestra,45.8122648,7.5424485
 Sentiero Col Finestra Becca d'Avert,45.8063263,7.5360965
 Sentiero Col Tsomioy,45.8447861,7.5410158
 Sentiero Etirol Vasca Centralina,45.8359122,7.5672092
 Sentiero Livello Catullo,45.8199434,7.5824947
 Sentiero Miniera Petit-Monde,45.8189505,7.5825834
+Sentiero n. 19 Collet-Lago Tsan,45.8479992,7.5448546
+Sentiero n. 19 Collet-Lago-Tsan,45.8554216,7.5480680
+Sentiero n. 3 Cima Bianca,45.8533743,7.5400389
 Sentiero Perteille Clonge,45.8442205,7.5959256
 Sentiero Perteille Presa Torrente,45.8459500,7.5952699
 Sentiero Ronc Colle di San Pantaleone,45.7919817,7.5572999
@@ -1305,10 +1372,10 @@ Sentiero Ru Chomioi,45.8507747,7.5493712
 Sentiero Ru Marseiller,45.7762750,7.5933975
 Sentiero Sez Crevo,45.7787816,7.5738651
 Sentiero Vasca di Carico Sifone di Fiernaz,45.8218589,7.5807233
-Strada Agricola,45.8140278,7.5521795
+Strada Agricola,45.8140320,7.5521822
 Strada Agricola Alpe Arpeille-Damon,45.8172160,7.5653245
 Strada Agricola Alpe Chateau,45.8556270,7.5618889
-Strada Agricola Alpe Chatelard-Desot,45.8126932,7.5718582
+Strada Agricola Alpe Chatelard-Desot,45.8126759,7.5719167
 Strada Agricola Alpe Chavannes,45.8102534,7.5583358
 Strada Agricola Alpe Chomioy,45.8459914,7.5490888
 Strada Agricola Alpe Clonge,45.8476642,7.5862361
@@ -1333,7 +1400,8 @@ Strada Agricola Triatel,45.8168088,7.5803090
 Strada Agricola Villettaz,45.7980175,7.5840855
 Strada Bagnoy,45.8067302,7.5614679
 Strada Comunale Berzin,45.7922532,7.5793206
-Strada Comunale Champtorné,45.8061998,7.5654628
+Strada Comunale Champtorné,45.8038005,7.5614780
+Strada Comunale Chantorné,45.8062704,7.5648283
 Strada Comunale Chaté,45.8094847,7.5697710
 Strada Comunale Cheille,45.8059277,7.5711304
 Strada Comunale Corthoud,45.8053190,7.5760686
@@ -1349,8 +1417,9 @@ Strada Parcheggio Golette,45.8035962,7.5550843
 Strada Regionale 42 Col Saint-Pantaleon,45.7774921,7.5482608
 Strada Regionale 9 di Torgnon,45.7969337,7.5768424
 Strada Ru Verrayes,45.8628940,7.5601476
-Strada Sterrata Torgnon Cignana,45.8273752,7.5627338
+Strada Sterrata Torgnon Cignana,45.8404114,7.5635261
 Strada Tenson,45.8027146,7.5716583
+Variante per Lago Tsan,45.8512740,7.5518070
 Rue de la Montée,45.8240674,7.2102686
 Rue Flassin,45.8244668,7.2170732
 Rue Verraz,45.8248247,7.2147003
@@ -1553,6 +1622,7 @@ Sentiero 4 By Rifugio Chiarella Amiante,45.8875802,7.3045853
 Sentiero Sergio Queirolo,45.9003215,7.2938913
 Strada Agricola By,45.8893781,7.3057446
 Strada Agricola By Alpe Martinet,45.8852920,7.3054967
+Strada comunale,45.8649260,7.3024084
 Strada Comunale Di Glacier,45.8733411,7.3034628
 Strada regionale per Ollomont,45.8350385,7.3263738
 Tour des Combins,45.9026730,7.3464242
@@ -1583,7 +1653,9 @@ Chemin Veret,45.8118984,7.6885803
 Cime Bianche,45.9201115,7.6856368
 Falsa traccia,45.7959910,7.7417314
 Fraz. Cornu,45.8021929,7.6915535
-Galleria n. 14,45.7931554,7.6768889
+Galleria 12,45.7865098,7.6821320
+Galleria 13,45.7913287,7.6781928
+Galleria n. 14,45.7924023,7.6776214
 Mulattiera di Blanchard,45.8657006,7.7285758
 per Frachey,45.8495060,7.7381028
 Place Abbé Jean-Baptiste Favre 1880-1933 'Il fut un caractère',45.8627515,7.7304590
@@ -1603,13 +1675,13 @@ Rue de la Latterie,45.8117028,7.6884238
 Rue de La Neige,45.8099347,7.6965755
 Rue de La Traversa,45.8257813,7.7065747
 Rue de La Vardaz,45.8292611,7.7122301
-Rue de l'eglise,45.8124414,7.6884213
+Rue de l'eglise,45.8122906,7.6884486
 Rue des Guides,45.8328469,7.7253181
 Rue E. Chanoux,45.8148108,7.6901073
 Rue Lolin,45.8123916,7.6885416
 Rue L'Ostrion,45.8287587,7.7264446
 Rue Maitre Dondeynaz,45.8294270,7.7213234
-Rue Pasquier,45.8122283,7.6888609
+Rue Pasquier,45.8122769,7.6889526
 Rue Perlo,45.8055834,7.6840244
 Rue Prabochon,45.8311918,7.7277803
 Rue Quaille,45.8312958,7.7224516
@@ -1617,7 +1689,7 @@ Rue Revers,45.8213436,7.6973009
 Rue Saint Martin,45.8066914,7.6933945
 Rue Taluc,45.8322083,7.7230947
 Rue tane,45.8318448,7.7242992
-Rue Tavola,45.8154621,7.6970395
+Rue Tavola,45.8154959,7.6970604
 Rue Tiquit,45.8122803,7.6886491
 Rue Tricissa,45.8049288,7.6842334
 Rue Varasc,45.8302422,7.7245019
@@ -1627,12 +1699,17 @@ Scorciatoia per la Roccia Nera,45.9230835,7.7648714
 Sentiero Comba di Rollin,45.9007168,7.6991828
 Sentiero degli Alpini,45.8467487,7.6849004
 Sentiero Ru Curtod,45.8344457,7.7074383
-Strada di Mascognaz,45.8216251,7.7189340
+Strada di Mascognaz,45.8215759,7.7189340
 Strada di Salus,45.8206972,7.7067538
 Strada Regionale 45 della Val D'Ayas,45.8392648,7.7316907
 Strada Regionale 45 della Valle D'Ayas,45.8545250,7.7325852
 Strada Regionale 45 della Valle D'Ayas-Rue Periasc La Val,45.8119336,7.6966805
-Strada Salus Infirmorum,45.8180579,7.7023307
+Strada Salus Infirmorum,45.8181224,7.7023307
+Traccia per Bivacco Rossi e Volante,45.9316778,7.7549532
+Traccia per Breithorn Occidentale,45.9365280,7.7399043
+Traccia per il Castore,45.9108898,7.7982703
+Traccia per il Polluce,45.9243380,7.7763416
+Traccia per la Roccia Nera,45.9314373,7.7729942
 Valletta Di Tzere,45.8827536,7.7217978
 Via Decrestella,45.8157401,7.6911944
 Antico Sentiero Miniera Chamousira - Anello Alto da La Croix,45.7532220,7.7473283
@@ -1643,8 +1720,20 @@ Collegamento Galleria Fenillaz 2,45.7533647,7.7460534
 Collegamento Galleria Fenillaz 2-3,45.7534773,7.7460127
 Collegamento Galleria Fenillaz 3,45.7533690,7.7462770
 Collegamento Galleria Speranza 2,45.7526038,7.7465529
+enduro mtb,45.7670062,7.7568004
 Falsa traccia,45.7919123,7.7443402
 Fraz. Estoul,45.7568576,7.7615707
+Galleria 1,45.7680129,7.6988458
+Galleria 10,45.7833046,7.6848026
+Galleria 11,45.7850221,7.6834497
+Galleria 2,45.7721799,7.6943022
+Galleria 3,45.7729960,7.6940185
+Galleria 4,45.7773370,7.6881514
+Galleria 5,45.7781870,7.6876242
+Galleria 6,45.7787146,7.6873898
+Galleria 7,45.7796112,7.6870313
+Galleria 8,45.7806401,7.6862506
+Galleria 9,45.7817197,7.6857503
 Loc. Laghetto Brusson,45.7597934,7.7211046
 Percorso Guidato Miniere di Bechaz,45.7310404,7.7390856
 Percorso Miniera Chamousira - Centro Accoglienza Visitatori,45.7558649,7.7461693
@@ -1655,6 +1744,7 @@ Rue Arcesaz,45.7395456,7.7472220
 Rue Barasc,45.7601585,7.7349467
 Rue C. Cugnod,45.7582922,7.7333932
 Rue Ch. Brean,45.7400174,7.7464017
+Rue Chivin,45.7586572,7.7308132
 Rue Col Ranzola,45.7603596,7.7285967
 Rue De La Fontaine,45.7591736,7.7263155
 Rue de l'Eglise,45.7815337,7.6987306
@@ -1756,7 +1846,7 @@ Mulattiera di Chardin,45.7773526,7.5949044
 Pedestrain Sidewalk,45.7456079,7.6161337
 Pedestrian motorway subpass,45.7460888,7.6156979
 Piazza della Stazione,45.7437433,7.6196619
-Piazza Duc,45.7485967,7.6127184
+Piazza Duc,45.7485595,7.6127124
 Pista Primiod Vasca Carico Covalou,45.7838208,7.6042084
 Ponte del Depuratore,45.7780419,7.5932081
 Ponte Pericolante,45.7451206,7.5868537
@@ -1785,6 +1875,7 @@ Sentiero (7),45.7777064,7.6308660
 Sentiero 7 da Deviaz a Cheney,45.7747999,7.6269744
 Sentiero 7 da Domianaz a Nissod,45.7632801,7.6350847
 Sentiero 7 da Nissod a Deviaz,45.7713997,7.6371040
+sentiero 8B,45.7052511,7.6263898
 Sentiero Brusoncles Devies,45.7756516,7.6006665
 Sentiero Chardin Ru Gagneur,45.7765352,7.5970126
 Sentiero Devies Promiod,45.7834045,7.5983100
@@ -1795,7 +1886,7 @@ Sentiero per Boesses,45.7726219,7.6121583
 Sentiero per Bren,45.7763376,7.6101684
 Sentiero Plan Monille,45.7605318,7.6312180
 Sentiero Promiod Alpe Parafromia,45.7895844,7.6077804
-Sentiero Ru Chandianaz,45.7566242,7.6008892
+Sentiero Ru Chandianaz,45.7566307,7.6008892
 Sentiero Ru Gagneurs Devies,45.7808321,7.6001585
 Sentiero Ru Marseiller,45.7762750,7.5933975
 Sentiero Ru Pan Perdu,45.7612346,7.6354230
@@ -1823,8 +1914,8 @@ Strada comunale di Isseuries,45.7692319,7.6001318
 Strada Comunale Di Isseuries,45.7629834,7.6079298
 Strada Comunale Di Merlin,45.7533800,7.6172102
 Strada Comunale di Murates,45.7557019,7.6109798
-Strada Comunale Di Murates,45.7557641,7.6101661
-Strada Comunale Di Promiod,45.7860722,7.6083034
+Strada Comunale Di Murates,45.7557641,7.6101546
+Strada Comunale Di Promiod,45.7862196,7.6082047
 Strada Comunale Italo Mus,45.7470573,7.6050148
 Strada Comunale Pissin-Dessous,45.7529423,7.6253165
 Strada Comunale Pissin-Dessus,45.7551805,7.6305688
@@ -1843,7 +1934,7 @@ Strada Regionale 46 della Valtournenche,45.7548573,7.6077222
 Strada Ru Gagneuers,45.7591691,7.6361662
 Strada Vecchio Cimitero,45.7495214,7.6114796
 Vecchia SS 406,45.7828154,7.5909723
-Via Chanoux,45.7488830,7.6139851
+Via Chanoux,45.7489118,7.6143668
 Via Don Bosco,45.7470641,7.6102270
 Viadotto San Valentino,45.7523223,7.6321435
 Viale Rimembranza,45.7460498,7.6102981
@@ -1856,22 +1947,22 @@ Via Tollen,45.7491251,7.6131454
 Via Tornafol,45.7470032,7.6140254
 Via Tour de Grange,45.7525702,7.6188744
 Pista Tagliafuoco,45.7399898,7.7094300
-Sentiero senza numero,45.7214364,7.7072112
 Strada del Ru D'Arlaz,45.6998450,7.7008439
 Strada per Colle Tzecore,45.7202919,7.7227830
 Strada Regionale 7 di Eresaz,45.7333822,7.6928884
 Strada Saint-Vincent Emarèse,45.7321332,7.6778140
+accesso privato,45.8279026,7.8236908
 Ferrata delle Guide di Gressoney la Trinite,45.8273942,7.8202280
 Località Edelboden Superiore,45.8311825,7.8233591
-Località Tache,45.8261275,7.8230698
+Località Tache,45.8261283,7.8230733
 Piazza del mercato,45.8322086,7.8225071
 Piazza Tache,45.8271017,7.8228906
 sentiero per Rifugio Gnifetti,45.8919919,7.8580674
-Strada Bedemie,45.8504021,7.8180842
-Strada Moos,45.8600931,7.8159196
-Strada Regionale 43 di Staffal,45.8577430,7.8131926
+Strada Moos,45.8585296,7.8174094
+Strada Regionale 43 di Staffal,45.8595904,7.8125489
 Strada Regionale 44 della Valle del Lys,45.8228075,7.8238943
 Tour del Monte Rosa,45.8705095,7.8705609
+Traccia per il Castore,45.9108898,7.7982703
 Alta Via 1,45.7478208,7.8516642
 Eyematten Weg,45.7760189,7.8245450
 Ferrata delle Guide di Gressoney la Trinite,45.8273942,7.8202280
@@ -1887,11 +1978,13 @@ Rofono Weg,45.7800826,7.8238755
 Rue A. Deffeyes,45.7787809,7.8261469
 Rue Mont Nery,45.7785287,7.8260201
 Sentiero 12,45.7460635,7.8563371
+Sentiero 9,45.8022628,7.8560674
+Sentiero 9A,45.7954958,7.8622936
 Strada Andro Tchalvrinò,45.7496250,7.8351324
 Strada Castello Savoia,45.7667481,7.8276955
 Strada Regionale 44 della Valle del Lys,45.8150919,7.8240429
 Underwald Weg,45.7733502,7.8236006
-Via A. Deffeyes,45.7773934,7.8255566
+Via A. Deffeyes,45.7773822,7.8255477
 Via Alpina,45.7836761,7.8567905
 Via Monte Rosa,45.7794561,7.8248952
 5 - Terme - Maison Neuve,45.7544556,7.6518290
@@ -1899,7 +1992,7 @@ Autostrada della Valle d'Aosta,45.7461494,7.6309200
 Chemin de Pallù,45.7516583,7.7017198
 Frazione Champbilly,45.7482292,7.6417118
 Frazione Les Moulins,45.7542167,7.6451924
-Frazione Renard,45.7512731,7.6404801
+Frazione Renard,45.7512737,7.6404854
 Località Panorama,45.7526270,7.6386592
 Mulattiera per Diseille,45.7589004,7.6557945
 Parcheggio Comunale Ronc Inferiore,45.7484500,7.6547838
@@ -1941,7 +2034,7 @@ Strada vicinale da Tenso al Ponte delle Capre,45.7417064,7.6478237
 Via Aichino,45.7513926,7.6453209
 Via Battaglione Aosta,45.7491196,7.6552388
 Via Biavaz,45.7519311,7.6488922
-Via Billia,45.7521897,7.6416373
+Via Billia,45.7521971,7.6416373
 Via Brean,45.7494853,7.6500361
 Via Carso,45.7479289,7.6508602
 Via Cesare Battisti,45.7507038,7.6434609
@@ -1956,18 +2049,18 @@ Via Favret,45.7530915,7.6434105
 Via Ferré,45.7487488,7.6505142
 Via Freppaz,45.7521641,7.6469939
 Via Gorret,45.7504845,7.6451636
-Via Guglielmo Marconi,45.7517412,7.6433905
+Via Guglielmo Marconi,45.7517486,7.6433993
 Via Italo Mus,45.7525857,7.6429377
 Viale Duca d'Aosta,45.7506224,7.6445939
 Viale IV Novembre,45.7536597,7.6495944
-Viale Piemonte,45.7521098,7.6400859
+Viale Piemonte,45.7521105,7.6400947
 Via Martiri della Libertà,45.7499861,7.6481903
 Via Monsignor Alliod,45.7500916,7.6493469
 Via Monte Bianco,45.7541575,7.6479230
 Via Monte Rosa,45.7529639,7.6465797
 Via Peon,45.7516188,7.6503668
 Via Perret,45.7514674,7.6476487
-Via Ponte Romano,45.7467144,7.6532817
+Via Ponte Romano,45.7452412,7.6544881
 Via Ravet,45.7529967,7.6489202
 Via Roma,45.7515893,7.6471720
 Via S. Peaquin,45.7508963,7.6498015
@@ -1997,13 +2090,13 @@ Plateau Rosa - Bontadini,45.9442301,7.7078087
 Salita alla Punta Lioy,45.9484430,7.5886245
 Sentiero 107 Cheneil Cervinia,45.8777451,7.6500563
 Sentiero 17 Bec Pio Merlo,45.9207316,7.6410560
+Sentiero 18 Bec Pio Merlo,45.9178551,7.6379350
 Sentiero 20 Colle Superiore Cime Bianche,45.9094085,7.6713726
 Sentiero 21,45.9113243,7.6591221
 Sentiero 23 Colle della Roisette,45.8980092,7.6769373
 Sentiero 34 Alpe Chevalley Bivacco Manenti,45.9021030,7.5690288
 Sentiero 35 Alpe Chevalley Bivacco Manenti,45.8954609,7.5811137
 Sentiero 35 dal paravalanghe Cherillon al Rifugio Oriondé,45.9525151,7.6315003
-Sentiero 36 Bec Pio Merlo,45.9178551,7.6379367
 Sentiero 3B Punta Falinère,45.8513014,7.6535985
 Sentiero 9 Rifugio Perucca Vuillermoz,45.9186191,7.5960823
 Sentiero Belvedere,45.8520089,7.6259670
@@ -2011,13 +2104,13 @@ Sentiero Belvedere Mont Rous,45.9076134,7.5865071
 Sentiero Bioley,45.8599137,7.6074671
 Sentiero Bivacco Umberto Balestreri,45.9379018,7.6156809
 Sentiero Cappella Cignana,45.8855114,7.5874351
-Sentiero Cappella Notre Dame de la Garde,45.9168616,7.6343611
+Sentiero Cappella Notre Dame de la Garde,45.9169529,7.6343749
 Sentiero Grand Tournalin,45.8668148,7.6731882
 Sentiero Gran Sometta,45.9114008,7.6765257
 Sentiero Maen Venaz,45.8698318,7.6161401
 Sentiero Mont Rous,45.9080341,7.5853047
 Sentiero Venaz Valmartin,45.8713126,7.6144025
-SR 46,45.8687790,7.6203655
+SR 46,45.8682929,7.6203655
 Strada Agricola Alpe Cleva-Della-Seya,45.9052438,7.6392054
 Strada Agricola Alpe Cortina-Desot,45.8634543,7.5921306
 Strada Agricola Alpe Creton,45.9111877,7.6107255
@@ -2054,15 +2147,15 @@ Strada comunale Di Cretaz,45.8743430,7.6231591
 Strada Comunale Di Maen,45.8658273,7.6120217
 Strada Comunale Di Servaz,45.8700666,7.6236538
 Strada Comunale Di Valmartin,45.8739468,7.6186719
-Strada Comunale Di Venaz,45.8724189,7.6159516
+Strada Comunale Di Venaz,45.8720918,7.6148921
 Strada Comunale Duerche,45.8554415,7.6080797
 Strada Comunale Maisonnasse,45.8664125,7.6161193
-Strada Comunale Montaz-Dessous,45.8716715,7.6230282
+Strada Comunale Montaz-Dessous,45.8717835,7.6229410
 Strada Comunale Mont-Perron,45.8597347,7.6072742
 Strada Comunale per Cielo Alto,45.9255985,7.6203615
 Strada Comunale Scuole Medie,45.8754649,7.6237942
 Strada del Campeggio,45.8633406,7.6127332
-Strada dell'Oasi,45.8688698,7.6180287
+Strada dell'Oasi,45.8691459,7.6186327
 Strada Montaz-Dessus,45.8722924,7.6228965
 Strada Privata,45.8883806,7.6229173
 Strada Privata Cava Vorpilles,45.9189031,7.6161610

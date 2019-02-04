@@ -319,13 +319,13 @@ Salita San Luigi,41.4821291,14.4708755
 Salita Santa Lucia,41.4814506,14.4722336
 Salita Sant'Andrea,41.4813678,14.4709807
 Sella del Perrone-Campitello Matese,41.4394252,14.4282217
-Sentiero CAI 112 BT,41.4655170,14.4399794
+Sentiero CAI 112 BT,41.4655438,14.4399674
 Sentiero CAI 114-116,41.4584284,14.4446705
 Sentiero CAI 114b,41.4521038,14.4163543
-Sentiero CAI 116,41.4653017,14.4468719
-Sentiero S.Egidio-Pianelle,41.4670778,14.4292909
+Sentiero CAI 116,41.4652958,14.4469243
+Sentiero S.Egidio-Pianelle,41.4670778,14.4293341
 Strada comunale Fontanelle Tavone,41.5044991,14.4658146
-Strada comunale per Civita Superiore,41.4772808,14.4723690
+Strada comunale per Civita Superiore,41.4756098,14.4739494
 Strada Statale 17 dell'Appennino Abruzzese e Appulo Sannitico,41.4861546,14.4877244
 Strada Statale 647 Fondo Valle del Biferno,41.4887966,14.4988424
 Strada Vicinale Zolfarata,41.4865675,14.4604004
@@ -387,19 +387,21 @@ Vico Lavinaro,41.4821510,14.4704259
 Vico Malizia,41.4815828,14.4724308
 Vico Mastrangelo,41.4811948,14.4746604
 Vico Secondo Salita Sant'Andrea,41.4813312,14.4712483
-CAI 100,41.4448805,14.3795241
+CAI 100,41.4448805,14.3794154
 Capo d'Acqua-Colle del Monaco,41.4477257,14.3994250
 Capo d' Acqua - Monte La Gallinola CAI 100,41.4407780,14.4109860
-Capo d'Acqua-S.Michele,41.4451171,14.3838392
+Capo d'Acqua-S.Michele,41.4459554,14.3882731
 "M. Crocetta-Capo d,Acqua",41.4446825,14.3939829
 Sella del Perrone-Campitello Matese,41.4571305,14.3983921
 Sentiero CAI 114b,41.4521038,14.4163543
-Sentiero S.Egidio-Pianelle,41.4670778,14.4292909
+Sentiero S.Egidio-Pianelle,41.4670778,14.4293341
 Strada Statale 17 dell'Appennino Abruzzese e Appulo Sannitico,41.5106635,14.4359008
 Via F. Selvaggi,41.4920934,14.4103157
 Via Roma,41.4921048,14.4098236
 Via XXIV Maggio,41.4921698,14.4100852
+Contrada Fontana Cappella,41.4623812,14.6247391
 Ex SS 17,41.4884107,14.6468322
+Via Vittorio Emanuele III,41.4549917,14.6415316
 Strada Comunale Cercemaggiore,41.4455714,14.8881643
 Strada Statale 17 dell'Appennino Abruzzese e Appulo Sannitico,41.5225153,14.9459258
 Tratturo Lucera - Castel di Sangro,41.5005361,15.0094102
@@ -435,7 +437,7 @@ Piazza Vittorio Verdone,41.5161166,14.6747933
 Salita Chiaia,41.5161989,14.6766145
 Salita Chiesa,41.5159978,14.6749021
 Strada comunale Procaccia,41.5157625,14.6573855
-Strada intepoderale Coste del Ponte - Quercelle,41.5135330,14.6722608
+Strada intepoderale Coste del Ponte - Quercelle,41.5135363,14.6721876
 Strada intepoderale Crocelle - Varini,41.5074716,14.6662689
 Strada intepoderale Monteverde,41.5145501,14.6516717
 Strada intepoderale Panericci - Sterpara Calda,41.5225420,14.6318697
@@ -453,12 +455,12 @@ Via Annunziata,41.5161072,14.6763589
 Via Chiesa Matrice,41.5160372,14.6755509
 Via Colle Lama,41.5144061,14.6736644
 Via dei Sanniti,41.5181221,14.6664525
-Via Firenze,41.5145282,14.6719044
+Via Firenze,41.5145466,14.6718937
 Via Foggia,41.5162423,14.6731574
 Via Fontana Nuova,41.5172334,14.6635957
 Via Fossi,41.5163510,14.6757430
 Via Garibaldi,41.5177623,14.6695263
-Via Genova,41.5143665,14.6731723
+Via Genova,41.5143861,14.6731636
 Via Inforzi,41.5157717,14.6758629
 Via Monteverde,41.5145630,14.6688999
 Via Mulino,41.5157675,14.6737591
@@ -541,6 +543,7 @@ Via Roma,41.5277980,14.5538520
 Via Santa Maria,41.5273619,14.5556720
 Via Umberto Di Chiro,41.5272160,14.5545584
 Vico I Serle,41.5272854,14.5549821
+Campobasso Stadio-Selvapiana,41.5664082,14.6359161
 Contrada Cacciapesci,41.5747531,14.6834793
 Contrada Calvario,41.5746846,14.6542928
 Contrada Camposarcone,41.5881651,14.6970199
@@ -572,7 +575,7 @@ Contrada Santa Maria de Foras,41.5657090,14.6325654
 Contrada Sant'Antonio dei Lazzari,41.5740054,14.6683526
 Contrada San Vito,41.5555477,14.6505801
 Contrada Selvapiana,41.5677414,14.6345552
-Contrada Selva Piana,41.5635057,14.6428110
+Contrada Selva Piana,41.5695060,14.6254480
 Contrada Serre,41.5914018,14.6610581
 Contrada Tappino,41.5368146,14.6299009
 Contrada Taverna del Cortile,41.5948248,14.6769476
@@ -606,6 +609,7 @@ Piazza della Vittoria,41.5558062,14.6568402
 Piazza dell'Olmo,41.5611160,14.6577423
 Piazza Francesco D'Ovidio,41.5588679,14.6604424
 Piazza Gabriele Pepe,41.5595457,14.6596501
+Piazza Giovanni Agnelli,41.5877483,14.6661137
 Piazzale Giovanni Palatucci,41.5657997,14.6560025
 Piazzale Marcello Scarano,41.5628830,14.6667817
 Piazza Molise,41.5595677,14.6765520
@@ -655,6 +659,7 @@ Tangenziale Ovest,41.5593324,14.6513916
 Tratturo Cortile - Centocelle,41.6093695,14.6973440
 Tratturo Lucera - Castel di Sangro,41.6119514,14.6008099
 Traversa Antonio Gramsci,41.5670470,14.6764331
+Traversa di Via Zurlo,41.5597166,14.6624138
 Traversa Duca degli Abruzzi,41.5526444,14.6611503
 Traversa Giuseppe Garibaldi,41.5663780,14.6505251
 Traversa II Via S. Giovanni,41.5597775,14.6688681
@@ -697,7 +702,7 @@ Via Cesare Gazzani,41.5564935,14.6598309
 Via Cipriano Facchinetti,41.5675857,14.6526081
 Via Colle delle Api,41.5877885,14.6721339
 Via Conte Rosso,41.5519950,14.6587865
-Via Conte Verde,41.5525676,14.6582293
+Via Conte Verde,41.5525676,14.6582289
 Via degli Orefici,41.5617221,14.6598750
 Via dei Ferrari,41.5607438,14.6605634
 Via delle Frasche,41.5615521,14.6760279
@@ -847,8 +852,8 @@ Viale Luigi Montalbò,41.5487646,14.6241673
 Viale Mimosa,41.5410463,14.6690861
 Via Leone Belpulsi,41.5487626,14.6619331
 Viale Principe di Piemonte,41.5531828,14.6590219
-Viale Regina Elena,41.5561768,14.6588664
-Viale Ugo Petrella,41.5554355,14.6576376
+Viale Regina Elena,41.5562376,14.6589014
+Viale Ugo Petrella,41.5554963,14.6576727
 Viale Unità d'Italia,41.5912000,14.6689289
 Via Libero Serafini,41.5464200,14.6635828
 Via Liguria,41.5544738,14.6721814
@@ -948,8 +953,8 @@ Via Zara,41.5568315,14.6559307
 Vico Bigliardo,41.5613414,14.6596020
 Vico Carnaio,41.5613005,14.6551200
 Vico Colonna,41.5625026,14.6583061
+Vico Eduardo Gasdia,41.5614868,14.6576380
 Vico III S.Antonio,41.5619831,14.6531188
-Vico II Pennino,41.5614868,14.6576380
 Vico II S. Andrea,41.5622975,14.6592344
 Vico II San Paolo,41.5621170,14.6592184
 Vico II S.Antonio,41.5617383,14.6535822
@@ -1072,6 +1077,7 @@ Via L. Montini,41.5576585,14.7451450
 Strada statale 645 Fondo Valle del Tappino,41.5618320,14.8384843
 Tratturo Lucera - Castel di Sangro,41.5397552,14.9008726
 Diramazione Galdina,41.5789139,14.7471953
+Ponte Romano di Toro,41.5625019,14.7740396
 Strada statale 645 Fondo Valle del Tappino,41.5584760,14.7649821
 Tratturo Lucera - Castel di Sangro,41.5633103,14.7845916
 Strada Provinciale Fondo Valle Fresilia,41.5668779,14.5311479
@@ -1167,6 +1173,7 @@ Tratturo Cortile - Centocelle,41.6545531,14.8079311
 Contrada Calvario,41.5837960,14.6543993
 Contrada Colle delle Api,41.5900474,14.6607914
 Contrada Colle Leone,41.5853108,14.6383731
+Contrada Costa Bianca,41.6106672,14.6837709
 Contrada Fonte Longo,41.5992384,14.6441082
 Contrada Iontapede,41.5963649,14.6595369
 Contrada Peschio,41.6097582,14.6665504
@@ -1288,6 +1295,7 @@ Vico Secondo San Rocco,41.6135890,14.7102470
 Vico V Roma,41.6114482,14.7122591
 Strada Provinciale 169 Molesana,41.6279373,14.5133663
 Tratturo Lucera - Castel di Sangro,41.6263746,14.5326169
+Via Vittorio Emanuele III,41.6381620,14.5199794
 ex Sannitica,41.6459394,14.7763380
 Strada Statale 87 Sannitica,41.6458667,14.7762582
 Tratturo Cortile - Centocelle,41.6351241,14.7420172
@@ -1311,6 +1319,7 @@ Corso Vittorio Emanuele,41.6634433,14.9711843
 I Diramazione Bifernina,41.6370728,14.6670511
 Strada Statale 647 Fondo Valle del Biferno,41.6537787,14.6366752
 Contrada Lacone,41.6508830,14.5768532
+SP 73,41.7014006,14.5485766
 Via Roma,41.6717059,14.5448015
 Via Umberto I,41.6719937,14.5447015
 Via Vittorio Emanuele II,41.6726396,14.5456020
@@ -1334,12 +1343,54 @@ Strada Statale 647 Fondo Valle del Biferno,41.7391509,14.7385256
 Tratturo Celano-Foggia,41.6358257,14.9017398
 Contrada Colle Sereno,41.7165709,14.6832053
 Contrada Fonte Dea,41.6903750,14.7116922
-Corso Vittorio Emanuele,41.6906787,14.6975390
+Corso Vittorio Emanuele III,41.6906787,14.6975390
 Largo Verdi,41.6920975,14.6957133
+Strada Provinciale 163 della Valle del Biferno,41.7184785,14.6938195
 Strada Statale 647 Fondo Valle del Biferno,41.6788921,14.6634696
 Via IV Novembre,41.6908278,14.6987748
 Via Regina Elena,41.6913539,14.6968899
+Corso Umberto I,41.6848641,14.9637622
+Corso Vittorio Emanuele III,41.6888135,14.9623639
+I° Traversa Via Aldo Moro,41.6853445,14.9625203
+Largo Palazzo Marchesale,41.6845183,14.9643097
+Piazza G. Marconi,41.6842266,14.9645217
+Strada Provinciale N. 40 Adriatica,41.6965832,14.9598479
 Tratturo Celano-Foggia,41.6963522,14.9360996
+Via Aldo Moro,41.6864946,14.9617953
+via Caduti di Marcinelle,41.6915554,14.9608041
+via Cavaliere Antonio Di Stefano,41.6911748,14.9619498
+Via Colori della Vita,41.6863815,14.9576253
+Via Cosmo de Maria,41.6854160,14.9642960
+via De Gasperi,41.6900562,14.9601576
+via E. Berlinguer,41.6900333,14.9623105
+Via Forno,41.6841989,14.9641642
+Via Garibaldi,41.6837424,14.9651966
+via G. Leopardi,41.6911212,14.9628979
+Via G. Pepe,41.6879287,14.9614010
+Via I° Traversa Pozzo Alberto,41.6864700,14.9627751
+Via II° Traversa Pozzo Alberto,41.6862806,14.9629206
+Via J.F. Kennedy,41.6867305,14.9624848
+Via Media,41.6838258,14.9646326
+Via Molise,41.6847174,14.9652566
+Via Palizzi,41.6835343,14.9648227
+via Papa Giovanni XXIII,41.6876544,14.9632186
+Via Porta Castello,41.6838416,14.9640455
+Via Portapiedi,41.6836963,14.9648957
+Via San Nicola,41.6833535,14.9663607
+Via Sant'Antonio,41.6833731,14.9655272
+Via Taverna,41.6842354,14.9641110
+Via XX Settembre,41.6840308,14.9642359
+Vicolo III Palizzi,41.6837297,14.9645411
+Vicolo II Palizzi,41.6838015,14.9643584
+Vicolo I Palizzi,41.6838673,14.9642188
+Vicolo IV Palizzi,41.6836245,14.9646775
+Vicolo via Taverna,41.6843198,14.9640445
+Vicolo VIII Palizzi,41.6834584,14.9653865
+Vicolo VII Palizzi,41.6835487,14.9651980
+Vicolo VI Palizzi,41.6836277,14.9650427
+Vicolo V Palizzi,41.6836383,14.9648031
+Strada Provinciale 148 Santa Croce di Magliano - St. Ururi,41.7080090,14.9740862
+Strada Provinciale N. 40 Adriatica,41.6965832,14.9598479
 Tratturo Celano-Foggia,41.6963522,14.9360996
 Largo del Casale,41.7130235,14.9932937
 Largo della Chiesa,41.7116113,14.9922494
@@ -1352,6 +1403,7 @@ Piazza Nicola Crapsi,41.7123206,14.9911748
 Salita Sant'Antonio,41.7130031,14.9971785
 Strada della Chiesa Media,41.7117985,14.9928321
 Strada Fontana Vecchia,41.7094636,14.9913430
+Strada Provinciale 148 Santa Croce di Magliano - St. Ururi,41.7080090,14.9740862
 Strada Provinciale Melanico,41.7108193,15.0862216
 Via 25 Aprile,41.7126869,14.9940164
 Via Albania,41.7133812,14.9863744
@@ -1571,15 +1623,19 @@ Vico Torre,41.7112223,14.9936134
 Vico V Casale,41.7128023,14.9910099
 Vico V Ruacchio,41.7103762,14.9909342
 Contrada Cannelluccia,41.7385178,14.5120759
-Fondo valle del Trigno,41.7457043,14.4768876
+Fondo valle del Trigno,41.7518745,14.4832684
 Piazza Michele Pietravalle,41.7469722,14.5121401
+SP 73,41.7014006,14.5485766
 Tratturo Celano-Foggia,41.6358257,14.9017398
+Viadotto Trigno 2,41.7587827,14.4877464
 Via Garibaldi,41.7472008,14.5106387
 Via Guglielmo Marconi,41.7456606,14.5104328
 Viale Giovanni Quartullo,41.7454281,14.5089184
 Via Roma,41.7465716,14.5100466
 Contrada San Rocco,41.7442679,14.8313761
 I Diramazione Bifernina,41.6755333,14.6203053
+Rampa Vittorio Emanuele III,41.6926942,14.6039537
+SP 73,41.7014006,14.5485766
 Barriera Architettonica,41.7381111,14.8535685
 Contrada Macchia Puzzo,41.7205147,14.8709820
 Corso Vittorio Emanuele III,41.7404899,14.8509772
@@ -1590,109 +1646,92 @@ Strada Statale 647 Fondo Valle del Biferno,41.8313155,14.8490943
 Strada Statale 87 Sannitica,41.6919214,14.8446646
 Via Crucis,41.7363266,14.8423614
 Strada interpoderale Vecchio Mulino,41.7233282,14.7155838
+Strada Provinciale 163 della Valle del Biferno,41.7289440,14.6891900
 Strada Statale 647 Fondo Valle del Biferno,41.6884768,14.6626108
 Tratturo Celano-Foggia,41.6358257,14.9017398
+Contrada Vignale,41.7169344,14.5784136
 Contrada Macchia,41.7929091,14.5582126
 Contrada Macchierio,41.7849723,14.5661107
 Fondo valle del Trigno,41.7905710,14.5358337
+Ponte del Rivo,41.7920752,14.5695119
+Scalinata San Nicola,41.7829138,14.5511779
+SP 77,41.8098184,14.5541078
 Tratturo Celano-Foggia,41.6358257,14.9017398
 Via Iconicella,41.7762249,14.5503703
+Strada Provinciale 148 Santa Croce di Magliano - St. Ururi,41.7334209,14.9731784
+Strada Provinciale 78 Appulo - Chietina,41.7271328,14.9567824
 ex deviazione SS647,41.7408030,14.7407122
+Strada Provinciale 163 della Valle del Biferno,41.7433348,14.6902836
 Strada Statale 647 Fondo Valle del Biferno,41.7391509,14.7385256
 Tratturo Celano-Foggia,41.6358257,14.9017398
-Contrada Saraca,41.7517117,15.0127052
-Corso Umberto I,41.7480791,15.0046367
-Piazza Antonio Gramsci,41.7483914,15.0053927
-Piazza Italia,41.7483048,15.0047242
-Traversa Giuseppe Verdi,41.7474874,15.0025642
-Traversa Isonzo,41.7458195,15.0056856
-Via Cappella San Pietro,41.7497076,15.0125075
-Via Carriera,41.7486413,15.0044582
-Via Casale,41.7479855,15.0054600
-Via Cavour,41.7468147,15.0079371
-Via Dante Alighieri,41.7464455,15.0010126
-Via della Libertà,41.7465303,15.0049906
-Via della Vittoria,41.7469125,15.0047527
-Via Don Luigi Sturzo,41.7455518,15.0054253
-Via Enrico Berlinguer,41.7487792,15.0069128
-Via Giacomo Matteotti,41.7477751,15.0062074
-Via Giovanni XXIII,41.7501102,15.0082179
-Via Giro Esterno,41.7488465,15.0042706
-Via Giuseppe Garibaldi,41.7451979,15.0075193
-Via Giuseppe Mazzini,41.7467796,15.0075876
-Via Giuseppe Verdi,41.7469260,15.0036813
-Via Guglielmo Marconi,41.7506117,15.0055351
-Via IV Novembre,41.7473939,15.0053150
-Via Maresciallo Cadorna,41.7460478,15.0054703
-Via Maresciallo Diaz,41.7474179,15.0077670
-Via Processionale,41.7500840,15.0035267
-Via San Rocco,41.7476523,15.0054349
-Vico Savino,41.7484016,15.0040795
 Piazza Municipio,41.7805751,14.6904949
+Strada Provinciale 163 della Valle del Biferno,41.7883549,14.6832145
 ex deviazione SS647,41.7551325,14.7685403
 strada comunale Colle D’Ambra,41.7721673,14.7583463
 Strada Statale 647 Fondo Valle del Biferno,41.7671409,14.7766244
 Contrada Acquara,41.8061369,14.9111791
-Contrada Carpineto,41.8092412,14.9255368
+Contrada Carpineto,41.8092532,14.9255435
 Contrada Giammarco,41.7973535,14.9092607
-Contrada Guardiola,41.8081503,14.9113445
+Contrada Guardiola,41.8081514,14.9113491
 Contrada La Francesca,41.8199560,14.9335927
-Contrada Monte Altino,41.8125984,14.9311095
-Contrada Monterone,41.7968101,14.9200539
+Contrada Monte Altino,41.8126111,14.9311162
+Contrada Monterone,41.7968321,14.9200659
 Contrada Ricupo,41.8064184,14.9432915
-Contrada San Primiano,41.8052687,14.9292729
-Corso Alberto Magliano,41.8029226,14.9197540
-Largo Alberto Magliano,41.8028542,14.9194343
+Contrada San Primiano,41.8052845,14.9315051
+Corso Alberto Magliano,41.8029086,14.9197540
+Largo Alberto Magliano,41.8028733,14.9194376
 Largo delle Rose,41.8015530,14.9094610
-Largo del Pretorio,41.8042114,14.9210434
+Largo del Pretorio,41.8042243,14.9210448
 Largo Garibaldi,41.7974219,14.9115803
-Percorso naturalistico,41.8007379,14.9135295
-Piazza dei Frentani,41.8043138,14.9223220
-Piazza del Popolo,41.8056418,14.9193476
-Piazza Duomo,41.8007160,14.9105647
+Percorso naturalistico,41.8007525,14.9135109
+Piazza del Popolo,41.8056760,14.9193185
+Piazza Duomo,41.8005069,14.9107573
 Piazza Roma,41.7999611,14.9117859
 Piazza Vittorio Emanuele,41.7999719,14.9112883
-Strada Comunale San Primiano,41.8077215,14.9292237
+Strada Comunale San Primiano,41.8077333,14.9292359
 Strada Interpoderale Valle di Achille,41.8260920,14.9347489
+Strada Provinciale 148 Santa Croce di Magliano - St. Ururi,41.7968882,14.9571752
+Strada Provinciale 156 Larino - Stazione Ururi,41.7981292,14.9534544
+Strada Provinciale 78 Appulo - Chietina,41.7906997,14.9113757
 Strada Statale 647 Fondo Valle del Biferno,41.8313155,14.8490943
-Strada Statale 87 Sannitica,41.8024633,14.9175444
+Strada Statale 87 Sannitica,41.8024798,14.9175679
 Va San Rocco,41.7982393,14.9165436
-Via Achille Morrone,41.8059419,14.9199839
+Via Achille Morrone,41.8059829,14.9200369
 Via Adriano Lualdi,41.8083007,14.9224446
 Via Alberto Marra,41.8043897,14.9201075
 Via Alcide De Gasperi,41.8015060,14.9211345
 Via Alessandro Novelli,41.7966273,14.9132573
 Via Antonio Gramsci,41.7965870,14.9168529
-Via Belisario Balduino,41.7970849,14.9105336
+Via Belisario Balduino,41.7970877,14.9105336
 Via Belledonne,41.7979528,14.9116817
 Via Belvedere,41.7981426,14.9120754
 Via Castagno,41.7992084,14.9114224
-Via Cavalieri di Malta,41.8046450,14.9234569
+Via Cavalieri di Malta,41.8046382,14.9232142
 Via Circonvallazione,41.7985237,14.9120966
 Via Cluenzio,41.7996879,14.9111223
 Via Console Minucio,41.8061992,14.9188251
 Via Coriolano,41.7987749,14.9122471
 Via Dante Alighieri,41.8049008,14.9170237
 Via dei Fiori,41.7998420,14.9104636
-Via dei Giardini,41.8012340,14.9089695
+Via dei Giardini,41.8012290,14.9089878
 Via dell'Emigrante,41.7968964,14.9117044
-Via Don Luigi Sturzo,41.8025105,14.9177353
+Via Don Luigi Sturzo,41.8025125,14.9177420
 Via Enzo Rosano,41.8078871,14.9182470
 Via Falconio,41.7994334,14.9112023
-Via Filippo De Curtis,41.8022576,14.9210560
-Via Francesco Iovine,41.8062394,14.9176977
-Via Fratelli Battista,41.8045277,14.9148637
-Via Gelsomino,41.8021527,14.9086595
+Via Filippo De Curtis,41.8027473,14.9205811
+Via Francesco Iovine,41.8062495,14.9177042
+Via Fratelli Battista,41.8044694,14.9148597
+Via Gelsomino,41.8021435,14.9086719
 Via Giorgio La Pira,41.7984668,14.9211207
-Via Giuseppe Mazzini,41.8055023,14.9189132
-Via Gravina,41.8003585,14.9106164
+Via Giuseppe Mazzini,41.8055124,14.9189198
+Via Gravina,41.8003562,14.9106171
 Via Guglielmo Marconi,41.8000065,14.9107988
-Via Lagoluppoli,41.8026391,14.9267966
-Viale Cappuccini,41.8105697,14.9216517
-Viale Giulio Cesare,41.8054283,14.9185241
+Via Lagoluppoli,41.8026469,14.9268184
+Viale Cappuccini,41.8105183,14.9216967
+Viale Giulio Cesare,41.8054413,14.9185255
 Viale Molise,41.8069435,14.9153199
-Via Leone,41.8017516,14.9097980
-Via Levante,41.8023019,14.9192990
+Via Leone,41.8017494,14.9097986
+Via Levante,41.8023118,14.9193030
 Via Marco Tullio Cicerone,41.8040507,14.9215721
 Via Mario Magliano,41.8026189,14.9199252
 Via Oliveto,41.8028148,14.9086472
@@ -1701,31 +1740,31 @@ Via Opplaco,41.8045090,14.9191704
 Via Pietro Nenni,41.7985142,14.9200629
 Via Porta di Basso,41.8022579,14.9091218
 Via Raone,41.8006921,14.9096623
-Via San Benedetto,41.8113909,14.9223896
-Via Sandro Pertini,41.7982837,14.9195892
-Via San Michele,41.8038279,14.9162735
-Via San Pellegrino Terme,41.8085865,14.9196912
-Via Santa Chiara,41.8117716,14.9229672
+Via San Benedetto,41.8113884,14.9224144
+Via Sandro Pertini,41.7983057,14.9196012
+Via San Michele,41.8038394,14.9162847
+Via San Pellegrino Terme,41.8086015,14.9197086
+Via Santa Chiara,41.8117814,14.9229781
 Via Santa Lucia,41.8028867,14.9086174
 Via Santa Maria,41.7995336,14.9114625
+Via Santi Martiri Larinesi,41.8052806,14.9215946
 Via Seminario,41.8019418,14.9099517
-Via SS. Martiri Larinesi,41.8052701,14.9215771
-Via Tiberio,41.8040678,14.9229049
+Via Tiberio,41.8044003,14.9230882
 Via Tito Livio,41.8075350,14.9171627
-Via Tria,41.8010611,14.9095448
-Via Vincenzo Cuoco,41.7997469,14.9187692
+Via Tria,41.8010611,14.9095300
+Via Vincenzo Cuoco,41.7997549,14.9187812
 Via Vitulli,41.8014226,14.9210170
 Vico Amendole,41.8017586,14.9090389
 Vico Borzillo,41.8020899,14.9093048
 Vico Brencola,41.8017509,14.9100818
 Vico Castagno,41.7990223,14.9114150
 Vico Castello,41.8001174,14.9108604
-Vico Duomo,41.8012134,14.9105401
+Vico Duomo,41.8012134,14.9106812
 Vico Ferrara,41.8023520,14.9094271
 Vico Freddo,41.8011764,14.9099014
 Vico Giglio,41.8015475,14.9102303
 Vico Greco,41.7983952,14.9118674
-Vico Morsellino,41.8006998,14.9104148
+Vico Morsellino,41.8007015,14.9103728
 Vico Ospedale,41.8000514,14.9098472
 Vico Paradiso,41.8012157,14.9097108
 Vico Puchetti,41.8018658,14.9094891
@@ -1733,16 +1772,14 @@ Vico Romano,41.8020382,14.9091767
 Vico San Giacomo,41.8020368,14.9097318
 Vico Sole,41.7988219,14.9114576
 Vico Sozio,41.8017536,14.9092669
-Vico Stella,41.8007205,14.9094842
+Vico Stella,41.8007205,14.9094835
 Vico Trengia,41.8015579,14.9096991
 Vico Tufo,41.7979969,14.9116210
-Via Belvedere,41.8149835,15.0037191
-Via dei Ciclamini,41.8142831,15.0036218
-Via dei Gerani,41.8141984,15.0047319
-Via dei Gigli,41.8147137,15.0040612
-Via dei Pini,41.8145509,15.0070277
-Via Monte Calvario,41.8158542,15.0018115
+Strada Provinciale 78 Appulo - Chietina,41.8222906,14.8242389
 Strada Statale 647 Fondo Valle del Biferno,41.8313155,14.8490943
+SP 79 Montefalcone-Civitacampomarano,41.8311365,14.6719044
+Strada Provinciale 163 della Valle del Biferno,41.8307516,14.7121983
+Strada Provinciale 78 Appulo - Chietina,41.8626876,14.7067715
 Strada Statale 647 Fondo Valle del Biferno,41.9075145,14.9516580
 Strada Statale 87 Sannitica,41.9094092,14.9748030
 Via Galileo Galilei,41.8719484,15.0157623
@@ -1754,36 +1791,61 @@ Piazza Portella,41.8358514,14.5983729
 Via Armando Diaz,41.8344197,14.5986916
 Via Papa Giovanni XXIII,41.8345411,14.6005635
 Via Vittorio Veneto,41.8340455,14.6023407
-Contrada Macchie,41.8761966,14.8654962
-raccordo SP163-Sp150,41.8771712,14.8031193
-Strada Provinciale 168 Termolese,41.8937256,14.8106058
+Contrada Macchie,41.8762016,14.8655003
+Strada Provinciale 163 della Valle del Biferno,41.8753215,14.7894417
+Strada Provinciale 168 Termolese,41.8937256,14.8106206
+Strada Provinciale 78 Appulo - Chietina,41.8568509,14.7910595
 Strada Interpoderale Cerritello,41.8464771,14.7912758
-Via Gabriele Pepe,41.8584446,14.7571675
-Via Indipendenza,41.8660231,14.7466829
-Via Roma,41.8671695,14.7473105
+Strada Provinciale 163 della Valle del Biferno,41.8491087,14.7339162
+Strada Provinciale 78 Appulo - Chietina,41.8680602,14.7519333
+Via Gabriele Pepe,41.8657820,14.7472594
+Via Indipendenza,41.8660296,14.7466735
+Via Roma,41.8671636,14.7472823
+SP 79 Montefalcone-Civitacampomarano,41.8311365,14.6719044
 Strada della Montagna,41.8532294,14.6602957
+Strada Provinciale 78 Appulo - Chietina,41.8645946,14.6601843
 Via San Giacomo,41.8664274,14.6409152
-Contrada Francara,41.8626766,14.8837806
-Contrada Macchie,41.8761966,14.8654962
+Via Vittorio Emanuele III,41.8654046,14.6406712
+Contrada Francara,41.8626867,14.8837819
+Contrada Macchie,41.8762016,14.8655003
+Contrada Ponticelli,41.9547371,14.9574149
+Corso Conte di Torino,41.9101525,14.9121282
 Strada comunale delle Solagne Grandi,41.9742699,14.8700086
 Strada Provinciale 110 Petacciato - Guglionesi,41.9386217,14.8950639
 Strada Provinciale 127 Colle di Breccia,41.9783408,14.8384522
-Strada Provinciale 168 Termolese,41.9179465,14.9139521
+"Strada Provinciale 168 Termolese , Contrada Malecoste",41.9424846,14.9365479
+Strada Provinciale 168 Termolese,41.9179467,14.9139533
 Strada Provinciale 37 La Guardata,41.9371580,14.8867704
 Strada provinciale Guglionesi-Larino,41.9122364,14.9537958
 Strada Statale 647 Fondo Valle del Biferno,41.9091337,14.9516997
 Strada Statale 87 Sannitica,41.9216398,14.9814670
-Via Alessandro Manzoni,41.9190455,14.9140373
+Via Alessandro Manzoni,41.9193421,14.9141141
+Via Basilicata,41.9151788,14.9186642
+Via Capitano Verri,41.9102123,14.9132255
 Via Dante Alighieri,41.9223221,14.9164430
-Via Francesco Petrarca,41.9235103,14.9179410
-Via Francia,41.9245033,14.9194296
-Via Germania,41.9242024,14.9182209
+Via Francesco Iovine,41.9202842,14.9156085
+Via Francesco Petrarca,41.9235197,14.9179356
+Via Francia,41.9245346,14.9194012
+Via Germania,41.9242347,14.9182558
+Via Giulio Natta,41.9191458,14.9127474
+Via Giuseppe Ungaretti,41.9234000,14.9157593
+Via Lampedusa,41.9193347,14.9162741
 Via Leopoldo Pirelli,41.9442193,14.9778700
-Via Napoleone,41.9120719,14.9143397
-Via Portanuova,41.9120693,14.9151441
-Via Sicilia,41.9160156,14.9158035
-Via Solferino,41.9115342,14.9148422
-Contrada Montagna 5/B,41.8721451,14.6910120
+Via Milano,41.9102210,14.9112991
+Via Molise,41.9147026,14.9201027
+Via Napoleone,41.9120399,14.9138760
+Via Olanda,41.9257743,14.9195627
+Via Portanuova,41.9121114,14.9151461
+Via Portogallo,41.9246118,14.9199046
+Via Sangro,41.9103553,14.9148777
+Via Sicilia,41.9160398,14.9157141
+Via Solferino,41.9116714,14.9151561
+Via Spagna,41.9253562,14.9197371
+Via Trieste,41.9109209,14.9153689
+Via Veneto,41.9158354,14.9158906
+Via Vittorio emanuele III,41.9116160,14.9145807
+Strada Provinciale 78 Appulo - Chietina,41.8656456,14.6952467
+Strada Provinciale 81 Ripaltina,41.9052396,14.6931341
 Fondo valle del Trigno,41.9039604,14.6457313
 Autostrada Adriatica,41.9333098,15.0768838
 Corso Skanderberg,41.9569097,15.0356206
@@ -1806,7 +1868,7 @@ Via Einaudi,41.9577642,15.0576256
 Via Enrico Berlinguer,41.9533426,15.0268234
 Via Ezio Vanoni,41.9568228,15.0571718
 Via Francesco Crispi,41.9613358,15.0496194
-Via Garibaldi,41.9308428,15.0158058
+Via Garibaldi,41.9308574,15.0158353
 Via Giuseppe Di Vittorio,41.9459104,15.0029824
 Via Kennedy,41.9552094,15.0543037
 Via L'Aquila,41.9538721,15.0569306
@@ -1817,58 +1879,67 @@ Via Massimo D'Antona,41.9415914,15.0025325
 Via Milano,41.9625603,15.0501005
 Via Napoli,41.9621908,15.0504379
 Via Palermo,41.9630042,15.0497029
+via Palmiro Togliatti,41.9550755,15.0348187
 Via Papa Giovanni XXIII,41.9495570,15.0566381
 Via Rosa Luxemburg,41.9552331,15.0563852
 Via Rossini,41.9546458,15.0315712
 Via Sicilia,41.9513574,15.0357298
 Via Turati,41.9645211,15.0478917
 Via Vincenzo Cuoco,41.9524538,15.0317597
+Strada Provinciale 163 della Valle del Biferno,41.8927037,14.7790431
 Strada Statale 87 Sannitica,41.9216398,14.9814670
-Via Garibaldi,41.9308428,15.0158058
+Via Garibaldi,41.9308574,15.0158353
 Autostrada Adriatica,42.0563827,14.7756697
 Contrada Colle rampone,41.9861187,14.7503217
 Strada Provinciale 127 Colle di Breccia,41.9783408,14.8384522
+Strada Provinciale 163 della Valle del Biferno,41.9662116,14.7781593
 Via Antonio Gramsci,41.9689649,14.7774049
 via del mercato,41.9575778,14.7824557
 Via Don Luigi Sturzo,41.9729234,14.7773938
 Via Filippo Turati,41.9703437,14.7794283
 Via Francesca Barba,42.0253682,14.8250352
+Via Frentana,41.9600530,14.7835729
 Viale Europa,41.9637991,14.7794000
 Viale Padre Pio,41.9672892,14.7749502
 Via Massangioi,41.9557795,14.7805274
 Via Pisa,41.9554666,14.7815008
 Via Vittorio Argentieri,41.9659057,14.7785642
-Contrada Macchie,41.8761966,14.8654962
+Contrada Macchie,41.8762016,14.8655003
 Corso Skanderbeg,41.9041519,14.8370656
 Piazza Guglielmo Marconi,41.9021418,14.8362926
 Piazza Skanderbeg,41.9023596,14.8370173
-Strada Provinciale 168 Termolese,41.8937256,14.8106058
+Strada Provinciale 168 Termolese,41.8937256,14.8106206
 Strada Provinciale 37 La Guardata,41.9263379,14.8582564
 Via Roma,41.8985864,14.8355971
 Via San Michele,41.9019510,14.8360106
+Strada Provinciale 163 della Valle del Biferno,41.9538785,14.7544002
+Strada Provinciale 81 Ripaltina,41.9312806,14.6964900
 Area di Servizio Rio Vivo Est,41.9979393,14.9782029
 Area di Servizio Rio Vivo Ovest,41.9976615,14.9778180
 Autostrada Adriatica,42.0065810,14.9615000
+Contrada Colle Granata,41.9947172,14.9000622
+Contrada Frassineto,41.9755894,14.9323368
 Corso Fratelli Brigida,41.9996141,14.9965630
 Corso Mario Milano,42.0019534,14.9931769
 Corso Nazionale,41.9998761,14.9953360
 Corso Umberto I,42.0004584,14.9976019
 Corso Vittorio Emanuele III,42.0028729,14.9974131
 Ingresso merci FPT,41.9482285,15.0007565
-Kartodromo Sinarca,41.9848572,14.9362498
+Kartodromo del Sinarca,41.9848572,14.9362498
 Largo Castello,42.0040951,14.9965071
 Largo Giannelli,42.0051406,14.9976383
+Largo Piè di Castello,42.0042131,14.9961499
 Largo Tornola,42.0057391,14.9975128
 Lungomare Cristoforo Colombo,42.0071524,14.9707390
 Piazza Bisceglie,42.0050387,14.9983965
 Piazza Duomo,42.0053664,14.9975683
-Piazza Garibaldi,42.0008998,14.9931344
+Piazza Garibaldi,42.0008844,14.9931208
 Piazza Insorti d'Ungheria,42.0029811,14.9946118
 Piazzetta Tornola,42.0056675,14.9970915
 Pozzo Dolce,42.0037084,14.9940375
 Rotatoria del Porto,42.0044739,14.9985151
 Rotatoria del Sinarca,41.9942032,14.9486097
-Rotatoria Ospedale,41.9868935,14.9922860
+Rotatoria Ospedale,41.9868576,14.9922848
 Rotatoria Padre Pio,41.9892985,14.9927049
 Rotatoria Rio Vivo,41.9961506,14.9975489
 Rotatoria Viale dei Pini,41.9824040,15.0011286
@@ -1878,6 +1949,7 @@ Strada Provinciale 110 Petacciato - Guglionesi,41.9841187,14.8740870
 Strada Provinciale 113 Fondo valle Sinarca,42.0052606,14.9594574
 Strada Provinciale 168 Termolese,41.9766045,14.9564242
 Strada Provinciale 51 Litoranea,42.0014948,14.9141560
+Strada Provinciale 51 Litoranea - Contrada Valentino,41.9906444,14.9596033
 Strada San Pietro,42.0045743,14.9978846
 Strada Statale 16 Adriatica,41.9737164,15.0117109
 Strada Statale 87 Sannitica,41.9663787,14.9999843
@@ -1885,9 +1957,8 @@ Strada vicinale Pantano,41.9646483,15.0166981
 Strada zona industriale,41.9665367,15.0029761
 Tangenziale di Termoli,42.0163290,14.9092544
 Traversa Viale dei Pini,41.9824173,15.0039399
-Vai delle Querce,41.9851697,14.9735670
-Via 4 Novembre,42.0013342,14.9936574
-Via Abruzzi,41.9988061,14.9949737
+Via 4 Novembre,42.0013783,14.9936393
+Via Abruzzi,41.9980206,14.9940678
 Via A. D'Andrea,42.0024127,14.9958923
 Via Adda,41.9890943,14.9799502
 Via Adige,41.9883946,14.9828239
@@ -1902,32 +1973,33 @@ Via Amedeo di Savoia,42.0027759,14.9923914
 Via America,42.0009904,14.9822157
 Via Amerigo Vespucci,42.0083135,14.9605594
 Via Amintore Fanfani,41.9425450,14.9849054
-Via Ancona,42.0003665,14.9696618
+Via Ancona,42.0003259,14.9711919
 Via Argentina,41.9991644,14.9834729
 Via Armando Diaz,42.0028001,14.9918687
 Via Arno,41.9896581,14.9794880
 Via Arti e Mestieri,41.9843477,15.0042846
 Via Asia,41.9905823,14.9880253
-Via Aubry,42.0036537,14.9973500
+Via Aubry,42.0036592,14.9972875
 Via Bari,41.9958524,14.9720988
 Via Belgio,42.0005923,14.9894194
 Via Belvedere,42.0018195,14.9979781
 Via Biferno,41.9889452,14.9770601
 Via Bologna,41.9953886,14.9748317
-Via Borgo,42.0020648,14.9962854
+Via Borgo,42.0020558,14.9962884
 Via Brasile,41.9982420,14.9797537
 Via Caduti sul Lavoro,41.9968834,14.9928224
 Via Cagliari,41.9902777,14.9660183
-Via Cairoli,42.0000692,14.9959704
+Via Cairoli,42.0000697,14.9959764
 Via Campania,41.9992918,14.9931524
 Via Campolieti,42.0048147,14.9972539
 Via Canada,41.9993678,14.9810729
-Via Carlo del Croix,42.0019238,14.9980992
+Via Cardarelli,41.9703003,14.9808391
+Via Carlo del Croix,42.0020504,14.9980356
 Via Catania,41.9918861,14.9677228
 Via Catrdarelli,41.9789848,14.9821164
 Via Cavalieri di Vittorio Veneto,41.9977902,14.9949546
-Via Cavour,42.0030119,14.9913681
-Via Cesare Battisti,41.9987721,14.9957477
+Via Cavour,42.0030156,14.9913883
+Via Cesare Battisti,41.9987721,14.9957877
 Via Cesare Pavese,41.9998365,14.9477904
 Via Cina,41.9953313,14.9859776
 Via Cipro,41.9941945,14.9972258
@@ -1935,7 +2007,7 @@ Via Como,41.9921116,14.9721778
 Via Corfù,41.9912364,14.9990583
 Via Corsica,41.9787166,15.0085816
 Via Cuneo,41.9896614,14.9666717
-Via Dante,41.9993062,14.9945609
+Via Dante,41.9994155,14.9944276
 Via Danubio,41.9912365,14.9796338
 Via De Gasperi,41.9990738,14.9916653
 Via degli Abeti,41.9816137,14.9997240
@@ -1960,10 +2032,10 @@ Via dei Gigli,41.9813120,14.9847964
 Via dei Ginepri,41.9807596,14.9884057
 Via dei Ginnasti,42.0024514,14.9876457
 Via dei Larici,41.9734784,14.9946111
-Via dei Lecci,41.9801401,15.0040616
+Via dei Lecci,41.9801406,15.0040635
 Via dei Mandorli,41.9685927,14.9930672
 Via dei Meli,41.9768953,15.0023053
-Via dei Palissandri,41.9765344,15.0063893
+Via dei Palissandri,41.9751331,15.0063893
 Via dei Platani,41.9713935,14.9930233
 Via dei Primati,42.0024512,14.9836272
 Via dei Pruni,41.9809035,14.9981414
@@ -1973,6 +2045,7 @@ Via del Calcio,42.0025409,14.9842495
 Via del Canottaggio,42.0031384,14.9881281
 Via del Ciclismo,42.0036861,14.9861907
 Via del Discobolo,42.0025344,14.9844570
+Via Delfini,42.0033097,14.9955252
 Via della Bussola,41.9965418,14.9971704
 Via dell'Ancora,41.9969540,14.9969849
 Via della Pesca,41.9965453,14.9969008
@@ -2002,7 +2075,7 @@ Via del Melograno,41.9809037,15.0033975
 Via del Molinello,41.9933599,14.9937261
 Via del Nuoto,42.0026785,14.9855679
 Via del Pesco,41.9808998,15.0026761
-Via del Porto,42.0035319,14.9978282
+Via del Porto,42.0044307,14.9982980
 Via del Timone,41.9971656,14.9968400
 Via De Nicola,41.9968209,14.9918200
 Via di Francia,41.9996986,14.9888412
@@ -2010,16 +2083,16 @@ Via di Montecastello,42.0039800,14.9973851
 Via di Rio Vivo,41.9736923,15.0117082
 Via di Spagna,42.0012252,14.9881308
 Via Don Bosco,41.9464443,14.9857256
-Via D'Ovidio,42.0021767,14.9945482
-Via Duca degli Abruzzi,42.0030663,14.9903375
-Via Duomo,42.0037571,14.9971148
+Via D'Ovidio,42.0021890,14.9943456
+Via Duca degli Abruzzi,42.0035941,14.9896199
+Via Duomo,42.0037571,14.9971774
 Via Egadi,41.9855288,15.0021394
 Via Elba,41.9909513,14.9944522
 Via Enrico Berlinguer,41.9537648,15.0146560
 Via Enrico Mattei,41.9474730,15.0010931
 Via Enzo Ferrari,41.9475850,15.0088372
 Via Eugenio Montale,41.9976125,14.9241436
-Via Federico II di Svevia,42.0052386,14.9973784
+Via Federico II di Svevia,42.0053520,14.9982229
 Via Firenze,41.9965125,14.9702292
 Via Foce dell'Angelo,42.0022764,14.9824811
 Via Fortore,41.9882433,14.9705009
@@ -2034,7 +2107,7 @@ Via Gennaro Perrotta,42.0008338,14.9906677
 Via Genova,41.9903608,14.9706013
 Via Germania,42.0022318,14.9886854
 Via Giacomo Leopardi,42.0052724,14.9532543
-Via Giappone,41.9936764,14.9883392
+Via Giappone,41.9948885,14.9899330
 Via Giosuè Carducci,42.0054950,14.9257421
 Via Giovanni Agnelli,41.9549827,15.0071439
 Via Giovanni Pascoli,42.0065438,14.9494304
@@ -2042,9 +2115,10 @@ Via Giovanni Verga,42.0094599,14.9291634
 Via Giudicato Vecchio,42.0055155,14.9970726
 Via Giulio Pastore,41.9483532,14.9872250
 Via Giuseppe Di Vittorio,41.9459104,15.0029824
-Via Giuseppe Mazzini,42.0033926,14.9916822
+Via Giuseppe Mazzini,42.0033915,14.9916822
 Via Giuseppe Ungaretti,42.0076734,14.9334200
 Via Guglielmo Marconi,42.0024946,14.9965155
+Via Guglielmo Oberdan,42.0033215,14.9961037
 Via India,41.9939250,14.9849296
 Via Inghilterra,42.0003636,14.9890600
 Via Ischia,41.9904498,14.9914504
@@ -2099,9 +2173,9 @@ Via Mugnano,42.0046405,14.9976993
 Via Mulino a Vento,41.9980749,14.9968295
 Via Napoli,41.9939464,14.9714350
 Via Nisida,41.9925375,14.9985883
-Via Oberdan,42.0033215,14.9961037
 Via Olanda,42.0001397,14.9862168
 Via Oliviero,42.0032251,14.9943425
+Via Padova,42.0003665,14.9696618
 Via Palermo,41.9943745,14.9728571
 Via Panama,41.9978808,14.9884897
 Via Pantelleria,41.9911909,14.9967317
@@ -2140,16 +2214,16 @@ Via Rio Mare,41.9836293,15.0158860
 Via Rio Vivo,41.9958860,14.9978146
 Via Roma,42.0037145,14.9966016
 Via Salvatore Quasimodo,42.0072789,14.9338277
-Via Sandro Pertini,41.9905782,14.9739064
+Via Sandro Pertini,41.9905777,14.9739102
 Via Sangro,41.9903967,14.9834740
 Via San Marino,42.0006949,14.9874378
 Via Sannitica,42.0028869,14.9926392
 Via Sant'Elena,41.9911417,14.9988054
-Via Sardegna,41.9972274,14.9942785
+Via Sardegna,41.9971863,14.9942785
 Via Sassari,41.9933295,14.9722299
 Via Saverio Cannarsa,42.0018663,14.9944771
 Via Sorrento,41.9941671,14.9734941
-Via Stati Uniti,41.9976969,14.9815322
+Via Stati Uniti,41.9976937,14.9815322
 Via Tevere,41.9909186,14.9774212
 Via Ticino,41.9869322,14.9748557
 Via Torino,41.9926485,14.9733094
@@ -2165,40 +2239,59 @@ Via Verona,41.9944255,14.9748778
 Via Vescovo Pitirro,42.0054489,14.9981819
 Via Vespucci,42.0033830,14.9821106
 Via Vincenzo Cuoco,41.9992205,14.9976991
-Via Vincenzo Gioberti,42.0009278,14.9940984
+Via Vincenzo Gioberti,42.0009366,14.9939172
 Via Vittorio Bachelet,41.9475393,14.9948561
-Via Volturno,41.9898755,14.9748571
+Via Volturno,41.9898750,14.9748571
 Via Vulcano,41.9909389,14.9973979
 Via XXIV Maggio,42.0028515,14.9928875
 Via XX Settembre,42.0012775,14.9960948
 Vico Duomo VI,42.0053941,14.9969759
 Vico II Castello,42.0048946,14.9968290
+Vico III Tornola,42.0056897,14.9978628
+Vico II Tornola,42.0058735,14.9974726
+Vico I Tornola,42.0057966,14.9973112
+Vicoletto Duomo,42.0052485,14.9969127
 Vico Nazario Sauro,41.9981706,14.9960420
-Vico Tornola II,42.0058299,14.9973018
 Z. I.,41.9479525,14.9890597
+Contrada Frassineto,41.9755894,14.9323368
+Contrada Ponticelli,41.9607138,14.9480880
 Corso Umberto I,41.9625179,14.9460083
+"Strada Provinciale 168 Termolese , Contrada Malecoste",41.9424846,14.9365479
 Strada Provinciale 168 Termolese,41.9766045,14.9564242
+Via degli Olmi,41.9793322,14.9676649
+Via delle Querce,41.9776322,14.9696068
+Via Fabio Filzi,41.9620843,14.9471984
 Via Fortore,41.9613375,14.9444399
 Via Frentana,41.9639470,14.9447791
+Via Luigi Sturzo,41.9603412,14.9450602
+Via Martiri della Resistenza,41.9610821,14.9456146
+Via Modigliani,41.9571720,14.9450713
+Via Nazario Sauro,41.9605300,14.9451548
+Via Pareto,41.9575756,14.9452071
 Via Po,41.9611389,14.9434596
+Via Roma,41.9651870,14.9465302
+Via Ticino,41.9841144,14.9721468
 Autostrada Adriatica,42.0305011,14.8532870
 Contrada Colle Calcioni,42.0370673,14.8314340
+Contrada Colle Granata,41.9947172,14.9000622
 Contrada Marinelle,42.0408553,14.8320690
 Piazza dei caduti,42.0142020,14.8600738
 Strada Provinciale 110 Petacciato - Guglionesi,42.0011784,14.8520550
 Strada Provinciale 127 Colle di Breccia,41.9783408,14.8384522
+Strada Provinciale 163 della Valle del Biferno,42.0327756,14.8474971
 Strada Provinciale 51 Litoranea,42.0114702,14.8736855
 Strada Provinciale di Petacciato,42.0109420,14.8718255
 Tangenziale di Termoli,42.0214894,14.8961209
 Tratturo l'Aquila - Celano,42.0226755,14.8774150
 Via Botticelli,42.0401748,14.8323105
-Via della Torre,42.0251881,14.8825294
+Via della Torre,42.0237291,14.8843677
 Via del Progresso,42.0129645,14.8670388
 Via Francesca Barba,42.0253682,14.8250352
 Via Marchesi Battiloro,42.0109430,14.8622233
-Via Mediterraneo,42.0329625,14.8481511
+Via Mediterraneo,42.0329356,14.8480545
 Via Michelangelo Buonarroti,42.0277974,14.8613099
 Via Molise,42.0135392,14.8594959
+Via Morgetta,42.0251881,14.8825294
 Via Napoli,42.0084063,14.8606022
 Via Piave,42.0147917,14.8591293
 Via Pietravalle,42.0138668,14.8598600

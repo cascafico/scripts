@@ -40,6 +40,7 @@ Strada statale di Pietraperzia,37.4044093,14.1793273
 Strada statale Pergusina,37.5093942,14.3115908
 Stradella Ulivuzza,37.4210524,14.3432755
 Via Alessandro Manzoni,37.3742666,14.3588917
+Via Antonello da Messina,37.3690232,14.3692366
 Via Augusta,37.3831361,14.3728197
 Via Benedetto Croce,37.3805439,14.3729702
 Via Bonifacio,37.3860613,14.3655789
@@ -64,12 +65,13 @@ Via Generale Ciancio,37.3880563,14.3714119
 Via Generale Gaeta,37.3920789,14.3726889
 Via Generale Muscarà,37.3886118,14.3711455
 Via Gesualdo Bufalino,37.3726173,14.3672856
+Via Giacomo Leopardi,37.3889515,14.3690761
 Via Giacomo Matteotti,37.3819630,14.3670012
 Via Giacomo Puccini,37.3744500,14.3655357
 Via Giosuè Carducci,37.3746105,14.3708416
 Via Giovanni Verga,37.3807397,14.3673788
 Via Giuseppe Garibaldi,37.3850888,14.3675175
-Via Giuseppe Mazzini,37.3880989,14.3691311
+Via Giuseppe Mazzini,37.3875441,14.3688162
 Via Iaci,37.3855616,14.3657894
 Via Ignazio Buttitta,37.3727016,14.3691795
 Via La Pergola,37.3850136,14.3718113
@@ -89,6 +91,7 @@ Via Seminario,37.3839411,14.3663832
 Via Sette Cantoni,37.3851313,14.3658691
 Via Udienza,37.3843088,14.3690831
 Via Umberto 1,37.3844303,14.3673935
+Via Vittorio Emanuele Orlandi,37.3896098,14.3692242
 Ponte Besaro,37.4324718,14.0836476
 Strada provinciale 103 Caltanissetta-Pietraperzia,37.4343236,14.0694599
 Strada provinciale Bivio Ramata-Bivio Rastrello,37.4236453,14.2116350
@@ -250,10 +253,10 @@ Strada provinciale Bivio SP8-Bivio SP35A,37.4509262,14.5296000
 Strada provinciale Bivio SS288-Bivio Toscano,37.3959013,14.5394443
 Strada provinciale Bivio Toscano-Bivio SP16,37.3710399,14.5138295
 Strada provinciale Iannarello-Aidone,37.4370449,14.5433345
-Strada provinciale Pintura-Giresi,37.4291954,14.4575179
+Strada provinciale Pintura-Giresi,37.4291894,14.4575179
 Strada provinciale Valguarnera-Bivio Raddusa,37.4930052,14.4654087
-Strada provinciale Valguarnera-Ponte Battiato,37.4574916,14.4325547
-Strada provinciale Venterilli-Fiume Gornalunga,37.4252792,14.6121816
+Strada provinciale Valguarnera-Ponte Battiato,37.4575102,14.4325547
+Strada provinciale Venterilli-Fiume Gornalunga,37.4194339,14.6122636
 Strada statale di Aidone,37.4227612,14.4732650
 Via Abate Scovazzo,37.4149952,14.4460318
 Via Alcide De Gasperi,37.4117794,14.4436828
@@ -330,11 +333,13 @@ Piazza Umberto I,37.5676710,14.2781681
 Piazza Vittorio Emanuele,37.5686393,14.2762432
 Ponte Capodarso,37.4953268,14.1454847
 Ponte Passo Badile,37.5367084,14.4275361
+"Riva dei Giunchi, lago Pergusa",37.5174988,14.3125662
+SC76 STrazzavertole/Torre,37.5222918,14.2630978
 Strada Comunal2 192 Enna Risicallà,37.5325797,14.2821000
 Strada Comunale 107 Fiumara di Cancro,37.5229847,14.3239824
 Strada Comunale 108 Lago Pergusa Pollicarini,37.5185102,14.3189148
 Strada Comunale 115 Garmeno Soprano Granci,37.4799437,14.2237591
-Strada Comunale 12 Privita Scottaferro,37.5777611,14.2435409
+Strada Comunale 12 Privita Scottaferro,37.5777484,14.2435114
 Strada Comunale 141 Rossomanello,37.4689832,14.4051326
 Strada Comunale 143 Nicola Aiuolo,37.4556497,14.2061650
 Strada Comunale 144 Aiuolo,37.4400913,14.2093917
@@ -342,13 +347,13 @@ Strada Comunale 146 Aiuolo Geracello,37.4505200,14.2144395
 Strada Comunale 154 Bubudello,37.4880537,14.2875498
 Strada Comunale 155 Sant'Antonino,37.4662574,14.2973643
 Strada Comunale 159 Balatella,37.4531707,14.3156065
-Strada Comunale 179 Baronessa Berardi,37.5644739,14.2921136
+Strada Comunale 179 Baronessa Berardi,37.5631858,14.2940224
 Strada Comunale 186 Ramonico,37.5780790,14.3010488
 Strada Comunale 192 Enna Riscallà,37.5232682,14.2804130
 Strada Comunale 192 Enna Risicalla,37.5154973,14.2732324
 Strada Comunale 192 Enna Risicallà,37.5483306,14.2837999
 Strada Comunale 193 Barresi Berardi,37.5565441,14.3191569
-Strada Comunale 213 Porta Palermo,37.5763686,14.2849861
+Strada Comunale 213 Porta Palermo,37.5763598,14.2849546
 Strada Comunale 3 Vuturo,37.5947527,14.2993382
 Strada Comunale 40 Cannizzaro,37.5423500,14.2759150
 Strada Comunale 41 Cannizzaro Cutura,37.5388925,14.2727436
@@ -358,9 +363,9 @@ Strada Comunale 88 San Giovannello,37.5320753,14.2973363
 Strada Comunale 89 Siriano,37.5290905,14.2988389
 Strada Comunale 90 Curcio staglio,37.5287321,14.2973790
 Strada Comunale 90 Curcio Staglio,37.5277981,14.2951210
-Strada Comunale 92 San Giovannello Siriano,37.5327857,14.2892043
-Strada Comunale 93 San Giovannello Cozzo Caselle,37.5398112,14.2965841
-Strada Coomunale 192 Enna Risicallà,37.5146096,14.2718558
+Strada Comunale 92 San Giovannello Siriano,37.5327825,14.2891842
+Strada Comunale 93 San Giovannello Cozzo Caselle,37.5398108,14.2965600
+Strada Coomunale 192 Enna Risicallà,37.5145979,14.2718397
 Strada Panoramica Monte Cantina,37.5589801,14.2758724
 Strada provinciale 202,37.5536526,14.1112260
 Strada provinciale Balatella-Vallegrande-Balatelluzza,37.4616866,14.3472743
@@ -372,7 +377,7 @@ Strada provinciale Bivio SP4-Bivio SS117bis,37.4801519,14.3434358
 Strada provinciale Bivio SS192-Valguarnera-SS117bis,37.5409508,14.4069981
 Strada provinciale Bivio Vanelle-Bivio SS117bis,37.5481293,14.2741457
 Strada provinciale Borgo Cascino-Nicola-SS560,37.4676319,14.2031839
-Strada provinciale Bruchito-Zagaria,37.5265341,14.2783050
+Strada provinciale Bruchito-Zagaria,37.5262435,14.2784278
 Strada provinciale Cacchiamo-Bivio Villapriolo SS290,37.6617844,14.2152305
 Strada provinciale Calascibetta-Erbavusa,37.6085338,14.2883641
 Strada provinciale Cannarelle-Albanello,37.5303719,14.2131732
@@ -384,7 +389,7 @@ Strada provinciale Enna-Bivio Vanelle-Stazione Seggio,37.5630886,14.2344956
 Strada provinciale Geracello-Ramursura-Sant'Antonio,37.4462248,14.2707204
 Strada provinciale Milocca-Calderai,37.5649874,14.3823289
 Strada provinciale Nicola-Ceraci,37.4754485,14.2386107
-Strada provinciale Parasporino-Cannavò,37.5293195,14.3216963
+Strada provinciale Parasporino-Cannavò,37.5293047,14.3216963
 Strada provinciale Pergusa-Risicallà-Scioltabino,37.5112903,14.2787188
 Strada provinciale Ramursura-Montagna di Marzo-Genavì,37.4354958,14.3270620
 Strada provinciale San Giovanni Anime Sante-Lombardi Torrazza,37.5819203,14.3180577
@@ -399,11 +404,11 @@ strada Regionale 3 di Servizio Intorno All'Autodromo,37.5148262,14.3062258
 Strada statale Agrigentina,37.5000278,14.1569981
 Strada statale Catanese,37.5647489,14.2172551
 Strada statale Centrale Sicula,37.5806302,14.2864554
-Strada statale della Valle del Dittaino,37.5580357,14.3551774
+Strada statale della Valle del Dittaino,37.5580357,14.3550902
 Strada statale della Valle del Salso,37.4933163,14.1484862
-Strada statale di Alimena,37.5838763,14.2786170
+Strada statale di Alimena,37.5838380,14.2785949
 Strada statale di Marcatobianco,37.4916976,14.1516839
-Strada statale Pergusina,37.5405185,14.3015891
+Strada statale Pergusina,37.5405121,14.3015609
 Strada statale Strada degli Scrittori,37.5370214,14.1018652
 Strada Vicinale Baronessa,37.5620845,14.2991009
 Strada Vicinale Baronessa Jardino,37.5617520,14.3056978
@@ -417,24 +422,24 @@ Strada Vicinale Kati Risicallà,37.5089643,14.2715604
 Strada Vicinale Lago Fiumara di Cancro,37.5233000,14.3193890
 Strada Vicinale Mazzone,37.5057243,14.3188050
 Strada Vicinale Mugavero,37.5506789,14.2810353
-Strada Vicinale Piano Morelli Zagaria,37.5193902,14.2916680
-Strada Vicinale Polveriera,37.5803317,14.2826197
+Strada Vicinale Piano Morelli Zagaria,37.5193626,14.2916358
+Strada Vicinale Polveriera,37.5803114,14.2826105
 Strada Vicinale Risicallà,37.5147068,14.2754471
 Strada Vicinale Risicallà Calzetta,37.5107181,14.2651721
 Strada Vicinale Risicallà Vallata Lunga,37.5067438,14.2613882
 Strada Vicinale Risicallà Zagaria,37.5111712,14.2853033
-Strada Vicinale Salerno,37.5444714,14.3010340
+Strada Vicinale Salerno,37.5444490,14.3009763
 Strada Vicinale Santa Lucia,37.5557482,14.2859779
 Strada Vicinale Santo Stefano Lombardia,37.5706811,14.2851805
 Strada Vicinale Scioltabino,37.5117293,14.2814875
-Strada Vicinale Strazzavertole,37.5325914,14.2647521
+Strada Vicinale Strazzavertole,37.5314372,14.2644664
 Strada vicinale Zagaria Lago Pergusa,37.5160853,14.2994519
 Strada Vicinale Zagaria Lago Pergusa,37.5195186,14.2968418
 Strda Vicinale Lago Fiumara di Cancro,37.5218405,14.3218074
 Traversa Prima di Via Apollo,37.5231753,14.3144391
 Traversa Seconda di Via Apollo,37.5225979,14.3151186
 Trazzera di Lentini,37.5343736,14.4395464
-Trazzera Regia Calascibetta Barrafranca,37.5279457,14.2904505
+Trazzera Regia Calascibetta Barrafranca,37.5279329,14.2904294
 Trazzera Regia Enna Piazza Armerina Mirabella Imbaccari,37.5427218,14.2954953
 Trazzera Regia Varco Calderai Lago Pergusa,37.5034129,14.2951441
 Via Abbatiella,37.5651504,14.2749365
@@ -629,7 +634,7 @@ Via Leonardo da Vinci,37.5629771,14.2972444
 Via Leonardo Fontonazza,37.5666963,14.2784430
 Via Leonfort,37.5648916,14.2699507
 Viale Paolo e Caterina Savoca,37.5673809,14.2838146
-Viale Santa Caterina,37.5465180,14.2991123
+Viale Santa Caterina,37.5464913,14.2990600
 Via Libero Grassi,37.5535070,14.2982703
 Via Libertà,37.5627229,14.2711094
 Via Liguria,37.5508989,14.2894397
@@ -673,7 +678,7 @@ Via Ottavio Catalano,37.5654354,14.2768276
 Via Ovidio,37.5231782,14.3074068
 Via Palermo,37.5663110,14.2730027
 Via Panorama,37.5620520,14.2775447
-Via Panoramica Lombardia,37.5642095,14.2890188
+Via Panoramica Lombardia,37.5642095,14.2890228
 Via Paolo Borsellino,37.5504447,14.2987279
 Via Paolo Lo Manto,37.5652891,14.2792986
 Via Parroco Giuseppe Falautano,37.5674930,14.2791936
@@ -706,7 +711,7 @@ Via Rosanella,37.5615418,14.2772818
 Via Rosario Livatino,37.5564990,14.2955883
 Via Rosso di San Secondo,37.5671528,14.2726890
 Via Sacramento,37.5650887,14.2801644
-Via Salerno,37.5585023,14.2888280
+Via Salerno,37.5584890,14.2888374
 Via Salvatore,37.5660391,14.2838351
 Via Salvatore Ingrà,37.5589796,14.2930435
 Via Salvatore Mazza,37.5548361,14.2913335
@@ -830,12 +835,10 @@ Via Nuoro,37.4963491,14.3902715
 Via Primo Maggio,37.4926100,14.3909498
 Via San Liborio,37.4960324,14.3896200
 Via Sant'Elena,37.4924303,14.3934653
-Via Sicilia,37.4920913,14.3906018
+Via Sicilia,37.4920913,14.3906057
 Autostrada Palermo-Catania,37.5767006,14.4332015
-Cavalcavia Vecchia Ferrovia,37.6308782,14.4206748
 Contrada San Giovanni,37.6514910,14.4114642
 ex Ferrovia Dittaino-Leonforte,37.5957339,14.4275030
-Percorso Ciclabile Sterrato Cavalcavia Vecchia Ferrovia,37.6310907,14.4176472
 Piazza Francesco Crispi,37.6267357,14.4240118
 Piazza Guglielmo Marconi,37.6284112,14.4235417
 Piazza I Maggio,37.6272268,14.4222417
@@ -844,7 +847,7 @@ Piazza Umberto,37.6278597,14.4238658
 Salita Matrice,37.6281837,14.4241868
 Strada provinciale Agira-Stazione Raddusa,37.5456700,14.5203947
 Strada provinciale Bivio Pirato-Bivio Mulinello-SS192,37.5939444,14.4007496
-Strada provinciale Bivio SP33-Assoro-Bivio SP57 Dittaino,37.6127100,14.4202570
+Strada provinciale Bivio SP33-Assoro-Bivio SP57 Dittaino,37.6127100,14.4202597
 Strada provinciale Bivio SP7A Pirato-Dittaino,37.5699623,14.4530202
 Strada provinciale Bivio SP7B-Acquanova-Bivio SP48 Morra,37.6288194,14.4504255
 Strada provinciale Bivio SS192-Valguarnera-SS117bis,37.5409508,14.4069981
@@ -852,14 +855,13 @@ Strada provinciale Castani-Montagna-Val di Noce,37.4931313,14.4035438
 Strada provinciale Cozzo Volta di Monica-Arginamele,37.5412178,14.4813041
 Strada provinciale Milocca-Calderai,37.5649874,14.3823289
 Strada provinciale Nissoria-San Giorgio-Miniere Zimballo-Bivio SP7B,37.6190649,14.4721980
-Strada provinciale Ponte Pietrangeli-Bivio SP7B-Bivio SS121,37.6314563,14.4027142
+Strada provinciale Ponte Pietrangeli-Bivio SP7B-Bivio SS121,37.6315163,14.4027128
 Strada provinciale Valguarnera-Bivio Raddusa,37.4977598,14.4047693
 Strada provinciale Valguarnera-Dittaino,37.5100556,14.4208565
 Strada provinciale Valguarnera-Ponte Battiato,37.4791245,14.4037631
 Strada statale Catanese,37.6584373,14.4826122
 Strada statale Centrale Sicula,37.6954655,14.3859437
 Strada statale della Valle del Dittaino,37.5523310,14.4451494
-Vecchia Ferrovia,37.6152840,14.4203152
 Via Alcide De Gasperi,37.6261656,14.4185253
 Via Aldo Moro,37.6258833,14.4210895
 Via Angeli,37.6277636,14.4254316
@@ -875,7 +877,7 @@ Via Cottone,37.6282312,14.4226458
 Via Cozzarello,37.6297512,14.4251704
 Via Crisa,37.6265366,14.4224653
 Via D'Agostino,37.6292947,14.4246855
-Via del Bevaio,37.6194023,14.4185158
+Via del Bevaio,37.6194199,14.4185144
 Via della Pace,37.6209692,14.4176272
 Via Don Gnolfo,37.6226930,14.4131494
 Viadotto Acascina,37.5740841,14.4489472
@@ -891,12 +893,12 @@ Via Filippo Turati,37.6256794,14.4203076
 Via Gagliano,37.6256579,14.4233715
 Via Giacomo Matteotti,37.6401794,14.4673185
 Via I Maggio,37.6266906,14.4220278
-Viale delle Scienze,37.6380758,14.4054293
+Viale delle Scienze,37.6381273,14.4054072
 Via Lenin,37.6202738,14.4183806
 Via Luigi Sturzo,37.6260231,14.4211634
 Via Maddalena,37.6162090,14.4103262
 Via Madonna dell'Aiuto,37.6209708,14.4165942
-Via Madre Teresa di Calcuta,37.6214394,14.4142120
+Via Madre Teresa di Calcuta,37.6214394,14.4141946
 Via Martiri delle Miniere,37.6225268,14.4232484
 Via Matrice,37.6289574,14.4237504
 Via Mercè,37.6293385,14.4252140
@@ -916,7 +918,7 @@ Via Provinciale,37.6207008,14.4195996
 Via Roma,37.6279849,14.4246427
 Via Salvador Allende,37.6218479,14.4182438
 Via San Biagio,37.6261148,14.4251395
-Via Sandro Pertini,37.6239175,14.4170539
+Via Sandro Pertini,37.6239175,14.4170401
 Via San Francesco Assisi,37.6149243,14.4150817
 Via San Giuseppe,37.6135234,14.4183125
 Via Santa Caterina,37.6271299,14.4226375
@@ -924,7 +926,7 @@ Via Santa Croce,37.6284851,14.4226713
 Via Santa Lucia,37.6268505,14.4230265
 Via Sant'Antonino,37.6268092,14.4237171
 Via Santi Santoro,37.6206860,14.4168817
-Via San Vincenzo,37.6316059,14.4164102
+Via San Vincenzo,37.6316006,14.4164088
 Via Seggio,37.6220161,14.4211760
 Via Spirito Santo,37.6262387,14.4246448
 Via Vallone,37.6266389,14.4227760
@@ -1153,7 +1155,6 @@ Piazza Europa,37.5734438,14.6909614
 Piazza Giacomo Matteotti,37.5680406,14.6911157
 Piazza Giovanni XXIII,37.5698997,14.6933455
 Piazza Guglielmo Marconi,37.5708059,14.6918405
-Piazza Indipendenza,37.5706452,14.6912410
 Piazza Madonna del Rosario,37.5679009,14.6903074
 Piazza Mercato Vecchio,37.5672817,14.6893878
 Piazza Otto Marzo,37.5619369,14.6887171
@@ -1187,7 +1188,7 @@ Via Don Luigi Sturzo,37.5714342,14.6893337
 Viadotto Alfio,37.5543520,14.6988306
 Viadotto Sarra,37.5610646,14.6789844
 Via Duilio,37.5674270,14.6913452
-Via Enna,37.5604834,14.6893192
+Via Enna,37.5604834,14.6893139
 Via Europa,37.5729958,14.6916068
 Via Firenze,37.5709194,14.6927440
 Via Francesco Crispi,37.5678579,14.6896320
@@ -1256,7 +1257,7 @@ Corso Regina Margherita,37.5861477,14.1736539
 Strada Castelluccio,37.6335497,14.2049302
 Strada provinciale Bivio SS121-Maiorana-Fortolesi,37.5678355,14.1767888
 Strada provinciale Cacchiamo-Bivio Villapriolo SS290,37.6617844,14.2152305
-Strada provinciale Catena-Caspa,37.5851813,14.1913624
+Strada provinciale Catena-Caspa,37.5829413,14.1913624
 Strada provinciale SS290-Villapriolo-SS121,37.6130481,14.1819247
 Strada statale Catanese,37.5953062,14.1477289
 Strada statale di Alimena,37.6350164,14.1945673
@@ -1264,18 +1265,18 @@ Via Agrigento,37.5898672,14.1665257
 Via Alcide De Gasperi,37.5869383,14.1683767
 Via Alongi,37.6300899,14.1938001
 Via Aretino,37.5867251,14.1770325
-Via Berengano,37.5851972,14.1710787
+Via Berengano,37.5851908,14.1710692
 Via Bongiorno,37.6299013,14.1939567
 Via Butera,37.5851434,14.1746319
 Via Candrilli,37.5853092,14.1758325
-Via Carlo Goldoni,37.5847672,14.1708552
-Via Casale,37.5850357,14.1710698
-Via Cavour,37.6295520,14.1936135
+Via Carlo Goldoni,37.5847640,14.1708217
+Via Casale,37.5850273,14.1710698
+Via Cavour,37.6295244,14.1935880
 Via Ciociaro,37.5880178,14.1757530
 Via Ciro Menotti,37.5851378,14.1752125
 Via Colaianni,37.5878630,14.1680243
-Via Cossa,37.5860552,14.1698747
-Via Crema,37.5871772,14.1715647
+Via Cossa,37.5860499,14.1698257
+Via Crema,37.5871587,14.1715191
 Via Dante,37.6282836,14.1938588
 Via della Regione,37.6294877,14.1930628
 Via Deodato,37.5865729,14.1719880
@@ -1285,8 +1286,8 @@ Viadotto Michele Lomonaco,37.5619198,14.1389532
 Viadotto Salso,37.5427112,14.1362072
 Viadotto Valle del Salso,37.5424900,14.1360249
 Via Enna,37.5890935,14.1662517
-Via Enrico Mattei,37.5858970,14.1714231
-Via Fabio,37.5845267,14.1729702
+Via Enrico Mattei,37.5858949,14.1713990
+Via Fabio,37.5845267,14.1729514
 Via Federici,37.5871119,14.1755360
 Via Ferruccio,37.5859680,14.1711558
 Via Fiume,37.5885661,14.1642615
@@ -1295,25 +1296,25 @@ Via Gelfo,37.5848678,14.1737205
 Via Giannone,37.5853107,14.1746934
 Via Giuliana,37.6297888,14.1935742
 Via Giuseppe Mazzini,37.5858012,14.1730713
-Via Giuseppe Verdi,37.5860723,14.1714472
+Via Giuseppe Verdi,37.5860659,14.1714070
 Via Guadagnoli,37.5868269,14.1766007
 Via G. Verga,37.6298270,14.1932183
 Via Kennedy,37.5867117,14.1674374
-Viale Europa,37.5888168,14.1705734
+Viale Europa,37.5888040,14.1705613
 Via Libertà,37.5854603,14.1764880
 Via Manganaro,37.5857091,14.1752715
-Via Marguglio,37.5862305,14.1715604
+Via Marguglio,37.5862209,14.1715067
 Via Maroncelli,37.5864945,14.1749429
 Via Masaniello,37.5857652,14.1752040
 Via Mastrosilvestre,37.5873075,14.1716414
 Via Mentana,37.5852747,14.1748709
 Via Messina,37.5875666,14.1669767
-Via Michelangelo Buonarroti,37.5864219,14.1717051
-Via Milano,37.5856578,14.1716088
+Via Michelangelo Buonarroti,37.5864209,14.1716809
+Via Milano,37.5856578,14.1715873
 Via Niccolò Machiavelli,37.5867198,14.1758768
 Via Nino Bixio,37.5853147,14.1744459
 Via Notarbartolo,37.6291172,14.1951661
-Via Notarianni,37.5855342,14.1710379
+Via Notarianni,37.5855352,14.1710271
 Via Palermo,37.5884912,14.1658640
 Via Pantaleo,37.5878418,14.1730245
 Via Paoli,37.5876855,14.1730659
@@ -1321,15 +1322,15 @@ Via Papa Giovanni 23,37.5867645,14.1673988
 Via Parini,37.5871001,14.1755463
 Via Petruzzelli,37.5874089,14.1757957
 Via Pier Capponi,37.5857360,14.1717793
-Via Pirrello,37.5864666,14.1725881
+Via Pirrello,37.5864624,14.1725828
 Via Pola,37.5881158,14.1643075
 Via Prati,37.5872379,14.1760987
 Via Provenzano,37.5847739,14.1735716
 Via Roma,37.6300035,14.1940772
 Via Rosa Ciotti,37.5877660,14.1674754
 Via Ruggero Settimo,37.5874986,14.1729493
-Via San Giuseppe,37.5843918,14.1728124
-Via Saporito,37.6304797,14.1933966
+Via San Giuseppe,37.5843939,14.1727935
+Via Saporito,37.6304654,14.1933832
 Via Savio,37.5846149,14.1738935
 Via Sbriziolo,37.5883323,14.1745355
 Via Scavone,37.5882322,14.1750336
@@ -1340,14 +1341,14 @@ Via Sirene,37.5871854,14.1768894
 Via Sofia,37.5852529,14.1754741
 Via Tasso,37.5870690,14.1763267
 Via Torregrossa,37.5851876,14.1738889
-Via Trento,37.5874863,14.1646045
+Via Trento,37.5874374,14.1644570
 Via Trieste,37.5877826,14.1634376
 Via Trinacria,37.5883578,14.1688187
 Via Valenza,37.5850766,14.1757965
 Via Villalba,37.5875403,14.1751239
 Via Vincenzo Bellini,37.5858923,14.1707874
 Via Vittime di Via Fani,37.5869259,14.1682729
-Via Vittoria,37.5854226,14.1706279
+Via Vittoria,37.5854236,14.1706171
 Autostrada Palermo-Catania,37.5690937,14.6421085
 Contrada Crocifisso,37.6487251,14.6463399
 Contrada Gebbia,37.6430970,14.6419753
@@ -1499,7 +1500,6 @@ Corso Risorgimento,37.6512663,14.4084880
 Corso Umberto I,37.6437286,14.4042135
 Piazza Annunziata,37.6397641,14.3927721
 Piazza Banciforte,37.6355202,14.3884272
-Piazza Carella,37.6398173,14.3933837
 Piazza Givanni Verga,37.6393232,14.3929970
 Piazza IV Novembre,37.6395687,14.3935121
 Piazza Parano,37.6384561,14.3904137
@@ -1507,24 +1507,23 @@ Piazza San Francesco,37.6389547,14.3928563
 Pio La Torre,37.6421113,14.4044823
 Strada provinciale Bivio Pirato-Bivio Mulinello-SS192,37.5686861,14.4006612
 Strada provinciale Giucchitto,37.6951290,14.3810566
-Strada provinciale Leonforte-Erbavusa-Bivio SP19 Villadoro,37.6381542,14.3530751
+Strada provinciale Leonforte-Erbavusa-Bivio SP19 Villadoro,37.6400748,14.3446373
 Strada provinciale Leonforte-Portella Creta,37.6822566,14.3286022
 Strada provinciale Milocca-Calderai,37.5649874,14.3823289
-Strada provinciale Ponte Pietrangeli-Bivio SP7B-Bivio SS121,37.6314563,14.4027142
+Strada provinciale Ponte Pietrangeli-Bivio SP7B-Bivio SS121,37.6315163,14.4027128
 Strada provinciale Scarlata-Girgia,37.5988229,14.3526814
 Strada provinciale Vignale-Pirato,37.6280254,14.3210980
-Strada statale Catanese,37.6070852,14.3751170
+Strada statale Catanese,37.6071013,14.3752096
 Strada statale Centrale Sicula,37.6954655,14.3859437
-Vecchia Ferrovia,37.6362865,14.4047334
-Via Agrigento,37.6401540,14.3909487
+Via Agrigento,37.6402092,14.3908943
 Via Alcide de Gasperi,37.6423841,14.4045609
 Via Aldo Moro,37.6422669,14.4039959
 Via Alessandro Volta,37.6394578,14.3942269
 Via Algozino,37.6384255,14.3920155
 Via Amalfi,37.6413508,14.3948884
 Via Antonino Buttafuoco,37.6450246,14.4003265
-Via Assoro,37.6410584,14.3908390
-Via Barrafranca,37.6412877,14.3913012
+Via Assoro,37.6410759,14.3908189
+Via Barrafranca,37.6413067,14.3912630
 Via Bellaguglia,37.6411175,14.3944319
 Via Bellini,37.6366025,14.3903881
 Via Bernini,37.6425684,14.4033115
@@ -1536,55 +1535,57 @@ Via Catania,37.6408460,14.3904877
 Via Catenanuova,37.6415913,14.3900911
 Via Cavallotti,37.6392403,14.3909930
 Via Centuripe,37.6420409,14.3915925
-Via Cerami,37.6407445,14.3903501
+Via Cerami,37.6407631,14.3903212
 Via Cipolla,37.6387837,14.3921585
 Via Condotto,37.6389336,14.3911998
 Via Dalmazia,37.6407093,14.3966473
 Via dei Cento Comuni D'Italia,37.6438217,14.3952687
 Via della Libertà,37.6447989,14.4061792
-Via della Resistenza,37.6335772,14.3904590
+Via della Resistenza,37.6335687,14.3904416
 Via Don Giovanni Bosco,37.6443505,14.3987526
 Via Edoardo De Filippo,37.6451296,14.3959407
 Via Emilia,37.6436702,14.3955502
 Via Enrico De Nicola,37.6445412,14.3986572
-Via Erice,37.6404850,14.3907139
+Via Erice,37.6405222,14.3906790
 Via Eugenio Montale,37.6442713,14.3953273
 Via Fiume,37.6405125,14.3955411
 Via Francesco Crispi,37.6369986,14.3910944
 Via Gabriele D'Annunzio,37.6401284,14.3947481
-Via Galileo Galilei,37.6412359,14.3999151
+Via Galileo Galilei,37.6412534,14.3999151
 Via Garibaldi,37.6339924,14.3889469
+Via Giacomo Matteotti,37.6468226,14.4056454
 Via Gianbattista Pergolesi,37.6396391,14.3956989
 Via Giovanni XXIII,37.6439750,14.3982282
 Via Giuseppe Saragat,37.6444335,14.3972623
 Via Gran Fonte,37.6338053,14.3874777
 Via I Maggio,37.6448358,14.4064213
 Via Laneri,37.6384025,14.3909978
-Viale delle Scienze,37.6380758,14.4054293
+Viale delle Scienze,37.6381273,14.4054072
 Viale Michelangelo,37.6427240,14.4047918
 Via Leopardi,37.6422587,14.4027726
 Via Li Destri,37.6401862,14.3959620
 Via Lombardia,37.6430370,14.3956888
 Via Luigi Pirandello,37.6429256,14.3993004
 Via Macello,37.6397528,14.3896648
+Via Marinuzzi,37.6394055,14.3957530
 Via Marsala,37.6410234,14.3903153
 Via Maurizio,37.6389154,14.3902638
 Via Mazza,37.6415179,14.3957274
-Via Milano,37.6398974,14.3923803
+Via Milano,37.6399165,14.3923616
 Via Monachella,37.6395947,14.3944816
 Via Monreale,37.6414029,14.3901374
-Via Nicosia,37.6407179,14.3896192
+Via Nicosia,37.6407471,14.3895977
 Via Oglialoro,37.6372882,14.3910615
-Via Papa Paolo VI,37.6463051,14.4028792
+Via Papa Paolo Sesto,37.6454288,14.4035770
 Via Paranà,37.6427508,14.4042077
-Via Passarello,37.6403482,14.3931546
+Via Passarello,37.6403588,14.3931492
 Via Patti,37.6380412,14.3917066
 Via Petringa,37.6376599,14.3919147
 Via Picone,37.6404444,14.3935427
 Via Piemonte,37.6425077,14.3956551
 Via Pier Paolo Passolini,37.6452376,14.3963153
 Via Porta Palermo,37.6338021,14.3896704
-Via Ragusa,37.6403099,14.3908365
+Via Ragusa,37.6403624,14.3907869
 Via Rapisardi,37.6397994,14.3961110
 Via Redenzione,37.6401546,14.3924084
 Via Regalbuto,37.6422820,14.3921130
@@ -1618,9 +1619,9 @@ Strada provinciale Calascibetta-Malpasso-Gaito-Matarazzo-Cacchiamo,37.6281902,14
 Strada provinciale Leonforte-Erbavusa-Bivio SP19 Villadoro,37.6666316,14.3058591
 Strada provinciale Rabbiti-Bufalà-Manna,37.6165987,14.2945306
 Strada provinciale Vignale-Pirato,37.6280254,14.3210980
-Strada statale Catanese,37.5846887,14.3012500
+Strada statale Catanese,37.5846935,14.3012393
 Strada statale Centrale Sicula,37.5806302,14.2864554
-Strada statale di Alimena,37.5838763,14.2786170
+Strada statale di Alimena,37.5838380,14.2785949
 Torre di Gallo,37.6018726,14.2589230
 Via Agrigento,37.6829724,14.2315914
 Via Annunziata,37.5895678,14.2722095
@@ -1671,7 +1672,7 @@ Piazza Vittime della Mafia,37.7519363,14.3851440
 Piazzetta Francesco Insinga Avvocato,37.7455357,14.3962831
 Piazzetta Leone II,37.7478132,14.3985818
 Piazzetta Nicolò Speciale,37.7467709,14.3941676
-Strada provinciale Bivio SS117-Villadoro,37.7125027,14.3089594
+Strada provinciale Bivio SS117-Villadoro,37.7233349,14.3253981
 Strada provinciale Bivio SS120-Bivio SS117,37.7883202,14.4287413
 Strada provinciale Bivio SS121 Agira-Nicosia,37.7439277,14.4359121
 Strada provinciale Cacchiamo-Villadoro,37.6879926,14.2496539
@@ -1679,10 +1680,10 @@ Strada provinciale Calascibetta-Malpasso-Gaito-Matarazzo-Cacchiamo,37.6281902,14
 Strada provinciale Castagna-Musa Pianazza,37.7436646,14.4630900
 Strada provinciale Leonforte-Erbavusa-Bivio SP19 Villadoro,37.6666316,14.3058591
 Strada provinciale Leonforte-Portella Creta,37.6822566,14.3286022
-Strada provinciale Nicosia-Fontana di Piazza,37.7352619,14.4062689
+Strada provinciale Nicosia-Fontana di Piazza,37.7352619,14.4062959
 Strada provinciale Nicosia-Ponte Oliveri-Sperlinga,37.7687358,14.3610407
 Strada provinciale Pancallo-Spirini,37.7817826,14.4533273
-Strada provinciale San Domenico-Sant'Agrippina-Valpertuso-San Martino,37.7874468,14.3881730
+Strada provinciale San Domenico-Sant'Agrippina-Valpertuso-San Martino,37.7987377,14.3881730
 Strada provinciale San Giacomo-Castagna-Casale Buonfiglio,37.7507966,14.4697793
 Strada provinciale San Giacomo-Spirini,37.7702738,14.4463625
 Strada statale 120 dell'Etna e delle Madonie,37.7570849,14.3605298
@@ -1721,6 +1722,7 @@ Viale Magnana,37.7482847,14.3835720
 Viale Nicolò Sabia,37.7528755,14.4023010
 Via Leonardo da Vinci,37.7610623,14.3798859
 Viale Vittorio Veneto,37.7443162,14.3958207
+Via Mammafiglia,37.7452665,14.3994224
 Via Marcello Capra,37.7480628,14.4035848
 Via Marchese D'Onofrio,37.6942491,14.2620313
 Via M. Capra,37.7461268,14.3987158
@@ -1743,11 +1745,12 @@ Via San Gabriele dell'Addolorata,37.7498539,14.3863488
 Via San Giuseppe,37.7480999,14.4000705
 Via San Martino,37.6926797,14.2602099
 Via San Michele,37.7493931,14.4047162
-Via S. Anna,37.7452665,14.3994224
+Via S. Anna,37.7449907,14.3974859
 Via Santa Croce,37.6910692,14.2606725
 Via Sant'Agata,37.7465772,14.3977195
 Via Santa Lucia,37.7526693,14.4086230
 Via Sant'Andrea,37.7490968,14.3952161
+Via Sant'Antonino,37.7470417,14.4016461
 Via Sant'Antonio Abate,37.7471646,14.3961227
 Via S. Gregorio,37.7476987,14.3949337
 Via Solferino,37.6929763,14.2599425
@@ -1767,7 +1770,9 @@ Vicolo Gallaccio,37.7495020,14.4030566
 Vicolo I Gurgone,37.7498588,14.4033908
 Vicolo II Gurgone,37.7499242,14.4034880
 Vicolo I San Michele,37.7506367,14.4065453
+Vicolo I Sant'Antonino,37.7468931,14.4004661
 Vicolo Magenta,37.6912415,14.2612426
+Vicolo Mammafiglia,37.7465665,14.4000745
 Vicolo Mannarà,37.7486108,14.4010697
 Vicolo Porta D'Aquila,37.7490748,14.3994401
 Vicolo San Biagio,37.7467875,14.3990733
@@ -1859,7 +1864,7 @@ Corso Campania,37.7863420,14.5963805
 Piazza Idria,37.7844410,14.5998759
 Ponte Borgonovo,37.8072854,14.6383873
 Ponte Faidda,37.8072384,14.6139130
-Ponte Giuliano,37.8074522,14.6993025
+Ponte Giuliano,37.8074490,14.6992797
 Strada provinciale Bivio SP34-Stazione Sparacollo,37.7282416,14.6200782
 Strada provinciale Bivio SS575 Ciappulla-Affillo-Prosta,37.7406512,14.6428383
 Strada provinciale Carcaci-Sparacollo,37.6784058,14.6955521
@@ -1868,7 +1873,7 @@ Strada provinciale Donnanna-Cummino-Scippa-San Paolo,37.7493032,14.6710091
 Strada provinciale Gagliano Castelferrato-Serrobianco,37.7307232,14.5601350
 Strada provinciale Gagliano Castelferrato-Troina,37.7533275,14.5580320
 Strada provinciale Piano Torre-Diga Ancipa-Bivio SS120,37.8146744,14.5661514
-Strada provinciale Ponte Giuliano-Borgo Nuovo,37.7962406,14.6706930
+Strada provinciale Ponte Giuliano-Borgo Nuovo,37.7911962,14.6680424
 Strada provinciale SP47-Bivio SP47/SP77,37.8162267,14.5660663
 Strada provinciale Tre Aie-Trombe,37.8241331,14.5460454
 Strada statale dell'Etna e delle Madonie,37.8073185,14.5481590
@@ -1947,7 +1952,7 @@ Via Tomasi Di Lampedusa,37.8096015,14.5064660
 Piazza Castello,37.7656906,14.3532033
 Piazza Francesco Crispi,37.7655070,14.3515496
 Salita Mulino,37.7653189,14.3537621
-Strada provinciale Bivio SS117-Villadoro,37.7125027,14.3089594
+Strada provinciale Bivio SS117-Villadoro,37.7233349,14.3253981
 Strada provinciale Nicosia-Ponte Oliveri-Sperlinga,37.7687358,14.3610407
 Strada statale 120 dell'Etna e delle Madonie,37.7570849,14.3605298
 Strada statale dell'Etna e delle Madonie,37.7951701,14.2645494

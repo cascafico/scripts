@@ -268,7 +268,7 @@ Via Mantovana,45.1676590,9.5551956
 Via Mazzini,45.1596570,9.5542320
 Via Montemalo,45.1572759,9.5565427
 Via Nuova Isola,45.1596183,9.5509783
-Via Padullo,45.1644906,9.5718627
+Via Padullo,45.1644906,9.5718484
 Via Peveri,45.1589467,9.5533276
 Via Pietro Parisio,45.1597251,9.5550683
 Via Pio Rossi,45.1586992,9.5570679
@@ -288,7 +288,7 @@ Cascina Marianna,45.1509353,9.5897296
 Cascina San Giuseppe,45.1506916,9.5866673
 Frazione Guzzafame,45.1333566,9.5887159
 Frazione Malpaga,45.1393836,9.5850757
-La Lodigiana,45.1582308,9.5969335
+La Lodigiana,45.1586755,9.5964808
 Località Ca' dei Tittini,45.1402073,9.5972131
 Piazza Roma,45.1481516,9.5918693
 Via Achille Grandi,45.1483738,9.5936501
@@ -346,6 +346,7 @@ Via Polenghi,45.1366117,9.7231273
 Via Razzetti,45.1404744,9.7145101
 Via S.Rocco,45.1371856,9.7276878
 Via Tarenzi,45.1391249,9.7219865
+Ponte Salvo D'Aquisto,45.1788769,9.7822661
 Rotonda Case Nuove,45.1436853,9.7939916
 SP 27,45.1660072,9.7563297
 Strada Provinciale 27,45.1438365,9.7936658
@@ -393,7 +394,7 @@ Via Monte Vioz,45.1683761,9.7561571
 Via Ospedale Corazza,45.1643955,9.7626224
 Via Paolo VI,45.1705430,9.7583213
 Via Papa Giovanni XXIII,45.1699799,9.7586401
-Via Pedrazzini Guatamacchi,45.1793744,9.7369625
+Via Pedrazzini Guaitamacchi,45.1796237,9.7371480
 Via Pertini,45.1614573,9.7697688
 Via Roma,45.1670665,9.7612641
 Via S. Francesco,45.1664091,9.7625690
@@ -538,7 +539,7 @@ Via Paolo Gorini,45.1615585,9.7088529
 Via Parini,45.1630567,9.6995923
 Via Passerini,45.1709539,9.7030098
 Via P. Borsellino,45.1538242,9.6733144
-Via Pedrazzini Guatamacchi,45.1652338,9.7071165
+Via Pedrazzini Guaitamacchi,45.1652338,9.7071165
 Via Piero Alberici,45.1597083,9.7037496
 Via Pietro Nenni,45.1533341,9.6750922
 Via Po,45.1535854,9.7086560
@@ -596,42 +597,42 @@ Vicolo Piave,45.1634277,9.7002047
 Vicolo Podgora,45.1601289,9.7072800
 Vicolo Solferino,45.1608782,9.6957037
 Vicolo Tansini,45.1690732,9.7040931
-Autostrada del Sole,45.2046862,9.5463309
-La Lodigiana,45.1582308,9.5969335
-Piazza Roma,45.1657670,9.5828379
-Strada Provinciale exSS234 Codognese,45.1726802,9.6001060
-Via Ada Negri,45.1686854,9.5797308
+Autostrada del Sole,45.2046909,9.5463157
+La Lodigiana,45.1586755,9.5964808
+Piazza Roma,45.1657638,9.5828188
+Strada Provinciale exSS234 Codognese,45.1724641,9.5953023
+Via Ada Negri,45.1686905,9.5797391
 Via Alcide De Gasperi,45.1682323,9.5848819
-Via Antonio Gramsci,45.1681034,9.5749363
-Via Balbi,45.1674848,9.5801499
-Via Cascinetta,45.1656487,9.5804608
-Via del Cristo,45.1695924,9.5771088
+Via Antonio Gramsci,45.1681109,9.5749309
+Via Balbi,45.1674866,9.5801448
+Via Cascinetta,45.1656623,9.5803716
+Via del Cristo,45.1695075,9.5772359
 Via delle Industrie,45.1548114,9.5941321
 Via Don Sfondrini,45.1669023,9.5863527
 Via Enrico Fermi,45.1728143,9.5865496
 Via Fanfani,45.1680583,9.5846598
 Via Gaffurio,45.1683890,9.5809974
 Via Garibaldi,45.1679044,9.5845432
-Via Giovanni XXIII,45.1683507,9.5769912
-Via Grassi,45.1663288,9.5844958
+Via Giovanni XXIII,45.1683561,9.5769835
+Via Grassi,45.1663349,9.5844958
 Via Guglielmo Marconi,45.1729003,9.5875147
-Via Indipendenza,45.1684002,9.5756274
+Via Indipendenza,45.1684051,9.5756296
 Viale Europa,45.1714419,9.6043821
-Via Libertà,45.1690402,9.5767311
-Via Madre Teresa Di Calcutta,45.1669033,9.5761670
+Via Libertà,45.1690553,9.5767204
+Via Madre Teresa Di Calcutta,45.1669169,9.5761670
 Via Mandella,45.1683174,9.5900329
 Via Manzoni,45.1692568,9.5793841
-Via Matteotti,45.1678780,9.5758707
-Via Minoia,45.1670170,9.5827684
-Via Padullo,45.1644906,9.5718627
+Via Matteotti,45.1678955,9.5758700
+Via Minoia,45.1670266,9.5827511
+Via Padullo,45.1644906,9.5718484
 Via Pagani,45.1657629,9.5870430
-Via Puccini,45.1686167,9.5762251
-Via Stazione,45.1693379,9.5765684
-Via Trento,45.1677504,9.5824822
-Via Trieste,45.1679216,9.5827815
-Via XXI Luglio,45.1682550,9.5813640
-Via XXV Aprile,45.1664470,9.5794004
-Autostrada del Sole,45.2046862,9.5463309
+Via Puccini,45.1686368,9.5762229
+Via Stazione,45.1693459,9.5765662
+Via Trento,45.1677825,9.5825002
+Via Trieste,45.1679323,9.5827836
+Via XXI Luglio,45.1682602,9.5813724
+Via XXV Aprile,45.1664607,9.5793745
+Autostrada del Sole,45.2046909,9.5463157
 Cascina Cantone,45.1863752,9.5508961
 Frazione Fiandra,45.1762070,9.5305352
 Piazza Ada Negri,45.1915117,9.5471830
@@ -921,7 +922,7 @@ Via Biraga,45.2108595,9.6679523
 Via Botticelli,45.2051778,9.6757958
 Via Cascine dei Passerini,45.1916017,9.6781234
 Via Cascinette,45.2019474,9.6753208
-Via della Vittoria,45.2132367,9.6810947
+Via della Vittoria,45.2132051,9.6809963
 Via Eugenio Montale,45.1973969,9.6762480
 Via Gianni Brera,45.2004304,9.6780057
 Via Giosuè Carducci,45.1977026,9.6694729
@@ -957,7 +958,7 @@ Via Alessandro Manzoni,45.2360968,9.4128270
 Via Alessandro Volta,45.2433707,9.4033910
 Via Angelo Benincori,45.2314913,9.4090717
 Via Antonio Campo,45.2462833,9.4272976
-Via Antonio Gramsci,45.2337443,9.4058044
+Via Antonio Gramsci,45.2337443,9.4058029
 Via Armando Diaz,45.2359698,9.4058757
 Via Arrigoni Domini,45.2305518,9.3934567
 Via Arturo Toscanini,45.2335622,9.4086417
@@ -969,7 +970,7 @@ Via Bruno Buozzi,45.2311005,9.4050434
 Via B. Teresa Eustocchio Verzeri,45.2321118,9.4143669
 Via Calabresi,45.2298412,9.4217895
 Via Camillo Benso di Cavour,45.2434621,9.4053712
-Via Capitano Giovanni Antonietti,45.2439050,9.3973115
+Via Capitano Giovanni Antonietti,45.2439111,9.3973207
 Via Carlo Alberto Dalla Chiesa,45.2304173,9.4194403
 Via Carlo Dolcini,45.2452296,9.4303472
 Via Carlo Tenca,45.2399027,9.4084556
@@ -984,7 +985,7 @@ Via Cordai,45.2370348,9.4153673
 Via Costa,45.2358689,9.4021602
 Via Cristoforo Colombo,45.2442190,9.4021687
 Via C. Semenza,45.2434531,9.3963877
-Via Dedè,45.2383395,9.4104852
+Via Dedè,45.2383395,9.4104835
 Via dei Boschi,45.2235756,9.4170517
 Via dei Cordai,45.2383765,9.4148653
 Via dei Fiori,45.2258573,9.4112794
@@ -998,26 +999,26 @@ Via della Croce Bianca,45.2314231,9.4159669
 Via delle Azalee,45.2265027,9.4129444
 Via delle Betulle,45.2274140,9.4156073
 Via delle Foibe,45.2299374,9.3944004
-Via delle Mimose,45.2261294,9.4105757
+Via delle Mimose,45.2261294,9.4105672
 Via delle Orchidee,45.2277906,9.4101689
 Via delle Querce,45.2267572,9.4175006
 Via delle Rose,45.2276904,9.4118457
-Via dello Statuto,45.2410874,9.4029450
+Via dello Statuto,45.2410874,9.4029495
 Via del Pellegrino,45.2367831,9.4053338
 Via del Pescherone,45.2419323,9.4028419
 Via Domenico Tonali,45.2373501,9.4029035
 Via Don Anelli,45.2177283,9.4089033
-Via Don Carlo Gnocchi,45.2430530,9.3982043
+Via Don Carlo Gnocchi,45.2430584,9.3981981
 Via Don Domenico Savarè,45.2391968,9.4100437
 Via Don Ferruccio Ferrari,45.2282911,9.4121593
 Via Don F. Lacchini,45.2476145,9.4273011
 Via Don Giuseppe Pollarolo,45.2436505,9.3984538
 Via Don Orfeo Ferrarese,45.2472256,9.4261783
 Via Don Sturzo,45.2276293,9.3975257
-Via Don Virginio Andena,45.2431029,9.3994209
+Via Don Virginio Andena,45.2431056,9.3994148
 Via Enrico Fermi,45.2441893,9.4001052
 Via Enrico Mattei,45.2334084,9.4068309
-Via Esther Manzoni,45.2354943,9.4158703
+Via Esther Manzoni,45.2354943,9.4160305
 Via Felice Cazzulani,45.2419642,9.3945968
 Via Filippo Turati,45.2309587,9.3959053
 Via Fiordalisi,45.2273446,9.4145205
@@ -1030,7 +1031,7 @@ Via Francesco Petrarca,45.2366177,9.4025167
 Via Fratelli Barasa,45.2410095,9.4055835
 Via Fratelli Cairoli,45.2379863,9.4115464
 Via Fratelli Cervi,45.2329536,9.3929915
-Via Gaetano Donizetti,45.2326925,9.4109199
+Via Gaetano Donizetti,45.2326990,9.4109177
 Via Galileo Galilei,45.2438049,9.4015522
 Via Giacomo Manzoni,45.2418931,9.4042301
 Via Giacomo Matteotti,45.2423070,9.4006198
@@ -1058,11 +1059,11 @@ Via Leonardo da Vinci,45.2442468,9.4025115
 Viale Partigiani,45.2374956,9.4106071
 Viale Piave,45.2330977,9.3971664
 Viale Sandro Pertini,45.2330014,9.3993525
-Viale Trento,45.2326319,9.4082454
+Viale Trento,45.2326271,9.4082454
 Viale Trieste,45.2422036,9.4119322
 Viale Zara,45.2424107,9.4113068
 Via Lina Minestra,45.2437790,9.3969966
-Via Lisonino,45.2432192,9.4065778
+Via Lisonino,45.2432509,9.4066376
 Via Luigi Einaudi,45.2311239,9.4067497
 Via Luigi Galvani,45.2446899,9.4010384
 Via Luigi Pirandello,45.2337337,9.3991397
@@ -1098,17 +1099,17 @@ Via Prof. Roberto Forlani,45.2393956,9.4053849
 Via Prof. Roberto Forlani - Zona Mulino,45.2395703,9.4067287
 Via Raimondo Pandini,45.2360003,9.4076695
 Via Renato M. Peruzzi,45.2461024,9.4281739
-Via Ressica,45.2466785,9.4249612
+Via Ressica,45.2466851,9.4249558
 Via Riccardo Morzenti,45.2364566,9.4117114
 Via Risorgimento,45.2331025,9.4109968
 Via Rossini Gioacchino,45.2335467,9.4107724
-Via Rozza,45.2441111,9.4295678
+Via Rozza,45.2440813,9.4294001
 Via San Bartolomeo,45.2388990,9.4119589
 Via San Benedetto Giuseppe Labre,45.2417397,9.3986791
 Via San Carlo,45.2155936,9.4075573
 Via San Giovanni Bosco,45.2348945,9.4140147
 Via San Giusto,45.2419406,9.3999342
-Via San Luigi Gonzaga,45.2349617,9.4122572
+Via San Luigi Gonzaga,45.2349650,9.4122642
 Via San Martino e Solferino,45.2389477,9.4159838
 Via Sant' Alessandro,45.2345160,9.4118322
 Via Santa Maria Regina,45.2358417,9.4010364
@@ -1122,9 +1123,9 @@ Via Ugo Foscolo,45.2384735,9.4038901
 Via Umberto Biancardi,45.2346483,9.4102148
 Via Umberto I,45.2378332,9.4093398
 Via Valdoni,45.2312040,9.4150285
-Via Vicinale Massaglia Bassa,45.2404748,9.4058845
+Via Vicinale Massaglia Bassa,45.2404748,9.4058890
 Via Vignali,45.2402108,9.4163609
-Via Vittorio Alfieri,45.2374304,9.4144232
+Via Vittorio Alfieri,45.2374304,9.4144302
 ViaVittorio Alfieri,45.2370767,9.4139218
 Via Volontari del Sangue,45.2308805,9.4138787
 Via XX Settembre,45.2357844,9.4152209
@@ -1132,7 +1133,7 @@ Vicolo della Frutta,45.2379498,9.4087137
 Vicolo dell'Angelo,45.2374018,9.4092934
 Vicolo Mercato delle Frutta,45.2383651,9.4087599
 Vicolo Mercato Grano,45.2375318,9.4097023
-Vicolo Pontida,45.2381361,9.4128402
+Vicolo Pontida,45.2381361,9.4128508
 Vicolo San Rocco,45.2420261,9.4071192
 Vicolo Terraggio,45.2372182,9.4086030
 G. Marcora,45.2006005,9.4571775
@@ -1198,7 +1199,7 @@ Via V. Bellini,45.2079116,9.4497382
 Via Vittorio Veneto,45.2084145,9.4544713
 Via XXI Luglio,45.2100727,9.4519807
 Villaggio Giardino,45.2126701,9.4493590
-Autostrada del Sole,45.2046862,9.5463309
+Autostrada del Sole,45.2046909,9.5463157
 Cascina Pantiara,45.2074071,9.5033512
 Cascina Regona,45.1927787,9.5027120
 Cascina San Michele,45.2150539,9.5447428
@@ -1206,7 +1207,7 @@ Frazione Vigarolo,45.2126823,9.4646998
 Località Tre Ruote,45.1966065,9.5017436
 Piazza del Mercato,45.2135469,9.4990408
 Strada Provinciale 107,45.2345445,9.5381090
-Via Alcide de Gasperi,45.2170692,9.5010723
+Via Alcide De Gasperi,45.2168140,9.4992608
 Via Alessandro Manzoni,45.2103137,9.4996819
 Via Antonio Gramsci,45.2084072,9.5027181
 Via Antonio Troglio,45.2090940,9.4942701
@@ -1233,7 +1234,7 @@ Via Enrico Curiel,45.2103917,9.4939373
 Via Felice Cavallotti,45.2102942,9.5009322
 Via Fossadolto,45.2113614,9.4937347
 Via Fossadotto,45.2112069,9.4925521
-Via Fratelli Kennedy,45.2180939,9.5007969
+Via Fratelli Kennedy,45.2182998,9.5008589
 Via F. S. Cabrini,45.2179967,9.4990635
 Via Giacomo Matteotti,45.2136739,9.5036239
 Via Giosuè Carducci,45.2108417,9.4993633
@@ -1248,7 +1249,7 @@ Via IV Novembre,45.2151209,9.5022598
 Via Lago,45.2140157,9.4955401
 Via Luigi Ferrari,45.2085979,9.5030369
 Via Monte Rosa,45.2145493,9.4957735
-Via Palmiro Togliatti,45.2160730,9.5030876
+Via Palmiro Togliatti,45.2162497,9.5030876
 Via Pietro Nenni,45.2091591,9.5002766
 Via Provinciale,45.2116551,9.4922790
 Via Roma,45.2174663,9.4990909
@@ -1289,7 +1290,7 @@ Via Pozzetto,45.2516775,9.6242469
 Via Rodolfo Morandi,45.2458585,9.6195595
 Via Sereni,45.2451444,9.6195907
 Via VIII Marzo,45.2488403,9.6254230
-Piazza Dante Alighieri,45.2348245,9.6690879
+Piazza Dante Alighieri,45.2348971,9.6689827
 SP26 da Castiglione d'Adda a Lodi,45.2219156,9.6704119
 Strada Provinciale exSS591 Cremasca,45.2491991,9.7019580
 Via Alcide De Gasperi,45.2323615,9.6682483
@@ -1303,19 +1304,19 @@ Via Dottor G. Cavuoti,45.2335411,9.6655694
 Via Felice Cavallotti,45.2351251,9.6672121
 Via Filippo Corridoni,45.2358062,9.6695069
 Via Generale Carlo Alberto Dalla Chiesa,45.2328251,9.6665306
-Via Giacomo Matteotti,45.2324072,9.6693153
+Via Giacomo Matteotti,45.2324104,9.6693153
 Via Giuseppe Garibaldi,45.2324838,9.6495188
 Via Mario Tosi,45.2356871,9.6661518
 Via Mirabello,45.2364469,9.6703099
 Via Papa Giovanni XXIII,45.2308765,9.6673400
 Via Papa Paolo VI,45.2330530,9.6649728
-Via Roma,45.2342152,9.6688845
+Via Roma,45.2342184,9.6688845
 Via XX Settembre,45.2351348,9.6680373
 Via XXV Aprile,45.2329197,9.6686484
 Vicolo A. Chiesa,45.2349287,9.6655725
 Largo Castello,45.2228823,9.6922685
-Largo L. Da Vinci,45.2180212,9.6967928
-SP 26,45.2143354,9.6912797
+Largo L. Da Vinci,45.2180670,9.6967928
+SP 26,45.2147191,9.6879714
 SP26 da Castiglione d'Adda a Lodi,45.2219156,9.6704119
 Strada del Gorgo,45.2213235,9.6970268
 Strada Provinciale exSS591 Cremasca,45.2150345,9.6983451
@@ -1339,7 +1340,7 @@ Via Cavour,45.2221120,9.6946216
 Via Concilio,45.2167623,9.6924759
 Via Costituzione,45.2163857,9.6881453
 Via De Gasperi,45.2175744,9.6908707
-Via della Vittoria,45.2158926,9.6914882
+Via della Vittoria,45.2149742,9.6880770
 Via F.lli Cervi,45.2187118,9.6983225
 Via Garibaldi,45.2218351,9.6926288
 Via Giovanni XXIII,45.2183677,9.6985932
@@ -1370,7 +1371,7 @@ Via Trento,45.2167076,9.6911094
 Via Trieste,45.2165913,9.6905821
 Via Umberto I,45.2194213,9.6894036
 Via Unità d'Italia,45.2168982,9.6910447
-Via Vallone del Mulino,45.2231203,9.6870059
+Via Vallone del Mulino,45.2231203,9.6869529
 Via Verdi,45.2158440,9.6895615
 Via XX Settembre,45.2198606,9.6945329
 Piazza Giacomo Matteotti,45.2314872,9.5921088
@@ -1404,7 +1405,7 @@ Vicolo Guglielmo Marconi,45.2326263,9.5919303
 Vicolo I Maggio,45.2348391,9.5911898
 Vicolo Risorgimento,45.2292250,9.5910856
 Vicolo S. Gaudenzio,45.2289976,9.5947570
-Autostrada del Sole,45.2046862,9.5463309
+Autostrada del Sole,45.2046909,9.5463157
 Cascina Cascinetta,45.2397220,9.4862519
 Cascina San Leone,45.2366499,9.4430290
 Via Ada Negri,45.2417671,9.4426820
@@ -1423,7 +1424,7 @@ Via Giovanni XXIII,45.2411283,9.4448269
 Via John Fitzgerald Kennedy,45.2415208,9.4423418
 Via Madini,45.2399338,9.4447642
 Via Maestri del Lavoro,45.2436762,9.4433383
-Via Rozza,45.2441111,9.4295678
+Via Rozza,45.2440813,9.4294001
 Via San Colombano,45.2463500,9.5012633
 Via San Leone,45.2386062,9.4450476
 Via Sant'Angelo,45.2412579,9.4462114
@@ -1451,7 +1452,7 @@ Via Salvo d'Acquisto,45.2404011,9.5381766
 Via Santa Rosa,45.2482396,9.5397400
 Via XXV Aprile,45.2452070,9.5366780
 Piazza Roma,45.2521622,9.5796519
-SP26 da Castiglione d'Adda a Lodi,45.2669403,9.5926916
+SP26 da Castiglione d'Adda a Lodi,45.2567163,9.6091583
 Via Ada Negri,45.2524629,9.5746029
 Via Agostino Bassi,45.2542616,9.5797086
 Via Aldo Moro,45.2650941,9.5915285
@@ -1553,7 +1554,7 @@ Via Roma,45.2526503,9.3768125
 Via San Bassiano,45.2511578,9.3711287
 Via S. F. Cabrini,45.2536708,9.3738238
 Via Vignazze,45.2532312,9.3765849
-Autostrada del Sole,45.2872794,9.4209044
+Autostrada del Sole,45.2872926,9.4209022
 Strada Longa 809,45.2612145,9.5016453
 Via Achille Grandi,45.2658399,9.4903629
 Via Ada Negri,45.2658318,9.4868030
@@ -1647,7 +1648,7 @@ Via San Michele,45.2577495,9.4028666
 Via San Zenone,45.2577370,9.4045997
 Via S. Croce,45.2577962,9.4052804
 Via XX Settembre,45.2561250,9.4006918
-Autostrada del Sole,45.2872794,9.4209044
+Autostrada del Sole,45.2872926,9.4209022
 Cascina Triulzina,45.2606339,9.4331042
 Piazza XXV Aprile,45.2795404,9.4643588
 Strada Comunale Lungo Sillaro,45.2599529,9.4609985
@@ -1706,7 +1707,7 @@ Via Ada Negri,45.2789072,9.5948934
 Via Agello,45.2842750,9.5960184
 Via Alcide de Gasperi,45.2822386,9.5975460
 Via Antonio Gramsci,45.2816615,9.5967087
-Via Arialdo,45.2849203,9.5993348
+Via Arialdo,45.2849203,9.5993397
 Via Bagatti Valsecchi,45.2836674,9.6021454
 Via Caduti,45.2842028,9.5959046
 Via Camate,45.2836323,9.6014021
@@ -1718,7 +1719,7 @@ Via Don Vigorelli,45.2700971,9.5751599
 Via E. Corazza,45.2825684,9.5944020
 Via Edoardo Lampugnani,45.2856582,9.5986998
 Via Emilia,45.2669762,9.5535215
-Via Emilio Conti,45.2849725,9.6020919
+Via Emilio Conti,45.2849691,9.6020982
 Via Federico Barbarossa,45.2800286,9.5948103
 Via Francesco Baracca,45.2839364,9.5962637
 Via Gas,45.2706195,9.5759539
@@ -1733,7 +1734,7 @@ Viale Italia,45.2833129,9.5983012
 Via Madre Cabrini,45.2845423,9.5983441
 Via Mattei,45.2712585,9.5719774
 Via Molteni,45.2826100,9.5994162
-Via Ponte Anelli,45.2841709,9.6027354
+Via Ponte Anelli,45.2841675,9.6027416
 Via Ponte Riolo,45.2843340,9.6045311
 Via Principale,45.2730044,9.5750500
 Via Ravini,45.2733654,9.5739127
@@ -1749,8 +1750,8 @@ Piazza del Popolo,45.2712886,9.5306434
 Piazza Unità d'Italia,45.2705035,9.5297928
 Piazza V. Pagano,45.2707358,9.5276102
 Strada Comunale della Corsa,45.2623062,9.5255212
-Strada Comunale della Martana,45.2682276,9.5212575
-Strada Provinciale 107,45.2705348,9.5252198
+Strada Comunale della Martana,45.2682540,9.5212739
+Strada Provinciale 107,45.2705416,9.5252146
 Strada Provinciale 186,45.2749048,9.5034048
 Strada Provinciale 26,45.2877010,9.5337191
 Strada Vecchia Cremonese,45.2907450,9.5434533
@@ -1807,7 +1808,7 @@ Via XX Settembre,45.2705442,9.5323073
 Via XXV Aprile,45.2716973,9.5305151
 Vicolo Cernuschi,45.2707854,9.5280703
 Vicolo Secondo,45.2701029,9.5295443
-Autostrada del Sole,45.2872794,9.4209044
+Autostrada del Sole,45.2872926,9.4209022
 Piazza Bettino Craxi,45.2771843,9.4326357
 Piazza Don Bartolomeo Locatelli,45.2770511,9.4322431
 Strada Provinciale 140,45.2944019,9.4083227
@@ -2059,7 +2060,7 @@ Via Tiziano Vecellio,45.3112641,9.3570359
 Via Torre Borromea,45.2934958,9.3606265
 Via Walter Tobagi,45.2932344,9.3336214
 Vicolo Privato San Marco,45.2930600,9.3606128
-Autostrada del Sole,45.2872794,9.4209044
+Autostrada del Sole,45.2872926,9.4209022
 Località San Lucio,45.3073352,9.4057716
 Piazzale Aldo Moro,45.3021843,9.4164547
 Piazzale Alessandrini,45.3015214,9.4209328
@@ -2151,7 +2152,7 @@ Vicolo Primo Maggio,45.3039199,9.4135192
 Corso Adda,45.3169728,9.5069429
 Corso Ettore Archinti,45.3162424,9.5003665
 Corso Giuseppe Mazzini,45.3086457,9.5065514
-Corso Roma,45.3118580,9.5047960
+Corso Roma,45.3118626,9.5047960
 Corso Umberto,45.3144814,9.5026684
 Corso Umberto I,45.3146806,9.5028518
 Corso Vittorio Emanuele II,45.3131837,9.5007756
@@ -2185,9 +2186,10 @@ Strada Bottedo,45.3079204,9.4539190
 Strada Provinciale 107,45.2850488,9.5196327
 Strada Provinciale 26,45.2877010,9.5337191
 Strada Vecchia Cremonese,45.3030560,9.5157196
-Tangenziale Est di Lodi,45.2944701,9.5195224
+Tangenziale Est di Lodi,45.2944944,9.5186242
 Tangenziale Lodi,45.3023587,9.4841806
 Tangenziale Sud Lodi,45.3005875,9.4880586
+Via 10 Maggio,45.3179375,9.5076240
 Via Abate Luigi Anelli,45.3107929,9.4954852
 Via Achille Grandi,45.3010440,9.4914061
 Via Ada Negri,45.3146369,9.4886273
@@ -2208,7 +2210,7 @@ Via Amerigo Vespucci,45.3171801,9.4893313
 Via Anna Vertua Gentile,45.3174836,9.4915487
 Via Antonino Caponnetto,45.3292703,9.5169242
 Via Antonio Campi,45.3219671,9.5131986
-Via Antonio Dossena,45.3010332,9.5033981
+Via Antonio Dossena,45.3010358,9.5034185
 Via Antonio Fogazzaro,45.3158607,9.4961946
 Via Antonio Gramsci,45.3138675,9.4954515
 Via Antonio Lombardo,45.3059867,9.4995268
@@ -2259,7 +2261,7 @@ Via Cesare Maria Tondini,45.3190679,9.4921894
 Via Cesare Scacchi,45.3216803,9.4627051
 Via C. Fugazza,45.3131829,9.5157273
 Via Codognino,45.2921255,9.4760014
-Via Colle Eghezzone,45.3179123,9.5003893
+Via Colle Eghezzone,45.3179167,9.5003804
 Via Coppellotti,45.3010782,9.5145698
 Via C. Tavazzi Catenago,45.3076408,9.4896835
 Via Defendente da Lodi,45.3186651,9.5040026
@@ -2275,16 +2277,16 @@ Via del Chiosino,45.3068689,9.4817663
 Via del Cimitero,45.3217722,9.4717274
 Via del Commercio,45.3184550,9.4576088
 Via del Contarico,45.3211131,9.5139933
-Via del Costino,45.3036783,9.5234407
-Via De Lemene,45.3117809,9.5023723
+Via del Costino,45.3036603,9.5233105
+Via De Lemene,45.3117872,9.5023698
 Via Delfino Codazzi,45.3007854,9.4959912
 Via del Guado,45.2864000,9.5325488
 Via della Baroncina,45.2983914,9.5016812
-Via della Calca,45.3194637,9.4783347
+Via della Calca,45.3193937,9.4783608
 Via della Camolina,45.3097322,9.4883759
 Via della Cà Alta,45.3118650,9.4913801
 Via della Codignola,45.3238161,9.5142003
-Via della Costa,45.3187693,9.5033348
+Via della Costa,45.3187650,9.5033287
 Via dell'Acquedotto,45.3115403,9.4985028
 Via della Dossenina,45.3058406,9.4946247
 Via della Filanda,45.3199783,9.4629792
@@ -2314,8 +2316,8 @@ Via Dunieri,45.3049480,9.4988200
 Via Elisa Giambelli,45.3125146,9.5075057
 Via Emilia,45.2895261,9.5304922
 Via Emilio Alessandrini,45.3002257,9.5004619
-Via Enrico Fermi,45.3127716,9.4876272
-Via Enrico Mattei,45.3191275,9.5059348
+Via Enrico Fermi,45.3127714,9.4876272
+Via Enrico Mattei,45.3191302,9.5059222
 Via Enrico Scuri,45.3213111,9.5143503
 Via Ermenegildo Silvani,45.3165948,9.5092563
 Via Eugenio Montale,45.3147447,9.4913172
@@ -2331,15 +2333,15 @@ Via Ferdinando Magellano,45.3178077,9.4890035
 Via Ferretti,45.3009646,9.5154075
 Via Filiberto Villani,45.3087651,9.5031228
 Via Filippo Turati,45.3016655,9.5042561
-Via Fissiraga,45.3141513,9.5063659
+Via Fissiraga,45.3143727,9.5071667
 Via Folli,45.3060766,9.4835219
 Via Francesco Agello,45.3063849,9.4954352
-Via Francesco Cagnola,45.3179456,9.5015583
+Via Francesco Cagnola,45.3179456,9.5015494
 Via Francesco Gabba,45.3141485,9.5013189
 Via Francesco Hayez,45.3216112,9.5140199
 Via Francesco Rossetti,45.3115252,9.5013130
 Via Francesco Sforza,45.3158805,9.4904613
-Via Franchino Gaffurio,45.3134291,9.5046476
+Via Franchino Gaffurio,45.3134423,9.5046402
 Via Fra Simonetto da Camerino,45.3127549,9.4915848
 Via Fratelli Cervi,45.3065787,9.4968068
 Via Fratelli Lupi,45.3229880,9.5120081
@@ -2366,7 +2368,7 @@ Via Giovanni Bulloni,45.3004649,9.5036647
 Via Giovanni Carnovali,45.3005292,9.5165164
 Via Giovanni da Verrazzano,45.3179783,9.4883738
 Via Giovanni e Matteo Della Chiesa,45.3226187,9.5121254
-Via Giovanni Falcone,45.3260086,9.5130185
+Via Giovanni Falcone,45.3260104,9.5130130
 Via Giovanni Fe,45.3201639,9.4852578
 Via Giovanni Gandini,45.3103701,9.4920338
 Via Giovanni Haussmann,45.3005754,9.4929303
@@ -2377,7 +2379,7 @@ Via Giuseppe Minoia,45.3202259,9.4872496
 Via Giuseppe Piermarini,45.3035841,9.5061552
 Via Giuseppe Saragat,45.3014737,9.4967190
 Via Giuseppe Verdi,45.3154331,9.5033282
-Via Giuseppina Strepponi,45.3153524,9.5054200
+Via Giuseppina Strepponi,45.3153506,9.5054165
 Via G. Pagani,45.3007726,9.5037488
 Via Guido Galli,45.2999205,9.5016370
 Via Guido Rossa,45.2987207,9.4985025
@@ -2388,14 +2390,14 @@ Via Isella,45.3179045,9.5055292
 Via Isola Caprera,45.3162263,9.5111029
 Via Italo Gariboldi,45.3175944,9.5080160
 Via John Fitzgerald Kennedy,45.3042911,9.4974380
-Via Karl Marx,45.3195044,9.4802877
+Via Karl Marx,45.3195128,9.4802877
 Via Lago di Como,45.3112508,9.5112137
 Via Lago di Costanza,45.3119494,9.5133252
-Via Lago di Garda,45.3115489,9.5125975
+Via Lago di Garda,45.3112028,9.5130288
 Via Lago di Pusiano,45.3101571,9.5133003
 Via Lago di Varese,45.3113123,9.5130383
 Via Lago d'Orta,45.3120226,9.5106277
-Via Lago Gerundo,45.3121752,9.5109188
+Via Lago Gerundo,45.3118043,9.5103444
 Via Lago Maggiore,45.3124440,9.5120759
 Via Lanzani,45.3002950,9.5151435
 Via Lazio,45.3015381,9.5093361
@@ -2447,9 +2449,9 @@ Viale Veneto,45.3008231,9.5114264
 Viale Venezia,45.3228263,9.4874922
 Viale Vignati,45.3105570,9.5001452
 Via Libero Grassi,45.3267697,9.5123332
-Via Lodino,45.3166109,9.5057538
+Via Lodino,45.3166145,9.5057599
 Via Lodivecchio,45.3117423,9.4909065
-Via Lodovico Vistarini,45.3176208,9.5043897
+Via Lodovico Vistarini,45.3176214,9.5043775
 Via Lomellina,45.2963011,9.5168208
 Via Luigi Bay,45.3067181,9.4819262
 Via Luigi Cadamosto,45.3188176,9.4909105
@@ -2467,7 +2469,7 @@ Via Marconi,45.3123810,9.4884044
 Via Marco Polo,45.3183119,9.4888767
 Via Maria Cosway,45.3072954,9.4871155
 Via Marini,45.3047904,9.4856754
-Via Marsala,45.3131726,9.5024089
+Via Marsala,45.3131789,9.5024146
 Via Martin Lutero,45.3056502,9.4817256
 Via Martino Garati,45.3187422,9.5021696
 Via Martiri del Poligono,45.3193150,9.4947359
@@ -2484,7 +2486,7 @@ Via Milani,45.3008205,9.5140941
 Via Molino della Madonna,45.3139637,9.5130449
 Via Monferrato,45.2959898,9.5164174
 Via Monsignor Beccaria,45.2979365,9.5213274
-Via Monsignor T.V. Benedetti,45.3174884,9.5013652
+Via Monsignor T.V. Benedetti,45.3174928,9.5013563
 Via Monte Bianco,45.3130268,9.4917248
 Via Monte Cervino,45.3132767,9.4911735
 Via Morti della Barbina,45.3121734,9.5136085
@@ -2492,7 +2494,7 @@ Via Mozart,45.2976713,9.5191678
 Via Nicolò Tommaseo,45.3111014,9.4977915
 Via Nicola Calipari,45.3109229,9.4893014
 Via Nino Dall’Oro,45.3096609,9.5004587
-Via Oldrado da Ponte,45.3168249,9.5064015
+Via Oldrado da Ponte,45.3168206,9.5063832
 Via Oppizio,45.3039815,9.4866819
 Via Orfino Giudice,45.3134160,9.4960605
 Via Oscar A. Romero,45.3241962,9.5164321
@@ -2518,7 +2520,7 @@ Via Pompeo Strabone,45.3123437,9.4930139
 Via Precacesa,45.3054813,9.4853570
 Via Privata C. Loretz,45.3012241,9.5135713
 Via Puccini,45.2974554,9.5185667
-Via P. Zamproni,45.3184729,9.5068428
+Via P. Zamproni,45.3184781,9.5068340
 Via Raffaello Sanzio,45.3039986,9.4909722
 Via Romolo Murri,45.3196545,9.4792647
 Via Rossini,45.2967068,9.5188482
@@ -2527,7 +2529,7 @@ Via San Barnaba,45.2980212,9.5019567
 Via San Bassiano,45.3119285,9.4950362
 Via San Colombano,45.3059725,9.5019614
 Via San Fereolo,45.3080470,9.4834844
-Via San Francesco,45.3157746,9.5064361
+Via San Francesco,45.3157837,9.5064453
 Via San Francesco d'Assisi,45.3146979,9.5077878
 Via San Giacomo,45.3161026,9.5080871
 Via San Giovanni da Lodi,45.3127892,9.4951063
@@ -2547,7 +2549,7 @@ Via Spezzaferri,45.2999976,9.5179501
 Via Taddeo da Lodi,45.3231692,9.5109838
 Via Tavazzi,45.3017478,9.5146278
 Via Timolati,45.3053467,9.5025945
-Via Tito Fanfulla,45.3163543,9.5031606
+Via Tito Fanfulla,45.3163579,9.5031667
 Via Tiziano Zalli,45.3037841,9.5050327
 Via Todisco,45.2996203,9.4961192
 Via Tondini vicolo A,45.3189996,9.4916644
@@ -2572,7 +2574,6 @@ Via Vittime della Violenza,45.3019083,9.4950813
 Via Vivaldi,45.2976295,9.5203834
 Via Volturno,45.3136137,9.5058457
 Via Walter Tobagi,45.3011597,9.4996091
-Via X Maggio,45.3179375,9.5076240
 Via XXIV Maggio,45.3070723,9.5047156
 Via XX Settembre,45.3123835,9.5047683
 Vicolo Annibale Maineri,45.3087027,9.5046293
@@ -2606,7 +2607,7 @@ Via Fanfulla,45.3120995,9.5917148
 Via Roma,45.3122217,9.5941322
 Via Ronchi,45.3140022,9.5927232
 Via Ugo Foscolo,45.3129251,9.5933609
-Autostrada del Sole,45.2872794,9.4209044
+Autostrada del Sole,45.2872926,9.4209022
 Cascina Zelasche,45.3187967,9.4431033
 Piazza George Bernard Shaw,45.3360735,9.4065930
 Piazza Risorgimento,45.3371820,9.4049400
@@ -2619,7 +2620,7 @@ Via Aldo Moro,45.3566707,9.4119735
 Via Angelo Grossi,45.3317109,9.3944778
 Via Antonio Gramsci,45.3266659,9.4050589
 Via Attilio Orecchia,45.3278494,9.3921136
-Via Bolenzano,45.3425011,9.4023527
+Via Bolenzano,45.3425345,9.4023527
 Via Cesare Battisti,45.3272844,9.4087039
 Via Companatico,45.3320321,9.4072685
 Via Dante,45.3278986,9.4060041
@@ -2655,7 +2656,7 @@ Via Teresa Abbà,45.3307786,9.3954330
 Via Villaggio STEI,45.3276017,9.4076787
 Via Vincenzo Agazzi,45.3282073,9.4066678
 Via Walter Tobagi,45.3325119,9.4091416
-Via XX Settembre,45.3473740,9.3897205
+Via XX Settembre,45.3474205,9.3896943
 Via XXV Aprile,45.3289823,9.4080945
 Vicolo Buttintrocca,45.3276946,9.4052719
 Vicolo Giardino,45.3262705,9.4073281
@@ -2697,49 +2698,49 @@ Via Giovanni Falcone,45.3536513,9.5734085
 Via Giuseppe Verdi,45.3537044,9.5751240
 Via Nino dall'Oro,45.3450407,9.5795057
 Strada Consortile Ex 159,45.3479146,9.3691421
-Via 1º Maggio,45.3444092,9.3637826
+Via Alcide De Gasperi,45.3421084,9.3626084
+Via Alessandro Manzoni,45.3397385,9.3649602
 Via A. Negri,45.3461474,9.3676424
-Via Asfinio,45.3422628,9.3678459
+Via Asfinio,45.3422693,9.3678459
 Via Azalee,45.3383903,9.3702800
-Via Berlinguer,45.3418320,9.3648398
-Via Bixio,45.3396816,9.3645340
 Via Brodolini,45.3421138,9.3687107
+Via Carlo Alberto Dalla Chiesa,45.3385953,9.3662897
 Via Cascine,45.3416905,9.3690160
 Via Castellotti,45.3461896,9.3692959
 Via Cavour,45.3433450,9.3623704
 Via Cremascoli,45.3414188,9.3686856
-Via dalla Chiesa,45.3385953,9.3662897
-Via Dante Alighieri,45.3426896,9.3696611
-Via De Gasperi,45.3421084,9.3626084
+Via Dante Alighieri,45.3420444,9.3697529
 Via dei Mille,45.3402848,9.3698985
 Via del Bissone,45.3384685,9.3610887
 Via Don Gnocchi,45.3384407,9.3635618
 Via Don Savarè,45.3442709,9.3684715
 Via Emilia,45.3356856,9.3773970
-Via Falcone,45.3395134,9.3702259
-Via F.lli Cervi,45.3426728,9.3686233
-Via Foscolo,45.3397947,9.3653934
-Via Garibaldi,45.3413051,9.3632780
-Via Giovanni XXIII,45.3406902,9.3650990
+Via Enrico Berlinguer,45.3418320,9.3648398
+Via Fratelli Cervi,45.3426917,9.3686186
+Via Giacomo Leopardi,45.3402102,9.3641065
+Via Giacomo Matteotti,45.3431709,9.3682657
+Via Giovanni Falcone,45.3395134,9.3702259
+Via Giovanni XXIII,45.3406613,9.3650262
 Via Giulio Cesare,45.3413179,9.3633236
+Via Giuseppe Garibaldi,45.3413221,9.3632472
 Via Gorini,45.3449879,9.3692898
 Via Gramsci,45.3419412,9.3635366
 Via Industrie,45.3448913,9.3642475
-Via L. da Vinci,45.3409871,9.3640420
-Via Leopardi,45.3401961,9.3641132
-Via Madre Cabrini,45.3444231,9.3676601
-Via Manzoni,45.3397385,9.3649602
+Via Leonardo da Vinci,45.3410022,9.3640259
+Via Madre Cabrini,45.3444297,9.3676601
 Via Marconi,45.3455003,9.3624663
-Via Margherite,45.3383578,9.3696867
-Via Mattarella,45.3386505,9.3664101
-Via Matteotti,45.3431495,9.3682697
+Via Margherite,45.3383805,9.3696814
 Via Mazzini,45.3399470,9.3663573
-Via Mimose,45.3378828,9.3698717
+Via Mimose,45.3379111,9.3698611
 Via Motta,45.3409618,9.3689242
+Via Nino Bixio,45.3396816,9.3645340
+Via Piersanti Mattarella,45.3386505,9.3664101
+Via Primo Maggio,45.3444092,9.3637826
 Via Primule,45.3380531,9.3697036
 Via Raffaello Sanzio,45.3406162,9.3686821
 Via Roncolo,45.3454328,9.3681122
 Via Sentiero Bissone,45.3394145,9.3693912
+Via Ugo Foscolo,45.3397947,9.3653934
 Via Ungaretti,45.3400142,9.3689664
 Via Volta,45.3455333,9.3616807
 Piazza Papa Giovanni Paolo II,45.3608991,9.4935950
@@ -2769,11 +2770,11 @@ Vicolo dei Fiori,45.3581933,9.4955846
 Cascina Virolo,45.3819631,9.3791095
 Corso Europa,45.3912820,9.3915496
 Località Sabbione,45.3594674,9.4095302
-Piazza del Comune,45.3732605,9.3980165
-Piazza della Chiesa,45.3748903,9.3974223
+Piazza del Comune,45.3732708,9.3980151
+Piazza della Chiesa,45.3748988,9.3974250
 Strada Provinciale 138 Pandina,45.3744293,9.4031695
 Tangenziale Est Esterna Milano,45.3876011,9.3855932
-Via Ada Negri,45.3728762,9.3970723
+Via Ada Negri,45.3728875,9.3970629
 Via Adda,45.3569859,9.4227658
 Via Adige,45.3564439,9.4188719
 Via Alcide de Gasperi,45.3915215,9.3918021
@@ -2787,7 +2788,7 @@ Via Canzi,45.3586456,9.4113531
 Via Cascina Buttintrocca,45.3693564,9.3823592
 Via Cassino,45.3779310,9.3966275
 Via Ceresa,45.3569396,9.4231969
-Via Dante Alighieri,45.3754781,9.3955714
+Via Dante Alighieri,45.3755045,9.3955447
 Via dei Tigli,45.3764583,9.3974878
 Via della Quercia,45.3732364,9.3938949
 Via della Vittoria,45.3928741,9.3931527
@@ -2795,41 +2796,41 @@ Via delle Betulle,45.3759895,9.3966291
 Via delle Nazioni,45.3907098,9.3933828
 Via delle Robinie,45.3772726,9.3951524
 Via Don Pasquale Ferrari,45.3770222,9.3956276
-Via Edward Jenner,45.3692335,9.3926330
+Via Edward Jenner,45.3692184,9.3924318
 Via Enrico Fermi,45.3700317,9.3920473
-Via Favini,45.3739903,9.4034422
-Via Giacomo Leopardi,45.3754132,9.4046218
+Via Favini,45.3739988,9.4034409
+Via Giacomo Leopardi,45.3754245,9.4046218
 Via Giorgio Amendola,45.3583570,9.4179206
 Via Giosuè Carducci,45.3737333,9.3959760
-Via Giuseppe Verdi,45.3755403,9.3958840
-Via Guglielmo Marconi,45.3760328,9.3952938
+Via Giuseppe Verdi,45.3755696,9.3958639
+Via Guglielmo Marconi,45.3760574,9.3952669
 Via I Maggio,45.3907777,9.3898421
 Via IV Novembre,45.3574089,9.4126894
 Via Lago di Como,45.3731888,9.3999105
-Via Lago di Garda,45.3733347,9.4025477
+Via Lago di Garda,45.3733479,9.4025477
 Via Lago d'Iseo,45.3744417,9.4047183
-Via Lago Maggiore,45.3731502,9.4014342
+Via Lago Maggiore,45.3731794,9.4014182
 Via Lanzano,45.3756758,9.3942027
 Viale dei Platani,45.3745816,9.3941918
 Via Lombardia,45.3907592,9.3907216
 Via Louis Pasteur,45.3697677,9.3928823
-Via Mare,45.3750602,9.3998096
+Via Mare,45.3750724,9.3998123
 Via Maria Montessori,45.3755403,9.3930866
 Via Monsignor Pandini,45.3572741,9.4104612
 Via Monte Rosa,45.3895678,9.3903151
 Via Mulazzano,45.3904630,9.3914336
 Via Pandina,45.3719386,9.3917455
-Via Pietro Nenni,45.3741507,9.3936813
+Via Pietro Nenni,45.3741657,9.3936760
 Via Po,45.3562623,9.4226055
 Via Quartiano,45.3719835,9.4005705
-Via Roma,45.3743602,9.3985668
-Via Roncomarzo,45.3693180,9.3947762
+Via Roma,45.3743800,9.3985642
+Via Roncomarzo,45.3715382,9.3936447
 Via Rossini,45.3516106,9.4282393
-Via Santa Maria,45.3738896,9.3980308
+Via Santa Maria,45.3739141,9.3979944
 Via Santo Stefano,45.3753233,9.3942718
 Via Sardegna,45.3911685,9.3926169
 Via S. F. Saverio Cabrini,45.3768075,9.3950276
-Via Silvio Pellico,45.3739528,9.4011250
+Via Silvio Pellico,45.3739650,9.4011035
 Via Ticino,45.3583796,9.4158731
 Via Tricolore,45.3512621,9.4234570
 Via Ugo Foscolo,45.3727448,9.3959694
@@ -2863,7 +2864,7 @@ Via per Lodi,45.3555369,9.4433496
 Via Salvo d'Acquisto,45.3576183,9.4406729
 Via San Rocco,45.3586162,9.4411967
 Via Vittorio Bachelet,45.3557910,9.4435366
-Piazza Roma,45.3535611,9.3734977
+Piazza Roma,45.3535780,9.3734963
 Piazza San Valentino,45.3524474,9.3736352
 Piazza Siena,45.3647538,9.3569319
 Strada Consortile delle Guardie,45.3478039,9.3667586
@@ -2873,51 +2874,50 @@ Tangenziale Est Esterna Milano,45.3541081,9.3559089
 Via Ada Negri,45.3515419,9.3703790
 Via Aldo Moro,45.3552143,9.3752398
 Via Alessandro Manzoni,45.3518545,9.3680924
-Via Ancona,45.3666515,9.3585100
+Via Ancona,45.3666760,9.3585100
 Via Bergamo,45.3644058,9.3575579
 Via Cascina Buttintrocca,45.3693564,9.3823592
 Via Colombera,45.3586829,9.3658835
 Via Como,45.3669482,9.3564596
 Via Costituzione,45.3553122,9.3725051
 Via Crosanna,45.3526906,9.3726604
-Via Dante Alighieri,45.3535473,9.3710595
-Via Della Pace,45.3519650,9.3766427
+Via Dante Alighieri,45.3535663,9.3710595
+Via della Pace,45.3515488,9.3768005
 Via della Repubblica,45.3556206,9.3730977
 Via delle Cascine,45.3525422,9.3705054
-Via don Bosco,45.3530239,9.3757373
-Via Don Bosco,45.3525573,9.3765673
+Via Don Bosco,45.3530239,9.3757373
 Via Enrico Mattei,45.3537559,9.3758580
 Via Europa,45.3546113,9.3745117
 via Filippo Meda,45.3540327,9.3712194
-Via Firenze,45.3664745,9.3569742
+Via Firenze,45.3664952,9.3569634
 Via Gabriele D'Annunzio,45.3512958,9.3730024
 Via Giacomo Leopardi,45.3510014,9.3710347
 via Giberta,45.3538558,9.3705187
-via Giosuè Carducci,45.3510172,9.3752463
+Via Giosuè Carducci,45.3506588,9.3743478
 Via Giovanni Pascoli,45.3514784,9.3715619
-Via Giovanni Verga,45.3512465,9.3726498
+Via Giovanni Verga,45.3512607,9.3726351
 Via Giuseppe Ungaretti,45.3500537,9.3706778
 Viale Lombardia,45.3666191,9.3540273
 Via Leonardo da Vinci,45.3509226,9.3723092
-Via Libertà,45.3627561,9.3678109
+Via Libertà,45.3627768,9.3678190
 Via Lodi,45.3669690,9.3573771
 Via Malpensata,45.3541745,9.3720793
-via Michelangelo Buonarroti,45.3496164,9.3708426
+Via Michelangelo Buonarroti,45.3496164,9.3708426
 Via Milano,45.3645768,9.3631300
 Via Napoli,45.3633616,9.3592514
 Via Padova,45.3660167,9.3586555
 Via Parma,45.3625672,9.3619156
 Via Pavia,45.3642176,9.3634699
 Via Risorgimento,45.3537242,9.3725439
-Via Sandro Pertini,45.3514472,9.3748819
+Via Sandro Pertini,45.3514642,9.3748765
+Via San Martino,45.3550548,9.3747508
 Via Senato,45.3555717,9.3734046
-Via S. Martino,45.3550548,9.3747508
 Via Statuto,45.3552198,9.3735995
-Via Torino,45.3655107,9.3569448
-Via Trento E Trieste,45.3545027,9.3779734
+Via Torino,45.3655230,9.3569408
+Via Trento e Trieste,45.3545027,9.3779734
 Via Udine,45.3545869,9.3767087
 Via Venezia,45.3655035,9.3572945
-Vicolo Padre Romeo M. Farina,45.3532414,9.3735212
+Vicolo Padre Romeo M. Farina,45.3532537,9.3735131
 Piazza del Municipio,45.3726552,9.4246250
 Sentiero attrezzato,45.3873693,9.4092344
 Via Ada Negri,45.3752420,9.4258570
@@ -3019,7 +3019,7 @@ Via Mazzola,45.4110384,9.4272119
 Via Meccanica,45.4159133,9.4242251
 Via Medaglie d'Argento,45.4083670,9.4405322
 Via Melzo,45.4115927,9.4323372
-Via Miglioli,45.4134850,9.4284764
+Via Miglioli,45.4134850,9.4285789
 Via Morandi,45.4102975,9.4391150
 Via Muzzano,45.4107845,9.4292948
 Via Muzzetta,45.3921498,9.4309582
@@ -3044,7 +3044,7 @@ Via XX Settembre,45.4057914,9.4328323
 Via XXV Aprile,45.4121341,9.4298154
 Vicolo Castelletto,45.4123721,9.4330121
 Vicolo Sant'Andrea,45.4083343,9.4325854
-Cascina Caira,45.4312968,9.4557031
+Cascina Caira,45.4313095,9.4557131
 Cascina Torchio,45.4427250,9.4347965
 Ciclabile del Canale Vacchelli,45.4164525,9.4724907
 Piazza Cesare Battisti,45.4328327,9.4312386
@@ -3077,7 +3077,7 @@ Via San Giovanni,45.4325779,9.4312599
 Via Trento,45.4334518,9.4313756
 Via Tripoli,45.4262855,9.4453282
 Via Vittime del Terrorismo,45.4301351,9.4280366
-Cascina Caira,45.4312968,9.4557031
+Cascina Caira,45.4313095,9.4557131
 Cascina Frati,45.4530142,9.4565392
 Cascina Rossate,45.4522687,9.4311555
 Piazza Italia,45.4409582,9.4637358
@@ -3119,14 +3119,14 @@ Via Rossate,45.4613480,9.4421735
 Via Sandro Capello,45.4457246,9.4601380
 Via Sandro Pertini,45.4393750,9.4618746
 Via San Michele,45.4614112,9.4442813
-Via San Rocco,45.4384749,9.4636558
+Via San Rocco,45.4384876,9.4636658
 Via Tissoni,45.4387068,9.4616631
 Via Toscanini,45.4608722,9.4463854
 Piazza della Pace,45.1901071,9.7420473
 Piazza IV Novembre,45.1901405,9.7431071
 SP 27,45.2037816,9.7233886
 Strada della Mulazzana,45.1909918,9.7053426
-Strada Provinciale exSS234 Codognese,45.1738041,9.7304077
+Strada Provinciale exSS234 Codognese,45.1742178,9.7183437
 Via Alcide De Gasperi,45.2035303,9.7248860
 Via Aldo Moro,45.2060214,9.7251433
 Via Antonio Gramsci,45.1904538,9.7382175
@@ -3146,7 +3146,7 @@ Viale dei Tigli,45.2049208,9.7230601
 Via Madre Teresa di Calcutta,45.1926669,9.7373195
 Via Martiri della Libertà,45.2036456,9.7267571
 Via Papa Giovanni Paolo II,45.2038607,9.7263978
-Via Pedrazzini Guatamacchi,45.1793744,9.7369625
+Via Pedrazzini Guaitamacchi,45.1796237,9.7371480
 Via Pietro Nenni,45.2049427,9.7245574
 Via privata Gianluigi Pandolfi,45.2059469,9.7248807
 Via Roma,45.1902939,9.7422095

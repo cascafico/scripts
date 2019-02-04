@@ -63,7 +63,7 @@ Via delle Taverne,41.4865615,14.0448286
 Via del Tiro a Segno,41.4902234,14.0566825
 Via Domenico Scarlatti,41.4829622,14.0514153
 Via Duomo,41.4821570,14.0374644
-Via Falca,41.4817964,14.0406427
+Via Falca,41.4817896,14.0406093
 Via Ficora di Morra,41.4693073,14.0576024
 Via Ficora di Morra I,41.4643048,14.0686852
 Via Ficora di Morra II,41.4633499,14.0681250
@@ -80,7 +80,7 @@ Via Giovanni Pascoli,41.4775605,14.0472063
 Via Gioviano Pontano,41.4812610,14.0497041
 Via Giunio Giovenale,41.4787510,14.0427370
 Via Giuseppe Mazzini,41.4750396,14.0466918
-Via Latina,41.4831075,14.0406871
+Via Latina,41.4833742,14.0413337
 Viale Cesare Augusto,41.4765303,14.0457092
 Via Leonardo da Vinci,41.4817904,14.0473299
 Via Leone Marsicano,41.4866233,14.0503761
@@ -101,7 +101,7 @@ Via Michelangelo Caravaggio,41.4819643,14.0490643
 Via Mulinello,41.4830156,14.0421133
 Via Mura Ciclopiche,41.4857819,14.0407730
 Via Ospedale,41.4807811,14.0375085
-Via Pedemontana,41.4766851,14.0364068
+Via Pedemontana,41.4770230,14.0364068
 Via Pietro Diacono,41.4868610,14.0497194
 Via Plebiscito,41.4854650,14.0439616
 Via Plinio il Vecchio,41.4790949,14.0443135
@@ -128,14 +128,14 @@ Via Vincenzo Bellini,41.4787420,14.0444637
 Via Vittorio Alfieri,41.4842254,14.0488814
 Via Volturno,41.4835164,14.0474829
 Vico Acquedotto,41.4872138,14.0453288
-CAI 100,41.4448805,14.3795241
-Campitelli di Roccamandolfi-M Miletto,41.4575730,14.3503605
-Capo d'Acqua-S.Michele,41.4451171,14.3838392
+CAI 100,41.4448805,14.3794154
+Campitelli di Roccamandolfi-M Miletto,41.4573077,14.3533081
+Capo d'Acqua-S.Michele,41.4440404,14.3785445
 Colle del Monaco- Forca di Cane,41.4491993,14.3680756
 Corso Umberto,41.4950503,14.3513168
 Incrocio tra sentiero 150SI-120 CAI,41.4752435,14.3611923
 M. Miletto Abbeveratoio,41.4682690,14.3687274
-M. Miletto-Valle Rima,41.4596499,14.3644814
+M. Miletto-Valle Rima,41.4605908,14.3632081
 Piazza G. Marconi,41.4928658,14.3496245
 Roccamandolfi-Valle Rima,41.4864282,14.3629038
 Strada Provinciale Volturno Pentrica,41.4949324,14.3515244
@@ -377,13 +377,14 @@ Rampa Mercato,41.5909672,14.2265423
 Rampa Occidentale,41.5915048,14.2273662
 Rampa Santa Maria,41.5865044,14.2255604
 SS85 Venafrana,41.5815767,14.2290548
-Strada Comunale Selva,41.6481872,14.2271297
+Strada Comunale Selva,41.6481872,14.2271257
 Strada statale 17 dell'appennino abruzzese e appulo sannitico,41.6397638,14.2247468
 Strada Statale 17 dell'Appennino Abruzzese e Appulo Sannitico,41.5983296,14.2552407
 Tratturo delle Sorgenti,41.6235896,14.2557102
 Traversa Via Occidentale,41.5923560,14.2287755
 Via 24 Maggio,41.6003575,14.2368802
 Via Abruzzo,41.5965868,14.2382668
+Via A. Gonnella,41.5974359,14.2471182
 Via Alberti,41.6002427,14.2430587
 Via Alcide de Gasperi,41.5948443,14.2326238
 Via Aldo Moro,41.6106597,14.2373191
@@ -437,6 +438,7 @@ Viale Gabriele Veneziale,41.5996768,14.2414184
 Viale Ludwig Van Beethoven,41.6064236,14.2363559
 Via Leonardo da Vinci,41.6097938,14.2357492
 Via Libero Testa,41.5987537,14.2400428
+Via Liguria,41.5978393,14.2453676
 Via Lombardia,41.5959285,14.2394122
 Via Lorusso,41.5929475,14.2297360
 Via Luigi Vanvitelli,41.6000825,14.2434552
@@ -450,6 +452,7 @@ Via Occidentale,41.5943492,14.2304023
 Via Pescara,41.5970612,14.2303063
 Via Piave,41.5969255,14.2307149
 Via Piemonte,41.5960453,14.2397644
+Via Pier Santi Mattarella,41.5972651,14.2451917
 Via Pietro Patriarca,41.5976293,14.2344774
 Via Pio la Torre,41.5989369,14.2391386
 Via Ponzio Pilato,41.6203181,14.2212020
@@ -466,6 +469,7 @@ Via Sardegna,41.5956561,14.2380077
 Via Serio,41.6008668,14.2412187
 Via Sicilia,41.5958972,14.2359012
 Via T. La Cava,41.5969188,14.2332530
+Via Toscana,41.5976202,14.2462649
 Via Umbria,41.5995211,14.2411944
 Via Vitruvio,41.6008036,14.2417770
 Vico Castello,41.5874724,14.2252535
@@ -512,7 +516,7 @@ Piazza Vittorio Emanuele III,41.6287030,14.0683198
 Ponte della Zingara,41.6500820,14.0837991
 SP 30,41.6294062,14.0792274
 SP per Castel San Vincenzo,41.6356921,14.0476471
-Strada Provinciale delle Mandrine,41.6221934,14.0310710
+Strada Provinciale delle Mandrine,41.6221773,14.0310643
 Valle San Martino,41.6419400,14.0955397
 Via Abbazia,41.6519600,14.0814528
 Via Acqua Nascosa,41.6204549,14.0867743
@@ -561,40 +565,61 @@ Via Vallocchia,41.6192914,14.0824106
 Via Vigne,41.6235158,14.0471527
 Vico I di via Cappella,41.6231584,14.0430655
 Vico II di via Cappella,41.6234577,14.0433819
+Vico IV di via Cappella,41.6228627,14.0422807
 Vicolo I di via Portone,41.6224967,14.0424208
 Vicolo II di via Portone,41.6222698,14.0426548
+Vicolo III di via Cappella,41.6228036,14.0426230
 Villaggio ISES,41.6222162,14.0450210
 Piazza Vincenzo Rossi,41.6539461,14.1033357
 Fondo valle del Trigno,41.6431576,14.3268814
 Contrada Acquaro,41.6189600,14.2393190
-Strada Comunale Selva,41.6481872,14.2271297
+Strada Comunale Selva,41.6481872,14.2271257
 Strada Provinciale Miranda,41.6253747,14.2332157
 Strada statale 17 dell'appennino abruzzese e appulo sannitico,41.6397638,14.2247468
 Strada Statale 17 dell'Appennino Abruzzese e Appulo Sannitico,41.6221596,14.2332400
 Tratturo delle Sorgenti,41.6235896,14.2557102
-Fondo valle del Trigno,41.6874360,14.4051765
+Via Vittorio Emanuele III,41.6404980,14.2486854
+Fondo valle del Trigno,41.6917459,14.4109972
 Fondo Valle Fresilia,41.6612175,14.4307535
 Fondo valle Verrino,41.7342393,14.4448828
+Galleria Casina del Duca,41.7261047,14.4293808
+Galleria Monte la Russa,41.6874360,14.4051765
+Galleria Monte Piccione,41.7354044,14.4658940
 Ponte Sgarrato,41.6633454,14.4250733
 Tratturo Celano-Foggia,41.6358257,14.9017398
 Tratturo Lucera - Castel di Sangro,41.6638043,14.4179428
+Viadotto Colle Dolce,41.7424115,14.4729641
+Viadotto Creta Rossa I,41.7158707,14.4246262
+Viadotto Creta Rossa II,41.7197623,14.4278779
+Viadotto Fossato,41.7028901,14.4166753
+Viadotto Frasso I,41.7304766,14.4347734
+Viadotto Frasso II,41.7292326,14.4390101
+Viadotto Gamberale,41.6791554,14.3937145
+Viadotto Trigno,41.7269634,14.4509180
+Viadotto Trigno II,41.7397056,14.4694631
+Viadotto Vella,41.7294436,14.4602631
 Strada statale 17 dell'appennino abruzzese e appulo sannitico,41.6853954,14.2072161
 Strada Statale 17 dell'Appennino Abruzzese e Appulo Sannitico,41.6658583,14.1879899
 Tratturo Lucera - Castel di Sangro,41.7199416,14.2202531
 Tratturo Pescasseroli-Candela,41.6946954,14.1562714
+Piazza Vittorio Emanuele III,41.6559130,14.0654134
 SP per Castel San Vincenzo,41.6532922,14.0778069
 Via Abbazia,41.6519600,14.0814528
 Fondo valle del Trigno,41.6708786,14.3511895
 Località Stazione FS,41.6784431,14.3414075
 SP68 Dir,41.6744352,14.3435032
 Tratturo Lucera - Castel di Sangro,41.6831575,14.3106483
-Fondo valle del Trigno,41.6723613,14.3690752
+Fondo valle del Trigno,41.6723613,14.3689800
+Galleria Chiauci,41.6735028,14.3849378
 Strada Provinciale Chiauci,41.6745589,14.3726229
 Strada Provinciale Pescolanciano,41.6676384,14.3637664
 Tratturo Lucera - Castel di Sangro,41.6689478,14.3829686
+Viadotto Chiauci,41.6723116,14.3802693
+Viadotto Gamberale,41.6791554,14.3937145
 Le Forme-Passo dei Monaci(M1),41.6886047,13.9602610
 Passo dei Monaci-La Metuccia-Monte a Mare,41.6764929,13.9635536
 P. dei Monaci- rif. Campitelli(L1),41.6935972,13.9616587
+Via Vittorio Emanuele III,41.6673402,14.0347205
 Strada statale 17 dell'appennino abruzzese e appulo sannitico,41.6658135,14.2297228
 Tratturo Lucera - Castel di Sangro,41.6992887,14.2618587
 Contrada Ciffuni,41.6949450,14.3269899
@@ -602,10 +627,12 @@ Strada Comunale di Castiglione,41.7206573,14.3018770
 Strada Provinciale Carovillense,41.7383245,14.2453679
 Tratturo Lucera - Castel di Sangro,41.6831575,14.3106483
 Contrada Macchia La Cerva,41.7198228,14.5029486
+SP 73,41.7014006,14.5485766
 Strada interpoderale Colle piccione,41.7083181,14.4667212
 Via Gianluigi Giannetti,41.7295992,14.5023595
 Via Guglielmo Marconi,41.7048608,14.4583932
 Vicolo del Muretto,41.7032684,14.4570149
+Corso Vittorio Emanuele III,41.7164051,14.0699436
 Strada vicinale della Fonte,41.7143909,14.0651174
 Via Carlo Alberto,41.7157639,14.0671249
 Via della Fonte,41.7138296,14.0673401
@@ -626,7 +653,7 @@ Sentiero del Confine,41.7573292,14.2248492
 Strada Provinciale Carovillense,41.7662599,14.2035825
 Tratturo Celano - Foggia,41.7675081,14.2123191
 Contrada Castelnuovo,41.8290270,14.3843057
-Contrada Fonte Ginepri,41.8598082,14.3528505
+Contrada Fonte Ginepri,41.8598239,14.3527874
 Corso Garibaldi,41.8041752,14.3659037
 Corso Vittorio Emanuele,41.8080914,14.3726319
 Fondo valle Verrino,41.7773680,14.4021301
@@ -651,7 +678,7 @@ stradainterpoderale casalicielo,41.8242806,14.3679127
 Strada Interpoderale Mucciafera,41.8259264,14.3727513
 Strada interpoderale S. Bernardino,41.8046922,14.3750800
 Strada Panoramica Pietro Mennea,41.8026652,14.3798550
-Strada Provinciale Istonio-Sangrina,41.8698060,14.3224787
+Strada Provinciale Istonio-Sangrina,41.8698184,14.3224341
 Via Alcide de Gasperi,41.8079681,14.3707521
 Via Alfieri,41.8057146,14.3658813
 Via Aquilonia,41.8104834,14.3725300
@@ -691,7 +718,7 @@ Via Preside L. Gamberale,41.8075686,14.3724601
 Via Roma,41.8089040,14.3748248
 Via Salvo D'Acquisto,41.8069151,14.3730503
 Via San Giuseppe artigiano,41.8071202,14.3725713
-via san Quirico,41.8189716,14.3513180
+via san Quirico,41.8189237,14.3513234
 Via Valentino Nero,41.8077296,14.3767158
 Via Valle di San Lorenzo,41.8099413,14.3824168
 Vico Balbo,41.8058968,14.3641982
@@ -715,12 +742,13 @@ Cai A5,41.8019428,14.2547147
 Monte Capraro,41.8137064,14.2504400
 Strada Provinciale Carovillense,41.7662599,14.2035825
 Tratturo Celano - Foggia,41.7675081,14.2123191
+Via Vittorio Emanuele III,41.7907436,14.1821832
 Cai A1,41.8057332,14.2556792
 Cai A4,41.8174183,14.2452420
 Cai A5,41.8019428,14.2547147
 Contrada Sotto la terra,41.8470489,14.2599128
 Corso Sant'Antonio,41.8331692,14.2633997
-M. Ciglione - Anello di Monte (Pista M. Di Nucci),41.8488583,14.2826258
+M. Ciglione - Anello di Monte (Pista M. Di Nucci),41.8488970,14.2827070
 Monte Campo - Portella Ceca,41.8466004,14.2870571
 Monte Capraro,41.8137064,14.2504400
 Pendici di Monte Campo,41.8440307,14.2837416
@@ -728,7 +756,9 @@ Piazza Emanuele Gianturco,41.8365501,14.2674988
 Piazza Stanislao Falconi,41.8339101,14.2642786
 Portella Ceca - Cannavina,41.8475630,14.2954713
 Sentiero CAI G. Di Nucci,41.8038529,14.2711487
-SP Prato Gentile,41.8572181,14.2861667
+SP Prato Gentile,41.8572124,14.2861792
+Strada comunale,41.8305550,14.2575958
+Strada Comunale,41.8260138,14.2558798
 Vecchia via comunale,41.8188580,14.2675605
 Vecchia via Comunale,41.8212919,14.2643898
 Via degli Artigiani,41.8284423,14.2633894
@@ -739,7 +769,7 @@ Via della Repubblica,41.8351486,14.2676374
 Via della Resistenza,41.8329379,14.2652904
 Via Ernest Hemingway,41.8325755,14.2611982
 Via Giovanni Paolo II,41.8294193,14.2647351
-Via Guglielmo Marconi,41.8368582,14.2701690
+Via Guglielmo Marconi,41.8368525,14.2701815
 Via Leonardo da Vinci,41.8337048,14.2645243
 Via Leonardo Falconi,41.8354732,14.2680093
 Via Luigi Campanelli,41.8329019,14.2634635
@@ -765,11 +795,11 @@ Via Vallesorda,41.8305050,14.2640782
 Via Verrino,41.8340029,14.2661608
 Piazza Guglielmo Marconi,41.8254111,14.4243528
 Piazza Sandro Pertini,41.8266316,14.4245528
-Viadotto Sente,41.8429797,14.4338225
+Viadotto Sente,41.8429682,14.4338408
 Contrada Vecchio Mulino,41.8537977,14.2113633
 Piazza Giacomo Caldora,41.8547157,14.2316823
 Piazza Guglielmo Marconi,41.8543948,14.2317528
-Strada Provinciale Istonio-Sangrina,41.8704191,14.2670518
+Strada Provinciale Istonio-Sangrina,41.8704211,14.2670518
 Strada Statale Sangrina,41.8640106,14.2369176
 Via Fontana Vecchia,41.8548875,14.2293575
 Via Regina Margherita,41.8544874,14.2324283
@@ -780,13 +810,14 @@ Via Torino di Sangro,41.8554659,14.2346545
 Via Tufi,41.8559808,14.2307403
 Via Umberto I,41.8551636,14.2316348
 Zona Industriale,41.8590215,14.2249814
-SP Prato Gentile,41.8572181,14.2861667
-Strada Provinciale Istonio-Sangrina,41.8704191,14.2670518
+Corso Vittorio Emanuele III,41.8797573,14.2930903
+SP Prato Gentile,41.8572124,14.2861792
+Strada Provinciale Istonio-Sangrina,41.8704211,14.2670518
 Via Europa,41.8777850,14.2942560
 Via Rio Verde,41.8779616,14.2954033
 Via Roma,41.8772634,14.2938231
 ex-Statale 558 Sangritana,41.8792579,14.2513232
-SP Prato Gentile,41.8572181,14.2861667
-Strada Provinciale Istonio-Sangrina,41.8704191,14.2670518
+SP Prato Gentile,41.8572124,14.2861792
+Strada Provinciale Istonio-Sangrina,41.8704211,14.2670518
 Strada Provinciale per Pizzoferrato,41.9157150,14.2824435
 Strada Statale Sangrina,41.8640106,14.2369176

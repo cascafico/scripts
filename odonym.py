@@ -23,6 +23,7 @@ def handle(msg):
     bot.sendMessage(chat_id, "Found {}".format(matches))
     os.system(addheader)
     bot.sendDocument(chat_id, document=open(csvname, 'rb'))
+#   curl -T my-local-file.txt ftp://ftp.example.com --user user:secret
 
 bot = telepot.Bot(Ã'place your token here')
 bot.message_loop(handle)

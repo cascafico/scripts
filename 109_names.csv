@@ -27,7 +27,9 @@ Strada Provinciale 239 Ex SS210 Fermana Faleriense,42.9995399,13.3828240
 Strada Provinciale 242 Vena San Martino,42.9613245,13.3598135
 Strada Provinciale 57 Monte San Martino,43.0093433,13.3606150
 Strada Provinciale 83 Subappennina,42.9642770,13.3444871
+Via Damiano Chiesa,42.9794779,13.3556243
 Via Monte Genco,42.9701369,13.4122563
+Via Ugo La Malfa,42.9768087,13.3530132
 Dalla pineta al punto trigonometrico,42.9924464,13.4498759
 sentiero della cresta,42.9969605,13.4476530
 Sentiero della Pineta,42.9904011,13.4550098
@@ -50,7 +52,7 @@ Strada Provinciale 247 Valle Rengone,42.9999743,13.5238776
 Strada Provinciale 248 Santa Maria,43.0108915,13.5319806
 Strada Provinciale 53 Monteleone di Fermo,43.0545950,13.5287856
 Strada Provinciale 55 Monterinaldo,43.0113447,13.5474039
-Strada Provinciale 61 Montottonese,43.0170836,13.5382260
+Strada Provinciale 61 Montottonese,43.0170734,13.5382145
 Via Castello,43.0185600,13.5363899
 Via Catanovetta,43.0180507,13.5362489
 Via Catigliano,43.0188096,13.5388870
@@ -94,7 +96,7 @@ Strada Provinciale 110 Val d’Inarco,43.0401816,13.6199164
 Strada Provinciale 238 Ex SS433 Valdaso,43.0214565,13.6182939
 Strada Provinciale 250 Croce di Ortezzano,43.0364683,13.5943408
 Strada Provinciale 55 Monterinaldo,43.0318426,13.6068121
-Strada Provinciale 56 Monterubbianese,43.0314141,13.6093380
+Strada Provinciale 56 Monterubbianese,43.0314141,13.6090343
 Strada Provinciale 110 Val d’Inarco,43.0401816,13.6199164
 Strada Provinciale 21 Collina Nuova,43.0499459,13.6059411
 Strada Provinciale 238 Ex SS433 Valdaso,43.0425671,13.6455832
@@ -116,7 +118,7 @@ Strada Provinciale 56 Monterubbianese,43.0441849,13.6116284
 Strada Provinciale 5 Belmonte - Grottazzolina,43.0971426,13.5613380
 Strada Provinciale 61 Montottonese,43.0903876,13.5933719
 Strada Provinciale 66 Petritoli,43.0881924,13.5948994
-Via dei Cipressi,43.0891434,13.5746142
+Via dei Cipressi,43.0891434,13.5746174
 Via Eschito,43.0844134,13.5801641
 Via Forche di Tenna,43.0924511,13.5798216
 Via Rosso Piceno,43.0857984,13.5671655
@@ -147,7 +149,7 @@ Strada Provinciale 238 Ex SS433 Valdaso,43.0557129,13.7049516
 Strada Provinciale 56 Monterubbianese,43.0605144,13.6501843
 Strada Provinciale 66 Petritoli,43.0580423,13.6675738
 Via Castello,43.0673145,13.6561707
-Via del Teatro,43.0680637,13.6544795
+Via del Teatro,43.0680826,13.6544595
 Via Guglielmo Marconi,43.0668542,13.6534910
 Via Marini,43.0681438,13.6609522
 Via Roma,43.0676791,13.6576428
@@ -196,7 +198,7 @@ Strada Provinciale 10 Campofilone,43.0601206,13.7706584
 Strada Provinciale 128 Montecamauro L.F. Rio Canale,43.0665360,13.8088465
 Strada Provinciale 238 Valdaso,43.0820056,13.7955111
 Strada Provinciale 246 Campofilone - Valdaso,43.0831221,13.8044836
-Strada Statale 16 Adriatica,43.0685797,13.8481797
+Strada Statale 16 Adriatica,43.0759488,13.8466695
 Via Aristide Bernardini,43.0807154,13.8231139
 Via Caravaggio,43.0786971,13.7936594
 Via Gentile da Fabriano,43.0801279,13.7946415
@@ -330,6 +332,7 @@ Via Luigi Einaudi,43.1052424,13.8392092
 Via Luigi Mercantini,43.1073002,13.8275485
 Via Michelangelo,43.1074864,13.8349573
 Via Mozart,43.1045582,13.8295575
+Via Ottorino Respighi,43.1033595,13.8355615
 Via Roma,43.1096926,13.8001662
 Via V. Gioberti,43.1053864,13.8372580
 Autostrada Adriatica,43.0898069,13.8405207
@@ -337,7 +340,7 @@ Piazza Stazione,43.0945603,13.8441763
 Sottopasso della Cupa,43.0937280,13.8449408
 Strada Provinciale 10 Campofilone,43.0819440,13.8342489
 Strada Provinciale 238 Valdaso,43.0956888,13.8337718
-Strada Statale 16 Adriatica,43.0685797,13.8481797
+Strada Statale 16 Adriatica,43.0759488,13.8466695
 Via Alcide De Gasperi,43.0945915,13.8439610
 Via Alessandro Manzoni,43.0965351,13.8334781
 Via Amerigo Vespucci,43.0996377,13.8416053
@@ -366,7 +369,7 @@ Via Giovanni Amendola,43.0961732,13.8326562
 Via Giovanni Spadolini,43.0970636,13.8303712
 Via Giuseppe Garibaldi,43.1005267,13.8407718
 Via Giuseppe Mazzini,43.0986471,13.8394597
-Via Guglielmo Marconi,43.0956642,13.8438803
+Via Guglielmo Marconi,43.0956657,13.8438891
 Via G. Virgili,43.0980511,13.8410259
 Viale della Repubblica,43.0992888,13.8414078
 Via Martiri della Libertà,43.1000009,13.8388667
@@ -379,7 +382,7 @@ Via Sacco e Vanzetti,43.0951433,13.8326602
 Via Salvatore Quasimodo,43.0986148,13.8378249
 Via Sandro Pertini,43.0962129,13.8308597
 Via San Marino,43.0962653,13.8439517
-Via Trieste,43.0990020,13.8397494
+Via Trieste,43.0997079,13.8390502
 Via Valdaso,43.0974913,13.8394271
 Vicolo del Muraglione,43.0957652,13.8438980
 Vicolo del Pero,43.0960576,13.8433190
@@ -431,9 +434,12 @@ Via Ugo La Malfa,43.1209262,13.6096145
 Via Vincenzo Monaldi,43.1116267,13.6011230
 Vicolo Chiuso N.2,43.1115574,13.6020888
 Contrada Boara,43.1145256,13.5738113
+Contrada Crocedivia,43.1225946,13.5543434
 Contrada Palombara,43.1175113,13.5682953
 Contrada Piane di Monteverde,43.1023884,13.5255817
 contrada San Giuseppe,43.1250740,13.5467223
+Contrada Segliola,43.1295884,13.5453058
+Contrada Vezzelli,43.1250936,13.5533248
 Croce di Via,43.1202524,13.5543359
 Strada Provinciale 100 Alteta,43.1663075,13.5675975
 Strada Provinciale 101 Monteverde,43.1101654,13.5172543
@@ -447,6 +453,8 @@ Strada Provinciale 72 Rapagnanese,43.1665817,13.5758791
 Via Antonio Angelelli,43.1300520,13.5360019
 Autostrada Adriatica,43.2276745,13.7654587
 Boschetto del Cugnolo,43.1397523,13.8116706
+Cicloturistica Fermana,43.1670587,13.6817050
+Ciclovia Adriatica,43.2334748,13.7742953
 Contrada Abbadetta,43.1501069,13.8013652
 Contrada Alberelli,43.2049119,13.7743422
 Contrada Boara,43.1145256,13.5738113
@@ -454,44 +462,44 @@ Contrada Camera di Fermo,43.1488128,13.7660897
 Contrada Canale,43.1596912,13.7892304
 Contrada Cancello,43.1182627,13.7322714
 Contrada Collina,43.1066629,13.7279642
+Contrada Fallera,43.1680008,13.7116356
 Contrada Lago,43.1414479,13.7865329
 Contrada Moje,43.1619743,13.7570812
 Contrada Montone,43.1483335,13.6822701
 Contrada Noce,43.1504977,13.7801532
 Contrada Paludi,43.2127419,13.7584994
 Contrada Parete,43.1458196,13.7282950
-Contrada Salette,43.1724550,13.7178457
+Contrada Salette,43.1724666,13.7178351
 Contrada San Giovanni,43.1883083,13.6659462
 Contrada San Martino,43.1417446,13.7077904
 Contrada San Pietro Vecchio,43.1566380,13.7915783
 Contrada Valloscura di Fermo,43.1827291,13.7441154
 Corso Cavour,43.1615435,13.7132039
-Corso Cefalonia,43.1620034,13.7166691
-Corso Guglielmo Marconi,43.1608899,13.7090878
+Corso Cefalonia,43.1620044,13.7166713
+Corso Guglielmo Marconi,43.1609100,13.7090387
 Corta per Torri di Palme,43.1420514,13.8105380
 Cros Park MX Word Circuit,43.1298779,13.6952721
 Largo Carlo Mora,43.1631740,13.7204884
 Largo Saragat,43.2301643,13.7772818
+Largo Vittime delle Foibe,43.1642052,13.7218811
 Lo Mistrà,43.1787370,13.7568927
 Lu Fossu de Vallescura,43.1820848,13.7621516
 Molini di Valtenna; Strada Comunale Misericordia,43.1659338,13.6871684
-Piazza del Popolo,43.1611607,13.7182683
-Piazzale Azzolino,43.1624606,13.7171982
+Piazza del Popolo,43.1612965,13.7183001
+Piazzale Azzolino,43.1624710,13.7172425
 Piazzale Carducci,43.1627622,13.7168315
-Piazzale della Rocca,43.1413040,13.8103834
-Piazzale Michelangelo,43.1624050,13.7166097
-Piazza Ostilio Ricci,43.1597290,13.7213544
-Pronto Soccorso,43.1621719,13.7046829
+Piazzale della Rocca,43.1413042,13.8103706
+Piazzale Michelangelo,43.1624274,13.7166273
+Piazza Ostilio Ricci,43.1597720,13.7213550
 Rotatoria Ete Vivo (Fermo),43.1614017,13.8011915
 Rotatoria Sant'Andrea,43.1570499,13.7322752
-Rotonda San Giuliano,43.1589332,13.7079441
 Rotonda Santa Caterina,43.1582411,13.7227489
 Strada Comunale Calderaro,43.1696732,13.7212748
 Strada Comunale Lago,43.1472665,13.7725963
-Strada Comunale Lauretana,43.1730213,13.6981747
+Strada Comunale Lauretana,43.1730220,13.6981679
 Strada Comunale San Lorenzo,43.1529339,13.7524281
 Strada Comunale Vallasciano,43.1815131,13.7237379
-Strada Comunale Vallescura Prima,43.1888034,13.7714822
+Strada Comunale Vallescura Prima,43.1895827,13.7688622
 Strada Provinciale 102 Madonna Bruna,43.1259443,13.7516134
 Strada Provinciale 112 Val d'Ete Vivo,43.1235926,13.6678550
 Strada Provinciale 11 Capodarco,43.1996653,13.7817159
@@ -499,7 +507,7 @@ Strada Provinciale 139 Fonte di Palme,43.1365703,13.8197364
 Strada Provinciale 153 dei Pioppi,43.1160284,13.7584277
 Strada Provinciale 157 Girola,43.1697729,13.6821928
 Strada Provinciale 169 Collina Bassa,43.1234309,13.7469722
-Strada Provinciale 16 Castiglionese,43.1663504,13.7509626
+Strada Provinciale 16 Castiglionese,43.1663504,13.7509431
 Strada Provinciale 203 Corta per Torre San Patrizio,43.1722983,13.6413185
 Strada Provinciale 204 Lungotenna,43.2146907,13.7540739
 Strada Provinciale 219 Ete Morto,43.1763648,13.6489752
@@ -517,15 +525,16 @@ Strada Provinciale 69 Ponzano di Fermo,43.1222789,13.6945784
 Strada Provinciale 84 Torre di Palme,43.1436510,13.8123879
 Strada Provinciale 87 Valdete,43.1624168,13.7948978
 Strada Provinciale 9 Campiglionese,43.1834806,13.6538800
-Strada Provinciale Castiglionese,43.1650769,13.7236718
+Strada Provinciale Castiglionese,43.1650706,13.7236524
 Strada Statale 16 Adriatica,43.2117195,13.7811427
 Strada Vicinale dello Storno,43.1452016,13.7442482
 Via 25 Aprile,43.1673307,13.6894317
 Via Abramo Mori,43.1647864,13.7014302
 Via Adige,43.1796392,13.6681921
 Via Alberto Mario,43.1558005,13.7305987
-Via Aldo Moro,43.2303564,13.7763188
+Via Aldo Moro,43.2303594,13.7763181
 Via Alessandro Cocci,43.1621732,13.7029203
+Via Alfonso Morini,43.1634593,13.6618172
 Via Ancona,43.1297730,13.6202237
 Via Andrea Postacchini,43.1479517,13.7189963
 Via Andreottino Girardi,43.2090933,13.7828882
@@ -533,124 +542,129 @@ Via Angela Fresu,43.2307560,13.7746280
 Via Antonio da Fermo,43.1602386,13.7840398
 Via Antonio Perpenti,43.1627003,13.7194965
 Via Antoniotto Usodimare,43.2040956,13.7873943
-Via Armando Diaz,43.1570039,13.7048803
+Via Armando Diaz,43.1570124,13.7048837
 Via Arno,43.1791472,13.6660347
 Via Arturo Galletti,43.1769625,13.6680406
 Via Assisi,43.1535258,13.7062954
 Via Bartolucci,43.1758927,13.6676586
-Via Brunforte,43.1596436,13.7212451
-Via Caravaggio,43.1684953,13.7077438
+Via Brunforte,43.1596774,13.7212471
+Via Caravaggio,43.1685267,13.7077175
 Via Carlo Alberto Dalla Chiesa,43.2283596,13.7783380
 Via Catalani,43.1626985,13.7185643
-Via Colle Vissiano,43.1863844,13.7229078
-Via Dante Zeppilli,43.1625933,13.7235542
+Via Colle Vissiano,43.1863790,13.7229047
+Via Dante Zeppilli,43.1625933,13.7235749
 Via degli Appennini,43.1548843,13.7003578
 Via dei Cappuccini,43.1550088,13.7045486
 Via dei Mille,43.1681990,13.7329972
 Via dei Palmensi,43.1534391,13.8057345
 Via del Foro Boario,43.1704875,13.7357933
-Via della Sapienza,43.1601944,13.7206517
+Via della Sapienza,43.1602170,13.7206527
 Via della Verna Beato Giovanni,43.1441687,13.7005393
-Via delle Mura,43.1632592,13.7178725
-Via Donato Bramante,43.1694767,13.7102109
-Via Don Giovanni Cicconi,43.1618155,13.7214158
+Via delle Mura,43.1632163,13.7178638
+Via Donato Bramante,43.1694886,13.7101909
+Via Don Giovanni Cicconi,43.1618117,13.7214433
 Via Duca degli Abruzzi,43.1409058,13.8092707
 Via Elia di Sabbato,43.1623763,13.7019174
+Via Enrico Mattei,43.1654385,13.6650573
+Via Enzo Ferrari,43.1633721,13.6661315
 Via F. Adriani (FIXME),43.1755470,13.6682340
 Via F. Lamponi,43.1762517,13.6674328
 Via Francesco Egidi,43.1594566,13.7852413
 Via Francia,43.1871234,13.6587121
 Via Fuori Porta,43.1418005,13.8099066
 Via Galvaligi,43.2307044,13.7743345
-Via Garibaldi,43.1624075,13.7209151
+Via Garibaldi,43.1624267,13.7209235
 Via Giacomo Filippo Maria Prosperi,43.1772203,13.6746299
 Via Giacomo Leopardi,43.1620778,13.7190226
 Via Giammarco,43.1777513,13.7608157
 Via Giovanni Conti,43.1762398,13.6699380
 Via Giovanni da Palestrina,43.1689169,13.7305797
+Via Giovanni da Verrazzano,43.2043283,13.7856787
 Via Giovanni Falcone,43.1590520,13.7238293
-Via Giovanni Lanfranco,43.1677802,13.7102275
-Via Giuseppe Mazzini,43.1608823,13.7157183
+Via Giuseppe Mazzini,43.1609342,13.7156949
 Via Giuseppe Monti,43.1549081,13.7290263
 Via Giuseppe Romita,43.2279082,13.7783467
-Via Goffredo Mameli,43.1631035,13.7211564
+Via Goffredo Mameli,43.1631066,13.7211741
 Via Goito,43.1547302,13.7297603
 Via Guido Galli,43.2301952,13.7747872
-Via Iacobello Delfiore,43.1685852,13.7117187
-Viale 20 settembre,43.1595381,13.7172022
+Via Iacobello Delfiore,43.1686028,13.7117233
+Viale 20 settembre,43.1596094,13.7171964
+Viale Augusto Murri,43.1620358,13.7042424
 Viale Casabianca,43.2106868,13.7838765
 Viale della Carriera,43.1582582,13.7225230
 Viale del Lido,43.2052245,13.7866541
-Viale Enrico Bellesi,43.1637456,13.7170404
+Viale Enrico Bellesi,43.1636716,13.7169932
 Viale Fratelli Rosselli,43.1630236,13.8011839
 Via Legioni Romane,43.1614150,13.7833455
 Viale Giovanni Battista Crollalanza,43.1583808,13.7228530
-Viale Graziani,43.1590470,13.7124736
-Viale Nicola Ciccolungo,43.1590626,13.7171104
-Via Leonardo da Vinci,43.1578796,13.7152021
+Viale Graziani,43.1590470,13.7124720
+Viale Nicola Ciccolungo,43.1590954,13.7171161
+Via Leonardo da Vinci,43.1578926,13.7152231
 Viale Trento,43.1644948,13.7226445
-Viale Trento Nunzi,43.1589072,13.7113186
+Viale Trento Nunzi,43.1589148,13.7113154
 Viale Trieste,43.1580654,13.7228401
-Viale Vittorio Veneto,43.1599975,13.7161691
+Viale Vittorio Veneto,43.1601264,13.7161675
 Via Lorenzo Machiavelli,43.2080598,13.7857724
 Via Lucchi,43.1561672,13.7340344
 Via Lungomare Fermano,43.2054458,13.7872820
 Via Malintoppi,43.1750298,13.6737774
 Via Marcello Gallo,43.1761193,13.6702597
-Via Marchetto Morrone,43.1604039,13.7194995
-Via Mercantini,43.1587159,13.7160088
-Via Monteverde,43.1590987,13.7211676
+Via Marchetto Morrone,43.1604959,13.7195198
+Via Medaglie D'Oro,43.1618386,13.7040877
+Via Mercantini,43.1587159,13.7160237
+Via Monteverde,43.1591506,13.7211715
 Via Nicola Laurantoni,43.1749990,13.6683967
 Via Nino Bixio,43.1567571,13.7354563
-Via Osvaldo Licini,43.1724413,13.7114569
+Via Osvaldo Licini,43.1724684,13.7114657
 Via Ottorino Respighi,43.1662373,13.7245838
-Via Paccarone,43.1611176,13.7188423
-Via Padre Marchionni,43.1613087,13.7074248
+Via Paccarone,43.1611633,13.7188425
+Via Padre Marchionni,43.1613153,13.7074241
 Via Palmiro Togliatti,43.2290859,13.7768298
 Via Patrizio Gennari,43.1566946,13.7231773
-Via Piave,43.1413702,13.8112866
+Via Piave,43.1413381,13.8110529
 Via Piersanti Mattarella,43.2323186,13.7754795
 Via Pietro Nenni,43.2287865,13.7770439
-Via Pietro Paolo Rubens,43.1684990,13.7106496
+Via Pietro Paolo Rubens,43.1685358,13.7107187
 Via Pio La Torre,43.2279255,13.7785003
 Via Po,43.1805074,13.6668116
 Via Polonia,43.1876298,13.6554686
 Via Pompeiana,43.1564786,13.7280295
 Via Raffaele Lucchi,43.1571532,13.7340259
 Via Raffaele Rossetti,43.2063201,13.7838823
-Via Raffaello Sanzio,43.1678075,13.7076461
+Via Raffaello Sanzio,43.1678179,13.7076407
 Via Recanati,43.1622840,13.7183046
-Via Roma,43.1614469,13.7215638
-Via Sabino,43.1598202,13.7131187
-Via Saffi,43.1604443,13.7193418
-Via S. Alessandro,43.1669427,13.7031505
-Via Salvo D'Acquisto,43.1633198,13.7088711
+Via Roma,43.1614100,13.7215812
+Via Sabino,43.1598846,13.7130645
+Via Saffi,43.1605311,13.7192423
+Via S. Alessandro,43.1670384,13.7031046
+Via Salvo D'Acquisto,43.1633248,13.7088260
 Via San Giacomo della Marca,43.1594971,13.7840973
 Via San Lorenzo,43.1573323,13.7388822
 Via San Martino,43.1381856,13.7099654
-Via San Salvatore,43.1658058,13.7020809
+Via San Salvatore,43.1658065,13.7020705
 Via Santa Lucia,43.1504432,13.7066946
 Via Sant'Andrea,43.1561195,13.7374523
 Via Solfonara,43.1713760,13.6998877
 Via Tacito,43.1581481,13.7355405
 Via Tevere,43.1787181,13.6666708
-Via Tiro a Segno,43.1675889,13.7078394
+Via Tiro a Segno,43.1675885,13.7078084
 Via Tommaso Salvadori Paleotti,43.2312941,13.7767158
-Via Trevisani,43.1595500,13.7209138
+Via Trevisani,43.1596030,13.7208996
 Via Ugo La Malfa,43.2249058,13.7789259
 Via Umberto Marilungo,43.2316721,13.7762610
 Via Umberto Preziotti,43.1557543,13.7346501
 Via Vincenzo Cardarelli,43.1644631,13.6991483
-Via Vincenzo Pagani,43.1687481,13.7117572
+Via Vincenzo Pagani,43.1687472,13.7117534
 Via Virgilio,43.1570708,13.7305468
-Via Visconti D'Oleggio,43.1601189,13.7088813
+Via Visconti D'Oleggio,43.1602321,13.7091676
 Via Vittorio Bachelet,43.2307426,13.7774955
 Via V. Occorsio,43.2305542,13.7743706
 Via V. Taccari,43.1744351,13.6702313
 Via Walter Tobagi,43.2319895,13.7758556
-Via XX Giugno,43.1600321,13.7071184
-Via XXIV Maggio,43.1599459,13.7076471
-Via XXV Aprile,43.1603170,13.7045428
+Via XX Giugno,43.1600830,13.7070785
+Via XXIV Maggio,43.1599628,13.7076303
+Via XXV Aprile,43.1603310,13.7044945
+Vicolo degli Aceti,43.1612520,13.7194583
 Contrada Boara,43.1145256,13.5738113
 Strada Provinciale 127 Santa Colomba,43.1527879,13.5923898
 Strada Provinciale 239 Ex SS210 Fermana Faleriense,43.1263274,13.5925433
@@ -780,17 +794,19 @@ Lungomare Antonio Gramsci,43.1676726,13.8059000
 Piazza Dante Alighieri,43.1692563,13.7999731
 Piazza Mentana,43.1799326,13.7981651
 Statale Adriatica,43.1630808,13.8013657
-Strada Comunale Vallescura Prima,43.1888034,13.7714822
+Strada Comunale Vallescura Prima,43.1856653,13.7765742
 Strada Provinciale 87 Valdete,43.1624168,13.7948978
 Strada Statale 16 Adriatica,43.2013132,13.7845609
 Via A. Botticelli,43.1848902,13.7903751
 Via Alessandro Trevisani,43.1787647,13.7970430
 Via Annibal Caro,43.1768577,13.7955019
 Via Aspromonte,43.1729143,13.7989732
-Via Battisti,43.1824582,13.7970588
+Via Battisti,43.1824558,13.7970521
 Via Bellini,43.1661876,13.8059927
 Via Benedetto Cairoli,43.1780239,13.7955573
 Via Beni,43.1760894,13.8009799
+Via Biograd Na Moru,43.1922342,13.7894852
+Via Bologna,43.1924602,13.7889457
 Via Brennero,43.1872117,13.7950342
 Via Camillo Benso Cavour,43.1811161,13.7945006
 Via Candito Augusto Vecchi,43.1818727,13.7973252
@@ -799,17 +815,18 @@ Via Cesare Pavese,43.1669763,13.8035518
 Via Chiesa,43.1837502,13.7963862
 Via Cristofero Colombo,43.1794184,13.7987588
 Via Curtatone,43.1725505,13.8020643
-Via D'Annunzio,43.1650446,13.8026944
-Via del Foro Boario,43.1752213,13.7568142
+Via D'Annunzio,43.1650427,13.8026944
 Via Della Resistenza,43.1749510,13.7994514
 Via Domenico Cimarosa,43.1711686,13.8027557
 Via Domenico Collina,43.1797900,13.7907347
 Via D. Silenzi,43.1703778,13.8009481
+Via Europa,43.1861334,13.7926673
 Via Fausto Simonetti,43.1799027,13.7951121
 Via F. Cavallotti,43.1884201,13.7926366
 Via F. Gentili,43.1797674,13.7939190
 Via Ficcadenti,43.1809248,13.7980446
-Via Filzi,43.1832480,13.7970409
+Via Filzi,43.1832481,13.7970411
+Via Firenze,43.1851724,13.7933617
 Via Francesco Crispi,43.1776750,13.7980089
 Via Fratelli Kennedy,43.1718401,13.8023245
 Via Galvani,43.1651516,13.7971861
@@ -863,11 +880,11 @@ Via Nazario Sauro,43.1792495,13.7991350
 Via Niccolò Machiavelli,43.1666912,13.8009103
 Via Palermo,43.1760653,13.7984491
 Via Pasquale Cotechini,43.1773235,13.7801503
-Via Petrarca,43.1680628,13.8014889
-Via Piave,43.1860083,13.7952879
+Via Petrarca,43.1680609,13.8014889
+Via Piave,43.1860010,13.7952497
 Via P. Panfili,43.1765000,13.7956721
 Via Raffaele Tombolini,43.1784351,13.7951344
-Via Repubblica,43.1723875,13.8001019
+Via Repubblica,43.1723877,13.8001022
 Via Santa Vittoria,43.1684583,13.7972742
 Via S. Martino,43.1637022,13.8066330
 Via Solferino,43.1631938,13.8033305
@@ -877,6 +894,7 @@ Via T. Tasso,43.1705519,13.7989880
 Via U. Giordano,43.1667992,13.8048386
 Via Ugo Foscolo,43.1691271,13.8005085
 Via V. Alfieri,43.1670525,13.8003123
+Via Venezia,43.1907297,13.7902958
 Via Vittorio Veneto,43.1849807,13.7960710
 Via XX Settembre,43.1718548,13.8012065
 Contrada San Tommaso,43.2689086,13.6124454
@@ -906,7 +924,21 @@ Via Martiri d'Ungheria,43.2339236,13.6368740
 Via Michelangelo Buonarroti,43.2339770,13.6398256
 Via Paolo Borsellino,43.2183089,13.6411476
 Autostrada Adriatica,43.2588725,13.7488379
+Ciclovia adriatica,43.2800744,13.7463729
+Ciclovia Adriatica,43.2541214,13.7644857
+Largo Nizza,43.2400355,13.7693600
+Lungomare Europa,43.2769170,13.7487103
+Lungomare Nord,43.2669975,13.7562513
+Lungomare Sud,43.2487929,13.7674924
+Piazza Dante Alighieri,43.2532112,13.7579734
+Piazza Fratelli Cervi,43.2408323,13.7688751
+Piazza Giovanni XXIII,43.2418229,13.7679564
+Piazza Giuseppe Garibaldi,43.2589927,13.7581900
+Piazza Sacro Cuore,43.2572578,13.7412861
 Raccordo Pian Di Torre,43.2539206,13.7288211
+Raccordo Villa Bonafede,43.2444002,13.7444026
+Scalinata Bersaglieri d'Italia,43.2569821,13.7565617
+Strada Acqualato,43.2362325,13.7408489
 Strada Castellano,43.2648953,13.7222063
 Strada Fonte di Mare,43.2725603,13.7269281
 Strada Pescolla,43.2635411,13.7366127
@@ -917,101 +949,235 @@ Strada Provinciale 165 Vecchia del Porto,43.2361848,13.7128847
 Strada Provinciale 26 delle Fratte,43.2835086,13.7313301
 Strada Provinciale 27 Elpidiense,43.2448482,13.7270513
 Strada Provinciale 28 Faleriense,43.2350497,13.7504835
+Strada San Filippo,43.2403238,13.7460362
 Strada Statale 16 Adriatica,43.2901110,13.7370739
 Via 20 settembre,43.2413845,13.7653212
-Via 5 Giornate,43.2396258,13.7596481
+Via 5 Giornate,43.2413509,13.7624702
 Via Abruzzi,43.2705466,13.7490526
-Via Adige,43.2561407,13.7565539
+Via Adige,43.2565127,13.7570901
+Via Alessandro Manzoni,43.2535492,13.7599258
+Via Alessandro Volta,43.2557848,13.7598492
 Via Alto Adige,43.2677707,13.7534397
-Via Antonio Gramsci,43.2621470,13.7568508
+Via Amerigo Vespucci,43.2589930,13.7455074
+Via Andrea Costa,43.2570875,13.7453595
+Via Andrea Doria,43.2519601,13.7621068
+Via Andrea Gagliardini,43.2331544,13.7524038
+Via Annibal Caro,43.2613308,13.7570732
+Via Antonio Gramsci,43.2625419,13.7581380
+Via Armando Diaz,43.2573194,13.7589531
+Via Arno,43.2571873,13.7542131
+Via Asiago,43.2468546,13.7657424
+Via Asti,43.2446582,13.7656094
+Via Aurelio Saffi,43.2515596,13.7625938
+Via Austria,43.2628163,13.7572109
+Via Avellino,43.2397546,13.7651491
 Via Basilicata,43.2645203,13.7543096
-Via Belgio,43.2644150,13.7556149
-Via Bellini,43.2480601,13.7647057
+Via Belgio,43.2637611,13.7559421
+Via Bellini,43.2480719,13.7647301
 Via Belvedere,43.2663188,13.7526648
-Via Bologna,43.2387662,13.7688292
-Via Bolzano,43.2606244,13.7560380
+Via Bologna,43.2389105,13.7693045
+Via Bolzano,43.2613799,13.7556395
+Via Brunico,43.2436575,13.7653209
 Via Bruno Buozzi,43.2556093,13.7403275
+Via Cadore,43.2435235,13.7672323
 Via Calabria,43.2685273,13.7507052
+Via Campania,43.2678714,13.7508531
+Via Campobasso,43.2401321,13.7648183
 Via Canada,43.2714091,13.7523436
+Via Carlo Collodi,43.2574947,13.7438915
+Via Carlo Goldoni,43.2528971,13.7608238
 Via Caserta,43.2418400,13.7640589
-Via Cilea,43.2487238,13.7649824
+Via Cesare Battisti,43.2573709,13.7592127
+Via Cilea,43.2497943,13.7644803
+Via cinque giornate,43.2396258,13.7596481
+Via Consorzio San Filippo,43.2369231,13.7516898
 Via Corva,43.2571738,13.7428241
-Via Cristoforo Colombo,43.2445626,13.7652975
+Via Couriel,43.2542940,13.7590100
+Via Cristoforo Colombo,43.2460018,13.7645093
 Via Cuneo,43.2452234,13.7643376
-Via dei Camping,43.2769170,13.7487103
-Via della Montagnola,43.2512196,13.7585257
+Via Dalmazia,43.2599010,13.7583121
+Via degli Opifici,43.2422988,13.7457898
+Via dei Camping,43.2901900,13.7364600
+Via dei Cedri,43.2557103,13.7552173
+Via dei Consorzi,43.2381270,13.7492808
+Via dei Consorzi artigiani,43.2414663,13.7458529
+Via dei Mestieri,43.2382833,13.7425122
+Via dei Tigli,43.2526429,13.7569877
+Via dei Trasporti,43.2336571,13.7527895
+Via del Commercio,43.2380056,13.7453023
+Via del Consorzio C.A.R.,43.2409507,13.7449433
+Via della calzatura,43.2384316,13.7504026
+Via della Cooperazione,43.2374480,13.7510887
+Via dell'Agricoltura,43.2412143,13.7460907
+Via della Montagnola,43.2495830,13.7606343
+Via della pace,43.2445379,13.7620132
 Via della Pace,43.2403910,13.7635940
+Via dell'Arte,43.2392692,13.7501504
+Via dell'Artigianato,43.2381215,13.7471333
+Via della Tecnologia,43.2338572,13.7531629
+Via dell'Automazione,43.2420129,13.7498713
+Via del lavoro,43.2406618,13.7489871
+Via dell'Economia,43.2326696,13.7492957
+Via dell'Edilizia,43.2417448,13.7448377
+Via dell'Elettronica,43.2419436,13.7462307
+Via delle Monte Cervino,43.2619901,13.7543341
+Via dell'Industria,43.2366718,13.7478656
+Via dell'Informatica,43.2363758,13.7441819
+Via del palo,43.2474788,13.7636719
+Via del Progresso,43.2391779,13.7467636
+Via di San Crispino,43.2361606,13.7483539
+Via don Minzoni,43.2570943,13.7596537
+Via don Sturzo,43.2550317,13.7394161
 Via Einaudi,43.2554703,13.7386462
+Via Elpidiense,43.2552256,13.7568400
 Via Emilia,43.2648442,13.7535683
+Via Enrico de Nicola,43.2595670,13.7462732
+Via Enrico Fermi,43.2522099,13.7592296
+Via Enrico Mattei,43.2531982,13.7447885
+Via Enrico Toti,43.2559194,13.7408899
+Via Fabio Filzi,43.2576168,13.7592748
 Via Faleria,43.2486883,13.7672503
 Via Ferrara,43.2400471,13.7732750
+Via Ferraris,43.2585115,13.7474769
+Via Filippo Corridoni,43.2549388,13.7596582
+Via Firenze,43.2386452,13.7696989
 Via Foggia,43.2406169,13.7645554
+Via fontanella,43.2561922,13.7587921
 Via Fonte Serpe,43.2603887,13.7389322
 Via Francesco Petrarca,43.2639226,13.7547276
+Via Fratelli Cairoli,43.2595628,13.7582186
 Via Friuli,43.2667141,13.7515552
+Via Gabriele d'Annunzio,43.2530238,13.7617705
+Via Galileo Galilei,43.2524164,13.7581718
 Via Gandhi,43.2382976,13.7655904
-Via Giovanni Conti,43.2652169,13.7566009
-Via Giovanni Pascoli,43.2511143,13.7629694
-Via Goffredo Mameli,43.2601687,13.7591438
+Via Garda,43.2537333,13.7518185
+Via Genova,43.2427048,13.7661106
+Via Giacomo Leopardi,43.2605136,13.7572490
+Via Giordano Bruno,43.2572739,13.7407825
+Via Giorgio Morandi,43.2560766,13.7384252
+Via Giosuè Carducci,43.2505635,13.7616802
+Via Giotto,43.2555274,13.7595297
+Via Giovanbattista Pergolesi,43.2494895,13.7639646
+Via Giovanni Brodolini,43.2566043,13.7414447
+Via Giovanni Conti,43.2658116,13.7559099
+Via Giovanni Pascoli,43.2511358,13.7630560
+Via Giovanni Verga,43.2520076,13.7611137
+Via Giuseppe di Vittorio,43.2559055,13.7413996
+Via Giuseppe Giusti,43.2514174,13.7610821
+Via Giuseppe Pagliacci,43.2424230,13.7606803
+Via Giuseppe Parini,43.2506119,13.7615473
+Via Giuseppe Puccini,43.2574884,13.7413082
+Via Giuseppe Ungaretti,43.2524712,13.7610989
+Via Giuseppe Verdi,43.2538771,13.7597903
+Via Goffredo Mameli,43.2609073,13.7586807
 Via Gorizia,43.2677943,13.7552875
 Via Gran Sasso,43.2617293,13.7553878
+Via Grecia,43.2632223,13.7566455
+Via Guglielmo Oberdan,43.2550472,13.7605443
+Via Indipendenza,43.2575541,13.7600723
+Via Ippolito Nievo,43.2583375,13.7435494
+Via Isola d'Elba,43.2636354,13.7520199
+Via Isonzo,43.2582617,13.7557883
+Via Italo Svevo,43.2516184,13.7602775
+Via IV Novembre,43.2606843,13.7579529
+Via Lazio,43.2682391,13.7519212
 Via Legnano,43.2438667,13.7637823
-Via Liguria,43.2683044,13.7498764
+Via Liguria,43.2677542,13.7501729
+Via Lombardia,43.2645950,13.7521940
 Via Lucania,43.2696412,13.7492040
+Via Ludovico Ariosto,43.2508490,13.7611875
+Via Luigi Einaudi,43.2582705,13.7520337
+Via Luigi Mercantini,43.2568618,13.7394753
 Via Luigi Pirandello,43.2631703,13.7537718
+Via Luigi Settembrini,43.2587253,13.7447197
+Via Maddalena,43.2565281,13.7599565
+Via Malacaria,43.2583731,13.7480433
+Via Malacaria Est,43.2586161,13.7501576
 Via Marche,43.2668231,13.7523533
 Via Marina,43.2416745,13.7682904
+Via Marinai d'Italia,43.2587518,13.7594410
+Via Maroncelli,43.2579291,13.7419606
 Via Marsala,43.2408130,13.7666886
 Via Martiri delle Foibe,43.2399118,13.7554364
+Via Marzabotto,43.2405710,13.7685907
 Via Matera,43.2404123,13.7675383
 Via Merano,43.2625622,13.7549296
-Via Michelangelo,43.2505619,13.7634625
+Via Michelangelo,43.2505922,13.7635596
 Via Milano,43.2357557,13.7729831
+Via Mirafiori,43.2416467,13.7475860
 Via Modena,43.2407229,13.7715530
 Via Molise,43.2692971,13.7518461
+Via Monte Amiata,43.2626008,13.7534065
+Via Monte Argentario,43.2620858,13.7531592
 Via Montecarlo,43.2707860,13.7519610
-Via Monte Cervino,43.2619901,13.7543341
 Via Monte Conero,43.2601502,13.7555767
 Via Montefalcone,43.2676101,13.7554870
 Via Monte Grappa,43.2592909,13.7533747
-Via Monte Rosa,43.2611684,13.7563551
+Via Monte Rosa,43.2611124,13.7562226
 Via Monte Vettore,43.2603527,13.7549246
+Via Nazario Sauro,43.2610896,13.7569955
+Via Niccolò Machiavelli,43.2571574,13.7466271
 Via Norvegia,43.2701814,13.7524791
 Via Orvieto,43.2426420,13.7687006
-Via Pagliacci,43.2424230,13.7606803
 Via Palestro,43.2445350,13.7668853
+Via Palmiro Togliatti,43.2590876,13.7440352
 Via Panama,43.2640691,13.7572136
 Via Parma,43.2395200,13.7718942
-Via Pergolesi,43.2485410,13.7644647
+Via Pavia,43.2363992,13.7709917
 Via Perugia,43.2399563,13.7681668
 Via Pesaro,43.2480137,13.7647730
-Via Piave,43.2582581,13.7589415
-Via Pietro Mascagni,43.2495435,13.7641570
-Via Pietro Nenni,43.2343895,13.7737335
+Via Piacenza,43.2385529,13.7704221
+Via Piave,43.2582310,13.7595979
+Via Pietro Mascagni,43.2500512,13.7641006
+Via Pietro Nenni,43.2568242,13.7466658
+Via Po,43.2578438,13.7548005
+Via Principe Umberto,43.2602407,13.7579281
 Via Puglie,43.2688074,13.7505527
+Via Raffaello Sanzio,43.2546362,13.7600548
 Via Ravenna,43.2361008,13.7735641
+Via Redipuglia,43.2449484,13.7664502
+Via Regina Elena,43.2567935,13.7591165
+Via Reno,43.2567255,13.7540653
+Via Roma,43.2607645,13.7582362
 Via Romagna,43.2647321,13.7528331
 Via Rossini,43.2485582,13.7631402
+Via Rovereto,43.2653523,13.7565843
+Via Rubicone,43.2560609,13.7576295
 Via San Filippo,43.2410282,13.7582441
-Via San Francesco d'Assisi,43.2547704,13.7613749
-Via San Giovanni Bosco,43.2569658,13.7561594
+Via San Francesco d'Assisi,43.2536381,13.7620166
+Via San Giovanni Bosco,43.2583908,13.7571982
+Via San Marino,43.2632081,13.7519514
+Via Sardegna,43.2685664,13.7514711
+Via Savona,43.2402676,13.7691504
 Via Sicilia,43.2692470,13.7506257
-Via Siracusa,43.2383741,13.7684925
+Via SIlvio Pellico,43.2538218,13.7612486
+Via Siracusa,43.2383690,13.7677930
 Via Solferino,43.2443495,13.7645070
 Via Teano,43.2407257,13.7663503
+Via Tevere,43.2574697,13.7541265
+Via Tommaseo,43.2586291,13.7451592
 Via Torino,43.2406946,13.7704988
+Via Torquato Tasso,43.2522798,13.7593477
 Via Toscana,43.2674799,13.7502046
-Via Trentino,43.2680086,13.7531650
-Via Trieste,43.2602696,13.7597121
+Via Trentino,43.2684601,13.7528551
+Via Trento,43.2615499,13.7559549
+Via Trieste,43.2587137,13.7605600
 Via Tunisia,43.2720515,13.7508997
-Via Umberto I,43.2614061,13.7573069
+Via Ugo Bassi,43.2580692,13.7466430
+Via Ugo Foscolo,43.2505086,13.7612424
 Via Umbria,43.2684299,13.7503438
 Via Ungheria,43.2731326,13.7496888
+Via Val d'Aosta,43.2631837,13.7523356
 Via Venezia,43.2405550,13.7714300
+Via Vercelli,43.2354249,13.7717754
+Via Vincenzo Monti,43.2510454,13.7610412
 Via Vittorio Alfieri,43.2638388,13.7516278
-Via Volturno,43.2568507,13.7553823
-Area di Servizio Chienti Est,43.2859837,13.7232248
-Area di Servizio Chienti Ovest,43.2857307,13.7224396
+Via Vittorio Veneto,43.2602432,13.7578511
+Via Voghera,43.2374483,13.7705733
+Via Volturno,43.2568507,13.7561259
+Via XXIV Maggio,43.2614791,13.7575625
+Area di Servizio Chienti Est,43.2860148,13.7234420
+Area di Servizio Chienti Ovest,43.2856724,13.7222869
 Autostrada Adriatica,43.2781723,13.7362423
 Contrada San Tommaso,43.2677981,13.6336087
 Corso Baccio,43.2299462,13.6848228
@@ -1062,7 +1228,7 @@ Via Fontanelle,43.2345265,13.6879988
 Via Francesco Petrarca,43.2654837,13.7124449
 Via Gabriele D'Annunzio,43.2650921,13.7138586
 Via Giordano Bruno,43.2334328,13.6882354
-Via Giosuè Carducci,43.2650401,13.7131763
+Via Giosuè Carducci,43.2650323,13.7130357
 Via Giovanni Pascoli,43.2630756,13.7099430
 Via Giuseppe Ungaretti,43.2642389,13.7130298
 Via Ignazio Silone,43.2638230,13.7115535
@@ -1076,7 +1242,7 @@ Via Marche,43.2412239,13.6896239
 Via Monturanese,43.2178423,13.6787452
 Via Mounicipio,43.2278125,13.6844379
 Via Osteria Vecchia,43.2371131,13.6874677
-Via Papa Giovanni XXIII,43.2328136,13.6864964
+Via Papa Giovanni XXIII,43.2333697,13.6868091
 Via P. Campanella,43.2329442,13.6871322
 Via Piemonte,43.2345966,13.6866350
 Via Po,43.2308492,13.6881909

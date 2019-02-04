@@ -1,7 +1,7 @@
 Acqua di Rose,43.7937445,11.0178387
 argine La Furba,43.8294716,11.0318802
 CAI 300,43.7763209,11.0039580
-Caronte - chiuso,43.8025006,10.9779875
+Caronte - chiuso,43.8020877,10.9779499
 Ferdinando II,43.7815378,11.0077112
 Fonte del Gattice,43.7973561,10.9949572
 Fonte Frescolini,43.7978104,10.9796347
@@ -27,7 +27,7 @@ Ponte alla Furba,43.8299259,11.0362935
 ponte del pettirosso,43.8017622,10.9745867
 Ponte Nero,43.8269697,11.0140271
 risalita furba,43.8109210,11.0013288
-Sentiero di Leonardo,43.8071177,10.9825661
+Sentiero di Leonardo,43.8075374,10.9834007
 Strada vicinale della Petraia,43.8150468,11.0280753
 Strada Vicinale della Valle,43.8229831,11.0063064
 tratto pian delle forche,43.7891057,10.9927215
@@ -89,6 +89,7 @@ Via di Colle,43.8306340,10.9947653
 Via di Montefortini,43.7915468,11.0793464
 Via di Seano,43.8358896,11.0156777
 Via Don Giovanni Minzoni,43.8319824,11.0298335
+Via Don Lorenzo Milani,43.8326071,11.0274044
 Via Edison,43.8324470,11.0378646
 Via Elsa Morante,43.8306444,11.0248659
 Via Erta,43.7662043,11.0556549
@@ -134,10 +135,13 @@ Via Lisi,43.8310621,11.0248227
 Via Lombarda,43.8038809,11.0597489
 Via Ludwig Van Beethoven,43.7939446,11.0552318
 Via Macia,43.7941169,11.0569005
+Via Madonna del Papa,43.8006734,10.9928478
+Via Madoona del Papa,43.7971374,10.9969567
 Via Malinoci,43.8202986,11.0275679
 via malinucci,43.8174971,11.0223693
 Via Mario Sironi,43.8275655,11.0213195
 Via Modesti,43.8127276,11.0170839
+Via Molinaccio,43.8098487,10.9839129
 Via Molinetto d'Elzana,43.7926181,11.0470582
 Via Montageto,43.7902830,11.0331604
 Via Montalbiolo,43.8119239,11.0255059
@@ -172,7 +176,7 @@ via Toia,43.8076465,10.9875409
 Via Tommaso D'Aquino,43.7962086,11.0438790
 Via Tommaso Moro,43.7963312,11.0445693
 Via Torricelli,43.8362225,11.0315238
-Via traversa Don Minzoni,43.8326071,11.0274044
+Via traversa Don Minzoni,43.8334316,11.0280179
 Via Umberto Saba,43.8311827,11.0255298
 via Valle,43.8161366,11.0149375
 Via Valle,43.8152116,11.0161174
@@ -187,6 +191,7 @@ Piazza Primo Maggio,43.8292039,11.0397615
 Piazza Quattro Novembre,43.8140995,11.0577059
 Ponte alla Furba,43.8299259,11.0362935
 Ponte del Mulino,43.8188008,11.0591073
+Ponte Manetti,43.8248662,11.0474992
 Strada vicinale della Petraia,43.8155192,11.0350332
 Via 25 Aprile,43.8286728,11.0408249
 Via Agnolo Poliziano,43.8150385,11.0550430
@@ -314,7 +319,6 @@ Piazza Leonardo da Vinci,43.9089900,11.0619737
 Piazza Monsignor Contardi,43.9252482,11.0420542
 Piazza Oberdan,43.9246456,11.0488951
 Piazza San Babila,43.9055494,11.0318485
-Strada Provinciale Nuova Montalese,43.9208163,11.0332668
 Via Adda,43.9032189,11.0286147
 Via Adige,43.9291539,11.0342432
 Via Albiano,43.9504130,11.0856023
@@ -400,8 +404,10 @@ Via di Montemurlo,43.9018320,11.0519887
 Via di Palagrane,43.9260686,11.0278096
 Via di Palarciano,43.9070780,11.0337680
 Via Donatello,43.9115215,11.0646378
+Via Enrico Berlinguer,43.9208163,11.0332668
 Via Enrico De Nicola,43.9218898,11.0475237
 Via Enrico Fermi,43.9300592,11.0346132
+Via Enrico Mattei,43.9097187,11.0516167
 Via Enrico Toti,43.9049276,11.0320290
 Via Erbosa,43.9241453,11.0359963
 Via Etna,43.9282556,11.0332898
@@ -409,7 +415,7 @@ Via Ettore Majorana,43.9338880,11.0325163
 Via Europa,43.9193354,11.0578390
 Via Eva Curiel,43.9049542,11.0296657
 Via Falcone e Borsellino,43.9228622,11.0580372
-Via Federigo Melis,43.9066716,11.0655222
+Via Federigo Melis,43.9066417,11.0655390
 Via Ferdinando Targetti,43.9289991,11.0309924
 Via Ferrara,43.9278000,11.0309089
 Via Filippo Lippi,43.9150762,11.0599300
@@ -479,7 +485,6 @@ Via Napoli,43.9121126,11.0308319
 Via Nino Bixio,43.9242653,11.0472209
 Via Novara,43.9244331,11.0316243
 Via Nuoro,43.9216257,11.0285988
-Via Nuova Montalese,43.9114609,11.0617169
 Via Oglio,43.9106431,11.0251165
 Via Ombrone,43.9041654,11.0259488
 Via Orcagna,43.9138057,11.0624011
@@ -749,6 +754,7 @@ Via Ombrone,43.9249607,11.1298279
 Via Pablo Neruda,43.9488741,11.1238206
 Via Palmiro Togliatti,43.9636613,11.1269847
 Via Piero Gobetti,43.9354806,11.1264136
+Via Pietro Nenni,43.9626770,11.1271760
 Via Po,43.9233165,11.1292462
 Via Prima Trav. Dx di via Ombrone,43.9255550,11.1302699
 Via Renato Guttuso,43.9562758,11.1327228
@@ -819,6 +825,7 @@ Sentiero delle 3 sorgenti,44.0001232,11.0798304
 Sentiero delle cannicciaie,44.0177899,11.0700466
 Strada Provinciale 104 del Carigiola,44.0283476,11.1193362
 Strada provinciale Pistoia Riola,44.0397519,11.0407870
+Vernio DH,44.0250526,11.1232855
 Via Agnolo Firenzuola,43.9777209,11.1256161
 Via Aldo Moro,44.0314272,11.1195179
 Via Bacuccio,44.0221082,11.0750331
@@ -1072,6 +1079,7 @@ Pista ciclabile Gino Bartali,43.8524498,11.1236305
 Pista ciclabile Learco Guerra,43.8777598,11.0869191
 Pista ciclabile Mario Fazio,43.8785166,11.0848192
 Pista ciclabile Ruggero Balli,43.9024879,11.0913087
+Ponte alla Passerella,43.8838228,11.1002485
 Ponte alla Vittoria,43.8773773,11.1069183
 Ponte al Mercatale,43.8812540,11.1029185
 Ponte dei Bini,43.8770657,11.0147983
@@ -1079,6 +1087,7 @@ Ponte dei Coglioni,43.9011802,11.1309557
 Ponte del Mulino,43.8188008,11.0591073
 Ponte Francesco di Marco Datini,43.8907884,11.1029821
 Ponte Luciano Lama,43.8535030,11.1247591
+Ponte Manetti,43.8248662,11.0474992
 Ponte Mercatale,43.8808418,11.1022312
 Ponte Petrino,43.8725713,11.1163868
 Ponte XX Settembre,43.8795266,11.1048259
@@ -1091,6 +1100,7 @@ Sentiero del Geologo,43.8780144,11.1213890
 Sentiero delle Cave di Monteferrato,43.9266965,11.0890061
 Sentiero delle Scalette,43.9039657,11.1273252
 Sentiero palestra di roccia Figline,43.9250666,11.0932268
+strada privata condominio,43.8608382,11.0841036
 Strada Regionale di Val di Setta e Val di Bisenzio,43.9042716,11.1085679
 Strada Vicinale della Rugea,43.8271192,11.0790584
 Strada Vicinale della Vigna,43.8228950,11.1045258
@@ -1147,7 +1157,7 @@ Via Alfredo Forti,43.9001915,11.0361129
 Via Alfredo Menichetti,43.8617138,11.0661509
 Via Alighiero Ceri,43.8930772,11.0773546
 Via Alighiero di Bellincione,43.8646163,11.0429711
-Via alla Dogaia,43.9053892,11.0721687
+Via alla Dogaia,43.9053880,11.0721663
 Via Alta,43.9037144,11.1032940
 Via Alvise Cadamosto,43.8829126,11.0862897
 Via Amadio Baldanzi,43.8894175,11.1050059
@@ -1188,7 +1198,7 @@ Via Antonio Rossellino,43.8710358,11.1002534
 Via Antonio Salieri,43.8848363,11.0767102
 Via Antonio Stradivari,43.8891315,11.0768115
 Via Antonio Vivaldi,43.8892497,11.0706742
-Via Anzio,43.9030554,11.0742711
+Via Anzio,43.9030529,11.0743003
 Via Aquileia,43.8764190,11.0812541
 Via Arbia,43.8924906,11.0804360
 Via Arcangelo Corelli,43.8915719,11.0725308
@@ -1207,7 +1217,7 @@ Via Aristodemo Poli,43.9064899,11.1119840
 Via Armando Diaz,43.8839459,11.1083814
 Via Armando Meoni,43.8615056,11.0834290
 Via Armando Spadini,43.8711915,11.1115203
-Via Arnaldo Billi,43.9044145,11.0937200
+Via Arnaldo Billi,43.9046688,11.0939276
 Via Arnaldo Brioni,43.9005776,11.0936513
 Via Arno,43.8913888,11.0848954
 Via Arrigo Boito,43.8846845,11.0756727
@@ -1226,7 +1236,7 @@ Via Attilio Spano,43.8944918,11.0989825
 Via Atto Vannucci,43.8784206,11.0948246
 Via Augusto Alfani,43.8902099,11.0580445
 Via Augusto Borgioli,43.8880662,11.0731189
-Via Augusto Murri,43.9030324,11.0941510
+Via Augusto Murri,43.9033369,11.0934740
 Via Augusto Righi,43.8598416,11.0970696
 Via Aurelio Nicolodi,43.8656260,11.1447715
 Via Aurelio Saffi,43.8636726,11.0414249
@@ -1326,9 +1336,8 @@ Via Castruccio,43.8656042,11.0340558
 Via Cava,43.8587582,11.0778568
 Via Cavour,43.8804821,11.0891510
 Via Cecilia Bielli,43.8841005,11.0438807
-Via Cefalonia,43.9023926,11.0762200
+Via Cefalonia,43.9023913,11.0762174
 Via Cellerese,43.8589565,11.1407257
-Via Centola,43.8394938,11.1157663
 Via Centola Palinuro,43.8809603,11.0415908
 Via Cernaia,43.8954014,11.0658527
 Via Cesare Balbo,43.8865132,11.1080226
@@ -1385,7 +1394,7 @@ Via dei Catracci,43.8676471,11.1029626
 Via dei Cavalieri,43.8351797,11.1079390
 Via dei Ciliani,43.8927834,11.0870414
 Via dei Cimatori,43.8812142,11.0984824
-Via dei Confini,43.8402570,11.1136732
+Via dei Confini,43.8402453,11.1137003
 Via dei Fossi,43.8549828,11.0609289
 Via dei Gerani,43.8732946,11.0729346
 Via dei Gobbi,43.8903296,11.0833213
@@ -1420,7 +1429,7 @@ Via del Casone,43.8707950,11.1229529
 Via del Cassero,43.8778126,11.0999432
 Via del Castagno,43.8694473,11.0962991
 Via del Castellare,43.8663598,11.0477693
-Via del Ceppo Vecchio,43.8781377,11.0980871
+Via del Ceppo Vecchio,43.8781364,11.0980893
 Via del Chiasso,43.8758162,11.0537573
 Via del Ciliegio,43.8738760,11.0577008
 Via del Cimitero a Santa Cristina,43.8782530,11.1191742
@@ -1566,7 +1575,7 @@ Via del Romito,43.8747233,11.0985767
 Via del Sabotino,43.8933234,11.0724103
 Via del Seminario,43.8827403,11.0947136
 Via del Serraglio,43.8834951,11.0972621
-Via del Sodarello,43.9413548,11.0924878
+Via del Sodarello,43.9420659,11.0945687
 Via del Tasso,43.8378123,11.1093622
 Via del Trebbio alla Bardena,43.8815827,11.0313229
 Via del Vergaio,43.8828371,11.0964149
@@ -1591,7 +1600,7 @@ Via Didaco Bessi,43.8605840,11.0467307
 Via di Filettole,43.8919002,11.1163452
 Via di Galceti,43.9056619,11.0935525
 Via di Gamberame,43.9166031,11.1258820
-Via di Garduna,43.8678393,11.0423672
+Via di Garduna,43.8678252,11.0423672
 Via di Gello,43.8726613,11.0776861
 Via di Giolica Alta,43.8828120,11.1176241
 Via di Giramonte,43.8251190,11.0721469
@@ -1673,12 +1682,12 @@ Via Ernesto Nesti,43.8583946,11.1176522
 Via Ernesto Rossi,43.8881367,11.0927023
 Via Etna,43.8710562,11.0583963
 Via Etrusca,43.8611011,11.1379921
-Via Ettore Sambo,43.9028194,11.0818986
+Via Ettore Sambo,43.9028198,11.0818989
 Via Ettore Strobino,43.8461419,11.1115814
 Via Eugenio Barsanti,43.8662379,11.0922325
 Via Eugenio Fantaccini,43.9047316,11.1070173
 Via Eugenio Gestri,43.8708993,11.0793443
-Via Evangelista Torricelli,43.8651044,11.0973173
+Via Evangelista Torricelli,43.8652372,11.0970895
 Via Evaristo Gherardi,43.8974892,11.1044606
 Via Ezo Campolmi,43.8707468,11.1097958
 Via Fabio Fabiani,43.8608529,11.0920153
@@ -1752,7 +1761,7 @@ Via Fratelli Casotti,43.8740016,11.0962507
 Via Fratelli da Maiano,43.8701279,11.1099957
 Via Fratelli Giachetti,43.8750220,11.0971010
 Via fratelli Miniati,43.8762018,11.1061104
-Via Fratelli Ventura,43.9055664,11.0744230
+Via Fratelli Ventura,43.9055452,11.0744270
 Via Friuli Venezia Giulia,43.8595761,11.0516055
 Via Gabbiana,43.8699580,11.0622149
 Via Gabriele D'Annunzio,43.8825298,11.1136218
@@ -1786,7 +1795,7 @@ Via Gian Domenico Romagnosi,43.8889585,11.1074438
 Via Gianni Rodari,43.8423152,11.0924404
 Via Gino Capponi,43.8871808,11.1051443
 Via Gino Luzzatto,43.8785293,11.1108372
-Via Gino Pizzicori,43.9042462,11.0738682
+Via Gino Pizzicori,43.9042403,11.0738843
 Via Gino Signori,43.8749245,11.0577999
 Via Giocondo Papi,43.8389723,11.1078619
 Via Giolica di Sopra,43.8824541,11.1160293
@@ -1912,7 +1921,7 @@ Via Larga,43.8350044,11.0924584
 Via Lario,43.8894628,11.0467959
 Via Lavarone,43.8751065,11.0876999
 Via Lazzaro Spallanzani,43.9081991,11.0945104
-Viale Alcide De Gasperi,43.8725587,11.1168481
+Viale Alcide De Gasperi,43.8725457,11.1168427
 Viale Alessandro Manzoni,43.8675892,11.0354677
 Viale Borgo Valsugana,43.8744294,11.1162915
 Via Lecco,43.8784125,11.0703729
@@ -1924,14 +1933,14 @@ Viale Galileo Galilei,43.8859111,11.1001716
 Via Legnano,43.8938605,11.0710600
 Viale Guglielmo Marconi,43.8616526,11.1193196
 Viale Leonardo da Vinci,43.8793414,11.0618541
-Viale Marzabotto,43.9019672,11.0796728
+Viale Marzabotto,43.9017749,11.0799557
 Viale Montegrappa,43.8630591,11.1183078
 Viale Nam Dinh,43.8939096,11.0752335
 Via Leonardo Scarioni,43.8759662,11.0608512
 Via Leonetto Lippini,43.8875280,11.0902587
 Via Lepanto,43.8677003,11.0945685
 Viale Piave,43.8786389,11.0982734
-Viale Salvador Allende,43.8756482,11.0621535
+Viale Salvador Allende,43.8756485,11.0621533
 Viale Unione Europea,43.9005618,11.0387828
 Viale Vittorio Veneto,43.8771200,11.1043118
 Via Libero Grassi,43.8940956,11.0785684
@@ -1999,9 +2008,9 @@ Via Marino Olmi,43.8677098,11.0868081
 Via Mario Cappelli,43.8432083,11.0781483
 Via Mario Cipriani,43.8718288,11.0833734
 Via Mario Luzi,43.8447826,11.0446987
-Via Mario Tronci,43.9054188,11.0730984
+Via Mario Tronci,43.9053579,11.0731119
 Via Marsala,43.8701086,11.0974248
-Via Martino da Maliseti,43.9019562,11.0754912
+Via Martino da Maliseti,43.9018879,11.0752952
 Via Martino Mati,43.8733278,11.0578923
 Via martino mati Prato,43.8736437,11.0582866
 Via Martino Meucci,43.8434527,11.0446936
@@ -2013,7 +2022,7 @@ Via Matteo Degli Organi,43.8877467,11.0531375
 Via Mauro Marcello Panconi,43.8877705,11.0897268
 Via Mauro Miliotti,43.8614298,11.0822213
 Via medaglie d'oro,43.8946159,11.0924712
-Via Mediterraneo,43.8898183,11.0519352
+Via Mediterraneo,43.8898187,11.0519354
 Via Mentana,43.8899327,11.0793442
 Via Metauro,43.8952656,11.0866415
 Via Michelangiolo,43.9074794,11.0619791
@@ -2143,7 +2152,7 @@ Via Puglia,43.8596121,11.0538324
 Via Pugliesi,43.8799400,11.0987443
 Via Quarto dei Mille,43.8704545,11.0964223
 Via Querceto,43.8620071,11.0807060
-Via Quinto Martini,43.9051324,11.0737827
+Via Quinto Martini,43.9051053,11.0738028
 Via Quirico Baldinucci,43.8757831,11.1015891
 Via Raffaello Lambruschini,43.8840289,11.1081270
 Via Raffaello Luti,43.8845081,11.0915073
@@ -2261,7 +2270,7 @@ Via Ticino,43.8926374,11.0847413
 Via Tiepolo,43.8776637,11.1045846
 Via Timavo,43.8919911,11.0760289
 Via Tinaia,43.8796880,11.0948353
-Via Tirreno,43.8905875,11.0529177
+Via Tirreno,43.8905879,11.0529179
 Via Tirso,43.8956576,11.0887217
 Via Tito Speri,43.8905139,11.0842477
 Via Tivoli,43.8401713,11.0697439
@@ -2309,7 +2318,7 @@ Via Ubaldino Peruzzi,43.8668979,11.0877270
 Via Udine,43.8769303,11.0747840
 Via Ugo Bassi,43.8913792,11.0813758
 Via Ugo Cantini,43.8403199,11.0413788
-Via Ugo Foscolo,43.8900154,11.0584842
+Via Ugo Foscolo,43.8899981,11.0584680
 Via Ugo Panziera,43.8690562,11.0897484
 Via Umberto Giordano,43.8838593,11.0828374
 Via Umberto Ridolfi,43.9046966,11.0745044
@@ -2321,7 +2330,7 @@ Via Valdingole e Fossetto,43.8964126,11.0488323
 Via Valdona,43.9059147,11.1217583
 Via Valeria Crocini,43.8374677,11.1083191
 Via Valeria Tozzini,43.8622838,11.0423263
-Via Val Gossola,43.9023626,11.0775527
+Via Val Gossola,43.9023567,11.0775554
 Via Vecchia di Cantagallo,43.9241289,11.0917594
 Via Vella o Lungo la Bardena,43.8966585,11.0818428
 Via Veneto,43.8607963,11.0502645

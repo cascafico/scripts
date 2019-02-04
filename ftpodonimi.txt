@@ -1,0 +1,5 @@
+open ftp.burnjak.altervista.org
+user pippo passuord
+put /tmp/odonimi.jpg odonimi.jpg
+bye
+

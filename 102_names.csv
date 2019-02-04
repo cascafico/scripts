@@ -41,6 +41,7 @@ Via V traversa,38.4710565,16.3437808
 Via V Traversa,38.4708180,16.3446467
 Via XX Settembre,38.4408564,16.3441935
 Vico Nazario Sauro,38.4461980,16.3470131
+Corso Vittorio Emanuele III,38.4834812,16.3012869
 Percorso Garompolo,38.5050713,16.2878104
 Contrada Micone,38.5182604,16.3230511
 Corso Vittorio Emanuele III,38.5159912,16.3202919
@@ -73,18 +74,19 @@ Vico I Piazza Regina Margherita,38.5132043,16.3200086
 Vico I Via Roma,38.5135964,16.3186548
 Vico I Via Sagra,38.5132143,16.3183256
 Via V. Rosano,38.5387125,16.1723955
+Corso Vittorio Emanuele III,38.5613915,16.2116958
 Percorso Garompolo,38.5050713,16.2878104
 Sentiero Frassati,38.5453833,16.3093759
 Contrada Castello,38.5687978,16.3076460
 Contrada Certosa,38.5656715,16.3201404
 Contrada Giuseppina Maria Pisani,38.5602047,16.3262310
-Contrada Guido,38.5769538,16.3371440
+Contrada Guido,38.5769538,16.3358215
 Contrada La Chiusa,38.5806515,16.3329653
 Contrada Micone,38.5182604,16.3230511
 Contrada Mindeo,38.5767590,16.3169408
 Contrada Ombrellino,38.5649815,16.3272604
-Contrada Pezzente,38.5785384,16.3372037
-Contrada San Rocco,38.5835348,16.3348509
+Contrada Pezzente,38.5781753,16.3371889
+Contrada San Rocco,38.5837631,16.3349871
 Contrada Sendamo,38.5734164,16.3222305
 Contrada Tre Acque,38.5751774,16.3149106
 Corso Umberto I,38.5773717,16.3305157
@@ -94,13 +96,12 @@ Piazza Cavour,38.5791998,16.3300102
 Piazza Garusi,38.5736113,16.3284367
 Piazzale Pasquale Tozzo,38.5783827,16.3326255
 Piazza Scaramozzino,38.5790929,16.3302922
-Pizzoni - Serra San Bruno,38.6042118,16.2760842
+Pizzoni - Serra San Bruno,38.6035483,16.2762976
 Sentiero Archiforo,38.5526812,16.3449750
 Sentiero Baden Powel,38.5429075,16.3126390
 Sentiero Baden Powell,38.5579067,16.3496186
 Sentiero Frassati,38.5453833,16.3093759
-Strada statale 182 delle Serre Calabre,38.5893057,16.2758810
-Trasversale delle Serre - diramazione,38.5851178,16.3016209
+Strada statale 182 delle Serre Calabre,38.5893057,16.2761803
 Via Alcide De Gasperi,38.5775799,16.3314446
 Via Alessandro Manzoni,38.5731777,16.3275199
 Via Alessandro Volta,38.5717518,16.3267826
@@ -119,7 +120,7 @@ Via Catanzaro,38.5685891,16.3271994
 Via Cesare Battisti,38.5799256,16.3316472
 Via Chimirri,38.5798798,16.3318849
 Via Ciro Menotti,38.5727478,16.3273073
-Via Corrado Alvaro,38.5835129,16.3240190
+Via Corrado Alvaro,38.5824051,16.3260646
 Via degli Abeti,38.5752908,16.3265276
 Via degli scalpellini,38.5777551,16.3258301
 Via dei Faggi,38.5757246,16.3267796
@@ -143,7 +144,7 @@ Viale Aldo Moro,38.5748533,16.3217134
 Viale Certosa,38.5695121,16.3225848
 Viale Guglielmo Marconi,38.5782889,16.3290870
 Viale Sandro Pertini,38.5801792,16.3268736
-Via Libertà,38.5815291,16.3321856
+Via Libertà,38.5814893,16.3317625
 Via Livorno,38.5778016,16.3291946
 Via Malta,38.5778768,16.3285034
 Via Mastropietro,38.5773735,16.3231031
@@ -165,7 +166,7 @@ Via Roma,38.5791218,16.3291921
 Via Rosario Livatino,38.5735619,16.3232886
 Via San Biagio,38.5794169,16.3328258
 Via San Brunone di Colonia,38.5815736,16.3330604
-Via San Giovanni Paolo II,38.5841538,16.3278259
+Via San Giovanni Paolo II,38.5841538,16.3283394
 Via San Girolamo,38.5799064,16.3299442
 Via San Lorenzo,38.5798310,16.3303345
 Via San Michele,38.5643974,16.3231745
@@ -189,6 +190,7 @@ Vico Cesare Battisti,38.5803565,16.3309963
 Vico Sergente Giuseppe Albano,38.5726516,16.3278521
 Vico Tiri,38.5784851,16.3317315
 Vico Ugo Foscolo,38.5737200,16.3276548
+Corso Vittorio Emanuele III,38.5153468,16.1652639
 Via Cavour,38.5276571,16.1472995
 Viale Del Re,38.5276397,16.1491426
 Via Lungo Torno Superiore,38.5271178,16.1470702
@@ -197,13 +199,18 @@ Via Rione Palazzi,38.5287476,16.1481383
 Via Roma,38.5278851,16.1469523
 Via Vecchia Monsoreto,38.5265950,16.1480704
 Viale Europa,38.5568198,15.9850697
+Via Vittorio Emanuele III,38.5736425,16.0253142
 Autostrada del Mediterraneo,38.5954771,16.1374808
 Mileto antica,38.5908815,16.0748472
+PIazza dell'Assunta,38.6116662,16.0747457
+Via Principe Umberto,38.6121430,16.0752221
+Via Vittorio Emanuele III,38.6071379,16.0685645
+Piazza Vittorio Emanuele III,38.5649338,16.1971265
 Località Cannella,38.5872635,16.3360925
-Pizzoni - Serra San Bruno,38.6042118,16.2760842
+Pizzoni - Serra San Bruno,38.6035483,16.2762976
 Strada provinciale Serra San Bruno-Simbario,38.6207011,16.3303643
-Strada statale 182 delle Serre Calabre,38.5893057,16.2758810
-Via San Giovanni Paolo II,38.5841538,16.3278259
+Strada statale 182 delle Serre Calabre,38.5893057,16.2761803
+Via San Giovanni Paolo II,38.5841538,16.3283394
 Autostrada del Mediterraneo,38.6287654,16.1646721
 Strada statale 182 delle Serre Calabre,38.5910547,16.2514932
 Via San Sebastiano,38.5872679,16.2185446
@@ -250,16 +257,16 @@ Via Armando Diaz,38.6045924,15.8729377
 Via Bonello,38.5823717,15.8963946
 Via Chiesa,38.6045815,15.8713827
 Via Correa,38.5765306,15.8993712
+via del Carmine,38.5942249,15.9042926
 Via Nucara,38.6017122,15.8708428
 Via Pio X,38.6061357,15.8721720
 Via Risorgimento,38.5859714,15.9164106
 Strada provinciale Serra San Bruno-Simbario,38.6343091,16.3263498
-Strada statale 182 delle Serre Calabre,38.6538158,16.3667633
+Strada statale 182 delle Serre Calabre,38.6419964,16.3428940
 Trasversale delle Serre,38.6252951,16.3297427
 Trasversale delle Serre - diramazione A,38.6342379,16.3260975
 Autostrada del Mediterraneo,38.5954771,16.1374808
-Autostrada del Mediterraneo,38.6391936,16.1766867
-Pizzoni - Serra San Bruno,38.6042118,16.2760842
+Via Vittorio Emanuele III,38.6166079,16.1010473
 Autostrada del Mediterraneo,38.6287654,16.1646721
 Strada statale 182 delle Serre Calabre,38.5961684,16.2296033
 Via Torretta,38.5993991,16.2306824
@@ -268,8 +275,7 @@ Brattirò - Spilinga,38.6546757,15.8631570
 Contrada Capo Vaticano,38.6195963,15.8411508
 Contrada Frizza,38.6351344,15.8370686
 Contrada Le Querce,38.6175382,15.8513811
-Contrada marina del Faro,38.6607181,15.8581645
-Contrada Marina del faro,38.6611741,15.8588318
+Contrada Marina del Faro,38.6611741,15.8588318
 Contrada Punta Tono,38.6316890,15.8341952
 Contrada Schiavello,38.6506399,15.8437869
 Contrada Tonicello,38.6370357,15.8365606
@@ -307,8 +313,8 @@ Via Provinciale,38.6266545,15.8594740
 Via Ricciolina,38.6142883,15.8518128
 Via Rocco Sainato,38.6169588,15.8406991
 Via Roma,38.6309453,15.8705981
-Via San Domenica - Vispico,38.6665516,15.8759967
-Via Sant'Anna,38.6636182,15.8668304
+Via Santa Domenica - Vispico,38.6629109,15.8654032
+Via Sant'Anna,38.6636240,15.8668137
 Via Schioppo,38.6264324,15.8664547
 Via Torre,38.6253576,15.8663328
 Via Torre Santa Maria,38.6119987,15.8494099
@@ -324,7 +330,7 @@ SP 53 Vazzano-Vallelonga,38.6369019,16.2735690
 Autostrada del Mediterraneo,38.6483500,16.1865078
 Via Antica Monteleone,38.6733345,16.1103707
 Viale della Pace,38.6860188,16.1208264
-Viale Nicolas Green,38.6780153,16.1166732
+Viale Nicolas Green,38.6780593,16.1166732
 Contrada Lenza,38.6468033,15.8876660
 Contrada Lupo Grasso,38.6442796,15.8929851
 Contrada Pità,38.6481148,15.8833799
@@ -430,7 +436,7 @@ Viale della Pace,38.6820240,16.1050108
 Viale delle accademie vibonesi,38.6786441,16.1122316
 Viale Delle Rose,38.6762126,16.0891405
 Viale John Fitzgerald Kennedy,38.6765412,16.0966605
-Viale Nicolas Green,38.6780153,16.1166732
+Viale Nicolas Green,38.6780593,16.1166732
 Viale Olivarella,38.6764590,16.0861776
 Viale Regina Margherita,38.6750737,16.1060952
 Via Martin Luther King,38.6754591,16.0988810
@@ -468,7 +474,7 @@ Via Vincenzo Padula,38.6760952,16.0921554
 Via XXV Aprile,38.6775406,16.1049365
 Vicolo Il Cesarella,38.6726307,16.1074805
 SP 53 Vazzano-Vallelonga,38.6369019,16.2735690
-Strada provinciale Serra San Bruno-Simbario,38.6390364,16.3219799
+Strada provinciale Serra San Bruno-Simbario,38.6389945,16.3220750
 Autostrada del Mediterraneo,38.7021951,16.1550709
 Corso Garibaldi,38.7254755,16.0322819
 Corso Regina Margherita,38.7242735,16.0301423
@@ -487,7 +493,7 @@ Piazza Francesco Ruffa,38.6816977,15.9219207
 Piazza Jan Palach,38.6840725,15.9223473
 Piazza Mercato,38.6809785,15.9229133
 Piazza Porto Salvo,38.6823610,15.9258112
-Piazza Premuda,38.6806661,15.9206150
+Piazza Premuda,38.6806669,15.9206463
 Piazza Stazione,38.6830520,15.9252009
 Rione Aria,38.6806129,15.9196412
 Rione Frezza,38.6804943,15.9240282
@@ -520,14 +526,14 @@ Via Luigi Razza,38.6817240,15.9206552
 Via Mariano Meligrana,38.6800027,15.9185283
 Via M. Bianchi,38.6826176,15.9230509
 Via Melograni,38.6808749,15.9208570
-Via Montanara,38.6807038,15.9230624
+Via Montanara,38.6808717,15.9230936
 Via Onofrio Colace,38.6821257,15.9220789
 Via Paolo Borsellino,38.6798156,15.9225361
-Via Peppino Valariotti,38.6799673,15.9225445
+Via Peppino Valariotti,38.6800946,15.9220579
 Via Principe di Piemonte,38.6813057,15.9218335
 Via Principe Umberto,38.6818763,15.9244147
 Via Raf Vallone,38.6818351,15.9213247
-Via Regina Elena,38.6807736,15.9217485
+Via Regina Elena,38.6807744,15.9217797
 Via Roma,38.6816154,15.9204096
 Via San Giovanni Bosco I Traversa,38.6806055,15.9197918
 Via Torino,38.6807759,15.9227535
@@ -615,9 +621,9 @@ Via Pontorieri,38.6786084,15.8992897
 Via Quattro Novembre,38.6745583,15.8948238
 Via Rocca,38.6715880,15.8872793
 Via Roma,38.6780579,15.8982731
-Via San Domenica - Vispico,38.6665516,15.8759967
 Via San Polito,38.6768256,15.8968144
 Via Santa Domenica,38.6733475,15.8949756
+Via Santa Domenica - Vispico,38.6711098,15.8860054
 Via Senatore Carlo Tranfo,38.6721898,15.8911657
 Via Tommaso Ruffa,38.6752361,15.8923368
 Via Umberto I,38.6773946,15.8965987
@@ -702,7 +708,6 @@ Via Martiri d'Ungheria,38.7335331,16.1583528
 Via Mercato,38.7360502,16.1634088
 Via Monteleone,38.7349384,16.1596880
 Via Naviganti,38.7343696,16.1591751
-Via Nazionale,38.7361507,16.1709981
 Via Paladini,38.7367598,16.1614625
 Via Pasquale Mari,38.7344541,16.1593518
 Via Pietà,38.7315967,16.1610055
@@ -711,6 +716,7 @@ Via Roma,38.7355526,16.1605625
 Via San Francesco,38.7366671,16.1646813
 Via Sanità,38.7354926,16.1596139
 Via San Sebastiano,38.7354636,16.1657488
+Via Sant'Antonio,38.7346942,16.1662920
 Via Savoia,38.7358125,16.1609074
 Via Vittorio Emanuele,38.7344753,16.1596867
 Via Zuppone Strani,38.7360620,16.1679702
@@ -750,15 +756,6 @@ Scorciatoia Marina,38.5492011,15.9375579
 Strada fangosa,38.5390511,15.9519703
 Via Casolaro,38.5532511,15.9378297
 Via Risorgimento,38.5859714,15.9164106
-Canalone 2,38.5839577,15.9757688
-via 24 Maggio,38.5708693,15.9770053
-Via Cristoforo Colombo,38.5567928,15.9636209
-Viale Europa,38.5568198,15.9850697
-via Montegrappa,38.5709027,15.9769138
-Via Novara,38.5515502,15.9698459
-Via Telesio,38.5516385,15.9681776
-Via Umberto I,38.5587633,15.9611803
-Via Vittorio Emanuele II,38.5581658,15.9633591
-vico Tagliamento,38.5709723,15.9771959
-Pizzoni - Serra San Bruno,38.6042118,16.2760842
+Pizzoni - Serra San Bruno,38.6035483,16.2762976
 Strada statale 182 delle Serre Calabre,38.5910547,16.2514932
+Via Vittorio Emanuele III,38.5916181,16.2331486

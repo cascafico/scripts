@@ -4,7 +4,7 @@ Comunione Sa Murta Bianca,38.9268998,8.9095243
 Comunione Viale Dei Pini,38.9302842,8.9238742
 Corso Vittorio Emanuele,39.0107941,9.0007089
 dispensa Tonietti- Arcu Montixi,39.0039085,8.8874129
-Is Cannoneris-Monte Nieddu,39.0596639,8.9037017
+Is Cannoneris-Monte Nieddu,39.0394256,8.8731339
 Località Piscinamanna,38.9908317,8.9376018
 mongittu's trail,38.9198027,8.9016563
 Mountaine forest road,38.9438468,8.9198085
@@ -163,6 +163,7 @@ Vico primo Vittorio Emanuele,39.0081981,9.0005872
 Vico Sant'Efisio,39.0011867,9.0072145
 Vico secondo Vittorio Emanuele,39.0084465,9.0003616
 Vico Trento,39.0090943,9.0009426
+Conca d'Oru,39.1101258,8.9602742
 Nuova SS195 Sulcitana,39.0992339,8.9967518
 Piazza Giosuè Carducci,39.0674171,9.0069685
 Piazza Repubblica,39.0633213,9.0115902
@@ -233,14 +234,14 @@ Via Giovanni Pascoli,39.0678806,9.0101320
 Via Giuseppe Garibaldi,39.0650613,9.0121068
 Via Giuseppe Verdi,39.0685608,9.0098548
 Via Grazia Deledda,39.0702748,9.0092121
-Via Grecale,39.0308658,9.0289092
+Via Grecale,39.0309149,9.0288803
 Via Guglielmo Marconi,39.0632462,9.0038267
 Via Horatio Nelson,39.0284154,9.0263184
 Via Indipendenza,39.0629863,9.0106986
 Via James Cook,39.0279748,9.0279260
 Via Lazio,39.0677658,9.0125731
 Via Leonardo da Vinci,39.0620170,9.0026825
-Via Libeccio,39.0313733,9.0296551
+Via Libeccio,39.0313278,9.0297231
 Via Liguria,39.0676286,9.0121383
 Via Lombardia,39.0651768,9.0134353
 Via Luigi Canepa,39.0641892,9.0075452
@@ -297,7 +298,6 @@ Vico secondo Cagliari,39.0647996,9.0098930
 Vico secondo Giuseppe Verdi,39.0670171,9.0083879
 Vico Trieste,39.0644045,9.0102694
 Corso Vittorio Emanuele,39.0332786,8.9966856
-Is Cannoneris-Monte Nieddu,39.0596639,8.9037017
 Nuova SS195 Sulcitana,39.0337060,8.9855668
 Piazza Arturo Toscanini,39.0381835,8.9927443
 Piazza San Pietro,39.0337668,8.9952835
@@ -397,6 +397,7 @@ Via Ancona,39.2903011,8.9925845
 Via Aquilone,39.3015782,8.9910835
 Via Arno,39.2901484,9.0010554
 Via Atene,39.2856756,9.0129639
+Via Augusto Righi,39.2822812,9.0354037
 Via Bainsizza,39.2895176,8.9962730
 Via Barbagia,39.2945434,9.0021368
 Via Bari,39.2914148,8.9914867
@@ -562,7 +563,6 @@ Via Ogliastra,39.2930965,8.9999969
 Via Olbia,39.2978567,8.9977581
 Via Olimpia,39.2928051,8.9904140
 Via Oristano,39.2952044,8.9984385
-Via Orso Maria Corbino,39.2800881,9.0388745
 Via Oslo,39.2861101,9.0136998
 Via Ottone Bacaredda,39.2833695,8.9963564
 Via Ozieri,39.2968882,8.9958060
@@ -586,7 +586,7 @@ Via Pietro Maroncelli,39.2826737,8.9992425
 Via Piras,39.2859832,9.0014754
 Via Pisa,39.2912813,8.9946140
 via piscina Matzeu,39.2788420,9.0640399
-Via Piscina Matzeu,39.2790074,9.0665440
+Via Piscina Matzeu,39.2789869,9.0664892
 Via Pitzolo,39.2857807,9.0028790
 Via P. Martini,39.2866689,8.9979714
 Via Po,39.2914826,9.0019349
@@ -612,7 +612,7 @@ Via Roma,39.2888573,8.9977848
 Via Romagna,39.2880144,9.0124120
 Via R. Rossellini,39.2848074,9.0135787
 Via Sacco,39.2830188,9.0178366
-Via Sa Costera,39.2795378,9.0129648
+Via Sa Costera,39.2795304,9.0129648
 Via Sacro Cuore,39.2865563,9.0079737
 Via Salaris,39.2864768,9.0045411
 Via Salemi,39.2821263,9.0207622
@@ -674,7 +674,9 @@ Via Vincenzo Sulis,39.2807584,9.0149061
 Via Zara,39.2933740,8.9964058
 Vicolo Privato,39.2831393,9.0116431
 Accesso secondario Torre Ulivi A,39.1346402,9.0140133
+Conca d'Oru,39.1101258,8.9602742
 Dorsale Consortile,39.1919277,9.0163900
+fuori sentiero,39.1317369,8.9733566
 Largo Aldebaran,39.1531457,9.0208055
 Località Goppareddu,39.1528124,8.9805735
 Moto Ginestra,39.1194766,8.9777877
@@ -685,6 +687,7 @@ Piazza Sant'Efisio Martire,39.1358853,9.0112757
 Piazza Sardegna,39.1784069,8.9709400
 Punta Pala Niedda,39.1196762,8.9464128
 Santa Barbara,39.1467737,8.9530422
+sentiero lago poggio dei pini,39.1450999,8.9757992
 S. Girolamo - Santa Barbara,39.1520603,8.9520873
 SS195 Sulcitana,39.1388240,9.0086156
 Strada 1,39.1411502,8.9820532
@@ -718,11 +721,11 @@ Strada 46,39.1472732,8.9652661
 Strada 47,39.1471481,8.9626671
 Strada 48,39.1479123,8.9636529
 Strada 49,39.1484809,8.9650172
-Strada 5,39.1439897,8.9781913
+Strada 5,39.1440585,8.9782205
 Strada 50,39.1490169,8.9645595
 Strada 51,39.1465481,8.9659907
 Strada 53,39.1500671,8.9652512
-Strada 54,39.1451788,8.9721240
+Strada 54,39.1451883,8.9720998
 Strada 55,39.1497995,8.9621064
 Strada 56,39.1482845,8.9609926
 Strada 57,39.1493253,8.9593856
@@ -739,7 +742,7 @@ Strada 68,39.1437713,8.9652231
 Strada 69,39.1432391,8.9658295
 Strada 70,39.1431403,8.9655888
 Strada 71,39.1416349,8.9680223
-Strada 72,39.1419279,8.9685681
+Strada 72,39.1419285,8.9685689
 Strada 8,39.1529434,8.9757010
 Strada 9,39.1438701,8.9803802
 Su Loi,39.1351607,9.0135066
@@ -919,10 +922,10 @@ Vico Tirso,39.1778588,8.9752706
 3 Raccordo Sent. 815,39.2945443,9.3915129
 3 Raccordo sent. 815 strada Monte Cresia,39.2985307,9.3927482
 4 Raccordo Sent. 815 ex 5 Verde,39.2943932,9.3917520
-800A Raccordo per il Sent. 800 Italia da Arcu su Crabiolu,39.2709265,9.4318236
-800B Raccordo per il Sent.  Italia  da Acqueddas,39.2773149,9.4352289
-800 Sentiero Italia Baccu sa Xeraxia Conca 'e s'Ilixi,39.2741147,9.4365510
-800 Sentiero Italia Cime dei Sette Fratelli Aqueddas,39.2844096,9.4365759
+800A Raccordo per il Sent. 800 Italia da Arcu su Crabiolu,39.2709265,9.4318226
+800B Raccordo per il Sent.  Italia  da Acqueddas,39.2773144,9.4352282
+800 Sentiero Italia Baccu sa Xeraxia Conca 'e s'Ilixi,39.2741152,9.4365500
+800 Sentiero Italia Cime dei Sette Fratelli Aqueddas,39.2844087,9.4365771
 811A Raccordo Sent.  Natura Recinto dei Cervi,39.2742171,9.4209001
 812 / 812A Sent. ex 2 Giallo Maidopis Tuppe Ludu Arcu Pedru Cossu,39.2817399,9.4184669
 812A Raccordo Sent. Riu Tuppa Ludu Procileddu ex 2 giallo,39.2889907,9.4125333
@@ -931,7 +934,7 @@ Vico Tirso,39.1778588,8.9752706
 814 Sent. ex Arancio n. 4 ponte Mastinaxius sa Serra Bruncu 'e Mesu Procili sa Scova Foresta Arrubia Arcu sa Spina,39.3013739,9.4008015
 Antica Strada Burcei,39.2907707,9.3415156
 "Antica Strada Sarrabesa Bau Arrexini, sa Figu Burroni, Curadori su Crabilu i Straderis S' Arruaxiu Bau sa Ceraxia",39.2720619,9.3981965
-Antica Strada Sarrabesa Bau Arrexini sa Figu Burroni Curadori su Crabilu i Straderis S' Arruaxiu Bau sa Ceraxia,39.2692454,9.4356712
+Antica Strada Sarrabesa Bau Arrexini sa Figu Burroni Curadori su Crabilu i Straderis S' Arruaxiu Bau sa Ceraxia,39.2692452,9.4356695
 Arcu Coreddoni Nuraxi Coreddoni is Cungiaus de Coreddoni,39.3380758,9.3440361
 Arcu sa porta,39.1711243,9.4243914
 Arcu sa Spina Argiola Lorenzu Origa Arcu sa Ruxi is Suergius Sillixina,39.3372244,9.3094483
@@ -939,7 +942,7 @@ Bau Arrexini Su Priogu,39.2740738,9.3997145
 "Bia sa Pixina 'e Asidi, Bau Mitza is Zarpas, Su Codrau, is Gattus is Arridelis, is Terras de su Rei, Is Bidillis Scala Suergiu",39.3417773,9.3340996
 Bretella scorciatoia sent. 814A 814,39.3020068,9.3972632
 "Campu Omu, Procilleddu, Maidopis, Arcu Curadori",39.2702420,9.4173997
-Campu Omu Monte Cresia,39.3055394,9.3922544
+Campu Omu Monte Cresia,39.3055394,9.3922541
 Circonvallazione Sinnai Est,39.3061392,9.2145746
 Circonvallazione Sinnai EST,39.2908749,9.2144164
 Circonvallazione Sinnai SUD,39.2880096,9.2166302
@@ -947,7 +950,7 @@ Genna Comida S' Illixedda,39.3578659,9.3237631
 Giuanni Lilloni sa Sedda su Cadru,39.3135630,9.3156838
 Guado Bau Arrexini,39.2722253,9.3992394
 "Guado Bau s' Edera, sa Scova su Frucconi",39.2938839,9.3935781
-Guado Inpostu su Craboni Sent.  Italia 800,39.3062266,9.3999427
+Guado Inpostu su Craboni Sent.  Italia 800,39.3062299,9.3999410
 Is Zarpas - Pinnetta - sa Perda Arrubia - Perda 'e Axedu,39.3413124,9.3402422
 Meriagheddus Antiogu Boi,39.2868804,9.3822825
 "Mitza Crubetta, Arcu S'Era, Sa Gallassia, Monti Arrubiu",39.3635398,9.3208585
@@ -962,8 +965,8 @@ Piazza Santa Barbara,39.3012693,9.2029725
 Piazza Santa Vittoria,39.3037813,9.1974707
 Piazza Sant'Isidoro,39.3057607,9.2071062
 Piazza Scuole,39.3032796,9.2031678
-"Pista da Scala Suergiu, sa Pallasa Perda s' Intruxi, Meana, Procili 'e Contini, Bau S'Illixina",39.3307749,9.3192246
-"Pista Forestale Bau S' Illixina su Niu de S'Achili de i Moeddus, Bau sa Melliana su Niu de S'Achili Arcu sa Melliana. su Giogadroxiu de sa Sedda 'e Maxia",39.3232903,9.3154175
+"Pista da Scala Suergiu, sa Pallasa Perda s' Intruxi, Meana, Procili 'e Contini, Bau S'Illixina",39.3307753,9.3192246
+"Pista Forestale Bau S' Illixina su Niu de S'Achili de i Moeddus, Bau sa Melliana su Niu de S'Achili Arcu sa Melliana. su Giogadroxiu de sa Sedda 'e Maxia",39.3182053,9.3170102
 Pista Forestale Canali Mitza Strinta,39.3577771,9.3262398
 Poni Fogu Fraizzeddu Arcu is Pinnetas Nuraxi i Gattus,39.3130560,9.4344548
 Ponte di Legno Bau Mastinaxius Sent. 814,39.3007229,9.4012836
@@ -972,7 +975,7 @@ Ponte Mastinaxius,39.3020592,9.4003425
 Ponte Riu Monti Eccas Barbara Cinus,39.2739939,9.4163298
 Ponte Riu su Pressiu,39.2754037,9.4154840
 Ponte sa Palla Bruncu de Mesu,39.3027622,9.4043088
-Raccordo al Sent. Italia,39.2933951,9.4338934
+Raccordo al Sent. Italia,39.2933947,9.4338934
 Raccordo sent. 815 da Parcheggio,39.2963198,9.3922924
 Raccordo Sent. 815 ex 5 Verde,39.2945764,9.3916113
 Raccordo tra il Sent. 814A ed il 814,39.3015637,9.3991431
@@ -987,39 +990,38 @@ Sa Palla su Cadru su Accu Malu,39.3107979,9.3171891
 "Sent. 811 ex  anello Rosso n. 1 - Acqueddas, Maidopis",39.2775204,9.4249906
 Sent. 812 ex. segnaletica bianca,39.2925744,9.4211675
 Sent. 814 ex 4 /5 Arancio / Verde,39.2741784,9.4107779
-Sent. 815,39.3002520,9.3938388
+Sent. 815,39.3002523,9.3938388
 Sent. 815 ex verde 5 Candellazus sa Scova su Frucconi Arcu sa Spina,39.2954239,9.3922891
 Sent. Gruttas sa Perd' a Sub' e Pari,39.2817997,9.4181930
 Sentiero Coreddoni s' Acqua Mala Arcu Canali sa Teulla,39.3365695,9.3478236
 Sentiero Is Seddas is Concas su Niu 'e s' Achili arcu su Padentinu,39.3183269,9.3332986
-Sentiero Italia,39.2372684,9.4748957
-sentiero sardegna,39.2562672,9.4485927
+Sentiero Italia,39.2384705,9.4700492
+sentiero sardegna,39.2562777,9.4485538
 Sent. Is Candelazzus sa Grutta su Cerbu,39.2923118,9.3899891
-Sent.  Italia 800 Cime Sette Fralelli,39.3060766,9.4003823
-Sent. Italia 800 Cime Sette Fratelli,39.3065923,9.3968075
-Sent. Italia 800 s' Arruaxiu a Arcu Straderis verso Castiadas,39.2700182,9.4354120
+Sent.  Italia 800 Cime Sette Fralelli,39.3060766,9.4003810
+Sent. Italia 800 Cime Sette Fratelli,39.3065919,9.3968046
+Sent. Italia 800 s' Arruaxiu a Arcu Straderis verso Castiadas,39.2700190,9.4354120
 "Sent. Mara Solinas, is Grillus, su Cannisoni",39.2799767,9.3937242
 Sent. Scuola dall' Orto Bottanico alla Caserma Vecchia di Maidopis,39.2719869,9.4132953
 Sent. su Casteddu de su Dinai Arcu Giulianu,39.2966035,9.4301558
 Serragu Margangiosu Arcu sa Surzullia Scala Scala S' Egua,39.3147469,9.3310045
-SI 800  Cime dei Sette Fratelli,39.3041526,9.4112740
-SI 800 Cime dei Sette Fratelli,39.3057660,9.4037521
-"SI 800  Cime dei Sette Fratelli Loc. Arcu PerduCossu, Intaccus",39.2965119,9.4248406
+SI 800  Cime dei Sette Fratelli,39.3041500,9.4112660
+SI 800 Cime dei Sette Fratelli,39.3057660,9.4037455
+"SI 800  Cime dei Sette Fratelli Loc. Arcu PerduCossu, Intaccus",39.2965092,9.4248222
 Sterrata Bellavista-Cirronis-Serpeddì,39.3490146,9.2416422
-Sterrata bivio Tasonis-Corr''e Cerbu-Serpeddì,39.3442263,9.2960635
+Sterrata bivio Tasonis-Corr''e Cerbu-Serpeddì,39.3442549,9.2960635
 Sterrata Genn''e Funtana-Serpeddì,39.3803719,9.2732236
 Strada Baccu Malu Baccu Cottis,39.3067634,9.3157331
-Strada Bruncu is Arangius,39.3130728,9.3767213
 Strada Comunale De Is Montis,39.3669304,9.2170197
-Strada Cunventu sa Spindula de Giulianu,39.3008138,9.4191192
+Strada Cunventu sa Spindula de Giulianu,39.3008112,9.4191163
 Strada da Cuili S'Acqua Mala Arcu Coreddoni Bau Perd' Axedu,39.3312955,9.3390102
 Strada Dighetta,39.3051512,9.3981825
 Strada Giuanni Lilloni sa Pedralla,39.3128349,9.3127244
 Strada Meriagheddu,39.2935802,9.3449605
-Strada Monte Cresia,39.2780745,9.3922805
+Strada Monte Cresia,39.2780748,9.3922805
 Strada Parcheggio A.I.B.,39.3035315,9.3953580
 "Strada Per Maidopis, Guventu, Tullinu, Baccu Malu, sa Ceraxia",39.3032776,9.4020857
-Strada Ponte S' Illixina Serragu Baccu Cruzzu sa Palla Pallisteri Serragu Arcu S' Arena su Feurraxiu Arcu sa Moddizzi,39.3351016,9.3041632
+Strada Ponte S' Illixina Serragu Baccu Cruzzu sa Palla Pallisteri Serragu Arcu S' Arena su Feurraxiu Arcu sa Moddizzi,39.3351244,9.3041656
 Strada Provinciale 17 di Villasimius,39.1532064,9.4090760
 Strada Provinciale 21,39.3116639,9.3792126
 Strada sa Conca s' Arcu su Padentinu Niu S' Acchili,39.3180675,9.3366748
@@ -1061,6 +1063,7 @@ Via Arrigo Boito,39.2972633,9.1980715
 Via Arthur Schopenhauer,39.3062409,9.1923793
 Via Bacchixedda,39.2996304,9.2043328
 Via Basilicata,39.3052246,9.2100678
+Via B. Dol,39.3088915,9.2649734
 Via Bellavista,39.3097157,9.2080185
 Via Benedetto Croce,39.2963091,9.2046512
 Via Bonarba,39.3022087,9.2004435
@@ -1070,6 +1073,7 @@ Via Cagliari,39.2998077,9.2015924
 Via Calabria,39.3054302,9.2118128
 Via Campania,39.3037099,9.2114944
 Via Campulongu,39.1375828,9.4313217
+Via Cano,39.3043186,9.2731815
 Via canonico Giovanni Spano,39.3058434,9.2001355
 Via Caprera,39.3003111,9.2102476
 Via Caravaggio,39.3055641,9.1930591
@@ -1084,9 +1088,12 @@ Via Ciro Menotti,39.2991324,9.2128573
 Via Cirronis,39.3111485,9.2094788
 Via Colletta,39.3017946,9.2025715
 Via Concas,39.2977946,9.2031926
+Via Conte Arthur Des Fours Walderode,39.3068195,9.2701830
+Via Corongiu,39.3095025,9.2734964
 Via Corsica,39.3065534,9.2110930
 Via Costantino Nivola,39.3067829,9.1959265
 Via Costituzione,39.2992032,9.2095944
+Via Cottard,39.3080400,9.2722304
 Via Cuili 'e Burranca Nuraxi Maxia,39.2864352,9.3287684
 Via Daniele Manin,39.3029501,9.2094032
 Via Dante Alighieri,39.3080361,9.2044884
@@ -1094,7 +1101,7 @@ Via degli Asfodeli,39.3074936,9.1898176
 Via degli Ulivi,39.3079086,9.1931318
 Via dei Bucaneve,39.1452916,9.4332645
 via dei Cardi,39.2859554,9.3526242
-Via Dei Castagni,39.3031219,9.3647951
+Via Dei Castagni,39.3031196,9.3647997
 Via dei Ciclamini,39.1376168,9.4252284
 Via dei Garofani,39.1373764,9.4248261
 Via dei Gelsomini,39.1374563,9.4261016
@@ -1105,6 +1112,8 @@ Via dei Lecci,39.3069998,9.1891526
 Via dei Mandorli,39.3084279,9.1911151
 Via dei Mille,39.2998939,9.2100277
 Via dei Mirti,39.2887530,9.3521463
+Via dei nuraghi,39.3026956,9.2751298
+Via dei Papaveri,39.1354153,9.4289376
 Via dei Rododendri,39.1402216,9.4409614
 Via dei Tulipani,39.1466317,9.4357934
 Via del Biancospino,39.1507364,9.4399624
@@ -1125,7 +1134,6 @@ Via delle Rose,39.1360320,9.4293618
 Via delle Viole,39.1394024,9.4305236
 Via dello Scorpione,39.1533797,9.4010514
 Via del Rosmarino,39.3088758,9.1934625
-Via del Sagittario,39.1541049,9.4021007
 Via Domenico Alberto Azuni,39.3045937,9.1994415
 Via Don Minzoni,39.2960777,9.2050800
 Via Edoardo De Filippo,39.3080079,9.2044724
@@ -1158,6 +1166,7 @@ Via Gaetano Donizetti,39.2980430,9.1979488
 Via Galileo Galilei,39.3021480,9.1952967
 Via Gennargentu,39.2971690,9.2109023
 Via Genova,39.3094645,9.2079278
+Via Gerald Evan Spicer,39.3088716,9.2661621
 Via Giacomo Leopardi,39.3064543,9.2049297
 Via Giacomo Matteotti,39.2986743,9.2042714
 Via Giacomo Puccini,39.2983169,9.2000951
@@ -1267,6 +1276,7 @@ Via Raffaello,39.3059946,9.1966980
 Via Repubblica,39.3035085,9.2010490
 Via Roccheddas,39.3040545,9.2009806
 Via Roma,39.3000353,9.1995843
+Via Sagittario,39.1541049,9.4021007
 Via Salvatore Farina,39.3049177,9.2035887
 Via Salvatore Quasimodo,39.3075214,9.2040828
 Via Salvo D'Acquisto,39.2989534,9.2016355
@@ -1334,7 +1344,7 @@ Località Baccu Mandara,39.1621205,9.3874667
 Località Baccu Mandara I,39.1593226,9.3851441
 Località Baccu Mandara II,39.1591984,9.3854972
 Nuova Orientale Sarda,39.1902566,9.4569200
-Sentiero Italia,39.2372684,9.4748957
+Sentiero Italia,39.2384705,9.4700492
 Strada 1,39.1675830,9.3863053
 Strada 2,39.1675762,9.3862597
 Strada 3,39.1681263,9.3870786
@@ -1404,8 +1414,6 @@ Via del Leone,39.1495896,9.3940850
 Via delle Pleiadi,39.1471193,9.3978148
 Via dello Scorpione,39.1533797,9.4010514
 Via del Platano,39.1656771,9.3859468
-Via del Sagittario,39.1541049,9.4021007
-Via del Toro,39.1437168,9.4017776
 Via Domenico Alberto Azuni,39.2904497,9.2291157
 Via Don Lorenzo Milani,39.2899740,9.2331525
 Via Don Minzoni,39.2905379,9.2272612
@@ -1497,6 +1505,7 @@ Via Riccardo Lombardi,39.2827682,9.2334847
 Via Rinascita,39.2867914,9.2318364
 Via Risorgimento,39.2796096,9.2281837
 Via Roma,39.2886072,9.2267351
+Via Sagittario,39.1541049,9.4021007
 Via Salvatore Cambosu,39.2876849,9.2254102
 Via Salvo D'Acquisto,39.2856580,9.2322658
 Via San Basilio,39.2834340,9.2767502
@@ -1512,6 +1521,7 @@ Via Sebastiano Satta,39.2904958,9.2286095
 Via Silvio Pellico,39.2871379,9.2314719
 Via Stella Polare,39.1509025,9.4031072
 Via Torino,39.2868598,9.2237640
+Via Toro,39.1437168,9.4017776
 Via Trento,39.2861755,9.2302615
 Via Ugo Foscolo,39.2805338,9.2274525
 Via Ugo La Malfa,39.2842312,9.2267024
@@ -1554,6 +1564,8 @@ Quinta Strada,39.2332382,8.9817522
 Seconda Strada,39.2145704,8.9621021
 Settima Strada,39.2303182,8.9746542
 SP1 Cagliari,39.1985952,8.9350516
+strada di penetrazione agraria,39.2298446,8.9061759
+strada vicinale,39.2595576,8.9290826
 Traversa 1 Is Prunixeddas,39.2908677,8.9527138
 Traversa Is Carrubeddas,39.2910239,8.9488797
 Traversa Trento,39.2959311,8.9521217
@@ -1727,8 +1739,8 @@ Da Bonaria al mare,39.2072824,9.1235836
 Dal Municipio al Porto,39.2144906,9.1099653
 Dorsale Consortile,39.1919277,9.0163900
 Faro Calamosca,39.1871203,9.1488726
-Largo Carlo Felice,39.2156739,9.1116842
-Largo Giuseppe Dessì,39.2231617,9.1180850
+Largo Carlo Felice,39.2156328,9.1116445
+Largo Giuseppe Dessì,39.2231013,9.1180609
 Largo Patrizio Gennari,39.2205607,9.1305434
 Lungomare New York 11 Settembre 2001,39.2133964,9.1125748
 Marina Piccola,39.1929734,9.1609095
@@ -1741,7 +1753,7 @@ Percorso ciclopedonale a mare Su Siccu,39.2085961,9.1188836
 Percorso ciclopedonale Parco di Molentargius,39.2048821,9.1514622
 Percorso Ciclo-Pedonale Parco di Molentargius,39.2244784,9.1790095
 Percorso ciclopedonale Via del Sale,39.2032092,9.1354560
-Piazza Alberto Lamarmora,39.2168736,9.1159779
+Piazza Alberto Lamarmora,39.2168663,9.1160024
 Piazza Aldebaran,39.2001322,9.1515372
 Piazza Alessandro Pancani,39.2436469,9.1219290
 Piazza Amedeo Nazzari,39.2251407,9.1222416
@@ -1757,7 +1769,7 @@ Piazza Carlo Alberto,39.2186827,9.1162345
 Piazza Carlo Caschili,39.2043953,9.1376969
 Piazza Casati,39.1935249,9.1408970
 Piazza Castellani,39.2435708,9.1013563
-Piazza Costituzione,39.2156545,9.1167474
+Piazza Costituzione,39.2156565,9.1167065
 Piazza d'Armi,39.2282809,9.1110386
 Piazza da Verrazzano,39.1931766,9.1396414
 Piazza De Esquivel Arcivescovo,39.2358598,9.1123974
@@ -1769,7 +1781,7 @@ Piazza dei Carrubi,39.2513886,9.1296530
 Piazza dei Fanti,39.2466204,9.1332498
 Piazza dei Pescatori,39.1903058,9.1399718
 Piazza del Carmine,39.2165048,9.1091101
-Piazza dell'Annunziata,39.2213668,9.1055549
+Piazza dell'Annunziata,39.2213617,9.1055504
 Piazza della Repubblica,39.2165422,9.1256457
 Piazza delle Arti,39.2539627,9.0981191
 Piazza delle Muse,39.2503457,9.1042149
@@ -1789,7 +1801,7 @@ Piazza Giovanni Marghinotti,39.2168607,9.1173999
 Piazza Giovanni Maria Dettori,39.2154008,9.1142697
 Piazza Giovanni XXIII,39.2267884,9.1263912
 Piazza Giudicessa Elena,39.2297988,9.1242602
-Piazza Giuseppe Garibaldi,39.2192105,9.1218955
+Piazza Giuseppe Garibaldi,39.2191651,9.1220510
 Piazza Giuseppe Pizzorno,39.2040399,9.1354614
 Piazza Goffredo Angioni,39.2167309,9.1164758
 Piazza Granatieri di Sardegna,39.2395738,9.1042878
@@ -1806,6 +1818,7 @@ Piazza Louis Braille,39.2236702,9.1353998
 Piazza Luigi Falchi,39.1969144,9.1352697
 Piazza L'Unione Sarda,39.2269347,9.0986665
 Piazza Lussemburgo,39.2240090,9.1330534
+Piazza Madre Teresa di Calcutta,39.2093693,9.1224122
 Piazza Marco Polo,39.2048363,9.1262764
 Piazza Maremma,39.2281026,9.1182142
 Piazza Maria Callas,39.1949146,9.1416709
@@ -1818,6 +1831,7 @@ Piazza Michele Amari,39.2446350,9.1346752
 Piazza Morton Stanley,39.1927890,9.1394937
 Piazza Nostra Signora di Fatima,39.2128381,9.0912649
 Piazza Olanda,39.2252895,9.1336460
+Piazza Paese di Desulo,39.2386952,9.1042866
 Piazza Paese di Seui,39.2354746,9.1019520
 Piazza Palazzo,39.2188453,9.1165813
 Piazza Paolo VI,39.2071244,9.1240330
@@ -1827,7 +1841,7 @@ Piazza Regina Margherita,39.2145308,9.1171037
 Piazza Salento,39.2275831,9.1193598
 Piazza Salvatore Cambosu,39.2073609,9.1339581
 Piazza San Bartolomeo,39.1962465,9.1460366
-Piazza San Benedetto,39.2212926,9.1250387
+Piazza San Benedetto,39.2213036,9.1250387
 Piazza San Cosimo,39.2140672,9.1221290
 Piazza San Domenico,39.2193363,9.1196369
 Piazza San Giacomo,39.2170828,9.1183170
@@ -1837,7 +1851,7 @@ Piazza San Rocco,39.2228914,9.1215354
 Piazza San Sepolcro,39.2159496,9.1139520
 Piazza Santa Croce,39.2195082,9.1149206
 Piazza Santa Lucia,39.2194760,9.1259961
-Piazza Sant'Avendrace,39.2338865,9.0972773
+Piazza Sant'Avendrace,39.2337286,9.0972934
 Piazza Sant'Eulalia,39.2145435,9.1141650
 Piazza Savoia,39.2159643,9.1136256
 Piazza Sirio,39.1997473,9.1522379
@@ -1848,8 +1862,8 @@ Piazza Tristani,39.2253107,9.1188598
 Piazza Valsassina,39.2392277,9.1033514
 Piazza Vasco Da Gama,39.1928817,9.1404021
 Piazza Verdun,39.2384604,9.0987806
-Piazza XX Settembre,39.2134377,9.1193768
-Piazza Yenne,39.2173472,9.1133880
+Piazza XX Settembre,39.2134819,9.1194504
+Piazza Yenne,39.2177551,9.1138868
 Piazza Zagabria,39.2262990,9.1328166
 Piazzetta Billy Secchi,39.2057368,9.1446770
 Piazzetta Peppino Loi,39.2419589,9.1332052
@@ -1857,6 +1871,7 @@ Piazzetta Santa Restituta,39.2187370,9.1126727
 Pista ciclabile Su Siccu,39.2070273,9.1224226
 Pista ciclabile Terramaini,39.2449173,9.1440714
 Ponte della Scafa,39.2152020,9.0986013
+Ponte Laghetto Monte Claro,39.2349848,9.1141531
 Portico Alberto Lamarmora,39.2194887,9.1160311
 Portico Romero,39.2174869,9.1192928
 Portico Vivaldi Pasqua,39.2186859,9.1158969
@@ -1867,11 +1882,11 @@ Scalette Monache Cappuccine,39.2163192,9.1148865
 Scalette San Sepolcro,39.2160913,9.1140953
 Scalette Santa Chiara,39.2182423,9.1143467
 Scalette Santa Croce,39.2188215,9.1150379
-Scalette Santa Margherita,39.2193949,9.1140769
+Scalette Santa Margherita,39.2194016,9.1140781
 Scalette Santa Teresa,39.2158490,9.1148876
 Sentiero nel parco di Tuvixeddu,39.2284966,9.1042628
 SS195 Sulcitana,39.1830782,9.0487264
-Strada Comunale Cuccuru Biancu,39.2766386,9.0909454
+Strada Comunale Cuccuru Biancu,39.2766661,9.0909454
 Strada Comunale Is Arenas,39.2252223,9.1711434
 Strada Terra E Teula,39.2634476,9.1227516
 Terrazza Umberto I,39.2162541,9.1163847
@@ -1892,9 +1907,9 @@ Via Ada Negri,39.2155992,9.1238027
 Via Adeoato Schiaffino,39.2398835,9.1300710
 Via Adige,39.2317005,9.0959837
 Via Africo,39.2024316,9.1454798
-Via Agostino Castelli,39.2320134,9.1068299
+Via Agostino Castelli,39.2311356,9.1069875
 Via Agostino di Castelvì,39.2202905,9.1332166
-Via Agostino Pipia,39.2377625,9.1138601
+Via Agostino Pipia,39.2381238,9.1137924
 Via Agrigento,39.2056261,9.1347791
 Via Aiaccio,39.2337934,9.1351658
 Via Albert Einstein,39.2086018,9.1408791
@@ -1915,7 +1930,7 @@ Via Alfonso Ligas,39.2510797,9.1120471
 Via Alfredino Rampi,39.2534753,9.1253442
 Via Alfredo Catalani,39.2204253,9.1282579
 Via Alfredo Oriani,39.2200072,9.1226435
-Via Alghero,39.2174329,9.1229249
+Via Alghero,39.2180648,9.1212194
 Via Aligi Sassu,39.2547342,9.1287609
 Via Amadore Sciesa,39.2416642,9.1323950
 Via Amilcare Ponchielli,39.2211754,9.1313395
@@ -1949,7 +1964,7 @@ Via Antonio Mura,39.2531245,9.1331446
 Via Antonio Pacinotti,39.2224564,9.1235728
 Via Antonio Sanna,39.2526623,9.1234947
 Via Antonio Scano,39.2191781,9.1304044
-Via Antonio Segni,39.2586936,9.1239541
+Via Antonio Segni,39.2618338,9.1205889
 Via Antonio Spanedda,39.2290242,9.1331054
 Via Antonio Taramelli,39.2137039,9.1295016
 Via Aosta,39.2063002,9.1299460
@@ -1973,7 +1988,7 @@ Via Augusto Righi,39.2364941,9.1323766
 Via Aurelio Nicolodi,39.2246383,9.1133350
 Via Ausonia,39.2044770,9.1623638
 Via Avicenna,39.2381821,9.1365410
-Via Avogadro di Collobiano,39.2361791,9.1311206
+Via Avogadro di Collobiano,39.2361786,9.1311220
 Via Bacu Abis,39.2411077,9.1110255
 Via Bainsizza,39.2253941,9.1083339
 Via Baldassarre Castiglione,39.2311237,9.1300778
@@ -1986,7 +2001,7 @@ Via Bari,39.2084782,9.1289036
 Via Barigadu,39.2390664,9.1030331
 Via Barone Rossi,39.2120142,9.1203534
 Via Baronia,39.2364582,9.1097406
-Via Barracca Manna,39.2548960,9.1178854
+Via Barracca Manna,39.2566849,9.1158841
 Via Bartolomeo Colleoni,39.2496591,9.1189184
 Via Basilicata,39.2290155,9.1146219
 Via Bastione Santa Caterina,39.2168232,9.1161591
@@ -2000,10 +2015,10 @@ Via Benvenuto Cellini,39.2246813,9.1259258
 Via Benvenuto Lobina,39.2539141,9.1212705
 Via Berchet,39.2439254,9.1333762
 Via Berlino,39.2241479,9.1375627
-Via Berna,39.2258747,9.1336601
+Via Berna,39.2257266,9.1328917
 Via Bernardino Tolo,39.2508104,9.1190813
 Via Bernini,39.2557228,9.0968619
-Via Betti,39.2589657,9.0796154
+Via Betti,39.2589904,9.0795880
 Via Betto Alliata,39.2405336,9.1095349
 Via Bezzecca,39.2414044,9.1314510
 Via Bingia Bonaria,39.2499267,9.1272920
@@ -2012,9 +2027,9 @@ Via Bologna,39.2084706,9.1270334
 Via Bolzano,39.2063681,9.1304626
 Via Bonn,39.2223152,9.1341843
 Via Borea,39.2021440,9.1475697
-Via Borgo Sant'Elia,39.1981316,9.1438055
+Via Borgo Sant'Elia,39.1979487,9.1437798
 Via Bosa,39.2204568,9.1190604
-Via Bosco Cappuccio,39.2384399,9.0980184
+Via Bosco Cappuccio,39.2368263,9.0991563
 Via Brenta,39.2349474,9.0925006
 Via Brescia,39.2074923,9.1275454
 Via Brianza,39.2397310,9.1066145
@@ -2069,13 +2084,13 @@ Via Cesare Balbo,39.2208088,9.1219374
 Via Cesare Battisti,39.2238177,9.1025554
 Via Cesare Cabras,39.2524641,9.1361246
 Via Cesare Pintus,39.2409444,9.1372512
-Via Cettigne,39.2263566,9.1365290
+Via Cettigne,39.2267585,9.1360930
 Via Charles Darwin,39.2069330,9.1421274
 Via Chiara Lubich,39.2299506,9.1367066
 Via Chiesa,39.2449278,9.1289793
-Via Cimabue,39.2583680,9.1013778
+Via Cimabue,39.2584074,9.1013791
 Via Cino da Pistoia,39.2223882,9.1255742
-Via Ciociaria,39.2380311,9.1048621
+Via Ciociaria,39.2380273,9.1048767
 Via Cipro,39.2068766,9.1645694
 Via Ciro Menotti,39.2427233,9.1308466
 Via Claudio Monteverdi,39.2222695,9.1317138
@@ -2091,14 +2106,14 @@ Via Colomba Antonietti,39.2448876,9.1222673
 Via Concezione,39.2141829,9.1144562
 Via Conte di Biancamano,39.2504543,9.1267659
 Via Conte Rosso,39.2482490,9.1300093
-Via Conte Verde,39.2490529,9.1301739
+Via Conte Verde,39.2494165,9.1294746
 Via Copenaghen,39.2258208,9.1364762
 Via Cornalias,39.2372615,9.1104161
 Via Corsica,39.2083859,9.1364436
 Via Corte d'Appello,39.2201981,9.1150212
 Via Cortoghiana,39.2375828,9.1092594
 Via Costantino Nivola,39.2529136,9.1329892
-Via Costantinopoli,39.2262792,9.1347750
+Via Costantinopoli,39.2252802,9.1355129
 Via Costantino Spada,39.2539817,9.1320287
 Via Costituzione,39.2153676,9.1173314
 Via Crimea,39.2440586,9.1315196
@@ -2116,7 +2131,7 @@ Via degli Ippocastani,39.2420623,9.1197899
 Via degli Oblati,39.2178835,9.1408838
 Via degli Olmi,39.2580327,9.1147924
 Via degli Ortolani,39.2434050,9.1210291
-Via degli Sport,39.2035609,9.1345522
+Via degli Sport,39.2035640,9.1345227
 Via degli Stendardi,39.2510559,9.1203084
 Via degli Ulivi,39.2570279,9.1231615
 Via degli Usignoli,39.1983418,9.1518697
@@ -2125,7 +2140,7 @@ Via dei Calafati,39.2129290,9.0981879
 Via dei Campi,39.2506721,9.1275011
 Via dei Capraia,39.2293419,9.1223009
 Via dei Carbonari,39.2417009,9.1354458
-Via dei Carroz,39.2370235,9.1228302
+Via dei Carroz,39.2368419,9.1242884
 Via dei Castagni,39.2547184,9.1212601
 Via dei Cavalleggeri,39.2063451,9.1634101
 Via dei Ciclamini,39.2607079,9.1205981
@@ -2162,14 +2177,14 @@ Via dei Nuraghi,39.2416389,9.1285300
 Via dei Partigiani,39.2452454,9.1332410
 Via dei Passeri,39.2086299,9.1339131
 Via dei Petali,39.2605201,9.1191393
-Via dei Pini,39.2581253,9.1152276
+Via dei Pini,39.2577681,9.1152347
 Via dei Pioppi,39.2566491,9.1188294
 Via dei Pisani,39.2138496,9.1153795
 Via dei Punici,39.2271583,9.1086418
 Via dei Salinieri,39.2050064,9.1403071
 Via dei Tigli,39.2422593,9.1202196
 Via dei Tralci,39.2371229,9.1294677
-Via dei Tritoni,39.1972256,9.1535791
+Via dei Tritoni,39.1972256,9.1535685
 Via dei Tulipani,39.2101911,9.1534444
 Via dei Valenzani,39.2340583,9.1205092
 Via dei Venti,39.2592403,9.1216739
@@ -2185,7 +2200,7 @@ Via del Colle,39.2399543,9.1272466
 Via del Collegio,39.2151136,9.1152447
 Via del Commercio,39.2423586,9.0887531
 Via del Duomo,39.2182520,9.1166055
-Via del Fangario,39.2425963,9.0942463
+Via del Fangario,39.2425978,9.0942424
 Via del Fossario,39.2186005,9.1167679
 Via del Ginepro,39.2511499,9.1306164
 Via dell'Abbazia,39.2211431,9.1338959
@@ -2206,7 +2221,7 @@ Via dell'Astrolabio,39.2001731,9.1482981
 Via della Vite,39.2360309,9.1276651
 Via del Lavoro,39.2467354,9.0860055
 Via delle Acacie,39.2169977,9.1604323
-Via delle Agavi,39.2597738,9.1175071
+Via delle Agavi,39.2604615,9.1163388
 Via delle Allodole,39.2004699,9.1513737
 Via delle Api,39.2592845,9.1172657
 Via delle Aquile,39.2498312,9.1205781
@@ -2244,24 +2259,25 @@ Via del Mirto,39.2362230,9.1271448
 Via del Nastro Azzurro,39.2297005,9.1256961
 Via del Platano,39.2355941,9.1257936
 Via del Poggio,39.2432612,9.1217946
-Via del Pozzetto,39.1982083,9.1513149
+Via del Pozzetto,39.1981353,9.1513541
 Via del Prato,39.2596729,9.1200624
 Via del Priorato,39.2210151,9.1376534
 Via del Risorgimento,39.2450334,9.1307585
 Via del Sale,39.2059931,9.1496342
 Via del Seminario,39.2363507,9.1126797
-Via del Sestante,39.1993084,9.1492307
-Via del Sole,39.1992577,9.1511457
+Via del Sestante,39.1989991,9.1489108
+Via del Sole,39.1992801,9.1511351
 Via del Timo,39.2530053,9.1136565
 Via del Tricolore,39.2476962,9.1334438
 Via de S'Ecca Manna,39.2200629,9.1089849
 Via Diego Cadello,39.2394323,9.1185865
 Via Dino Buzzati,39.2514645,9.1177185
-Via di Scipione Campo,39.2269092,9.0958189
+Via di Scipione Campo,39.2280275,9.0950380
 Via Doberdò,39.2353779,9.1029553
 Via Dolianova,39.2493867,9.1333351
 Via Domenica Bertè,39.2567266,9.1220442
 Via Domenico Alberto Azuni,39.2184612,9.1122915
+Via Domenico Bruni,39.2414040,9.1073334
 Via Domenico Cimarosa,39.2192669,9.1270501
 Via Domenico Filia,39.2134562,9.1282352
 Via Domenico Lovisato,39.2141762,9.1289972
@@ -2269,9 +2285,9 @@ Via Domenico Millelire,39.2172714,9.1243895
 Via Domenico Modugno,39.2583362,9.1213171
 Via Don Aldo Matzeu,39.2358737,9.1338576
 Via Donori,39.2497265,9.1335584
-Via Don Riccardo Macchioni,39.2276705,9.1262363
+Via Don Riccardo Macchioni,39.2269507,9.1262168
 Via Dublino,39.2244939,9.1325767
-Via Duca di Genova,39.2493205,9.1299418
+Via Duca di Genova,39.2486932,9.1293664
 Via Edmondo Crobu,39.2631820,9.1177495
 Via Edmondo De Magistris,39.2228840,9.1063707
 Via Edward Jenner,39.2401041,9.1185895
@@ -2279,11 +2295,11 @@ Via Efisio Cao di San Marco,39.2263700,9.1215766
 Via Efisio Marini,39.2147780,9.1288671
 Via Efisio Melis,39.2409476,9.1280524
 Via Elba,39.1948636,9.1580733
-Via Eleonora d'Arborea,39.2155911,9.1183489
+Via Eleonora d'Arborea,39.2157325,9.1186085
 Via Eleonora Fonseca,39.2457292,9.1235322
 Via Emanuele Filiberto,39.2499507,9.1315058
 Via Emanuele Pessagno,39.2023695,9.1388676
-Via Emilia,39.2386537,9.1012202
+Via Emilia,39.2381478,9.1020346
 Via Emilio Pirastu,39.2111105,9.1168726
 Via Emilio Serri,39.2629185,9.1186344
 Via Ennio Flaiano,39.2522432,9.1183560
@@ -2295,12 +2311,12 @@ Via Enrico De Nicola,39.2547579,9.1237015
 Via Enrico Fermi,39.2078079,9.1404793
 Via Enrico Gianturco,39.2146901,9.1264763
 Via Enrico Lai,39.2238787,9.1236367
-Via Enrico Pessina,39.2143431,9.1280743
+Via Enrico Pessina,39.2157210,9.1265023
 Via Enrico Sanjust di Teulada,39.2194697,9.1320550
 Via Enrico Serpieri,39.2411323,9.1119172
 Via Enrico Serpieri 2-6,39.2411354,9.1114620
 Via Enrico Serpieri 8-18,39.2414014,9.1120776
-Via Enrico Toti,39.2510640,9.1226989
+Via Enrico Toti,39.2499356,9.1240225
 Via Enzo Loy,39.2541848,9.1289031
 Via Ernesto Maria Piovella,39.2387146,9.1120487
 Via Eroi d'Italia,39.2433454,9.1247797
@@ -2318,7 +2334,7 @@ Via Famagosta,39.2407203,9.1237120
 Via Farci,39.2556219,9.1217351
 Via Farfa,39.2446439,9.1231855
 Via Fasano,39.1909976,9.1419529
-Via Favonio,39.2006599,9.1468413
+Via Favonio,39.2009185,9.1464282
 Via Federico Confalonieri,39.2501800,9.1339742
 Via Federico Fellini,39.2621992,9.1165393
 Via Felice Casorati,39.2552376,9.1302695
@@ -2331,28 +2347,28 @@ Via Filippo Marinetti,39.2538550,9.1230648
 Via Filippo Nissardi,39.2589943,9.1246442
 Via Filippo Vivanet,39.2138115,9.1286483
 Via Firenze,39.2065205,9.1333111
+Via Fiume,39.2214841,9.1158898
 Via Flavio Gioia,39.2359039,9.1320527
 Via Flumendosa,39.2284984,9.0987447
 Via Flumentepido,39.2393503,9.1095953
 Via Foiso Fois,39.2543876,9.1293255
 Via Fontana Raminosa,39.2376124,9.1059551
 Via Fornovo,39.2443521,9.1265583
-Via Fosse Ardeatine,39.2457833,9.1337930
-Via Francesco Alziator,39.1994811,9.1386074
+Via Fosse Ardeatine,39.2468464,9.1320251
+Via Francesco Alziator,39.1994833,9.1385172
 Via Francesco Angioni Contini,39.2188162,9.1292976
 Via Francesco Blanco,39.2574204,9.1247655
 Via Francesco Borromini,39.2538855,9.0976672
 Via Francesco Carrara,39.2152296,9.1256750
-Via Francesco Chironi,39.2145205,9.1270851
 Via Francesco Cillocco,39.2416675,9.1282197
-Via Francesco Cocco Ortu,39.2234196,9.1226545
-Via Francesco Crispi,39.2154737,9.1107863
+Via Francesco Cocco Ortu,39.2234090,9.1226870
+Via Francesco Crispi,39.2154718,9.1107883
 Via Francesco Fara,39.2190696,9.1132018
 Via Francesco Ferrucci,39.2458658,9.1277996
 Via Francesco Gemelli,39.2164596,9.1308810
 Via Francesco Guicciardini,39.2284399,9.1301437
 Via Francesco Masala,39.2567141,9.1248853
-Via Francesco Petrarca,39.2230717,9.1262237
+Via Francesco Petrarca,39.2233244,9.1251308
 Via Francesco Riso,39.2544668,9.1142913
 Via Francesco Salaris,39.2256206,9.1244977
 Via Francesco Todde,39.2255943,9.1259689
@@ -2370,7 +2386,7 @@ Via Gabriele D'Annunzio,39.2539395,9.1168734
 Via Gabriello Chiabrera,39.2309907,9.1276070
 Via Gaetano Cima,39.2159316,9.1155067
 Via Gaetano Donizetti,39.2206097,9.1269363
-Via Gaetano Salvemini,39.2285030,9.1270871
+Via Gaetano Salvemini,39.2285030,9.1268765
 Via Galileo Ferraris,39.2361310,9.1357028
 Via Gallinara,39.1966271,9.1524010
 Via Gallura,39.2132772,9.1201599
@@ -2379,7 +2395,7 @@ Via Garfagnana,39.2285106,9.1184509
 Via Garigliano,39.2342470,9.0954998
 Via Gaspare Stampa,39.2319442,9.1288152
 Via Gavino De Lunas,39.1914553,9.1414079
-Via Gavino Dessy Deliperi,39.2508735,9.1005639
+Via Gavino Dessy Deliperi,39.2503221,9.1006201
 Via Gavino Gabriel,39.1911404,9.1416704
 Via Generale Cantore,39.2512535,9.1271144
 Via Generale Stefano Cagna,39.2110841,9.1411268
@@ -2391,19 +2407,20 @@ Via Gerolamo Fracastoro,39.2095593,9.1416114
 Via Gerolamo Pitzolo,39.2191634,9.1239738
 Via Geronimo Olives,39.2305011,9.1240322
 Via Geronimo Zurita,39.2124778,9.1312217
-Via Gherardo delle Notti,39.2534881,9.0927433
+Via Gherardo delle Notti,39.2536147,9.0920881
 Via Ghibli,39.2018147,9.1489007
 Via Giacomo Balla,39.2546658,9.1311446
 Via Giacomo Leopardi,39.2211655,9.1233689
 Via Giacomo Puccini,39.2199485,9.1269759
 Via Giaime Pintor,39.2246567,9.1231748
+Via Giampiero Chironi,39.2145205,9.1270851
 Via Gianbattista Morgagni,39.2042087,9.1369676
 Via Giancarlo Sorgia,39.2569481,9.1276477
 Via Gianquinto De Gioannis,39.2141949,9.1244273
-Via Giardini,39.2229205,9.1193804
+Via Giardini,39.2234694,9.1193810
 Via Giardini Pubblici,39.2255678,9.1148383
 Via Ginevra,39.2375013,9.1369158
-Via Gioachino Murat,39.2436042,9.1310384
+Via Gioachino Murat,39.2437125,9.1307702
 Via Gioachino Rossini,39.2212412,9.1266486
 Via Giorgio Aleo,39.2342691,9.1124110
 Via Giorgio Asproni,39.2193941,9.1060453
@@ -2426,7 +2443,7 @@ Via Giovanni Cinquini,39.2413332,9.1088900
 Via Giovanni dalle Bande Nere,39.2487524,9.1215469
 Via Giovanni da Procida,39.2467700,9.1246883
 Via Giovanni della Casa,39.2324399,9.1296986
-Via Giovanni Dexart,39.2113653,9.1321405
+Via Giovanni Dexart,39.2115642,9.1325870
 Via Giovanni Giolitti,39.2115026,9.1198140
 Via Giovanni Gronchi,39.2549292,9.1247950
 Via Giovanni Manurita,39.1927066,9.1426031
@@ -2435,10 +2452,9 @@ Via Giovanni Maria Dettori,39.2160612,9.1138690
 Via Giovanni Mates,39.2352617,9.1266962
 Via Giovanni Pascoli,39.2238854,9.1264998
 Via Giovanni Randaccio,39.2408370,9.1271817
-Via Giovanni Silvati,39.2431094,9.1303355
 Via Giovanni Siotto Pintor,39.2194628,9.1121758
 Via Giovanni Spano,39.2168230,9.1140383
-Via Giovanni Tommaso Porcell,39.2214841,9.1146649
+Via Giovanni Tommaso Porcell,39.2214223,9.1145062
 Via Gioviano Pontano,39.2261885,9.1269949
 Via Gippi,39.2385261,9.1026063
 Via Giua,39.2684441,9.0789142
@@ -2449,16 +2465,17 @@ Via Giudice Mariano,39.2297537,9.1229969
 Via Giudicessa Benedetta,39.2276716,9.1203352
 Via Giudicessa Vera,39.2275762,9.1212621
 Via Giudice Torbeno,39.2276087,9.1226855
+Via Giuliana Treleani,39.2503295,9.1366337
 Via Giulio Bechi,39.2553153,9.1210090
 Via Giulio Buzenac,39.1913503,9.1420854
 Via Giulio Cesare,39.2499006,9.1396209
-Via Giulio Dolcetta,39.2413057,9.0944150
+Via Giulio Dolcetta,39.2413057,9.0943862
 Via Giulio II,39.2503849,9.1225241
 Via Giuseppe Abba,39.2172010,9.1199843
 Via Giuseppe Anedda,39.2247220,9.1216850
 Via Giuseppe Asquer,39.2538171,9.0989159
 Via Giuseppe Biasi,39.2328314,9.1264949
-Via Giuseppe Brotzu,39.2527238,9.0983420
+Via Giuseppe Brotzu,39.2527208,9.0983642
 Via Giuseppe Garibaldi,39.2156273,9.1169733
 Via Giuseppe Giusti,39.2279748,9.1288098
 Via Giuseppe Luigi Lagrange,39.2295580,9.1334439
@@ -2471,16 +2488,17 @@ Via Giuseppe Peretti,39.2498653,9.1138149
 Via Giuseppe Sanna Randaccio,39.2165068,9.1294367
 Via Giuseppe Saragat,39.2540838,9.1259729
 Via Giuseppe Setzu,39.2546628,9.1011677
+Via Giuseppe Silvati,39.2431094,9.1303355
 Via Giuseppe Tomasi di Lampedusa,39.2533750,9.1225717
 Via Giuseppe Ungaretti,39.2537168,9.1171626
 Via Giuseppe Verdi,39.2196037,9.1283565
 Via Goceano,39.2131603,9.1222453
-Via Goffredo Mameli,39.2208471,9.1054519
+Via Goffredo Mameli,39.2208352,9.1054442
 Via Goito,39.2301038,9.1100381
 Via Gorgona,39.1966707,9.1585917
 Via Gorizia,39.2243907,9.1044473
 Via Grazia Deledda,39.2157435,9.1204877
-Via Grecale,39.2003055,9.1459173
+Via Grecale,39.2003108,9.1459263
 Via Grosseto,39.2084311,9.1300098
 Via Guantino Cavallino,39.2346890,9.1257280
 Via Guglielmo Pepe,39.2400521,9.1232618
@@ -2519,8 +2537,8 @@ Via Isola Tavolara,39.2175639,9.1085410
 Via Isole Tremiti,39.2050701,9.1635624
 Via Isonzo,39.2297571,9.0978899
 Via Is Seddas,39.2581146,9.1206813
-Via Istria,39.2301013,9.1149385
-Via Italia,39.2480998,9.1309335
+Via Istria,39.2300678,9.1149033
+Via Italia,39.2497839,9.1323513
 Via Italo Calvino,39.2535957,9.1181160
 Via Italo Svevo,39.2539364,9.1183851
 Via James Watt,39.2459750,9.1321944
@@ -2535,10 +2553,10 @@ Via La Palma,39.2055147,9.1483636
 Via La Somme,39.2389110,9.0984428
 Via Lauro De Bosis,39.2512164,9.1335978
 Via La Vega,39.2250182,9.1174317
-Via Lazio,39.2280885,9.1167785
+Via Lazio,39.2281683,9.1168677
 Via Leandro Corona,39.2462908,9.1307216
-Viale Armando Diaz,39.2083169,9.1227459
-Viale Bonaria,39.2112081,9.1189713
+Viale Armando Diaz,39.2063424,9.1259606
+Viale Bonaria,39.2112219,9.1189278
 Viale Buoncammino,39.2280423,9.1113014
 Viale Calamosca,39.1913376,9.1579614
 Viale Campioni d'Italia 1969-70,39.2028092,9.1407205
@@ -2549,7 +2567,7 @@ Viale della Fauna,39.2091189,9.1511346
 Viale Elmas,39.2375859,9.0944655
 Viale Enrico Endrich,39.2201307,9.1178500
 Viale Europa,39.2154218,9.1353994
-Viale Francesco Ciusa,39.2298421,9.1202385
+Viale Francesco Ciusa,39.2300682,9.1202521
 Via Legnano,39.2413452,9.1241198
 Viale Guglielmo Marconi,39.2404658,9.1483709
 Viale Ingegnere Tommaso Fiorelli,39.2025527,9.1412081
@@ -2563,20 +2581,20 @@ Via Leon Battista Alberti,39.2274487,9.1272940
 Via Leo Neppi Modona,39.2563114,9.1156344
 Via Lepanto,39.2134859,9.1143144
 Viale Poetto,39.1963077,9.1518280
-Viale Pula,39.2161216,9.0952756
+Viale Pula,39.2158436,9.0927863
 Viale Regina Elena,39.2229879,9.1180294
-Viale Regina Margherita,39.2119841,9.1166830
+Viale Regina Margherita,39.2119832,9.1166865
 Viale Roberto Pisano,39.2465050,9.1372368
-Viale Salvatore Ferrara,39.2026102,9.1305254
-Viale San Bartolomeo,39.2001793,9.1424723
-Viale Sant'Avendrace,39.2295667,9.0990723
+Viale Salvatore Ferrara,39.2011333,9.1316684
+Viale San Bartolomeo,39.1988255,9.1434497
+Viale Sant'Avendrace,39.2258183,9.1006084
 Viale San Vincenzo,39.2281720,9.1113405
 Viale Trento,39.2263354,9.1005445
-Viale Trieste,39.2181729,9.1068910
+Viale Trieste,39.2174796,9.1080596
 Via Levante,39.2004611,9.1453923
 Via Levanzo,39.1960521,9.1525005
-Via Libeccio,39.2008849,9.1451278
-Via Liguria,39.2305146,9.1159489
+Via Libeccio,39.2008828,9.1451219
+Via Liguria,39.2320208,9.1143642
 Via Limbara,39.2458788,9.1213352
 Via Lione,39.2231161,9.1364980
 Via Lipari,39.2045920,9.1631215
@@ -2586,7 +2604,7 @@ Via Livingstone,39.1932139,9.1404606
 Via Livorno,39.2068816,9.1334085
 Via Loddo Canepa,39.1998795,9.1417974
 Via Lodovico Baylle,39.2167718,9.1136282
-Via Logudoro,39.2140244,9.1209127
+Via Logudoro,39.2142976,9.1198539
 Via Lombardia,39.2294260,9.1150814
 Via Lomellina,39.2271612,9.1173603
 Via Londra,39.2349970,9.1354584
@@ -2597,14 +2615,14 @@ Via Lucania,39.2397017,9.1023946
 Via Luca Pacioli,39.2274027,9.1319563
 Via Lucca,39.2084541,9.1319684
 Via Ludovico Ariosto,39.2250232,9.1270632
-Via Luigi Amat,39.2157314,9.1274667
+Via Luigi Amat,39.2157324,9.1275582
 Via Luigi Canepa,39.2218261,9.1315835
 Via Luigi Castaldi,39.2416078,9.1153735
 Via Luigi Cherubini,39.2191787,9.1265490
 Via Luigi Contivecchi,39.2405144,9.0946540
-Via Luigi Crespellani,39.2561879,9.0988651
+Via Luigi Crespellani,39.2562129,9.0988695
 Via Luigi Einaudi,39.2166826,9.1198988
-Via Luigi Galvani,39.2285870,9.1352195
+Via Luigi Galvani,39.2280552,9.1359585
 Via Luigi Pirandello,39.2516208,9.1194637
 Via Luigi Rachel,39.1911511,9.1406809
 Via Luigi Rolando,39.2046950,9.1381152
@@ -2612,17 +2630,17 @@ Via Luigi Settembrini,39.2204566,9.1233669
 Via Lunigiana,39.2413751,9.0989873
 Via Macerata,39.2071569,9.1355263
 Via Macomer,39.2217422,9.1189867
-Via Maddalena,39.2176175,9.1092631
+Via Maddalena,39.2176150,9.1092631
 Via Madre Anna Del Gesù,39.2314814,9.1366450
 Via Madrid,39.2351733,9.1373302
 Via Maestrale,39.2022247,9.1439235
-Via Magellano,39.1973905,9.1398556
+Via Magellano,39.1967131,9.1394848
 Via Magenta,39.2430241,9.1336435
 Via Maggiore Galliano,39.2507596,9.1265440
 Via Malfidano,39.2370793,9.1085124
-Via Malta,39.2173384,9.1099464
+Via Malta,39.2173296,9.1099427
 Via Mancini,39.2153766,9.1253284
-Via Mandrolisai,39.2425429,9.1044238
+Via Mandrolisai,39.2425429,9.1044004
 Via Mara,39.2499938,9.1348263
 Via Marcello Malpighi,39.2092946,9.1386774
 Via Marche,39.2272019,9.1191874
@@ -2633,10 +2651,10 @@ Via Maria Carta,39.2572100,9.1233825
 Via Maria Luisa Sanfelice,39.2405699,9.1302943
 Via Maria Piera Mossa,39.2129054,9.0914527
 Via Marina Piccola,39.1933466,9.1586142
-Via Mario Aresu,39.2538402,9.1009978
+Via Mario Aresu,39.2538338,9.1000097
 Via Mario De Candia,39.2168482,9.1159664
 Via Mario De Martis,39.2542413,9.0973162
-Via Mario De Sotgiu,39.2275312,9.0970384
+Via Mario De Sotgiu,39.2275408,9.0970492
 Via Marmilla,39.2492909,9.1222886
 Via Marzabotto,39.2450653,9.1333925
 Via Masaccio,39.2559700,9.0986317
@@ -2654,7 +2672,7 @@ Via Mestre,39.2064214,9.1363690
 Via Michelangelo,39.2250365,9.1266205
 Via Michele Morelli,39.2432981,9.1305010
 Via Milano,39.2076098,9.1301116
-Via Mincio,39.2244629,9.0978278
+Via Mincio,39.2232386,9.0987726
 Via Molise,39.2295409,9.1159685
 Via Molo Sant'Agostino,39.2139504,9.1078442
 Via Monfalcone,39.2358707,9.1030398
@@ -2681,13 +2699,13 @@ Via Monte Santo,39.2359511,9.1038979
 Via Montevecchio,39.2376262,9.1113689
 Via Monte Zebio,39.2351533,9.0985153
 Via Montiferru,39.2440737,9.1056954
-Via Montixeddu,39.2263059,9.1067205
+Via Montixeddu,39.2263059,9.1069170
 Via Mosca,39.2338661,9.1357685
 Via M.O.V.M.C.V. Giovanni Barbini,39.2097226,9.1152948
 Via Napoli,39.2152163,9.1133032
 Via Nastro Azzurro,39.2296957,9.1265196
 Via Natta,39.2599667,9.0783611
-Via Nazario Sauro,39.2224605,9.1036578
+Via Nazario Sauro,39.2224588,9.1036457
 Via Nebida,39.2376309,9.1060194
 Via Nelson,39.2509028,9.1158057
 Via Nervesa della Battaglia,39.2263159,9.1101859
@@ -2712,7 +2730,7 @@ Via Ortigara,39.2393828,9.0988117
 Via Oslavia,39.2244559,9.1074873
 Via Oslo,39.2237200,9.1334504
 Via Ospedale,39.2213651,9.1129167
-Via Ostro,39.2029796,9.1436169
+Via Ostro,39.2029964,9.1436309
 Via Ottone Bacaredda,39.2264447,9.1202195
 Via Ozieri,39.2214644,9.1201940
 Via Pablo Picasso,39.2529349,9.1306924
@@ -2733,8 +2751,8 @@ Via Paracelso,39.2388347,9.1360891
 Via Parigi,39.2359596,9.1359628
 Via Parteolla,39.2428841,9.1243483
 Via Pascal,39.2394379,9.1366462
-Via Pasquale Cugia,39.2156202,9.1289753
-Via Pasquale Paoli,39.2202593,9.1235180
+Via Pasquale Cugia,39.2156219,9.1289011
+Via Pasquale Paoli,39.2202784,9.1235479
 Via Pasquale Tola,39.2199159,9.1242925
 Via Pastrengo,39.2305173,9.1090272
 Via Pasubio,39.2349608,9.0995277
@@ -2749,7 +2767,7 @@ Via Piemonte,39.2275291,9.1171492
 Via Pier Capponi,39.2472447,9.1264952
 Via Pierluigi da Palestrina,39.2199173,9.1301561
 Via Piero della Francesca,39.2498924,9.1030997
-Via Piero Schiavazzi,39.1948841,9.1353241
+Via Piero Schiavazzi,39.1948704,9.1352895
 Via Pietrino Moi,39.2398261,9.1307794
 Via Pietro Ambu,39.2506624,9.1169358
 Via Pietro Balestra,39.2336055,9.1127855
@@ -2768,7 +2786,7 @@ Via Pietro Scornigiani,39.2418674,9.1065131
 Via Platone,39.2475691,9.1204845
 Via Po,39.2313198,9.0936343
 Via Podgora,39.2386908,9.0986942
-Via Pola,39.2205335,9.1054436
+Via Pola,39.2202431,9.1049210
 Via Pontida,39.2419679,9.1244991
 Via Ponza,39.2001827,9.1597682
 Via Porto Botte,39.2529639,9.1344913
@@ -2785,11 +2803,11 @@ Via Principe Eugenio,39.2483708,9.1278962
 Via Priore Berengario,39.2223314,9.1378463
 Via Priore Fulco,39.2203325,9.1392534
 Via Priore Riccardo,39.2229071,9.1377201
-Via Procida,39.1973306,9.1509374
+Via Procida,39.1973325,9.1509351
 Via Puglia,39.2427960,9.0972855
 Via Quintino Sella,39.2396338,9.1117373
 Via Quirra,39.2390107,9.1071074
-Via Raffaello Delogu,39.1989774,9.1401150
+Via Raffaello Delogu,39.1989827,9.1401175
 Via Raffaello Sanzio,39.2253600,9.1259461
 Via Raffa Garzia,39.2101321,9.1337709
 Via Raimondo Carta Raspi,39.1983796,9.1398105
@@ -2801,8 +2819,9 @@ Via Reggio Calabria,39.2073297,9.1357570
 Via Remo Branca,39.2538874,9.1302526
 Via Renato Carosone,39.2556106,9.1226968
 Via Renato Guttuso,39.2534747,9.1304306
-Via Renato Prunas,39.1992985,9.1402612
+Via Renato Prunas,39.1992286,9.1403090
 Via Renato Rascel,39.2587504,9.1202823
+Via Renzo Frau,39.2211754,9.1025045
 Via Renzo Laconi,39.2557315,9.0921404
 Via Riccardo Bacchelli,39.2311666,9.1059063
 Via Riccardo Simonetti,39.2600554,9.1149464
@@ -2810,15 +2829,15 @@ Via Rimini,39.2092440,9.1275943
 Via Rio Palmas,39.2257039,9.0999256
 Via Riu Mortu,39.2476435,9.1507685
 Via Riva di Ponente,39.2144311,9.1033698
-Via Riva Villasanta,39.2391932,9.1253859
+Via Riva Villasanta,39.2388318,9.1252819
 Via Robert Koch,39.2416321,9.1166785
-Via Roberto Binaghi,39.2538364,9.1005382
+Via Roberto Binaghi,39.2546607,9.1007867
 Via Roberto Rossellini,39.2594570,9.1199183
 Via Rocco Cappellino,39.2318321,9.1235271
 Via Rockefeller,39.2018964,9.1360143
 Via Rodi,39.2071907,9.1640399
 Via Roma,39.2145392,9.1101509
-Via Romagna,39.2284939,9.1193941
+Via Romagna,39.2283082,9.1188822
 Via Rosa Luxemburg,39.2124730,9.0913463
 Via Rossello Monserrato,39.2201245,9.1342400
 Via Rovereto,39.2256974,9.1024005
@@ -2833,9 +2852,9 @@ Via Salvatore Mannironi,39.2527652,9.1258007
 Via Salvatore Quasimodo,39.2552194,9.1173312
 Via Salvatore Rosa,39.2336809,9.1275229
 Via Salvatore Vidal,39.2137569,9.1315562
-Via Salvo D'Acquisto,39.2468111,9.1304939
+Via Salvo D'Acquisto,39.2470148,9.1300964
 Via Samuele Utzeri,39.1943502,9.1376605
-Via San Benedetto,39.2232559,9.1272932
+Via San Benedetto,39.2221025,9.1263224
 Via San Carlo Borromeo,39.2325325,9.1239504
 Via San Clemente,39.2534338,9.1259283
 Via San Domenico,39.2180170,9.1191609
@@ -2843,7 +2862,7 @@ Via San Donà,39.2328177,9.0990617
 Via Sandro Botticelli,39.2503368,9.1023024
 Via Sandro Pertini,39.2555450,9.1243302
 Via San Fermo,39.2408786,9.1313589
-Via San Giacomo,39.2184460,9.1190810
+Via San Giacomo,39.2176440,9.1189117
 Via San Giorgio,39.2208822,9.1126183
 Via San Giovanni,39.2186080,9.1182726
 Via San Giovanni Bosco,39.2227542,9.1092462
@@ -2855,14 +2874,14 @@ Via San Lucifero,39.2142870,9.1232770
 Via San Marino,39.2282196,9.1351716
 Via San Martino della Battaglia,39.2437228,9.1322060
 Via San Mauro,39.2230084,9.1200862
-Via San Michele,39.2373559,9.0996618
+Via San Michele,39.2374571,9.0997548
 Via San Paolo,39.2160221,9.1003555
 Via San Quintino,39.2450618,9.1277596
-Via San Rocco,39.2235691,9.1206822
+Via San Rocco,39.2239144,9.1201469
 Via San Salvatore da Civita,39.2217829,9.1377035
 Via San Salvatore da Horta,39.2150445,9.1165140
 Via San Saturnino,39.2195192,9.1182130
-Via San Simone,39.2170933,9.0996122
+Via San Simone,39.2323196,9.0923359
 Via Santa Bernadette,39.2507594,9.1253290
 Via Santa Caterina,39.2546610,9.1245365
 Via Santa Cecilia,39.2593373,9.1277450
@@ -2880,14 +2899,14 @@ Via Santa Teresa di Gallura,39.2534134,9.1241428
 Via Sant'Efisio,39.2202370,9.1131364
 Via Sant'Eulalia,39.2149242,9.1139202
 Via Sant'Eusebio,39.2152226,9.1230998
-Via Sant'Ignazio da Laconi,39.2214296,9.1111461
+Via Sant'Ignazio da Laconi,39.2227379,9.1111461
 Via Santi Lorenzo e Pancrazio,39.2249101,9.1150861
 Via Sant'Isidoro,39.2514868,9.1267080
 Via San Tommaso d'Aquino,39.2488581,9.1188962
 Via Santorre di Santarosa,39.2500020,9.1343505
 Via San Vetrano,39.2269802,9.1213906
 Via Sa Perdixedda,39.2137688,9.1018784
-Via Sardegna,39.2148988,9.1119484
+Via Sardegna,39.2148969,9.1119504
 Via Sarrabus,39.2417117,9.1041740
 Via S'Arriu,39.2459801,9.1298023
 Via S'Arrulloni,39.1992658,9.1486813
@@ -2907,7 +2926,7 @@ Via Seruci,39.2382510,9.1077049
 Via Settimo,39.2493852,9.1340215
 Via Sibilla Aleramo,39.2521710,9.1192425
 Via Sicilia,39.2151043,9.1133298
-Via Sidney Sonnino,39.2123106,9.1190340
+Via Sidney Sonnino,39.2122183,9.1189890
 Via Sigismondo Arquer,39.2143013,9.1154916
 Via Sigmund Freud,39.2071345,9.1410590
 Via Silvio Mastio,39.2440302,9.1356170
@@ -2935,17 +2954,17 @@ Via Stromboli,39.2038725,9.1624976
 Via Sulcis,39.2431931,9.1058240
 Via Su Planu,39.2464290,9.1217151
 Via Tagliamento,39.2306081,9.0970690
-Via Talete,39.2369204,9.1330012
+Via Talete,39.2369204,9.1330025
 Via Tamburino Sardo,39.2530282,9.1143956
 Via Taranto,39.2072910,9.1262643
 Via Tarquinio Sini,39.2535118,9.0947437
-Via Tel Aviv,39.2293669,9.1355083
+Via Tel Aviv,39.2288925,9.1357838
 Via Telesio,39.2395447,9.1352105
 Via Temo,39.2277108,9.0991878
 Via Tempio,39.2211164,9.1210910
 Via Tevere,39.2311826,9.0948182
 Via Ticino,39.2308750,9.0952809
-Via Tiepolo,39.2550892,9.0955883
+Via Tiepolo,39.2544541,9.0955647
 Via Tigellio,39.2209965,9.1078869
 Via Timavo,39.2361307,9.1051767
 Via Tintoretto,39.2580458,9.1004132
@@ -2961,9 +2980,9 @@ Via Torquato Tasso,39.2244959,9.1261301
 Via Torre delle Stelle,39.2563355,9.1273208
 Via Toscana,39.2277720,9.1161264
 Via Tramontana,39.2047783,9.1431821
-Via Trentino,39.2308161,9.1141108
+Via Trentino,39.2307931,9.1140666
 Via Trexenta,39.2511774,9.1289231
-Via Trincea dei Razzi,39.2366817,9.1032354
+Via Trincea dei Razzi,39.2366858,9.1032243
 Via Trincea delle Frasche,39.2365880,9.1019037
 Via Tristani,39.2244603,9.1189951
 Via Turbigo,39.2302179,9.1103935
@@ -2976,7 +2995,7 @@ Via Ugo Tognazzi,39.2615773,9.1179500
 Via Umberto Boccioni,39.2542813,9.1306947
 Via Umberto Nobile,39.2540377,9.1150633
 Via Umberto Saba,39.2562376,9.1180321
-Via Umberto Ticca,39.2583138,9.0913780
+Via Umberto Ticca,39.2583150,9.0913879
 Via Umbria,39.2294656,9.1158926
 Via Università,39.2164689,9.1158327
 Via Val D'Elsa,39.2413866,9.0989245
@@ -2990,7 +3009,7 @@ Via Venezia,39.2066981,9.1357209
 Via Vergine di Lluc,39.1969886,9.1461360
 Via Versilia,39.2296343,9.1166077
 Via Vienna,39.2333121,9.1366615
-Via Villa Giusti,39.2257399,9.1047827
+Via Villa Giusti,39.2257697,9.1042623
 Via Vincenzina Murgia,39.2584861,9.1182995
 Via Vincenzo Bellini,39.2214288,9.1279822
 Via Vincenzo Bruscu Onnis,39.2195987,9.1054339
@@ -3019,7 +3038,7 @@ Via Zeffiro,39.2032964,9.1461762
 Vico Armando Diaz,39.2101115,9.1189536
 Vico Arno,39.2312913,9.0961549
 Vico Barcellona,39.2156176,9.1136465
-Vico Carlo Felice,39.2162332,9.1117936
+Vico Carlo Felice,39.2162371,9.1117979
 Vico Conte di Biancamano,39.2499797,9.1255376
 Vico Decimo San Giovanni,39.2236764,9.1198042
 Vico dei Malaspina,39.2432278,9.1285956
@@ -3033,7 +3052,7 @@ Vico Giulio II,39.2490451,9.1245867
 Vico I Alessandro III,39.2487708,9.1226623
 Vico I Balilla,39.2456280,9.1260123
 Vico I Barone Rossi,39.2115919,9.1207266
-Vico I Carloforte,39.2200538,9.1071176
+Vico I Carloforte,39.2200548,9.1071176
 Vico I dei Genovesi,39.2180361,9.1154342
 Vico I della Fauna,39.2084219,9.1533803
 Vico I Enrico Toti,39.2467429,9.1281440
@@ -3041,7 +3060,7 @@ Vico I Giovanni Battista Tuveri,39.2177379,9.1267057
 Vico II Alberto Lamarmora,39.2194249,9.1162544
 Vico II Balilla,39.2457258,9.1258912
 Vico II Barone Rossi,39.2122869,9.1208533
-Vico II Carloforte,39.2201534,9.1059408
+Vico II Carloforte,39.2201415,9.1059376
 Vico II della Fauna,39.2193708,9.1557859
 Vico II delle Acacie,39.2116743,9.1541945
 Vico II Enrico Toti,39.2470768,9.1280124
@@ -3110,7 +3129,7 @@ Vico Quinto San Giovanni,39.2187766,9.1186970
 Vico Regina Margherita,39.2145472,9.1177155
 Vico San Lucifero,39.2154927,9.1193897
 Vico San Rocco,39.2225528,9.1210890
-Vico Santa Margherita,39.2188099,9.1140718
+Vico Santa Margherita,39.2188094,9.1140806
 Vico Secondo Chiesa,39.2438586,9.1291460
 Vico Secondo dei Genovesi,39.2186566,9.1155462
 Vico Secondo San Domenico,39.2186652,9.1193814
@@ -3140,7 +3159,7 @@ Is canaleddus,39.1820740,9.3659270
 Località Claru Bidda,39.2384213,9.2156045
 Percorso Ciclo-Pedonale Parco di Molentargius,39.2244784,9.1790095
 Piazza 25 aprile,39.2404309,9.1854521
-Piazza 4 novembre,39.2395284,9.1923552
+Piazza 4 novembre,39.2395700,9.1923049
 Piazza Domenico Alberto Azuni,39.2418473,9.1817702
 Piazzale Sant'Andrea,39.2201228,9.2716945
 Piazza Sacro Cuore,39.2374743,9.1882227
@@ -3181,7 +3200,7 @@ Via Ada Negri,39.2368096,9.1885155
 Via Adda,39.2105596,9.3031381
 Via Agostino De Pretis,39.2341641,9.1877788
 Via Alassio,39.2144283,9.2732116
-Via Alberto La Marmora,39.2400703,9.1866656
+Via Alberto La Marmora,39.2401197,9.1868964
 Via Alberto Riva Villasanta,39.2376467,9.1929949
 Via Alcide De Gasperi,39.2424297,9.1769994
 Via Alessandro Manzoni,39.2406730,9.1832698
@@ -3212,7 +3231,7 @@ Via Antonio Meucci,39.2410042,9.1784379
 Via Antonio Pacinotti,39.2372630,9.1829022
 Via Antonio Salandra,39.2379847,9.1991074
 Via Antonio Salieri,39.2299891,9.1866714
-Via Antonio Stradivari,39.2338201,9.1788784
+Via Antonio Stradivari,39.2334178,9.1786249
 Via Antonio Vivaldi,39.2388432,9.1781897
 Via Antoon van Dyck,39.2424701,9.2693217
 Via Anzio,39.2195423,9.2651102
@@ -3253,9 +3272,9 @@ Via Brigata Sassari,39.2422841,9.1811658
 Via Bruno Buozzi,39.2433303,9.1893336
 Via Brusco Onnis,39.2508596,9.2029629
 Via Budapest,39.2347312,9.1920415
-Via Bulgaria,39.2372480,9.2094021
+Via Bulgaria,39.2372060,9.2093818
 Via Cadoni Pillai,39.2542883,9.1909403
-Via Cagliari,39.2456050,9.1847904
+Via Cagliari,39.2482447,9.1884849
 Via Calabria,39.2381422,9.1975031
 Via Calvia,39.2488156,9.2076550
 Via Camille Pissarro,39.2328335,9.2704768
@@ -3456,7 +3475,7 @@ Via Filippo Corridoni,39.2474751,9.1826333
 Via Filippo Turati,39.2408007,9.1752820
 Via Finlandia,39.2439323,9.2014244
 Via Firenze,39.2448612,9.1821496
-Via Fiume,39.2328684,9.2139561
+Via Fiume,39.2326121,9.2155710
 Via Fiume Temo,39.2223830,9.2730000
 Via Flumendosa,39.2129981,9.3023994
 Via Flumini Uri,39.2240419,9.2796069
@@ -3466,7 +3485,7 @@ Via Francesco Ciusa,39.2407689,9.1984396
 Via Francesco Crispi,39.2390730,9.1945957
 Via Francesco Domenico Guerrazzi,39.2472114,9.1840863
 Via Francesco Guicciardini,39.2363394,9.1988621
-Via Francesco Petrarca,39.2346273,9.1779731
+Via Francesco Petrarca,39.2343527,9.1775975
 Via Francia,39.2385118,9.2011370
 Via fra Ponti,39.2360178,9.3104125
 Via fratelli Bandiera,39.2374061,9.1938467
@@ -3483,7 +3502,7 @@ Via Gaspare Spontini,39.2388951,9.1891856
 Via Gavino Gabriel,39.2332164,9.1828153
 Via Gavino Pes,39.2450060,9.2075187
 Via Gemellae,39.2289520,9.2307740
-Via Generale Carlo Alberto Dalla Chiesa,39.2361494,9.2103124
+Via Generale Carlo Alberto Dalla Chiesa,39.2348774,9.2104919
 Via Gennargentu,39.2291361,9.2509452
 Via Genova,39.2445592,9.1844623
 Via Georges Bizet,39.2413916,9.1741170
@@ -3498,17 +3517,17 @@ Via Gialeto,39.2396362,9.1817290
 Via Giambattista Vico,39.2353710,9.1885054
 Via Gianfrancesco Malipiero,39.2390014,9.1743616
 Via Giara,39.2244068,9.2812489
-Via Gioachino Rossini,39.2356951,9.1783263
+Via Gioachino Rossini,39.2366441,9.1803544
 Via Giorgio Asproni,39.2327493,9.1890353
 Via Giosuè Carducci,39.2415027,9.1901868
 Via Giotto,39.2480841,9.1888422
-Via Giovan Battista Pergolesi,39.2359006,9.1797587
+Via Giovan Battista Pergolesi,39.2360471,9.1795777
 Via Giovanni Amendola,39.2472772,9.1832285
 Via Giovanni Battista Capra,39.2525166,9.1877202
 Via Giovanni Battista Tuveri,39.2352123,9.1929460
 Via Giovanni Boccaccio,39.2456917,9.1888640
 Via Giovanni Caboto,39.2383468,9.1810192
-Via Giovanni Cimabue,39.2467036,9.1891414
+Via Giovanni Cimabue,39.2464317,9.1894815
 Via Giovanni Falcone,39.2360197,9.2040090
 Via Giovanni Maria Angioy,39.2425825,9.1875184
 Via Giovanni Pascoli,39.2356032,9.1794022
@@ -3543,13 +3562,13 @@ Via Ignazio Perra,39.2406022,9.1925841
 Via Ildebrando Pizzetti,39.2333888,9.1788923
 Via Inghilterra,39.2409464,9.1991278
 Via Ippolito Nievo,39.2359736,9.1872573
-Via Ippolito Pindemonte,39.2353685,9.1922191
+Via Ippolito Pindemonte,39.2361654,9.1917851
 Via Irlanda,39.2411571,9.2070648
 Via Is Ammostus,39.2510456,9.2612008
-Via Is Arenas,39.2328876,9.1787938
+Via Is Arenas,39.2322944,9.1784992
 Via Ischia,39.2205384,9.2453972
 Via Is Pardinas,39.2274094,9.2620768
-Via Italia,39.2360915,9.2102056
+Via Italia,39.2360794,9.2116018
 Via Joan Miró,39.2388581,9.2722478
 Via Johann Sebastian Bach,39.2311711,9.1856912
 Via Lago Baratz,39.2238620,9.2742746
@@ -3578,7 +3597,7 @@ Via Lentischio,39.2310687,9.2424558
 Via Leonardo Alagon,39.2441633,9.1876868
 Viale s'arrulloni,39.2322468,9.1818453
 Via Levante,39.2298305,9.2213730
-Via Liguria,39.2414139,9.1972103
+Via Liguria,39.2406044,9.1978262
 Via Limbara,39.2255785,9.2588769
 Via Lipari,39.2198967,9.2521432
 via Liri,39.2110999,9.3024417
@@ -3590,7 +3609,7 @@ Via Lodovico Baylle,39.2375469,9.1934718
 Via Logudoro,39.2287398,9.2601755
 Via Lombardia,39.2433960,9.1782628
 Via Londra,39.2320811,9.1893653
-Via Luciano Manara,39.2340928,9.1868684
+Via Luciano Manara,39.2328833,9.1876112
 Via Ludovico Ariosto,39.2356171,9.1962900
 Via Ludwig van Beethoven,39.2307059,9.1836928
 Via Luigi Boccherini,39.2390218,9.1761860
@@ -3653,7 +3672,7 @@ Via Molaria,39.2295868,9.2270394
 Via Molentargius,39.2294219,9.1680761
 Via Monaco,39.2364190,9.2070522
 Via Monreale,39.2268227,9.2478356
-Via Monsignor Virgilio Angioni,39.2431927,9.1966500
+Via Monsignor Virgilio Angioni,39.2424239,9.1948905
 Via Montacutu,39.2275037,9.2773484
 Via Monte Arci,39.2297619,9.2798861
 Via Montecatini,39.2175702,9.2681292
@@ -3663,7 +3682,7 @@ Via Montenegro,39.2376867,9.1850891
 Via Montespada,39.2293188,9.2794051
 Via Monti,39.2374772,9.1901292
 Via Montiferru,39.2244155,9.2683145
-Via Mori,39.2391619,9.1881230
+Via Mori,39.2387929,9.1865432
 Via Napoli,39.2461226,9.1878660
 Via Nazario Sauro,39.2379512,9.1888159
 Via Negroponte,39.2213493,9.2456685
@@ -3723,7 +3742,7 @@ Via Pietro Perugino,39.2442502,9.1907884
 Via Pio la Torre,39.2371567,9.2029586
 Via Pio X,39.2458991,9.1843235
 Via Pirastu,39.2517307,9.1910351
-Via Pitz'e Serra,39.2402455,9.2132124
+Via Pitz'e Serra,39.2403263,9.2012308
 Via Planargia,39.2284064,9.2567178
 Via Platamona,39.2257638,9.2565461
 Via Pola,39.2392494,9.1859211
@@ -3734,7 +3753,7 @@ Via Portogallo,39.2415676,9.2017904
 Via Praga,39.2331729,9.1909342
 Via Prati,39.2367421,9.1868388
 Via Principe Amedeo,39.2385845,9.1897149
-Via Principessa Iolanda,39.2394828,9.1943392
+Via Principessa Iolanda,39.2395375,9.1923835
 Via Puxeddu,39.2574956,9.1957799
 Via Quintino Sella,39.2386226,9.1912013
 Via Quirra,39.2251270,9.2808679
@@ -3776,7 +3795,7 @@ Via Salvatore Satta,39.2383487,9.1926778
 Via San Benedetto,39.2336732,9.1946800
 Via Sandalyon,39.2359724,9.2233391
 Via Sandro Botticelli,39.2465317,9.1902406
-Via San Francesco,39.2447733,9.1954887
+Via San Francesco,39.2432288,9.1915225
 Via San Giovanni,39.2220653,9.2892976
 Via San Gregorio,39.2138058,9.3047557
 Via San Marino,39.2346053,9.2088957
@@ -3847,7 +3866,7 @@ Via Tomaso Albinoni,39.2372230,9.1736175
 Via Tommaseo,39.2363373,9.1871072
 Via Tommaso Campanella,39.2361883,9.1967285
 Via Torino,39.2389561,9.1895329
-Via Torquato Tasso,39.2353233,9.1790337
+Via Torquato Tasso,39.2355595,9.1787493
 Via Toscana,39.2475111,9.1863923
 Via Traversa Sa Tanca,39.2264218,9.2844679
 Via Trento,39.2414058,9.1823113
@@ -3998,7 +4017,7 @@ vico Bologna,39.3160672,8.9748344
 Vico Eleonora D'Arborea,39.3115822,8.9700722
 Vico Giuseppe Parini,39.3087218,8.9713068
 Vico Immacolata,39.3168330,8.9701672
-Vico Liguria,39.3086420,8.9728975
+Vico Liguria,39.3086428,8.9728942
 Vicolo delle Aie,39.3141008,8.9717355
 Vicolo Grazia Deledda,39.3090044,8.9656887
 Vicolo Is Bagantinus,39.3073749,8.9680482
@@ -4018,7 +4037,6 @@ Piazza Alessandro Manzoni,39.2563432,9.1785153
 Piazza Antonio Pisano,39.2474084,9.2930342
 Piazza Parrocchia,39.2511662,9.1780364
 Seconda traversa via dei Mandorli,39.2458944,9.2882109
-Strada Le Vele,39.2457989,9.1645374
 Terza Traversa Via dei Mandorli,39.2494099,9.2883609
 Traversa 1 delle Fragole,39.2488290,9.2930491
 Traversa 1 Europa,39.2684494,9.1979529
@@ -4170,14 +4188,14 @@ Via Musei,39.2564219,9.1818441
 Via Nazionale,39.2516935,9.1753777
 Via Neghelli,39.2523138,9.1775855
 Via Niccolò Paganini,39.2479843,9.1732836
-Via Nulvi,39.2559543,9.1851317
+Via Nulvi,39.2565489,9.1845123
 Via Oliena,39.2500045,9.1756093
 Via Orani,39.2503610,9.1747796
 Via Orotelli,39.2548918,9.1841465
 Via Ortobene,39.2546701,9.1815296
 Via Osilo,39.2571779,9.1834957
 Via Ottana,39.2588029,9.1819952
-Via Pabillonis,39.2560245,9.1845707
+Via Pabillonis,39.2556348,9.1839335
 Via Paolo Borsellino,39.2543821,9.1873804
 Via Pietro Mascagni,39.2478596,9.1724026
 Via Planargia,39.2549353,9.1787054
@@ -4185,7 +4203,7 @@ Via Ploaghe,39.2599277,9.1805759
 Via Portoscuso,39.2491916,9.1731738
 Via Primo Maggio,39.2446528,9.1563185
 Via Puxeddu,39.2574956,9.1957799
-Via Quartu,39.2487821,9.1795669
+Via Quartu,39.2486313,9.1796598
 Via Raffaele Mameli,39.2505503,9.1754351
 Via Riu Mortu,39.2483253,9.1506444
 Via Ruinas,39.2524412,9.1833705
@@ -4314,7 +4332,7 @@ Via Capo Frasca,39.2569304,9.1316292
 Via Capo Malfatano,39.2578636,9.1327787
 Via Capo Sandalo,39.2576832,9.1320510
 Via Capo Sperone,39.2581281,9.1322603
-Via Caracalla,39.2585002,9.1337782
+Via Caracalla,39.2593117,9.1341506
 Via Carbonara,39.2578568,9.1359921
 Via Carmen Melis,39.2600618,9.1267246
 Via Cassiodoro,39.2521155,9.1498706
@@ -4333,7 +4351,7 @@ Via Cornelio Nepote,39.2560901,9.1438580
 Via Cortis,39.2632601,9.1446814
 Via Costantino,39.2520297,9.1417785
 Via Crasso,39.2627653,9.1381815
-Via Decio Mure,39.2597201,9.1310022
+Via Decio Mure,39.2596851,9.1310116
 Via degli Astri,39.2548274,9.1316540
 Via degli Scipioni,39.2559887,9.1387248
 Via dei Fabi,39.2562261,9.1390126
@@ -4349,7 +4367,7 @@ Via della Conciliazione,39.2511973,9.1439814
 Via dell'Aeronautica,39.2519141,9.1443401
 Via della Libertà,39.2593721,9.1402445
 Via dell'Argine,39.2612871,9.1349200
-Via delle Azalee,39.2612118,9.1485920
+Via delle Azalee,39.2607105,9.1481016
 Via delle Gardenie,39.2621342,9.1460918
 Via delle Margherite,39.2630858,9.1479267
 Via delle Mimose,39.2573821,9.1496249
@@ -4383,7 +4401,7 @@ Via Giorgio De Chirico,39.2541525,9.1297577
 Via Giorgio La Pira,39.2719068,9.1377897
 Via Giosso,39.2511028,9.1489912
 Via Giovenale,39.2558211,9.1377544
-Via Giulio Cesare,39.2606598,9.1405370
+Via Giulio Cesare,39.2624888,9.1400227
 Via Giunio Bruto,39.2540167,9.1346076
 Via Giuseppe Brotzu,39.2617230,9.1303963
 Via Giuseppe Picciau,39.2544099,9.1376051
@@ -4435,7 +4453,7 @@ Via Pio VII,39.2511679,9.1438244
 Via Pio X,39.2515931,9.1436954
 Via Plauto,39.2560668,9.1414880
 Via Polibio,39.2633546,9.1381610
-Via Pompeo,39.2643407,9.1440146
+Via Pompeo,39.2651283,9.1448576
 Via Porto Botte,39.2543872,9.1333873
 Via Porto Cervo,39.2573170,9.1348061
 Via Porto Conte,39.2583431,9.1345499
@@ -4457,7 +4475,7 @@ Via San Cipriano,39.2631727,9.1405983
 Via Sandro Pertini,39.2679880,9.1386955
 Via San Filippo,39.2581324,9.1470189
 Via San Francesco,39.2567808,9.1388299
-Via San Fulgenzio,39.2598543,9.1337094
+Via San Fulgenzio,39.2596669,9.1339351
 Via San Gavino Monreale,39.2597471,9.1377391
 Via San Gerolamo,39.2577230,9.1397354
 Via San Girolamo Emiliani,39.2629468,9.1369520
@@ -4571,6 +4589,7 @@ Aeroporto militare Elmas,39.2563759,9.0535060
 Fe 1,39.2634086,9.0448116
 Piazza dei Fiori,39.2693609,9.0530013
 Piazza dei Gelsi,39.2682251,9.0459954
+Piazza Giovanni Ruggeri,39.2706994,9.0497442
 Piazza Grecale,39.2667568,9.0571111
 Piazza Miraglia,39.2702180,9.0474079
 Piazza Rosa dei Venti,39.2662852,9.0563980
@@ -4579,12 +4598,10 @@ Piazza Scirocco,39.2662065,9.0576981
 Piazza Suella,39.2665865,9.0498232
 Strada 1 Cala Piscina Lusai,39.2500524,9.0755197
 Strada 2 Cala Piscina Lusai,39.2487024,9.0718349
-Strada Cinque,39.2716217,9.0423706
-Traversa del Pino Solitario,39.2706843,9.0497318
 Via 26 Ottobre 1946,39.2698171,9.0551223
 Via Alessandro Volta,39.2732271,9.0453909
-Via Alisei,39.2650217,9.0585740
 via Amerigo Vespucci,39.2789735,9.0356390
+Via Amsicora,39.2724454,9.0436507
 Via Anita,39.2691853,9.0536375
 Via Antonio Gramsci,39.2671012,9.0577272
 via Antonio Maxia,39.2749105,9.0408938
@@ -4593,28 +4610,31 @@ Via Aramu,39.2664539,9.0491000
 Via Arturo Ferrarin,39.2656769,9.0499399
 Via Asfodelo,39.2686207,9.0507714
 Via Asquer Di Flumini,39.2669794,9.0519701
+Via Augusto Righi,39.2822812,9.0354037
 Via Bacco,39.2561269,9.0709386
 Via Balestrieri,39.2659476,9.0458561
 Via Barsanti,39.2678483,9.0528782
 Via Bassi,39.2662265,9.0387991
-Via Batteria,39.2643688,9.0467191
+Via Batteria,39.2643664,9.0467211
 Via Benedetto Sitzia,39.2769438,9.0326709
-Via Betti,39.2589657,9.0796154
+Via Betti,39.2589904,9.0795880
 Via Boi,39.2683343,9.0525540
+Via Brigata Sassari,39.2724324,9.0443901
 Via Buscaglia,39.2671140,9.0478155
 Via Cacciatori delle Alpi,39.2681730,9.0370185
 Via Caduti Di Nassirya,39.2554299,9.0619116
 Via Calatafimi,39.2657543,9.0475418
 Via Campidano,39.2785120,9.0406793
 Via Capo Spartivento,39.2700587,9.0418833
+Via Caprera,39.2716317,9.0423800
 Via Caproni,39.2706094,9.0471944
 Via Carlo Del Prete,39.2648548,9.0509666
-Via Carloforte,39.2714859,9.0390655
-Via Carlo Goldoni,39.2682196,9.0566538
+Via Carloforte,39.2714795,9.0390802
+Via Carlo Goldoni,39.2682165,9.0566635
 Via Carmine,39.2826637,9.0145607
 Via Casu,39.2691565,9.0586667
 Via Cesare Pintus,39.2675881,9.0515884
-Via Cettolini,39.2627365,9.0738432
+Via Cettolini,39.2624860,9.0738346
 Via Cialdini,39.2672733,9.0375098
 Via Cisterna Luco,39.2686185,9.0537497
 Via Cixerri,39.2635915,9.0478099
@@ -4630,16 +4650,17 @@ Via dei Gigli,39.2696931,9.0522437
 Via dei Gladioli,39.2706330,9.0517059
 Via dei Mandorli,39.2778457,9.0512863
 via Dei Monaci Vittorini,39.2626411,9.0579213
-Via dei Pozzi,39.2699059,9.0494894
+Via dei Pozzi,39.2699094,9.0494839
 Via dei Trasvolatori,39.2549397,9.0654996
 Via Dei Trasvolatori,39.2537049,9.0635849
 Via del Geco,39.2687276,9.0440372
 Via della Cantoniera,39.2758341,9.0283255
 Via Della Cantoniera,39.2751281,9.0283108
 Via dell'Acqua Bella,39.2691461,9.0498016
-via Dell'Acquedotto Romano,39.2647597,9.0638626
+via Dell'Acquedotto Romano,39.2647582,9.0638578
 Via Dell'Acquedotto Romano,39.2645261,9.0651900
 Via dell'Agricoltura,39.2519258,9.0834038
+Via Dell'Argine,39.2743396,9.0436067
 Via dell'Arma Azzurra,39.2666830,9.0508342
 Via dell'Artigianato,39.2507598,9.0854080
 Via delle Fontane,39.2702706,9.0502618
@@ -4648,12 +4669,12 @@ Via delle Orchidee,39.2689550,9.0521879
 Via delle Rose,39.2698717,9.0521760
 Via delle Sorgenti,39.2689474,9.0504323
 Via dell'Oliveto,39.2689448,9.0448982
-Via del Mare,39.2676922,9.0466127
-Via Del mare,39.2675577,9.0470603
-Via del Pino Solitario,39.2714646,9.0515429
+Via del Mare,39.2677008,9.0466428
+Via Del mare,39.2675689,9.0470818
+Via del Pino Solitario,39.2715384,9.0517153
 Via del Prato,39.2689221,9.0492532
 Via Don Palmas,39.2680461,9.0445123
-Via Don Piras,39.2671712,9.0457495
+Via Don Piras,39.2671790,9.0457709
 Via Don Sturzo,39.2680469,9.0430206
 via Emilio Lussu,39.2752873,9.0400158
 Via Enrico Fermi,39.2734283,9.0458364
@@ -4668,7 +4689,7 @@ Via Francesco Baracca,39.2683420,9.0534646
 Via Francesco De Pinedo,39.2673183,9.0524519
 Via Francesco Lana,39.2684860,9.0430653
 Via Fra Nicola da Gesturi,39.2632562,9.0549633
-Via Fratelli Wright,39.2663039,9.0525475
+Via Fratelli Wright,39.2663113,9.0525643
 Via G. Cagna,39.2653325,9.0505662
 Via Geo Chavez,39.2697900,9.0469161
 Via Gibilrossa,39.2685252,9.0544228
@@ -4676,40 +4697,41 @@ Via Giiliacquas,39.2664878,9.0404749
 Via Giliacquas,39.2658373,9.0486959
 Via Giovanni Battista Bogino,39.2657421,9.0455933
 via Giovanni Falcone,39.2777756,9.0345334
-Via Giovanni Maria Dettori,39.2678688,9.0588223
+Via Giovanni Maria Dettori,39.2678935,9.0588152
 Via Giua,39.2673936,9.0775498
-Via Giuseppe Brotzu,39.2741848,9.0458536
-Via Giuseppe Dessì,39.2676951,9.0583674
+Via Giuseppe Brotzu,39.2742084,9.0458922
+Via Giuseppe Dessì,39.2677046,9.0583762
 Via Giuseppe Garibaldi,39.2663233,9.0380955
 Via Giuseppe Missori,39.2659250,9.0391743
 Via Golfaranci,39.2698549,9.0423758
-Via Golfo degli Angeli,39.2698032,9.0429728
-Via Grazia Deledda,39.2691178,9.0581066
+Via Golfo degli Angeli,39.2698058,9.0429694
+Via Grazia Deledda,39.2691195,9.0580988
 Via Guglielmo Marconi,39.2723595,9.0458706
 Via Is Forreddus,39.2724658,9.0455847
 Viale Assemini,39.2779292,9.0251000
 Viale Cagliari,39.2632457,9.0602659
 Viale Elmas,39.2479125,9.0854772
-Via Libeccio,39.2656111,9.0566936
+Via Libeccio,39.2656152,9.0567006
 via Luigi Einaudi,39.2760058,9.0329967
 Via Maddaloni,39.2710035,9.0432034
 Via Maestrale,39.2658607,9.0558310
 via Manfredi di Donoratico,39.2794305,9.0251294
 Via Manunta,39.2680242,9.0530512
 Via Mario Mameli,39.2653165,9.0465675
-Via Marsala,39.2707176,9.0437372
+Via Marsala,39.2707202,9.0437339
 Via Milazzo,39.2688497,9.0540311
-Via Miraglia,39.2703451,9.0482122
+Via Miraglia,39.2703465,9.0482173
 via Moguru,39.2765674,9.0310464
-Via Montgolfier,39.2678440,9.0554498
+Via Montgolfier,39.2678408,9.0554596
 Via Monzambano,39.2667546,9.0473111
-Via Municipio,39.2704279,9.0488326
+Via Municipio,39.2704746,9.0487798
 Via Natta,39.2599667,9.0783611
 Via Nervi,39.2640905,9.0780468
 Via Nuoro,39.2680152,9.0562443
+Via Ogliastra,39.2802041,9.0407834
 Via Oreste Salomone,39.2658873,9.0504375
-Via Oristano,39.2684585,9.0559120
-Via Orso Maria Corbino,39.2800881,9.0388745
+Via Oristano,39.2684729,9.0558957
+Via Orso Maria Corbino,39.2775735,9.0439558
 Via Ostro,39.2665401,9.0574516
 via Paolo Borsellino,39.2769727,9.0386333
 Via Pietro Micca,39.2709377,9.0448680
@@ -4726,6 +4748,7 @@ Via Sacchi,39.2671984,9.0387204
 Via Sa Licorna,39.2711836,9.0309839
 Via Salomone,39.2650184,9.0514356
 Via Sa Mura,39.2754565,9.0251729
+Via Sa Murta,39.2730040,9.0438127
 Via Sa Narba,39.2683692,9.0520321
 via Sandro Pertini,39.2752089,9.0405486
 Via San Giorgio,39.2727535,9.0538368
@@ -4736,7 +4759,7 @@ Via Santa Rita,39.2694214,9.0538903
 Via Sant'Ignazio da Laconi,39.2620229,9.0554695
 Via Santo Stefano,39.2715091,9.0418818
 Via Sassari,39.2674534,9.0552064
-Via Sebastiano Satta,39.2670255,9.0582009
+Via Sebastiano Satta,39.2670310,9.0582151
 Via Segrè,39.2624538,9.0762846
 Via Selemi,39.2664429,9.0479432
 Via Sernagiotto,39.2543177,9.0740073
@@ -4749,16 +4772,16 @@ Via Su Pranu,39.2709203,9.0662721
 Via Talamone,39.2704093,9.0442902
 Via Tavolara,39.2708293,9.0410631
 Via Teano,39.2664568,9.0469120
-via Temo,39.2637612,9.0499407
+via Temo,39.2637617,9.0499367
 Via Temo,39.2636520,9.0494869
-Via Tramontana,39.2667491,9.0553052
+Via Tramontana,39.2650280,9.0585775
 Via Umberto Nobile,39.2727137,9.0482405
-Via Zefiro,39.2648856,9.0585069
+Via Zefiro,39.2648901,9.0584996
 Vico Boi,39.2677795,9.0519109
 Vico Bronte,39.2676058,9.0481319
 Vico Cesare Pintus,39.2678363,9.0515215
 Vico del Mare,39.2680564,9.0471768
-Vico Giuseppe Brotzu,39.2743347,9.0447956
+Vico Giuseppe Brotzu,39.2743694,9.0448078
 Vico P. Quintini,39.2650249,9.0394436
 Vico Primo Arma Azzurra,39.2666755,9.0501199
 Vico Primo Teano,39.2664696,9.0466752
@@ -4767,8 +4790,8 @@ Vico Secondo Teano,39.2667032,9.0468992
 Carlo Felice,39.2734868,9.0763625
 Complanare sinistra,39.3014788,9.0620672
 Corso Italia,39.2982353,9.0958776
-ex SS131,39.2799277,9.0753614
-Ex SS131,39.2916749,9.0681847
+ex SS131,39.2798870,9.0753383
+Ex SS131,39.2916768,9.0681851
 Innesto Pedemontana,39.3106577,9.0613561
 Innesto SS131,39.3028884,9.0624753
 Piazza Canonico Giovanni Maria Dettori,39.2999389,9.0908133
@@ -4784,7 +4807,7 @@ Piazza Salvo d'Acquisto,39.3003216,9.0921145
 Piazza San Salvatore,39.3028653,9.0932056
 Piazza Sant'Antonio,39.2996772,9.0927882
 Strada Assemini - Sestu,39.2991957,9.0647985
-Strada Comunale Cuccuru Biancu,39.2766386,9.0909454
+Strada Comunale Cuccuru Biancu,39.2766661,9.0909454
 Strada Comunale Di Basinzia,39.3236972,9.0729539
 Strada Comunale di Donori,39.3133071,9.1062869
 Strada Comunale di Selargius,39.2911928,9.1173265
@@ -4792,21 +4815,21 @@ Strada Comunale Impera Saddi,39.2911589,9.0939311
 Strada Comunale Marginarbu,39.3118700,9.0970997
 Strada comunale More Coraxe,39.2928156,9.0591887
 Strada Comunale Nuracava,39.3156907,9.0949364
-Strada comunale Sa Cantonera,39.2973364,9.0685348
+Strada comunale Sa Cantonera,39.2973333,9.0685043
 Strada Comunale Sa Mandara,39.3148326,9.1246778
 Strada Comunale San Gemiliano,39.3268972,9.0783808
 Strada Costa Cannedu,39.2902169,9.0771372
 Strada Is Coras,39.2843211,9.0776004
-Strada Moriscau,39.2829759,9.0841486
+Strada Moriscau,39.2830142,9.0841698
 Strada Provinciale 9 Sestu-Ussana,39.3526033,9.0899843
 Strada Su Pardu,39.2941676,9.1017937
 Traversa Europa,39.2932354,9.0851855
-Via 11 Settembre 2001,39.2922396,9.0693489
+Via 11 Settembre 2001,39.2922944,9.0694462
 Via 25 aprile,39.2943693,9.0873019
 Via 26 Ottobre,39.3029225,9.0888782
 Via 4 Novembre,39.2970338,9.0895235
-Via 8 marzo 1908,39.2897535,9.0704796
-Via 9 novembre 1989,39.2914111,9.0694112
+Via 8 marzo 1908,39.2897700,9.0705062
+Via 9 novembre 1989,39.2913912,9.0694521
 Via Adriano,39.2990158,9.0891181
 Via Albert Einstein,39.2941480,9.0910187
 Via Alcide De Gasperi,39.3029535,9.0881621
@@ -4971,7 +4994,7 @@ Via Piero Gobetti,39.2940509,9.0870027
 Via Pietro Mascagni,39.3034668,9.0972943
 Via Pietro Meloni,39.3042738,9.0885810
 Via Pietro Nenni,39.3017914,9.0862759
-Via Piscina Matzeu,39.2790074,9.0665440
+Via Piscina Matzeu,39.2789869,9.0664892
 Via Potenza,39.2931894,9.0968489
 Via Pyotr Ilyich Tchaikovski,39.3052261,9.0942601
 Via Raffaello Sanzio,39.2931029,9.0881707
@@ -5076,7 +5099,7 @@ Via 25 aprile,39.2550961,9.1555078
 Via 2 Giugno,39.2544891,9.1541045
 Via 4 novembre,39.2554392,9.1559924
 Via Abbasanta,39.2543422,9.1766814
-Via Abbasanta - Via Sant'Antonio,39.2551460,9.1756344
+Via Abbasanta - Via Sant'Antonio,39.2554811,9.1751876
 Via Achille Grandi,39.2528885,9.1695849
 Via Albert Einstein,39.2640692,9.1780274
 Via Alcide De Gasperi,39.2622419,9.1612339
@@ -5086,7 +5109,7 @@ Via Amerigo Vespucci,39.2542447,9.1731676
 Via Amsterdam,39.2495553,9.1592632
 Via Antonio Benci,39.2552742,9.1759403
 Via Antonio Canova,39.2588775,9.1743628
-Via Antonio Gallus,39.2534680,9.1704690
+Via Antonio Gallus,39.2530533,9.1713325
 Via Antonio Gramsci,39.2559427,9.1632698
 Via Antonio Meucci,39.2633728,9.1780517
 Via Antonio Pacinotti,39.2519779,9.1510641
@@ -5179,7 +5202,7 @@ Via Don Enrico Tazzoli,39.2507228,9.1665715
 Via Don Giovanni Bosco,39.2471216,9.1557451
 Via Don Luigi Orione,39.2586105,9.1643560
 Via Don Minzoni,39.2531917,9.1700969
-Via Edward Jenner,39.2488939,9.1086559
+Via Edward Jenner,39.2499721,9.1085090
 Via Efisio Loni,39.2536073,9.1095651
 Via Emilia,39.2618191,9.1688021
 Via Emilio Lussu,39.2568345,9.1592031
@@ -5215,16 +5238,15 @@ Via Giovanni Battista Melis,39.2576993,9.1590565
 Via Giovanni Boccaccio,39.2530828,9.1072419
 Via Giovanni Maria Angioy,39.2457839,9.1543488
 Via Girolamo Araolla,39.2525762,9.1108588
-Via Giuseppe Brotzu,39.2520674,9.1015137
 Via Giuseppe Dessì,39.2485386,9.1553576
 Via Giuseppe Dessy,39.2498483,9.1571001
 Via Giuseppe Di Vittorio,39.2518654,9.1688920
 Via Giuseppe Garibaldi,39.2496623,9.1669582
 Via Giuseppe Manno,39.2464088,9.1548700
 Via Giuseppe Mazzini,39.2501033,9.1675200
-Via Giuseppe Peretti,39.2514021,9.1059540
+Via Giuseppe Peretti,39.2514123,9.1059875
 Via Giuseppe Verdi,39.2604945,9.1646212
-Via Goceano,39.2596157,9.1129194
+Via Goceano,39.2592451,9.1131231
 Via Goito,39.2598114,9.1681532
 Via Gorizia,39.2504701,9.1633609
 Via Governolo,39.2588213,9.1662102
@@ -5233,9 +5255,9 @@ Via Guglielmo Marconi,39.2521884,9.1511326
 Via Guido Cavalcanti,39.2544518,9.1069583
 Via Ippolito Nievo,39.2533955,9.1646205
 Via Isaac Newton,39.2629215,9.1792048
-Via Is Corrias,39.2609009,9.1140211
+Via Is Corrias,39.2611439,9.1140297
 Via Isili,39.2557825,9.1774957
-Via Istria,39.2525965,9.1647489
+Via Istria,39.2543151,9.1662888
 Via James Watt,39.2645831,9.1776303
 Via Lazio,39.2625200,9.1691046
 Viale Europa,39.2604087,9.1823095
@@ -5251,21 +5273,21 @@ Via Lorenzo De Medici,39.2544452,9.1044260
 Via Louis Pasteur,39.2645596,9.1732582
 Via Luca Della Robbia,39.2556491,9.1766702
 Via Ludovico Ariosto,39.2532217,9.1069816
-Via Luigi Crespellani,39.2561879,9.0988651
+Via Luigi Crespellani,39.2562129,9.0988695
 Via Luigi Einaudi,39.2594280,9.1592879
 Via Luigi Galvani,39.2684036,9.1748275
 Via Luigi Pirandello,39.2546680,9.1113546
 Via Luras,39.2592243,9.1800917
 Via Madrid,39.2489468,9.1588056
 Via Marco Polo,39.2548867,9.1730233
-Via Mario Aresu,39.2538402,9.1009978
+Via Mario Aresu,39.2538402,9.1015103
 Via Marmilla,39.2586802,9.1138694
 Via Marsala,39.2564902,9.1665683
 Via Massimo D'Azeglio,39.2552451,9.1682080
 Via Matteo Maria Boiardo,39.2555048,9.1059873
 Via Mentana,39.2589457,9.1673168
 Via Michelangelo Buonarotti,39.2602822,9.1755212
-Via Michelangelo Pira,39.2492891,9.1571565
+Via Michelangelo Pira,39.2496335,9.1575927
 Via Milano,39.2551509,9.1630235
 Via Milazzo,39.2568695,9.1645676
 Via Monsignor Giovanni Spano,39.2490635,9.1549258
@@ -5307,7 +5329,7 @@ Via Pisacane,39.2547626,9.1696254
 Via Pitagora,39.2664132,9.1782194
 Via Podrino,39.2620336,9.1647091
 Via Pola,39.2482302,9.1635719
-Via Pompeo,39.2643407,9.1440146
+Via Pompeo,39.2651283,9.1448576
 Via Praga,39.2522807,9.1577309
 Via Primo Maggio,39.2451315,9.1569457
 Via Quintino Sella,39.2538788,9.1667442
@@ -5331,7 +5353,7 @@ Via San Giuliano,39.2551295,9.1700222
 Via San Luigi,39.2499623,9.1650083
 Via San Lussorio,39.2543734,9.1680820
 Via San Marco,39.2594875,9.1775176
-Via San Martino,39.2572176,9.1648832
+Via San Martino,39.2597053,9.1629189
 Via San Mauro,39.2585351,9.1765068
 Via San Nicolò,39.2554817,9.1714130
 Via San Paolo,39.2583096,9.1729636
@@ -5341,8 +5363,8 @@ Via Santa Barbara,39.2582697,9.1760723
 Via Santa Caterina,39.2555706,9.1739495
 Via Santa Elisabetta,39.2611121,9.1772134
 Via Sant'Agostino,39.2595500,9.1743930
-Via Sant'Anna,39.2612650,9.1747119
-Via Sant'Antonio,39.2568823,9.1731437
+Via Sant'Anna,39.2605975,9.1736451
+Via Sant'Antonio,39.2575645,9.1721416
 Via Santa Rita,39.2576416,9.1750456
 Via Sant'Efisio,39.2553208,9.1742684
 Via Sant'Ignazio,39.2547792,9.1723467

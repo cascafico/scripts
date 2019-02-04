@@ -13,7 +13,7 @@ Via Della Libertà,40.1320261,16.6414157
 Via Enrico Fermi,40.1291968,16.6407833
 Via Filippo Turati,40.1312654,16.6337170
 Via Lamanna,40.1292224,16.6418199
-Via La Voce della Luna,40.1280439,16.6457358
+Via La Voce della Luna,40.1280435,16.6457367
 Viale Siris,40.1298212,16.6415141
 Via Pasto3,40.1299125,16.6374220
 Via Trento,40.1305356,16.6420520
@@ -22,10 +22,15 @@ Via Vittorio Bachelet,40.1319446,16.6327403
 Vico 1° Trento,40.1312636,16.6418423
 Vico 2° Trento,40.1310721,16.6412400
 Vico 3° Trento,40.1314632,16.6413370
+Piazza Vittorio Emanuele III,40.1685125,16.4414908
 Strada statale Sinnica,40.1732634,16.4417745
 Strada Statale 106 Jonica,40.1653441,16.6478393
 Strada statale Sinnica,40.2200481,16.5251884
+Corso Vittorio Emanuele III,40.1881051,16.4254338
+Largo Convento,40.1877031,16.4233019
 Strada statale Sinnica,40.1684115,16.4294807
+Via degli Emigranti,40.1892988,16.4234274
+Via San Francesco,40.1879816,16.4238653
 Corso Alcide De Gasperi,40.2124289,16.6782636
 Corso Pandosia,40.2135162,16.6792820
 Piazza Eraclea,40.2113089,16.6773224
@@ -43,13 +48,15 @@ Via Brescia,40.2088882,16.6759686
 Via Brindisi,40.1668219,16.6601935
 Via Cesare Battisti,40.2157230,16.6789331
 Via Colombo,40.2167682,16.6691360
-Via Corinto,40.2142947,16.6784242
+Via Corinto,40.2142942,16.6784249
 Via Dante,40.2114437,16.6759608
 Via Foggia,40.1719823,16.6639074
 Via Fratelli Bandiera,40.2160148,16.6781084
 Via Generale Mazzitelli,40.2138876,16.6740776
+Via Giulio Cesare,40.2085522,16.6764617
 Via Giuseppe Mazzini,40.2121952,16.6770524
 Via Giustino Fortunato,40.2096121,16.6755725
+Via Gran San Bernardo,40.2068768,16.6763951
 Via Itaca,40.1946188,16.7077436
 Via Kennedy,40.2099482,16.6766673
 Via Lazio,40.2114698,16.6796447
@@ -130,19 +137,20 @@ Via Carlo Levi,40.3098834,16.2322622
 Via Collina,40.3103551,16.2321333
 Via Martiri D'Ungheria,40.3191709,16.2292846
 Vico Garibaldi,40.3116697,16.2322665
-antica via Regia verso Matera e Bari,40.3087988,16.5637745
+antica via Regia verso Matera e Bari,40.3128831,16.5637745
 collegamento madonna del puleggio con via regia,40.3182216,16.5648196
 Contrada Tamma,40.3040515,16.7586126
 Corso Italia,40.3564298,16.6831064
-Corso Margherita di Savoia,40.3900202,16.5538975
+Corso Margherita di Savoia,40.3900076,16.5538884
 Corso Metaponto,40.3892279,16.5613097
 Galleria San Rocco,40.3960785,16.5531895
 Piazza Archita,40.3688863,16.6885707
 Piazza Bologna,40.3621598,16.6876185
 Piazza Coperta,40.3642050,16.6880081
+Piazza dei Caduti,40.3906871,16.5583442
 Piazza Elettra,40.3627909,16.6876587
+Piazza Plebiscito,40.3903466,16.5526969
 Piazza Roma,40.3661922,16.6868417
-Piazza San Rocco,40.3903321,16.5527042
 Piazza Umberto I,40.3900515,16.5578849
 S. P. Pisticci S. Basilio,40.3730957,16.6181932
 Strada Statale 106 Jonica,40.3493393,16.7673539
@@ -167,7 +175,7 @@ Via Firenze,40.3617426,16.6892085
 Via Foggia,40.3658002,16.6860068
 Via Genova,40.3630048,16.6886380
 Via Giasone,40.3332861,16.7963153
-Via Giovanni di Giulio,40.3906098,16.5546906
+Via Giovanni di Giulio,40.3906112,16.5546715
 Via Giulio Cesare,40.3915511,16.5550016
 Via Giustino Fortunato,40.3639265,16.6907847
 Via Ippaso,40.3687538,16.6888614
@@ -180,9 +188,9 @@ Viale Quarantotto,40.3297574,16.7841111
 Via Liside,40.3686090,16.6891831
 Via Lucania,40.3636818,16.6859472
 Via Ludovico Ariosto,40.3903258,16.5607371
-Via Luigi Farini,40.3908599,16.5544742
+Via Luigi Farini,40.3908649,16.5544759
 Via Luisa Sanfelice,40.3890590,16.5510939
-Via Mario Pagano,40.3903993,16.5574623
+Via Mario Pagano,40.3903865,16.5574509
 Via Matera,40.3652343,16.6881310
 Via Melissa,40.3693152,16.6890511
 Via Menestore,40.3679799,16.6880729
@@ -192,7 +200,7 @@ Via Monreale,40.3632621,16.6943064
 Via Morandi,40.3654279,16.6919169
 Via Napoli,40.3650411,16.6879847
 Via Nausicaa,40.3242148,16.7930433
-Via Nicola Cantisano,40.3904995,16.5565901
+Via Nicola Cantisano,40.3904842,16.5565579
 Via Ocello Lucano,40.3690487,16.6882066
 Via Olbia,40.3625122,16.6847562
 Via Padova,40.3600833,16.6863118
@@ -208,6 +216,7 @@ Via Potenza,40.3645705,16.6878757
 Via Puglia,40.3638035,16.6829744
 Via Quattro Caselli,40.3573902,16.6959997
 Via Redipuglia,40.3611226,16.6810588
+Via Risorgimento,40.3900687,16.5520811
 Via Sacco,40.3648662,16.6908955
 Via Salerno,40.3655049,16.6869225
 Via San Donato,40.3901904,16.5637569
@@ -525,7 +534,7 @@ Via S. Vito,40.5135440,16.5499406
 Via Tito Minniti,40.5161141,16.5490652
 Via Torquato Tasso,40.5147422,16.5493639
 Via XXIV Maggio,40.5167747,16.5468914
-Vico I Corso Vittorio Emanuele,40.5143171,16.5486694
+Vico I Corso Vittorio Emanuele,40.5143171,16.5486703
 Vico II Corso Vittorio Emanuele,40.5141786,16.5486523
 Vico III Corso Vittorio Emanuele,40.5140760,16.5488186
 Vico II S. Domenico,40.5137295,16.5493559
@@ -545,6 +554,7 @@ Largo delle Bacche,40.5571717,16.3329032
 Strada Provinciale Ferrandina-Salandra,40.5368145,16.3867836
 Strada Statale 407 Basentana,40.5900995,16.2788890
 Via del Bosco,40.5571342,16.3322754
+Salita Vittorio Emanuele III,40.5352204,16.1843663
 Strada Statale 407 Basentana,40.5958590,16.2304772
 Contrada sotto le vigne,40.5893580,16.4903358
 ex Strada statale 380 dei Tre Confini,40.5945347,16.5705741
@@ -673,7 +683,7 @@ Ponte Bradano,40.6405087,16.4341563
 Ponte Rifeccia,40.6778274,16.4444418
 ponte sulla gravina,40.6658496,16.6148404
 Ponte Torrente Gravina,40.6122544,16.5752813
-Prima Strada Guirro,40.6726336,16.5553258
+Prima Strada Guirro,40.6582140,16.5529117
 Recinto 2° Domenico Ridola,40.6633328,16.6105596
 Recinto Cappuccini,40.6545194,16.6178012
 Recinto del Sedile,40.6656912,16.6093803
@@ -706,7 +716,7 @@ Rione Pianelle,40.6652685,16.6119390
 Rione San Biagio,40.6683492,16.6092619
 Rione Vetera,40.6668846,16.6102078
 Salita Guido Dorso,40.6589896,16.6129001
-Seconda Strada Guirro,40.6539633,16.5531792
+Seconda Strada Guirro,40.6539411,16.5531792
 Sentiero per Cristo la Selva,40.6140752,16.6480088
 Sentiero per Cristo La Selva,40.6200380,16.6445436
 Sentiero per il Villaggio Saraceno,40.6118986,16.6490776
@@ -724,7 +734,7 @@ Strada Provinciale Altamura verso Laterza I tratto,40.7377738,16.6748575
 Strada Provinciale di Cassano,40.7371716,16.6747523
 Strada Provinciale Matera - Gioia del Colle,40.6968622,16.6865187
 Strada Provinciale Montescaglioso-Matera,40.5810845,16.6543142
-Strada statale 655 Bradanica,40.6750138,16.4580339
+Strada statale 655 Bradanica,40.6572494,16.5645903
 Strada Statale 7 Appia,40.6813183,16.6041811
 Strada Statale 99 di Matera,40.7199650,16.5761876
 Terrazza Lanfranchi,40.6624812,16.6108453
@@ -815,6 +825,7 @@ Via delle Fiere,40.6798976,16.5725624
 Via delle Nazioni Unite,40.6676091,16.5943875
 Via delle Officine,40.6812748,16.5725261
 Via del Leone,40.6420241,16.6251369
+Via delle Tamerici,40.6610829,16.6044020
 Via dell'Industria,40.6783756,16.5725348
 Via dello Scorpione,40.6406615,16.6266385
 Via del Sagittario,40.6416749,16.6264287
@@ -1005,7 +1016,7 @@ Via Padre Serafino Da Salandra,40.6650286,16.5906311
 Via Palermo,40.6789251,16.5889138
 Via Pandosia,40.6462636,16.6173310
 Via Paolo Borsellino,40.6862689,16.5765995
-Via Pasquale Vena,40.6609490,16.6068318
+Via Pasquale Vena,40.6603922,16.6066876
 Via Passarelli,40.6625129,16.5952478
 Via Pennino,40.6651994,16.6102485
 Via Piave,40.6697489,16.6081760
@@ -1070,7 +1081,7 @@ Via Tagliamento,40.6603735,16.5315371
 Via Taranto,40.6780227,16.5759770
 Via Terenzio,40.6811448,16.5752719
 Via Tevere,40.6622686,16.5362976
-Via Timmari,40.6546400,16.5828329
+Via Timmari,40.6548773,16.5823566
 Via Tito Caro Lucrezio,40.6818385,16.5853747
 Via Tito Livio,40.6801638,16.5829877
 Via Tommaso Campanella,40.6775863,16.5944032
@@ -1115,7 +1126,7 @@ Vico I Antonio Passarelli,40.6646862,16.6030978
 Vico I Cappuccini,40.6536117,16.6173550
 Vico I Don Minzoni,40.6670436,16.6040936
 Vico I Francesco Paolo Festa,40.6700749,16.6078468
-Vico II Antonio Passarelli,40.6646455,16.6021966
+Vico II Antonio Passarelli,40.6646265,16.6021717
 Vico II Cappuccini,40.6523842,16.6179852
 Vico II Casalnuovo,40.6595314,16.6151422
 Vico II Don Minzoni,40.6668303,16.6031289
@@ -1153,17 +1164,18 @@ Calata Costantino,40.6248516,16.1431794
 Calata Silvestri,40.6235547,16.1434159
 Calata S.Teresa,40.6248943,16.1421847
 Calata torre rabatana,40.6233891,16.1424596
-Calata Villafranca,40.6238713,16.1425500
+Calata Villafranca,40.6238725,16.1425542
 Cantone S.Spirito,40.6212768,16.1450681
 Contrada Fonti,40.6530419,16.0566531
-Discesa Sant'Antonio,40.6190111,16.1433012
 Gradelle Badia,40.6241976,16.1419826
-Gradelle S.Chiara,40.6208035,16.1464831
-Gradelle S.Flora,40.6230619,16.1426205
+Gradelle S.Chiara,40.6208032,16.1464806
+Gradelle S.Flora,40.6230254,16.1425330
 gradelle S.Francesco,40.6221972,16.1458409
+Gradoni del percettore,40.6213189,16.1446147
 Largo Caprera,40.6256376,16.1422018
+Largo Francesco Crispi,40.6223595,16.1447107
 Largo S.Teresa,40.6250600,16.1423596
-Piazza Raffaello delle Nocche,40.6240887,16.1438561
+Piazza dell'emigrante,40.6219625,16.1467300
 Salita Aspromonte,40.6228038,16.1435645
 Salita sette settembre,40.6207906,16.1459079
 Salita Varese,40.6242595,16.1430657
@@ -1171,18 +1183,24 @@ Sopportico Dabraio  Antonio,40.6229116,16.1429429
 Sopportico dei lapi,40.6216865,16.1456878
 Sopportico dei Lapi,40.6217972,16.1458448
 Strada Statale 407 Basentana,40.5945495,16.1583203
+Via Antonio Gramsci,40.6188451,16.1392814
 Via Appia,40.6322917,16.2383577
 Via Badia,40.6247398,16.1418230
 Via Cavalieri,40.6230398,16.1440210
 Via Cavour,40.6254014,16.1421397
 via de Boni,40.6221354,16.1447174
 Via della Matine,40.6184448,16.1475285
+Via Don Pancrazio Toscano,40.6189389,16.1420990
 Via f.lli Cervi,40.6141951,16.1443788
 Via fratelli Cervi,40.6148608,16.1422169
+Via Giuseppe Sciarra,40.6188067,16.1407030
+Via Ilario Da Montalbano,40.6190136,16.1398150
 via Laura Battista,40.6247528,16.1432262
+Viale padere Michele Pacelli,40.6190111,16.1433012
 Viale Regina Margherita,40.6214274,16.1466742
 Via Lombardi Rocco,40.6220191,16.1441992
 Via Marsala,40.6224962,16.1443424
+Via Montecristo,40.6229749,16.1427996
 via Novara,40.6212529,16.1454680
 via Piano,40.6213113,16.1449894
 Via Rabatana,40.6237529,16.1424130
@@ -1194,6 +1212,7 @@ Vico alighieri,40.6219178,16.1453093
 Vico Balestra,40.6240368,16.1435500
 Vico Balilla,40.6243992,16.1421519
 Vico Belfiore,40.6217373,16.1450872
+Vico  Beltrani,40.6210177,16.1455204
 Vico Bologna,40.6246855,16.1426706
 Vico  cantina del duce,40.6219842,16.1447917
 Vico Caravelli,40.6250062,16.1434866
@@ -1203,6 +1222,7 @@ Vico Consiglio,40.6252668,16.1428697
 Vico Costanza,40.6216430,16.1459963
 Vico del campo,40.6245694,16.1418602
 Vico dell' Elba,40.6225752,16.1448521
+Vico del percettore,40.6216488,16.1442887
 Vico del soccorso,40.6236713,16.1424468
 Vico Desopo Raffaele,40.6213250,16.1449153
 Vico Falieri,40.6219703,16.1457462
@@ -1211,7 +1231,7 @@ Vico Fantina,40.6239418,16.1435418
 Vico F.lli Bandiera,40.6231825,16.1436702
 Vico Giannina,40.6218045,16.1459382
 Vico Giordano,40.6247635,16.1423347
-Vico Grassano Saverio,40.6254620,16.1423536
+Vico Grassano Saverio,40.6254604,16.1423543
 Vico Mazzini,40.6232188,16.1426721
 Vico Milano,40.6247104,16.1427462
 Vico Milo,40.6254151,16.1420546
@@ -1233,7 +1253,7 @@ Vico s.pancrazio,40.6235169,16.1425717
 Vico Spezzano,40.6248239,16.1425382
 Vico Stella,40.6240996,16.1420038
 Vico sulina,40.6238276,16.1421409
-Vico Tapera,40.6211907,16.1457026
+Vico Tapera,40.6211972,16.1457165
 Vico tre porte,40.6247498,16.1418541
 Vico valle oscura,40.6195656,16.1473694
 Vico vallese pasquale,40.6246979,16.1418527

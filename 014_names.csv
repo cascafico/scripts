@@ -1,3 +1,4 @@
+CAI 101,46.0194068,9.5831178
 CAI 148,46.0172090,9.5511026
 Gran Via delle Orobie,46.0597037,9.5261842
 Lago di Trona - Lago di Inferno,46.0283225,9.5319525
@@ -15,7 +16,7 @@ Via Pescegallo,46.0438189,9.5656484
 Via Roma,46.0597337,9.5506939
 Vicolo Monte Grappa,46.0589961,9.5509752
 Aguc - Pizzo Berro,46.0745034,9.5836400
-Alpe Aguc - Alpe Vesenda,46.0640385,9.5916451
+Alpe Aguc - Alpe Vesenda,46.0612965,9.5956866
 Pizzo Dosso Cavallo - Cresta NE,46.0619687,9.5925497
 Rifugio Ronchi - Pizzo Berro,46.0918002,9.5756040
 Sentiero per Aguc,46.0681177,9.5928718
@@ -24,10 +25,8 @@ Via Roma,46.1075281,9.5642971
 Ca' San Marco - San Simone (Baita Camoscio),46.0521186,9.6601904
 Strada provinciale 8 del Passo San Marco,46.0804059,9.6300176
 Via Priula,46.0867176,9.6080549
-CAI 201,46.0561227,9.8482240
-CAI 209,46.0426324,9.8200146
-Canale di gronda,46.0927703,9.8438510
-segnavia n.1,46.0621830,9.8150009
+CAI 201,46.0643245,9.8111820
+CAI 220,46.0952666,9.8443639
 Sentiero Valtellina,46.1600097,9.8119863
 Strada Provinciale Orobica,46.1538099,9.7858812
 Via Ca' Rosse,46.1533058,9.8153143
@@ -35,10 +34,8 @@ Via Fornari,46.1512585,9.8174640
 Via G. Marconi,46.1507577,9.8176209
 Via Roi,46.1519028,9.8138919
 Via Roma,46.1542950,9.8176377
-CAI 201,46.0561227,9.8482240
-CAI 247,46.0410399,9.8532589
-CAI 253,46.0813842,9.8892908
-CAI 254,46.0733295,9.8723319
+CAI 201,46.0499755,9.8603094
+CAI 254,46.0744434,9.8728693
 Ponte della Streppona,46.1578624,9.9496371
 Sentiero delle Marmitte,46.1525297,9.9510703
 Sentiero Valtellina,46.1636945,9.9312473
@@ -105,54 +102,14 @@ Via Giuseppe Garibaldi,46.1496112,9.7672022
 Via Roma,46.1489895,9.7660423
 Via Singella,46.1499765,9.7683794
 Via Vittorio Veneto,46.1482884,9.7667882
-Alpe Teglio,46.1942763,10.0506777
-CAI 318,46.1023424,10.0832683
-Canàl de Sc'é,46.1866093,10.0268376
-Costa di S.Gaetano,46.2020287,10.0276177
-Gran Via delle Orobie,46.0719466,10.1623437
-Piazza St. Eufemia,46.1723465,10.0669496
-Ponte della Maga,46.1682171,10.0309391
-Ponte Frera - Gallerie,46.1075795,10.1399371
-Ponte Frera - Torena,46.1036508,10.1342270
-Salita San Silvestro,46.1729634,10.0662639
-Senté de Maria Furnera - Valeni,46.1887304,10.0265704
-Sentiero del Sole,46.1831787,10.0442848
-Sentiero Passo del Venerocolo,46.0729059,10.1479999
-Sentiero Valtellina,46.1559474,10.0632791
-Strada di Dalico,46.1843352,10.0123833
-Strada romana,46.1710168,10.0246804
-Strada Teglio - Prato Valentino,46.1839917,10.0562666
-Traccia per il Monte Combolo,46.2261688,10.0459348
-Traccia per Monte Torena,46.0883054,10.0951745
-Via ai Dossi,46.1729330,10.0594090
-Via Antognoli,46.1728475,10.0701410
-Via Boalzo,46.1698734,10.0926038
-Via Consorzio Valgella,46.1601869,10.0805127
-Via Egisto Pruneri,46.1726596,10.0683253
-Via Falck,46.1565421,10.0857829
-Via Franchesi,46.1666225,10.1166937
-Via Fratelli Lazzaroni,46.1731366,10.0704138
-Via Frescoliva,46.1666187,10.1195602
-Viale della Formica,46.1963659,10.0303484
-Viale Italia,46.1731363,10.0629274
-Via Milano,46.1732585,10.0654131
-Via Modesto Tudori,46.1706469,10.0578372
-Via Motta,46.1659890,10.1179461
-Via Nazionale,46.1602365,10.0259479
-Via Parco della Rimembranza,46.1713546,10.0641110
-Via Piazzola,46.1708622,10.0513900
-Via Piazzur,46.1612989,10.0956182
-Via Roma,46.1723166,10.0678263
-Via Saleggio,46.1728519,10.0604697
-Via Valtellina,46.1726836,10.0674524
-X Passo Belviso,46.0595273,10.1087461
-Anello Val Lunga - Val Corta,46.0746058,9.6826653
-CAI 112,46.0668132,9.7224241
-CAI 113,46.0674650,9.6689865
-CAI 201,46.0540058,9.7409750
+Anello Val Lunga - Val Corta,46.0771628,9.6815671
+CAI 112,46.0656486,9.7213801
+CAI 113,46.0726903,9.6554105
 Contrada Caneva - Bivacco Aldo e Sergio Gusmeroli,46.1068242,9.6909504
+Ponte nel Cielo,46.1309864,9.6661800
 Rondelli - Dosso Tacher,46.0917580,9.6891747
 Sentiero n.126,46.1125292,9.6918385
+"Sentiero per il M.Seleron, attenzione solo alcune tracce",46.0993456,9.7204153
 Strada dei Mercanti,46.1379731,9.6467703
 Strada Provinciale di Tartano,46.1368480,9.6623839
 Via Biorca,46.0984245,9.6739067
@@ -161,6 +118,7 @@ Via Cosaggio,46.1225273,9.6797700
 CAI 214,46.0587950,9.7940840
 Mulattiera Della Valmadre,46.1360520,9.7516442
 Piazza Vittorio Emanuele,46.1489619,9.7492674
+"Sentiero per il M.Seleron, attenzione solo alcune tracce",46.0993456,9.7204153
 Sentiero Valtellina,46.1583353,9.7438549
 Strada d'Argine,46.1503100,9.7466728
 Strada Provinciale Orobica,46.1576690,9.7413027
@@ -185,14 +143,15 @@ SP 7 della Val Gerola,46.0856707,9.5497654
 Alpe Piazza - Monte Olano,46.1058465,9.5009192
 Alpe Tagliata - Alpe Piazza,46.1073972,9.4979645
 Strada Agro-silvo-pastorale Rogolo-Fistolera,46.1332757,9.4896053
+Strada Provinciale 30 Orobica Occidentale,46.1370692,9.4778474
 Strada Statale 38,46.1445588,9.4687471
-Via Andrea Doria,46.1360102,9.4803387
-Via Bressana,46.1373557,9.4891417
-Via Lungoli,46.1367087,9.4891712
-Via Piazza,46.1354969,9.4872628
+Via Andrea Doria,46.1360125,9.4803541
+Via Bressana,46.1373649,9.4891451
+Via Lungoli,46.1367087,9.4891698
+Via Piazza,46.1354964,9.4872527
 Via Roma,46.1359312,9.4869883
-Via Stazione,46.1362052,9.4871952
-Via Vittorio Veneto,46.1350425,9.4778218
+Via Stazione,46.1362178,9.4871952
+Via Vittorio Veneto,46.1350421,9.4778291
 Alta via della Valsassina,46.0851645,9.4306867
 Direttissima al Legnone,46.1016581,9.4147746
 Grande Via delle Orobie,46.1203931,9.4536449
@@ -202,14 +161,15 @@ Sentiero del Viandante,46.1276950,9.4364930
 Sentiero Valtellina,46.1494542,9.4599000
 "Strada Agro-silvo-pastorale ""Val Lesina""",46.1280580,9.4500333
 Strada militare del Legnone,46.0922311,9.4204754
+Strada Provinciale 30 Orobica Occidentale,46.1375171,9.4687483
 Strada Statale 38,46.1436406,9.4361583
 Strada vicinale dei Tavani,46.1292834,9.4434725
 Via alla Gera,46.1336805,9.4565314
-Via Angelo Lucini,46.1351721,9.4627061
+Via Angelo Lucini,46.1351763,9.4627013
 Via Antonio Bassi,46.1393497,9.4634916
 Via Benedetto Cairoli,46.1337850,9.4594778
 Via Carcano,46.1369411,9.4563740
-Via Cesura,46.1359810,9.4654646
+Via Cesura,46.1360000,9.4654659
 Via Colombano,46.1369055,9.4399460
 Via Conte Cavour,46.1338871,9.4623051
 Via Cristoforo Colombo,46.1322061,9.4612304
@@ -217,16 +177,16 @@ Via Dante Alighieri,46.1322839,9.4334258
 Via della Battaglia,46.1361459,9.4583512
 Via Don Luigi Guanella,46.1362247,9.4541432
 Via Eliseo Fumagalli,46.1338573,9.4640208
-Via Europa,46.1361104,9.4665384
-Via Ezio Vanoni,46.1382275,9.4630690
-Via Fanfulla da Lodi,46.1315462,9.4658707
+Via Europa,46.1361186,9.4665337
+Via Ezio Vanoni,46.1382182,9.4630770
+Via Fanfulla da Lodi,46.1315559,9.4658707
 Via Giovanni Corti,46.1355268,9.4668252
 Via Giuseppe Garibaldi,46.1380595,9.4596584
 Via Giuseppe Mazzini,46.1373485,9.4610626
-Via Giuseppe Verdi,46.1346092,9.4646637
+Via Giuseppe Verdi,46.1346162,9.4646664
 Via IV Novembre,46.1386444,9.4642823
 Via Legnone,46.1377250,9.4452191
-Viale Papa Giovanni XXIII,46.1380200,9.4621036
+Viale Papa Giovanni XXIII,46.1380242,9.4619890
 Via Lungo Lesina,46.1358293,9.4687408
 Via Madriasco,46.1335577,9.4399960
 Via Milanta,46.1347255,9.4586935
@@ -243,8 +203,7 @@ Via Roma,46.1373855,9.4631570
 Via San Agrippia,46.1356486,9.4543957
 Via San Giovanni Bosco,46.1348398,9.4589592
 Via San Rocco,46.1373823,9.4515664
-Via Stelvio,46.1377828,9.4484281
-Via Strecce,46.1324534,9.4586654
+Via Strecce,46.1324683,9.4586815
 Via Strencia,46.1365624,9.4619543
 Via Tavani,46.1331604,9.4393008
 Via Torrazza,46.1306489,9.4652230
@@ -253,7 +212,7 @@ Via Valeriana,46.1327954,9.4479399
 Via Vittorio Emanuele II,46.1341036,9.4607069
 Via XXV Aprile,46.1395543,9.4593809
 Antica mulattiera della Val d'Arigna,46.1469429,9.9896307
-CAI 265,46.1063214,9.9748466
+CAI 265,46.0976840,9.9684804
 Crùs Pelegata Bugiana,46.1830619,9.9733460
 Piazza Bernardino Luini,46.1767940,9.9816061
 Piazza della vittoria,46.1754461,9.9808379
@@ -331,7 +290,7 @@ Via Ottorino Pezzini,46.1006056,9.5503448
 Via Rabbiosi,46.0988005,9.5522686
 Via Ticc,46.1014275,9.5519868
 Piazza IV nomembre,46.1362400,9.6099369
-Sentiero dei Cani,46.1309692,9.5981973
+Sentiero dei Cani,46.1301794,9.5972322
 Sentiero Valtellina,46.1410025,9.5951367
 Strada dei Mercanti,46.1379731,9.6467703
 Strada forestale per Dundun,46.1327393,9.6375035
@@ -339,8 +298,8 @@ Strada forestale per prà de l'acqua,46.1229947,9.6249318
 Strada per La Bianca,46.1231177,9.6333016
 Strada per San giorgio-Crusett,46.1200606,9.6301650
 Strada Provinciale di Tartano,46.1368480,9.6623839
-Strada Provinciale Orobica,46.1531575,9.6403769
-Variante di Morbegno SS38,46.1506341,9.6302911
+Strada Provinciale Orobica,46.1531575,9.6416891
+Variante di Morbegno SS38,46.1505913,9.6298361
 VIa alla Piana,46.1329424,9.6192868
 Via alla provinciale,46.1412485,9.6185456
 Via Artigianato,46.1343533,9.5966812
@@ -403,49 +362,63 @@ Via Veneto,46.1381809,9.5990580
 Via XX settembre,46.1350672,9.6064410
 Alpe Piazza - Monte Olano,46.1058465,9.5009192
 Alpe Tagliata - Alpe Piazza,46.1099009,9.5024387
+Bona Lombarda,46.1280335,9.5647073
+Freni in Mano,46.1269049,9.5558616
+Fuìn (1),46.1202053,9.5578532
+Fuìn (2),46.1246325,9.5521179
+Fuìn (3),46.1271741,9.5440568
+Fuìn (4),46.1288086,9.5406021
+I Terreni,46.1235177,9.5162740
+La Quiete,46.1188126,9.5499798
+Sasso Rosso,46.1239718,9.5132055
 Sentiero Valtellina,46.1445905,9.5091518
 SP 7 della Val Gerola,46.1066533,9.5511615
 Strada Agro-silvo-pastorale Rogolo-Fistolera,46.1332757,9.4896053
-Strada Statale 38,46.1388172,9.5171613
-Variante di Morbegno,46.1391680,9.5151428
-Variante di Morbegno SS38,46.1379393,9.5215637
-Via Adda,46.1390524,9.5536512
-Via Angelo Vaninetti,46.1314794,9.5550141
-Via Argine Adda,46.1384132,9.5240519
-Via Brugnini,46.1298182,9.5497444
+Strada Provinciale 30 Orobica Occidentale,46.1357443,9.5117477
+Strada Statale 38,46.1433022,9.5040289
+Variante Alta,46.1247797,9.5136366
+Variante di Morbegno,46.1386636,9.5167923
+Variante di Morbegno SS38,46.1376776,9.5320323
+Variante PX,46.1277693,9.5129844
+Via Adda,46.1390580,9.5536525
+Via Angelo Vaninetti,46.1314632,9.5550732
+Via Argine Adda,46.1384120,9.5240519
+Via Brugnini,46.1298276,9.5497591
 Via Campi lunghi,46.1332193,9.5481038
 Via Casale,46.1334755,9.5275897
 Via Cortivacci,46.1331934,9.5624995
-Via Davide Bernasconi,46.1307965,9.5541793
-Via dei Martinenghi,46.1376426,9.5242326
+Via Davide Bernasconi,46.1308100,9.5542605
+Via dei Martinenghi,46.1373752,9.5230329
 Via della Riva,46.1342355,9.5260706
 Via Don Carlo Gnocchi,46.1329774,9.5643345
 Via Fontanina,46.1293081,9.5497894
-Via Gere,46.1338968,9.5330139
-Via Libertà,46.1345529,9.5484784
+Via Gere,46.1338991,9.5330320
+Via Libertà,46.1345585,9.5484797
 Via Lombardia,46.1337274,9.5588675
-Via Maronaro,46.1318543,9.5511440
-Via Masonacce,46.1330615,9.5592037
+Via Maronaro,46.1317888,9.5512170
+Via Masonacce,46.1330421,9.5592327
 Via Nazionale,46.1323784,9.5573874
-Via Neresina,46.1311856,9.5538272
-Via Nervi,46.1315011,9.5501756
+Via Neresina,46.1311442,9.5538842
+Via Nervi,46.1314393,9.5502460
 Via Pedemontana,46.1302857,9.5581007
 Via prati Bitto,46.1383845,9.5600403
 Via Privata Lavizzari,46.1322162,9.5619979
-Via Quadrobbio,46.1300773,9.5537360
-Via Roma,46.1326275,9.5521547
+Via Quadrobbio,46.1300490,9.5537488
+Via Roma,46.1326015,9.5521775
 Via Ruscaine,46.1338552,9.5619714
 Via San Domenico,46.1295965,9.5529198
 Via San Rocco,46.1312209,9.5638216
 Via Sant'Ambrogio,46.1300274,9.5520188
-Via Suor Assunta Marchi,46.1319496,9.5551184
-Via Val Bruna,46.1287625,9.5490981
-Via Vanoni,46.1309678,9.5506129
-Via XXV Aprile,46.1314340,9.5577147
-Bona Lombarda,46.1301003,9.5660680
+Via Suor Assunta Marchi,46.1318846,9.5550962
+Via Val Bruna,46.1287607,9.5493165
+Via Vanoni,46.1309190,9.5506799
+Via XXV Aprile,46.1314308,9.5577958
+Bona Lombarda,46.1298792,9.5655034
 Colmen trail,46.1467564,9.6065029
+Flow Magoni,46.1246780,9.5918689
+Flow Pitalone,46.1193469,9.5874427
+Ganda-San Bello,46.1469994,9.5705024
 Largo Maurizio Quadrio,46.1336396,9.5667488
-Ortesida-Morbegno 1,46.1300653,9.5892883
 Passaggio pedonale Berlenda,46.1312093,9.5722522
 Piazza Aldo Moro,46.1312575,9.5652438
 Piazza Caduti per la Libertà,46.1320583,9.5690590
@@ -458,17 +431,22 @@ Piazza San Giovanni,46.1321523,9.5700361
 Piazza San Pietro,46.1309593,9.5701564
 Piazza Sant'Antonio,46.1329075,9.5734200
 Piazza Tre Novembre,46.1314457,9.5690865
-Ponte di Ganda,46.1460505,9.5718059
+Ponte di Ganda,46.1460515,9.5717877
 Ponte Promor,46.1325361,9.5661218
 porcido - desco,46.1482751,9.6222536
 Sentèe del Tarci,46.1520146,9.6130346
-Sentiero dei Cani,46.1309692,9.5981973
+Sentiero dei Cani,46.1301794,9.5972322
+sentiero della golena,46.1419322,9.5809609
+sentiero valtellina,46.1465715,9.5736965
+sentiero Valtellina,46.1460423,9.5680103
 Sentiero Valtellina,46.1410025,9.5951367
-SP 7 della Val Gerola,46.1310379,9.5652762
-Strada per Porcido,46.1543015,9.6027555
+SP 7 della Val Gerola,46.1219865,9.5485358
+Strada per Porcido,46.1543080,9.6027555
+Strada Provinciale 7 della Val Gerola,46.1310379,9.5652769
 Strada provinciale 8 del Passo San Marco,46.1077401,9.5871857
 Strada Provinciale 8 del Passo San Marco,46.1269356,9.5808838
 Strada Provinciale per Dazio,46.1492117,9.5766400
+Torchi Bianchi,46.1504890,9.5974673
 Variante di Morbegno SS38,46.1474514,9.5758216
 Via al Bitto,46.1395129,9.5610244
 Via al Santuario,46.1340139,9.5809526
@@ -586,11 +564,11 @@ Road to Alfaedo,46.1519801,9.6834735
 Sentiero n.126,46.1125292,9.6918385
 Sentiero Valtellina,46.1595885,9.6917709
 Strada Provinciale di Tartano,46.1368480,9.6623839
-Strada Provinciale Orobica,46.1597655,9.6639820
+Strada Provinciale Orobica,46.1597516,9.6639317
 Via Nuova,46.1584076,9.6593007
 Via Roma,46.1585490,9.6631445
-CAI 201,46.0561227,9.8482240
-Canale di gronda,46.0927703,9.8438510
+CAI 201,46.0602025,9.8428710
+CAI 220,46.0952666,9.8443639
 Sentiero dei Pedrusc,46.1506006,9.8543024
 Sentiero di Frer,46.1489952,9.8479389
 Sentiero Valtellina,46.1583404,9.8604167
@@ -622,10 +600,11 @@ Sentiero del bregamin,46.1146105,9.4076215
 Sentiero del Viandante,46.1360421,9.4136325
 Sentiero Valtellina,46.1483812,9.4287096
 Strada militare del Legnone,46.1081550,9.4201717
+Strada Provinciale 30 Orobica Occidentale,46.1417201,9.4189098
 Strada Statale 38,46.1436406,9.4361583
 Via Al Confine,46.1380501,9.4040581
 Via Aldo Moro,46.1365143,9.4279137
-Via Alessandro Volta,46.1363118,9.4270451
+Via Alessandro Volta,46.1364633,9.4269998
 Via Cà di Rocc,46.1305679,9.4336234
 Via Colico,46.1382396,9.4230736
 Via Dante Alighieri,46.1322839,9.4334258
@@ -638,32 +617,35 @@ Via Sant' Agata,46.1467926,9.4169255
 Via Vittorio Emanuele II,46.1341492,9.4290111
 Sentiero per Prati Aragno,46.1626504,9.5289195
 Sentiero per Prati Brusada,46.1709749,9.5153263
+sentiero Valtellina,46.1460423,9.5680103
 Sentiero Valtellina,46.1445905,9.5091518
 Strada Provinciale per Dazio,46.1492117,9.5766400
-Strada Statale 38,46.1432480,9.5041150
+Strada Statale 38,46.1433022,9.5040289
+Valletta-Santa Apollonia,46.1459586,9.5540711
 Variante di Morbegno SS38,46.1474514,9.5758216
-Via Palotta,46.1462121,9.5376658
-Via Parravicini,46.1494695,9.5293461
+Via Palotta,46.1462121,9.5376538
+Via Parravicini,46.1494849,9.5293525
 Via Pedemontana,46.1475407,9.5379660
 Sentiero Valtellina,46.1480672,9.4650694
+Strada Provinciale 30 Orobica Occidentale,46.1372944,9.4770823
 Strada Statale 38,46.1445588,9.4687471
 Via alla Chiesa,46.1329979,9.4748641
-Via Andrea Doria,46.1360102,9.4803387
+Via Andrea Doria,46.1360125,9.4803541
 Via Cristoforo Colombo,46.1343520,9.4737137
 Via Delebio,46.1342937,9.4717617
 Via Don Bosco,46.1336158,9.4704057
 Via Ere,46.1329098,9.4765265
-Via Ezio Vanoni,46.1362082,9.4717375
-Via Gerini,46.1358958,9.4742443
+Via Ezio Vanoni,46.1362249,9.4717499
+Via Gerini,46.1358795,9.4742557
 Via Giuseppe Verdi,46.1340635,9.4741998
 Via Lungolesina,46.1341442,9.4696404
 Via Pedemonte,46.1328914,9.4722887
 Via per Dubino,46.1416906,9.4679391
 Via Roma,46.1333961,9.4731558
 Via Superiore,46.1327958,9.4744817
-Via Vittorio Veneto,46.1350425,9.4778218
+Via Vittorio Veneto,46.1350421,9.4778291
 Sentiero Valtellina,46.1474171,9.4780144
-Strada Statale 38,46.1432480,9.5041150
+Strada Statale 38,46.1433022,9.5040289
 Via Belenasco,46.1517087,9.5004050
 Via Belvedere,46.1538362,9.4932524
 Via Bertacchi,46.1520484,9.4893719
@@ -683,54 +665,64 @@ Via Nigolo,46.1657194,9.4253362
 Via Regina,46.1717238,9.4253181
 Caspano - Gone - Fontanili,46.1763982,9.6051157
 Colmen trail,46.1563620,9.5923609
+Flow Ripetitori,46.1611992,9.5638931
+Flow Roncaglia,46.1573213,9.5700174
 Frazione Bedoglio,46.1710440,9.6018912
 Frazione Cevo,46.1832496,9.6196728
+Ganda-San Bello,46.1469994,9.5705024
+Mucca Pazza,46.1555042,9.5885176
+Naguarido-Roncaglia di Sotto,46.1606257,9.5829446
 Pista per la centrale idroelettrica,46.1859204,9.6203791
+Poira di Mello-Poira di Civo,46.1642653,9.5620253
 Ponte del Baffo,46.1879522,9.6253537
-sentiero Andrea Scamoni,46.1608067,9.5722187
-sentiero Anna,46.1578918,9.5893031
+Roncaglia di Sopra-Chempo,46.1641487,9.5862015
+Roncaglia di Sotto-Serone,46.1575053,9.5801854
+San Biagio-Serone,46.1531471,9.5781437
+Sentiero Andrea Scamoni,46.1608067,9.5722187
+Sentiero Anna,46.1578918,9.5893031
 Sentiero per Ceresolo,46.1945700,9.6099546
+sentiero Valtellina,46.1460423,9.5680103
 Strada Provinciale dei Cech Orientale,46.1834516,9.6187037
 Strada Provinciale per Dazio,46.1492117,9.5766400
 Tagliafuoco Costiera dei Cech,46.1681647,9.5486175
+Variante Bosco,46.1640714,9.5700301
 Variante di Morbegno SS38,46.1474514,9.5758216
-via dei mulini,46.1669962,9.5946901
-Via Forestale,46.1458214,9.5644839
+Via dei Mulini,46.1669962,9.5946901
+Via Forestale,46.1454235,9.5645720
 Via Mauri,46.1696126,9.6005495
 Sentiero per Prati Brusada,46.1709749,9.5153263
 Sentiero Valtellina,46.1445905,9.5091518
-Strada Statale 38,46.1432480,9.5041150
+Strada Statale 38,46.1433022,9.5040289
 Via Belenasco,46.1517087,9.5004050
 Via Ligari,46.1571713,9.5083011
 Via Monbello,46.1564179,9.4943929
 Colmen trail,46.1539905,9.6065724
-Strada per Porcido,46.1543015,9.6027555
-Variante di Morbegno SS38,46.1506341,9.6302911
-Via alla Pergola,46.1587522,9.5998730
-Via Cesare Battisti,46.1612744,9.6031256
+Strada per Porcido,46.1543080,9.6027555
+Variante di Morbegno SS38,46.1505913,9.6298361
+Via alla Pergola,46.1587416,9.5998737
+Via Cesare Battisti,46.1612760,9.6031357
 Via dei Fiori,46.1606654,9.6015559
-Via Don G.Lombardini,46.1592466,9.6016303
-Via Don G. Lombardini,46.1565158,9.5973637
+Via Don G.Lombardini,46.1592341,9.6016370
+Via Don G. Lombardini,46.1565051,9.5973644
 Via don Martinelli,46.1626199,9.6046317
 Via Dossello,46.1619588,9.6030150
 Via Latteria,46.1599021,9.6009252
-Via Piatana,46.1609999,9.6041565
+Via Piatana,46.1609952,9.6041358
 Via Prati Salati,46.1603563,9.5984060
-Via Reverso,46.1625530,9.6056184
-Via Roma,46.1609807,9.6020138
-Via Vittorio Veneto,46.1600964,9.6020892
-Passerella sul Masino in località Masino,46.1641012,9.6369944
+Via Reverso,46.1625619,9.6055974
+Via Roma,46.1609840,9.6020104
+Via Vittorio Veneto,46.1600980,9.6020993
+Passerella sul Masino in località Masino,46.1636444,9.6367027
 Ponte del Baffo,46.1879877,9.6257162
 Rifugio Alpe Granda - Pizzo Mercantelli,46.2086965,9.6666575
 Scalinata della centrale del masino,46.1681204,9.6319498
 Sentiero di Urlavolt,46.1865863,9.6518015
-Sentiero per Alpe Granda,46.2060967,9.6618628
+Sentiero per Alpe Granda,46.2060444,9.6618628
 Sentiero per il bivacco Scermendone,46.2122021,9.6817829
-Sentiero per il Rifugio Alpe Granda,46.2073384,9.6557673
+Sentiero per il Rifugio Alpe Granda,46.2073584,9.6552918
 Sentiero Valtellina,46.1558066,9.6390908
-Strada Provinciale Orobica,46.1531575,9.6403769
 Valeriana Orientale,46.1740255,9.6693002
-Via Guglielmo Marconi,46.1629132,9.6427581
+Via Guglielmo Marconi,46.1629016,9.6427735
 Via per Biolo,46.1743180,9.6298563
 Via Roma,46.1626999,9.6344389
 PraLone Express,46.1764716,9.7888317
@@ -742,9 +734,9 @@ Via Medera,46.1670128,9.7585830
 Via Molino,46.1745878,9.7742332
 Via Nazionale,46.1604857,9.7845229
 Via Rodello,46.1740214,9.7746042
-Via Roma,46.1731127,9.7754454
+Via Roma,46.1731153,9.7754816
 Via San Martino,46.1726177,9.7767399
-Via Santi,46.1747955,9.7807205
+Via Santi,46.1747879,9.7807205
 Via Simonini,46.1742191,9.7773078
 Via Spinedi,46.1647117,9.7646198
 Via Vanoni,46.1729210,9.7786193
@@ -849,11 +841,9 @@ Via XXV Aprile,46.1742643,9.7322537
 Coll. Gran Via del Gallo M P,46.1289559,10.1627473
 Corso Roma,46.1539849,10.1523787
 Dosso Passo - Valetta,46.1274178,10.1633918
-Gran Via delle Orobie,46.1241345,10.1481081
 Lische - Pradel,46.1477935,10.1491981
 Palabione - Val Sorda B328bis,46.1289066,10.1456093
 Piazza Davide Della Bella,46.1496852,10.1356001
-Piazza M. Negri,46.1532228,10.1527876
 sentiero 351 - Aprica - Monte Belvedere,46.1546639,10.1386108
 Sentiero Il legno é vita,46.1316255,10.1608296
 Strada Aprica - Lavazzini - Corna Bassa,46.1480629,10.1427042
@@ -884,7 +874,7 @@ Via Negri,46.1527003,10.1466581
 Via Orobia,46.1516232,10.1432389
 Via Ospitale,46.1508833,10.1612885
 Via Palabione,46.1531710,10.1529708
-Via Panoramica,46.1549052,10.1540532
+Via Panoramica,46.1535710,10.1494583
 via privata Maria Ausiliatrice,46.1562830,10.1590730
 Via Privata Nino Plona,46.1538767,10.1588901
 Via Rododendro,46.1511534,10.1447321
@@ -894,8 +884,8 @@ Via Stelvio,46.1553865,10.1562902
 Via Tonale,46.1542634,10.1595574
 Via Vago,46.1527308,10.1546055
 Via Valeriana,46.1544543,10.1607776
-Via Vecchio Mulino,46.1502767,10.1441584
-Alpe Gradesc - Alpe Muran,46.1797374,10.1761213
+Via Vecchio Mulino,46.1503059,10.1441479
+Alpe Gradesc - Alpe Muran,46.1803197,10.1761213
 Col d'Anzana supertrail,46.2194165,10.1369573
 complementare alla ss38 variante di Tirano,46.1991802,10.1452104
 Lungo Adda 4 Novembre,46.2051213,10.1547375
@@ -987,6 +977,7 @@ Via Scenini,46.1557564,9.9069234
 Canal de Aiada,46.2521857,10.0123570
 Canàl de Pizzàn,46.1827177,9.9981651
 Canàl de Sc'é,46.1866093,10.0268376
+Capanna Cederna - Pizzo Scalino,46.2721965,9.9815150
 Costa di S.Gaetano,46.2020287,10.0276177
 mulattiera militare,46.2380707,10.0379761
 Mulattiera militare,46.2689597,10.0279185
@@ -1009,6 +1000,7 @@ Senté di Becarii,46.1858646,9.9984063
 Senté di Lofa,46.1910925,10.0126078
 Senté di Martui,46.1864712,10.0046396
 Senté di Scali,46.1731355,9.9934077
+Sentée Selva - Montirolo,46.2314590,10.0181143
 Sentiero Alpe Sareggio / Alpe Arasé,46.2570618,10.0362700
 Sentiero Campello / Passo dell'Arasé,46.2552329,10.0429040
 Sentiero del Sole,46.1903284,10.0249540
@@ -1077,7 +1069,7 @@ Corso Vittorio Veneto,46.1696329,9.8714222
 Corso XXV Aprile,46.1697700,9.8721308
 frazione Mossini,46.1804480,9.8652809
 Frazione Mossini,46.1787506,9.8629777
-Galleria Campello,46.1713396,9.8715863
+Galleria Campello,46.1713527,9.8715836
 Largo Alberto Pedrini,46.1707311,9.8737742
 Largo Cipriano Valorsa,46.1711131,9.8615205
 Largo della Folla,46.1703914,9.8684413
@@ -1086,6 +1078,7 @@ Largo Pro Valtellina,46.1689931,9.8733643
 Largo Sertoli,46.1709399,9.8767576
 Largo Sindelfingen,46.1643650,9.8614889
 Largo Stella,46.1713310,9.8635854
+Località Colda,46.1754484,9.8825280
 Località Gombaro,46.1758757,9.8677752
 Lungo Mallero Armando Diaz,46.1720366,9.8695276
 Lungo Mallero Luigi Cadorna,46.1675571,9.8625585
@@ -1098,12 +1091,13 @@ Piazzale Giovanni Bertacchi,46.1691310,9.8720416
 Piazzale Giovanni Merizzi,46.1679198,9.8672622
 Piazzale Maestri del Lavoro,46.1686325,9.8737405
 Piazzale Toccalli,46.1705694,9.8650706
-Piazza Quadrivio,46.1719241,9.8738011
+Piazza Quadrivio,46.1719380,9.8737984
 Piazza radovltjica,46.1682574,9.8814290
+Piazza San Rocco,46.1723592,9.8776582
 Piazza Teresina Tua Quadrio,46.1705617,9.8735229
 Piazzetta Carbonera,46.1717837,9.8683342
 Piazzetta Gualzetti,46.1721004,9.8714672
-Piazzetta Pietro Martire Rusconi,46.1718151,9.8707918
+Piazzetta Pietro Martire Rusconi,46.1718131,9.8708032
 Ponte del Valdone,46.2020494,9.8682172
 Ponte Gombaro,46.1753152,9.8678348
 Ponte Marcora,46.1684989,9.8638466
@@ -1122,9 +1116,9 @@ Strada dell'acqua pianosa,46.1701398,9.8461251
 Strada delle Bolgede,46.1771746,9.8762208
 Strada delle Prudenze,46.1791954,9.8710526
 Strada delle Sasselle,46.1666458,9.8406561
-Strada Panoramica dei Castelli,46.1754484,9.8825280
 Strada per Triasso,46.1649108,9.8409451
 Tangenziale di Sondrio,46.1656390,9.8975438
+Uscita mezzi VVF,46.1627313,9.8607937
 Via 4 novembre,46.1714439,9.8769213
 Via Adamello,46.1710221,9.8875052
 Via Adda,46.1672783,9.8695239
@@ -1132,10 +1126,10 @@ Via Agneda,46.1682783,9.8992271
 Via Alberto de Simoni,46.1716553,9.8685244
 Via Aldo Moro,46.1670004,9.8635518
 Via Andrea Maffei,46.1656162,9.8632579
-Via Angelo Custode,46.1724149,9.8722235
+Via Angelo Custode,46.1724270,9.8722288
 Via Antonio Caimi,46.1686996,9.8692650
 Via Antonio Carini,46.1645043,9.8678979
-Via Antonio Giussani,46.1717139,9.8712341
+Via Antonio Giussani,46.1716957,9.8712656
 Via Antonio Gramsci,46.1629794,9.8604675
 Via Antonio Longoni,46.1725898,9.8702841
 Via Baiacca,46.1722856,9.8695397
@@ -1154,9 +1148,9 @@ Via Campoledro,46.1732906,9.8644043
 Via Capitano Masegra,46.1743867,9.8722916
 Via Carlo Besta,46.1756031,9.8766410
 Via Carlo Donegani,46.1711636,9.8844569
-Via Cerletti,46.1716557,9.8716959
+Via Cerletti,46.1716567,9.8717090
 Via Cesare Battisti,46.1708055,9.8734119
-Via Cesare Beccaria,46.1723042,9.8708278
+Via Cesare Beccaria,46.1723000,9.8708278
 Via Cesura,46.1702719,9.8715113
 Via Chiareggio,46.1681331,9.8607676
 Via Chiavenna,46.1687613,9.8801792
@@ -1167,8 +1161,8 @@ Via Conte Luigi Torelli,46.1657450,9.8592802
 Via Cugnolo,46.1631304,9.8639049
 Via Damiano Chiesa,46.1700983,9.8731909
 Via Dante Alighieri,46.1713062,9.8706587
-Via dei Dossi Salati,46.1782265,9.8772575
-Via dei Vigneti,46.1720631,9.8891018
+Via dei Dossi Salati,46.1786481,9.8730484
+Via dei Vigneti,46.1720124,9.8890947
 Via del Buon Consiglio,46.1679644,9.8976410
 Via del Gesù,46.1711975,9.8745421
 Via del Grosso,46.1711145,9.8627694
@@ -1212,7 +1206,7 @@ Via Grumello,46.1731656,9.8809406
 Via Guicciardi,46.1602307,9.8662736
 Via Italo Lambertenghi,46.1707220,9.8641034
 Via Lambertenghi,46.1711920,9.8636998
-Via Lavizzari,46.1720983,9.8731477
+Via Lavizzari,46.1721249,9.8731504
 Viale Adua,46.1690401,9.8616033
 Viale dell'Industria,46.1681723,9.8946751
 Viale dello Stadio,46.1690162,9.8611004
@@ -1223,13 +1217,13 @@ Via Lusardi,46.1743480,9.8817249
 Via Malta,46.1702688,9.8812595
 Via Marinai d'Italia,46.1681904,9.8805555
 Via Martiri della Libertà,46.1698960,9.8727542
-Via Maurizio Quadrio,46.1715680,9.8729344
+Via Maurizio Quadrio,46.1716230,9.8729830
 Via Meriggio,46.1636304,9.8709930
 Via Miotti,46.1661764,9.8652553
 Via Morbegno,46.1648856,9.8733853
 Via Moroni,46.1672462,9.8697930
 Via Nazario Sauro,46.1682239,9.8736317
-Via Niccolò Parravicini,46.1718336,9.8723421
+Via Niccolò Parravicini,46.1718550,9.8723555
 Via Olanda,46.1700177,9.8920899
 Via Orobie,46.1634480,9.8786116
 Via Panoramica,46.1760513,9.8873390
@@ -1237,7 +1231,7 @@ Via Papa Giovanni XXIII,46.1730817,9.8831004
 Via Paribelli,46.1672186,9.8793137
 Via Pedescallo,46.1710307,9.8672934
 Via Pelosi Bonomo,46.1713827,9.8720363
-Via Pergole,46.1707540,9.8715411
+Via Pergole,46.1707550,9.8714322
 Via per Ponchiera,46.1774613,9.8721013
 Via Pier Luigi Nervi,46.1672065,9.8718973
 Via Pietro Martire Ferrari,46.1709886,9.8707990
@@ -1279,12 +1273,13 @@ Via Visconti Venosta,46.1720488,9.8638146
 Via Zara,46.1717187,9.8751482
 Vicolo Dolzino,46.1681117,9.8751735
 Vicolo Dusdei,46.1721678,9.8711239
-Vicolo Felice Cavallotti,46.1714940,9.8711228
-Vicolo Meneghini,46.1712335,9.8709833
-Vicolo Orti,46.1720851,9.8743814
+Vicolo Felice Cavallotti,46.1714963,9.8711341
+Vicolo Meneghini,46.1712799,9.8711518
+Vicolo Orti,46.1720990,9.8743787
 Vicolo San Siro,46.1728424,9.8723136
-Vicolo Vicedomini,46.1718278,9.8710546
+Vicolo Vicedomini,46.1718088,9.8710502
 acquanera passo -val di togno,46.2699948,9.9372850
+Capanna Cederna - Pizzo Scalino,46.2721965,9.9815150
 Closed Path,46.2096570,9.8937517
 Contrada Scherini,46.1843624,9.8736167
 Piazza del Monumento,46.1783559,9.9046402
@@ -1295,10 +1290,10 @@ Senté del Dos Lis o Risciunea,46.2115087,9.9379751
 Sentiero accesso Castel Grumello,46.1739175,9.8986808
 Sentiero Valtellina,46.1668020,9.9179576
 Strada del buscianico,46.1767436,9.8833314
-Strada delle Prudenze,46.1791144,9.8809753
+Strada delle Prudenze,46.1790803,9.8826558
 Tangenziale di Sondrio,46.1656390,9.8975438
 Traccia per la Vetta di Ron,46.2354804,9.9641514
-Via Agneda,46.1698227,9.9006276
+Via Agneda,46.1697282,9.9004994
 Via Alle Vigne,46.1706727,9.9012129
 Via Barella,46.1777777,9.9012424
 Via Bolgede,46.1776106,9.8866090
@@ -1474,7 +1469,10 @@ Bocchetta della Teggiola - Bocchetta dei Vanni,46.3027244,9.5508365
 Bocchetta di Spassato - Pizzo Ligoncio,46.2374865,9.5390800
 Bocchetta La Porta - Bocchetta di Spassato,46.2385719,9.5306679
 Capanna Volta - Pizzo Ligoncio,46.2307785,9.5428615
-Frasnedo - Forcella Frasnedo,46.2100086,9.4904858
+Forcella di Frasnedo - Cima di Cavrè,46.2112147,9.4928691
+Forcella di Frasnedo - sentiero diretto,46.2095655,9.4927610
+Frasnedo - Forcella Frasnedo,46.2100425,9.4905037
+La Muscerla,46.2154612,9.4870077
 Montagnola - Avedee,46.2307254,9.4502355
 Novate Mezzola - Codera,46.2300204,9.4669220
 Novate Mezzola - Montagnola,46.2286646,9.4475179
@@ -1482,46 +1480,55 @@ Pista delle cave,46.2239528,9.4535121
 Sentiero per il Bivacco Casorate Sempione,46.2356006,9.4955348
 Sentiero per il Bivacco Valli,46.2395590,9.5297659
 Sentiero Rif. Volta,46.2147658,9.5265351
-Sentiero Walter Bonatti,46.2097158,9.5469859
+Sentiero Walter Bonatti,46.2100439,9.5478254
 Strada Statale 36 del lago di Como e dello Spluga,46.2086590,9.4568046
 Tracciolino (partly destroyed),46.2443585,9.4788378
-Tracciolino (Tunnel),46.2113245,9.4759087
+Via al Mulino,46.2124182,9.4590069
 Via del Castello,46.2203440,9.4582939
+Via della Pace,46.2098313,9.4599898
 Via Gioacchino Rossini,46.2202700,9.4573685
 Via Ligoncio,46.2191193,9.4520806
 Via Lungo Codera Sinistro,46.2143775,9.4561712
 Via Lungo Lago,46.2093914,9.4579922
 Via Milano,46.2123202,9.4562566
 Via Normale Cima di Malvedello,46.1920566,9.5444232
+Via San Colombano,46.2101111,9.4604004
 Via XV Aprile,46.2107640,9.4570766
+Poira di Mello-Poira di Civo,46.1642653,9.5620253
 Sentiero per Prati Aragno,46.1626504,9.5289195
 Tagliafuoco Costiera dei Cech,46.1681647,9.5486175
 Via Normale Cima di Malvedello,46.1893757,9.5494417
-Frasnedo - Forcella Frasnedo,46.2068687,9.4923281
-Mulattiera Val dei Ratti,46.2000419,9.4686791
+Casten - Frasnedo,46.2020519,9.4897808
+Forcella di Frasnedo - sentiero diretto,46.2095655,9.4927610
+Frasnedo - Forcella Frasnedo,46.2068687,9.4923361
+Mulattiera Val dei Ratti,46.1998642,9.4689704
+Sentiero per Gaiun,46.2082408,9.4932268
 Strada Statale 36 del lago di Como e dello Spluga,46.2069140,9.4606787
 Strada Vicinale dei Cavalli,46.1928679,9.4554871
 Via Corte,46.1948296,9.4527488
 Via Francesco Dolzino,46.1974953,9.4524587
 Via Giavera,46.1988130,9.4525350
-Via Giovanni XXIII,46.1998576,9.4580920
+Via Giovanni XXIII,46.1998576,9.4579217
 Via Guastiscio,46.1964121,9.4535936
 Via Mario Copes,46.1975171,9.4554177
 Via Roma,46.2015833,9.4573004
 Via San Fedele,46.1951502,9.4529201
 Via San Francesco,46.2023405,9.4586142
-Via Serto,46.2003529,9.4569767
+Via Serto,46.2003362,9.4569137
 Via Val Cortese,46.2023116,9.4587842
 Via Villa,46.1939144,9.4524067
-Via XXV Aprile,46.2011079,9.4670984
+Via XXV Aprile,46.2021521,9.4651353
 complementare alla ss38 variante di Tirano,46.2033456,10.1510215
+Galleria Visconti Venosta,46.2165368,10.1772292
 Largo Pretorio,46.2160447,10.1731893
 Lungo Adda 4 Novembre,46.2127749,10.1670588
 Lungo Adda Btg Tirano,46.2158838,10.1723922
+Lungo Adda Ortigara,46.2181292,10.1757444
 Lungo Adda V Alpini,46.2150381,10.1703052
 Lungoargine Poschiavino,46.2068638,10.1545531
 Padrio Crazy down,46.1876322,10.1589091
 Passerella sull'Adda,46.2196205,10.1787963
+Piazza Cavour,46.2156519,10.1729893
 Piazza Marinoni,46.2165413,10.1706361
 Piazza San Martino,46.2157239,10.1747745
 Piazzetta Lantieri,46.2150666,10.1734836
@@ -1535,7 +1542,6 @@ Strada Comunale Castello,46.2103249,10.1748876
 Strada Comunale Noghere,46.2129736,10.1758833
 Strada Statale dello Stelvio,46.2159527,10.1706854
 Strada Vicinale Cascini,46.2148970,10.1537726
-Trivigno - Sentiro nel bosco versante sud,46.1822021,10.1863761
 Via ai Castagneti,46.2101551,10.1709732
 Via Albonico,46.2160614,10.1742830
 Via Alessandro Manzoni,46.2158738,10.1684697
@@ -1546,21 +1552,23 @@ Via Antonio Caimi,46.2161603,10.1747102
 Via Aprico,46.2121150,10.1718383
 Via Arcari,46.2182413,10.1745025
 via Beato Mario,46.2163142,10.1545591
-Via Bellotti,46.2153645,10.1729666
+Via Bellotti,46.2152164,10.1730812
 Via Benefattori,46.2162923,10.1698341
 Via Bertacchi,46.2176621,10.1711143
 Via Besta,46.2140153,10.1708153
 Via Bona Lombarda,46.2119651,10.1624687
 Via Cabasso,46.2149254,10.1691692
+Via Caduti di Russia,46.2175759,10.1780997
 Via Calcagno,46.2145507,10.1666324
 Via Carbonera,46.2157488,10.1592971
+Via Carlo Donegani,46.2163259,10.1759478
 Via dei Castelli,46.2102312,10.1686825
 Via dell'Artigianato,46.2115391,10.1583377
 Via della Tecnica,46.2111060,10.1567146
 Via Del Pensini,46.2123901,10.1752045
 Via del Progresso,46.2089292,10.1546937
 via del Rodun,46.2128297,10.1531012
-Via Don Carlo Braga,46.2170429,10.1791733
+Via Don Carlo Braga,46.2169373,10.1782055
 Via Elvezia,46.2205999,10.1539511
 Via Enrico Fermi,46.2086186,10.1563726
 Via Folla,46.2145027,10.1529045
@@ -1591,7 +1599,7 @@ Via Pedrotti,46.2171405,10.1678971
 Via Piazzi,46.2130760,10.1686669
 Via Pio Raina,46.2168329,10.1687388
 Via Ponticello,46.2140924,10.1616056
-Via Porta Bormina,46.2171400,10.1767639
+Via Porta Bormina,46.2171429,10.1767664
 Via Porta Milanese,46.2142744,10.1739663
 Via Ragazzi del '99,46.2145018,10.1615972
 Via Rasica,46.2208954,10.1552909
@@ -1607,17 +1615,18 @@ Via San Rocco,46.2211990,10.1573394
 Via Santa Maria,46.2125726,10.1739137
 Via Signorolo Omodei,46.2146300,10.1792042
 Via S.Michele,46.2137121,10.1529328
-Via Stelvio,46.2139854,10.1779259
+Via Stelvio,46.2149070,10.1771491
 Via Tirano,46.2206669,10.1735031
-Via Torelli,46.2150805,10.1747032
+Via Torelli,46.2150453,10.1746603
 Via Trivigno,46.2128585,10.1744672
 Via Valorsa,46.2209825,10.1554596
 Via Vanoni,46.2118457,10.1608578
 Via Vecchio Mulino,46.2159006,10.1600838
-Via Visconti Venosta,46.2164737,10.1765147
+Via Visconti Venosta,46.2166112,10.1766927
 Via Visoli,46.2192581,10.1681909
 Via Volpera,46.2130065,10.1738604
-Via XX Settembre,46.2157692,10.1739147
+Via XX Settembre,46.2156289,10.1725449
+Vicolo Capo di Terra,46.2162354,10.1754455
 Vicolo Leonardo Da Vinci,46.2127264,10.1721472
 Sentiero Valtellina,46.2253313,10.1894757
 Strada Statale dello Stelvio,46.2265232,10.1977116
@@ -1630,6 +1639,7 @@ Via xxv aprile,46.2242293,10.2046580
 Bocchetta di Spassato - Pizzo Ligoncio,46.2374865,9.5390800
 Cameraccio - SR,46.2737642,9.7154498
 Cevo - Laghi di Spluga,46.1968125,9.6086006
+inizio discesa verso Cevo,46.2121344,9.5614987
 Sasso Bisolo - San Quirico,46.2211347,9.6837495
 Sentiero per Arcanzo,46.2386116,9.6407921
 Sentiero per Ceresolo,46.1945700,9.6099546
@@ -1639,7 +1649,7 @@ Sentiero per Sasso Bisolo,46.2192135,9.6658392
 Sentiero Roma,46.2832922,9.6578666
 Sentiero Roma (Variante Alta),46.2763454,9.6280627
 Sentiero Valle del Ferro,46.2692971,9.6289128
-SR - Biv MV,46.2758585,9.6253164
+SR - Biv MV,46.2766539,9.6253164
 SR - Manzi,46.2828090,9.6930578
 SR - Passo di Mello,46.2760600,9.7271220
 Strada per Predarossa,46.2201458,9.6679801
@@ -1725,6 +1735,7 @@ Paiedo - Bocchetta Chiaro,46.2208843,9.3835441
 Pra Princè - Alpe Campo,46.2579496,9.3282125
 Ronscione-Torre Signame,46.2676589,9.3749622
 San Pietro - Alpe Borlasca,46.2640272,9.3725679
+Sentiero Alpe Dosso - Bocchetta del Cannone,46.2521811,9.3157165
 Sentiero per Alpe Mottone,46.2281083,9.3573328
 Sentiero per Bedolina,46.2612952,9.3782485
 Sentiero per il Sasso Canale,46.2186497,9.3620087
@@ -1748,9 +1759,10 @@ via Tonaia,46.2599168,9.3836299
 Via Tonaia,46.2606283,9.3868966
 Alpe Buglio - Alpe Colones,46.3159615,9.3454519
 Alpe Cima - Alpe Forcola,46.3077777,9.3172773
-Alpe Cima - Alpe Pregassone,46.2990946,9.3230446
-Alpe Cima - Alpe Vesena,46.3021997,9.3153183
+Alpe Cima - Alpe Pregassone,46.2911847,9.3382779
+Alpe Cima - Alpe Vesena,46.3031372,9.3145092
 Alpe Piodella-Pizzo Setaggio,46.2933979,9.2835174
+Alpe Pregassone - Lavorerio,46.3016254,9.2962701
 Alpe Valle di Sotto - Alpe Pesciadello,46.2944331,9.3140132
 Barzena - Pont Secret,46.2825431,9.3378165
 Bedolina - Alpe Borlasca,46.2680694,9.3468548
@@ -1758,14 +1770,14 @@ Bedolina - Ponte Vecchio,46.2750940,9.3448268
 Bedolina - San Pietro,46.2722888,9.3575412
 Bivacco del Notar - Forcellino del Notar,46.2417851,9.2522882
 Bodengo - Alpe Soè,46.2649201,9.3071683
-Bodengo - Corte Terza,46.2690620,9.2957001
+Bodengo - Corte Terza,46.2690256,9.2956384
 Capanna Como - Bocchetta della Crocetta,46.2285643,9.2538703
 Corte Seconda - Bocchetta della Crocetta,46.2415954,9.2600544
-Corte Terza - Corte Seconda,46.2586924,9.2744422
+Corte Terza - Corte Seconda,46.2586832,9.2744503
 Dardano - Alpe Cima,46.3022780,9.3297061
 Passo della Forcola - Passo Lendine,46.3282938,9.2953722
 Path to Rifugio Forcola,46.3187294,9.3125902
-Piazza San Martino,46.2914132,9.3680873
+Piazza San Martino,46.2914216,9.3680745
 Pont de la Val,46.2766290,9.3471171
 Pont de Pesciadel,46.2903943,9.3147619
 Pont Secret,46.2874355,9.3307548
@@ -1774,24 +1786,38 @@ Pont Secret - Alpe Valle di Sotto,46.2905320,9.3128861
 Pra Princè - Alpe Campo,46.2579496,9.3282125
 Rif. Forcola - Alpe Cima,46.3159106,9.3131814
 Ronscione-Torre Signame,46.2676589,9.3749622
+Sentiero Alpe Dosso - Bocchetta del Cannone,46.2521811,9.3157165
+Sentiero Bodengo - Alpe Dosso,46.2657603,9.3136667
 Sentiero Bortolotto-Gordona,46.2962945,9.3639300
 Sentiero della Caurghia di Vach,46.2401880,9.2563000
 Sentiero della Val Soè,46.2539402,9.3004721
-Sentiero Delle Coste,46.2823764,9.3606190
-Sentiero per Alpe Scisa,46.2656314,9.2919258
+Sentiero delle Coste,46.2823764,9.3606190
+Sentiero per Alpe Fugiana,46.3092884,9.3002444
+Sentiero per Alpe Scisa,46.2656351,9.2919258
 Sentiero per il Passo Forcola,46.3165874,9.3175586
 Sentiero per il Pizzo San Pio,46.2318081,9.2624138
 Sentiero per Pra Princè,46.2793810,9.3414113
-Sentiero per Signame - Torre,46.2771731,9.3692108
-Sentiero Ronscione-Torre Signame,46.2719581,9.3718087
+Sentiero per Signame - Torre,46.2774730,9.3687782
+Sentiero Pregazzone - Verdin,46.3087615,9.3121854
+Sentiero Ronscione-Torre Signame,46.2719762,9.3716580
 Sentiero Voga-Bortolotto,46.3034157,9.3571254
+SP 3 di Menarola,46.3031901,9.3552517
+Strada Consortile Monti di Menarola,46.3117498,9.3449174
 Strada per Cermine,46.2862485,9.3488622
-Traccia per Monte Mater,46.3262340,9.3385941
+Traccia per Monte Mater,46.3262208,9.3385941
 Via al Piano,46.2734948,9.3821258
-Via Boggia,46.2849992,9.3704610
+Via Boggia,46.2849992,9.3704557
+Via Forcola,46.2983320,9.3661490
+via Santa Caterina,46.2908637,9.3709485
+Via Sant'Anna,46.2979993,9.3673901
+Via V Aprile,46.2965136,9.3688311
+Via Vignate,46.2988493,9.3702564
 Voga - Alpe Cermine,46.2981615,9.3377936
 Acquanera caspoggio,46.2667728,9.9110888
+Piazza Milano,46.2648758,9.8640916
 Trail delle Valli,46.2588420,9.8683588
+Via Alpini,46.2640263,9.8668524
+Via Bricalli,46.2638465,9.8674905
 Sentiero Italia,46.2709733,10.1932460
 Via Coltura,46.2546023,10.2428719
 Via Sant'Antonio,46.2570202,10.2434061
@@ -1801,7 +1827,7 @@ Piazza S. Stefano,46.2581574,10.2555080
 Piazza Trieste,46.2583648,10.2563179
 Sentiero Italia,46.2709733,10.1932460
 Sentiero Valtellina,46.2582260,10.2457469
-Strada del Mortirolo,46.2541066,10.2904452
+Strada del Mortirolo,46.2621833,10.2915971
 Strada per San Matteo,46.2604288,10.2632724
 Strada Statale dello Stelvio,46.2627881,10.2552366
 Via Albertinelli,46.2554920,10.2568890
@@ -1828,12 +1854,12 @@ Via S. Stefano,46.2588308,10.2557779
 Via Valle,46.2537066,10.2564194
 Vicolo delle Torre,46.2583449,10.2567324
 Alpe Lago,46.2563876,9.8364296
-Alta Via della Valmalenco,46.3331194,9.8336970
+Alta Via della Valmalenco,46.3331130,9.8337037
 Contrada Montini,46.2641005,9.8466569
 Curlo Ponte,46.2764378,9.8614016
 Pineta Serleveggio,46.2548415,9.8434169
 Primolo - Alpe Airale,46.2587733,9.8247862
-Sentiero Glaciologico Vittorio Sella,46.2907767,9.7796586
+Sentiero Glaciologico Vittorio Sella,46.2880868,9.7803806
 Sentiero Rusca,46.2583204,9.8501742
 Strada Agrisilvopastorale Ciaz-Palo Lungo,46.3180559,9.8143421
 Strada per Alpe Lago,46.2539206,9.8327316
@@ -1857,7 +1883,8 @@ Bruciata-Cà dell'Acquanegra,46.2767506,9.9112679
 Campascio-Vallone dello Scerscen,46.3121106,9.8968016
 Campo Franscia-Cima Sassa-Ponte,46.2840757,9.8922951
 Campo Franscia-Foppa,46.2947874,9.9113736
-Carate-Monumento degli Alpini,46.3336396,9.9010086
+Capanna Cederna - Pizzo Scalino,46.2721965,9.9815150
+Carate-Monumento degli Alpini,46.3336308,9.9010086
 Cà Filo-Doss Sciaresa,46.2685044,9.9048493
 Cà Filo-Zocca,46.2661973,9.9025841
 Curlo Ponte,46.2764378,9.8614016
@@ -1874,11 +1901,12 @@ Gembre-Passo confinale,46.3292050,9.9727445
 giro dei prati,46.2721581,9.8899381
 Giro dei prati,46.2727093,9.8960429
 Giro diga-Gembre,46.3269033,9.9560005
-Giro diga-rif Bignami,46.3213485,9.9456985
+Giro diga-rif Bignami,46.3213485,9.9457844
 Giro Diga-Valle Poschiavina,46.3163379,9.9541157
 Gole dello Scerscen,46.3026299,9.9035413
 Hotel Mirage-Ponte,46.2743554,9.8715925
 lago D'UR,46.3084262,9.9895860
+Marinelli-Monumento degli Alpini,46.3385965,9.9018122
 Musella-Dosso dei Vetti,46.3058262,9.8996213
 Orsera-Campo Franscia,46.2926795,9.9039360
 Pass d'Ur - Pass da Cancian,46.3016421,9.9985357
@@ -1888,7 +1916,7 @@ Piz Palü - Traverse,46.3787449,9.9587122
 Piz Spinas - Cresta SW,46.3784899,9.9495995
 Pizzo Bernina - Via Normale,46.3780663,9.9090980
 pizzo scalino,46.2752313,9.9660973
-Prabello-Lac del mufuleè-Sasso Dell'Agnello,46.2850650,9.9363216
+Prabello-Lac del mufuleè-Sasso Dell'Agnello,46.2840618,9.9389410
 Prabello-Lago di Campagneda,46.2851294,9.9519259
 Prabello-Passo di Campagneda,46.2955368,9.9655513
 prato comino,46.2789175,9.8839582
@@ -1906,12 +1934,22 @@ Via Vassalini,46.2703379,9.8608925
 Vultadun-Ponte-Cima Sassa,46.2769719,9.8786222
 x carreggiabile,46.2901159,9.9215948
 Zocca-Doss Sciaresa,46.2640357,9.9040938
+Al Pizzo di Prata (tracce),46.2793799,9.4377855
+B6 (Dona-Chiavenna),46.3119962,9.4038268
+Canalone Porta,46.2754260,9.4470922
+Continua per il Pizzo di Prata (tracce),46.2751812,9.4138672
+Sentiero alla Croce di Matra,46.2899170,9.4212087
+Sentiero della vecchia ferrovia,46.2935119,9.3898086
+Sentiero per Cima Ronco e Ca' Franscini,46.3031687,9.4006976
+Stoveno-Case Rebbia,46.2888229,9.4011931
+Strada Consortile Monti di Prata,46.2922510,9.4097645
 Strada Statale 36 del lago di Como e dello Spluga,46.2615782,9.4126468
 Via al Palazzo,46.2763975,9.3947508
 Via al Piano,46.2772114,9.3918999
 Via Dante Paggi,46.2753959,9.3950380
+Via Dona,46.3044985,9.4004772
 Viale Roma,46.3131893,9.3973369
-Via Lottano,46.3061599,9.4031643
+Via Lottano,46.3081104,9.4064115
 Via Macolini,46.2813937,9.3999351
 Via Malaguardia,46.2809735,9.3971696
 Via Mario del Grosso,46.3157370,9.3980000
@@ -1919,6 +1957,7 @@ Via Monica,46.2889928,9.3913129
 Via Nazionale,46.3108418,9.3964782
 Via Pizzo,46.2923026,9.3888574
 Via Roma,46.3029236,9.3879721
+Via San Cristoforo,46.3020675,9.3993347
 Via Spluga,46.2760295,9.3977558
 Crot - Baitasci,46.3143351,10.2438830
 sentiero Italia,46.2918868,10.2179010
@@ -1947,32 +1986,37 @@ Alpe Angeloga - Passo Angeloga,46.4055203,9.4096675
 Alpe Pian del Nido - Passo di Lei,46.3898319,9.4407946
 Alpe Piangesca - Passo d'Avero,46.3613893,9.4350586
 Alpe Piangesca - Passo di Lei,46.3661124,9.4398058
-Borgonovo - Savogno,46.3335434,9.4422957
+Borgonovo - Savogno,46.3333265,9.4422957
 Cantone - Tabiadascio,46.3141216,9.4768639
-Ciclabile Santa Croce Ponteggio,46.3253694,9.4596949
-dal parcheggio a Savogno,46.3346846,9.4489948
+Ciclabile Santa Croce Ponteggio,46.3253465,9.4596813
+dal parcheggio a Savogno,46.3346833,9.4490723
 da S.croce a Stalle ai Ronchi,46.3296904,9.4488969
 Dasile - Al Mot,46.3426187,9.4320997
-Groppera - Pizzo Mater,46.4395459,9.3886523
+Groppera - Pizzo Mater,46.4395016,9.3886523
 Mottalla - Passo dell'Angeloga,46.4117328,9.4260782
 Passo d'Avero-Mott,46.3541526,9.4263124
+Passo d'Avero - Pizzo Alto,46.3581095,9.4167518
 Passo d'Avero - Pizzo Somma Valle,46.3638347,9.4224514
 Passo di Lei - Bocchetta di Sommavalle,46.3685510,9.4273885
 Passo di Somma Valle - Pizzo di Somma Valle,46.3681784,9.4243783
 Piazza della Chiesa,46.3262978,9.4205279
 Pizzo Stella - Cresta Sud,46.3745847,9.4237837
-Pradella - Alpe Tabiadascio,46.3099986,9.4599842
+Pradella - Alpe Tabiadascio,46.3099886,9.4601074
+Quarantapan - Tecciali,46.3113734,9.4269887
+San Martino - Saranga (B15),46.3178265,9.4565825
 Sant'Abbondio - Savogno,46.3343961,9.4279457
-Santa Croce - Alpe Tabiadascio,46.3144176,9.4680230
+Santa Croce - Alpe Tabiadascio,46.3144259,9.4681189
 Scala di ferro,46.3115099,9.4728655
+Scilano - Alpe Foico,46.3232187,9.4453136
+Scilano - Alpe Moscono,46.3229673,9.4443702
 Sentiero B21,46.3564876,9.4734564
 Sentiero lago acqua fraggia,46.3600005,9.4538725
-Sentiero Panoramico,46.3315798,9.4389487
+Sentiero Panoramico,46.3310640,9.4398253
 Sentiero per Casarisc,46.3393366,9.4223172
 Sentiero per Casa Risc,46.3349817,9.4243225
 Sentiero per Crana,46.3342866,9.4256762
 Sentiero per Dasile,46.3359566,9.4341310
-Sentiero Santa Croce - Roncaiola,46.3225988,9.4678360
+Sentiero Santa Croce - Roncaiola,46.3225413,9.4656067
 Strada comunale Cranna,46.3343593,9.4219740
 Strada del Fuin,46.3309929,9.4343913
 Strada di Sarlone,46.3298312,9.4390655
@@ -1981,19 +2025,20 @@ Strada per S. Abbondio,46.3308370,9.4317889
 Strada Vecchia,46.3262508,9.4560052
 Tabiadascio - Alpe Garzonedo,46.3033462,9.4750230
 Traccia per il Pizzo di Emet,46.4648007,9.4049308
-Uschione - Pradella,46.3149023,9.4327190
-Via Bregaglia,46.3256508,9.4238120
+Uschione - Pradella,46.3149174,9.4318272
+Via Bregaglia,46.3256777,9.4238080
 Via dei Bassani,46.3306061,9.4211789
 Via dei Cenni,46.3279536,9.4206489
 Via dei Giuppedi,46.3307272,9.4229623
 Via dei Pedrini,46.3301271,9.4195696
-Via dei Quartini,46.3243899,9.4596651
+Via dei Quartini,46.3243585,9.4596842
 Via della Conca,46.3247744,9.4373996
+Via della Salavra,46.3252435,9.4522453
 Via della Vigna Nuova,46.3277435,9.4393561
 Via di Cortinaccio,46.3323187,9.4213891
 Via Martinucci,46.3314569,9.4186465
 Via Nazionale,46.3276331,9.4322320
-Via Palazzo Vertemate,46.3294265,9.4215276
+Via Palazzo Vertemate,46.3294265,9.4215283
 Via per Crana,46.3323759,9.4190929
 Via per Scilano,46.3246737,9.4438259
 Via Roganti,46.3284811,9.4194868
@@ -2012,26 +2057,28 @@ Cantone - Tabiadascio,46.3141216,9.4768639
 Ciclabile Santa Croce Ponteggio,46.3269130,9.4665960
 Dair - Malinone,46.3526951,9.5040036
 Foppate - Bocchetta della Teggiola,46.3106853,9.5323586
-Frazione Canete,46.3269854,9.4960420
+Frazione Canete,46.3269854,9.4960152
 Frazione Chete,46.3285708,9.5015387
 Frazione San Barnaba,46.3289719,9.4983718
 Monte del Lago - Ceresc,46.3214813,9.5258935
 Monte del Lago - Foppate,46.3189392,9.5168466
-Pradella - Alpe Tabiadascio,46.3099986,9.4599842
+Pradella - Alpe Tabiadascio,46.3099886,9.4601074
 Ragone - Malinone,46.3433354,9.4999136
-Santa Croce - Alpe Tabiadascio,46.3113508,9.4703708
+Santa Croce - Alpe Tabiadascio,46.3113550,9.4703708
+Scala di ferro,46.3115099,9.4728655
 Sentiero B21,46.3564876,9.4734564
-Sentiero B22,46.3342137,9.4921786
-Sentiero Canete - Cantone,46.3212955,9.4909313
+Sentiero B22,46.3342073,9.4919529
+Sentiero Canete - Cantone,46.3212029,9.4909313
 Sentiero Canete - Laghetti,46.3220044,9.5059835
 Sentiero Canete - Roncaiola,46.3230690,9.4846248
-Sentiero Cantone - Laghetti,46.3156251,9.4950795
-Sentiero fino a Cassinaccia,46.3400295,9.4846916
-Sentiero Panoramico,46.3393712,9.4898783
+Sentiero Cantone - Laghetti,46.3156235,9.4950795
+sentiero della scalotella,46.3346944,9.4778795
+Sentiero fino a Cassinaccia,46.3402047,9.4846916
+Sentiero Panoramico,46.3364766,9.4780837
 Sentiero per Penz,46.2989637,9.4823598
 Sentiero per Sciucc,46.3511043,9.4936916
 Sentiero Roncaiola - Cantone,46.3182258,9.4791434
-Sentiero Santa Croce - Roncaiola,46.3225988,9.4678360
+Sentiero Santa Croce - Roncaiola,46.3225413,9.4656067
 Tabiadascio - Alpe Garzonedo,46.3033462,9.4750230
 Tegiola - Bocchetta della Teggiola,46.3076899,9.5432839
 Via Badarello,46.3315119,9.4877359
@@ -2042,23 +2089,31 @@ Via Dante Alighieri,46.3307359,9.4891611
 Via Giro del Lago,46.3301849,9.4910539
 Via Principale,46.3329062,9.5145353
 Via Roma,46.3291878,9.4760497
+Sentiero per Cigolino/Sommarovina,46.3237230,9.3772253
+Strada Consorzio Madonna della Grazie,46.3114729,9.3656263
+Via Leurina,46.3037764,9.3681685
 Via Mulesin,46.3086579,9.3850203
+Via Peverello,46.3041335,9.3696661
+Via Possabella,46.3053388,9.3702527
 Via Roma,46.3044450,9.3842037
-Via Spluga,46.3220748,9.3804578
-Chiavenna - Uschione,46.3178645,9.4081953
+Via Spluga,46.3244838,9.3780772
+B6 (Dona-Chiavenna),46.3119962,9.4038268
+Chiavenna - Uschione,46.3178741,9.4082302
 Corso Giuseppe Garibaldi,46.3208041,9.4053561
 Corso Pratogiano,46.3208171,9.4071019
 Corso Risorgimento,46.3191690,9.4022716
 Corso Vittorio Emanuele,46.3202314,9.4050919
-Crespallo - Lagunch,46.3446963,9.3925175
+Crespallo - Lagunch,46.3446878,9.3925175
+Pianazzola - Dalò (B32),46.3301090,9.3948509
 Piazza Castello,46.3228478,9.4055073
 Ponte dei Corvi,46.3228888,9.4072356
-SS36 del lago di Como e dello Spluga,46.3186587,9.3996810
-Strada Statale 36 del lago di Como e dello Spluga,46.3225008,9.3898651
-Strada Statale 37 del Maloja,46.3241247,9.4034682
+Quarantapan - Tecciali,46.3113734,9.4269887
+Sentiero Attrezzato Pianazzola-Dalò,46.3283646,9.3892386
+SS36 del lago di Como e dello Spluga,46.3185228,9.3998514
+Strada Statale 36 del lago di Como e dello Spluga,46.3256078,9.3790123
 Stràda di mòort,46.3267346,9.4029797
-Uschione - Pradella,46.3149023,9.4327190
-Via al Deserto,46.3181262,9.4055935
+Uschione - Pradella,46.3149174,9.4318272
+Via al Deserto,46.3181400,9.4055935
 Via Alessandro Volta,46.3176110,9.3925316
 Via alla Chiesa,46.3214581,9.3872957
 Via Alpetto,46.3180453,9.4013281
@@ -2069,32 +2124,38 @@ via Belvedere,46.3226527,9.3992182
 Via Canonico Francesco Novi,46.3213891,9.4054572
 Via Carducci,46.3203994,9.3939351
 Via Chiesa di Loreto,46.3258614,9.4068573
+Via Dei Pilastri,46.3211025,9.4026716
 Via dei Vescovi Giani,46.3214312,9.4042650
 Via della Bottonera,46.3233917,9.4050045
-via della Cereria,46.3215982,9.3990321
-via della Molinanca,46.3207755,9.4016741
+via della Cereria,46.3217049,9.3990377
+Via della Cereria,46.3209626,9.3989679
+Via della Molinanca,46.3207727,9.4016809
 Via della Violina,46.3182528,9.3918209
-via del Saliceto,46.3191776,9.4028023
-Via Don G. B. Picchi,46.3221061,9.4065611
+Via del Saliceto,46.3191776,9.4028023
+Via Don Giovanni Battista Picchi,46.3221061,9.4065611
 Via Don Guanella,46.3210826,9.4055236
 Via Enrico Fermi,46.3190744,9.3928672
 Via Erminio Juvalta,46.3169812,9.3931061
 Via Falcone e Borsellino,46.3151800,9.3962823
+Via Ferrata Pietro Biasini al Sench di Dalò,46.3273607,9.3886002
 Via Francesco e Giovanni Dolzino,46.3207709,9.4024753
 Via Francesco Mitta,46.3202348,9.3901981
 Via Gian Giacomo Macolino,46.3219423,9.4056487
+Via Giosuè Carducci,46.3225008,9.3898651
 Via Giovanni Andrea Scartazzini,46.3200985,9.3913185
 Via Giovanni Battista Cerletti,46.3211434,9.4001753
 Via Guglielmo Marconi,46.3202440,9.3971287
 Via IV Novembre,46.3221579,9.4076815
+Viale Consoli Chiavennaschi,46.3186566,9.3996855
 Viale Giacomo Matteotti,46.3202650,9.4040625
-via Lena Perpenti,46.3202883,9.4021855
+Viale Maloggia,46.3241247,9.4034682
+Via Lena Perpenti,46.3202883,9.4021855
 Viale Roma,46.3131893,9.3973369
-Via Lottano,46.3112442,9.4119147
+Via Lottano,46.3112100,9.4118310
 Via Mario del Grosso,46.3157370,9.3980000
-Via Maurizio Quadrio,46.3239158,9.4063101
+Via Maurizio Quadrio,46.3239026,9.4063127
 Via Nazionale,46.3108418,9.3964782
-Via per Capiola,46.3226201,9.4092356
+Via per Capiola,46.3226201,9.4092302
 Via San Giovanni,46.3239241,9.4021546
 Via Santa Maria,46.3192026,9.4011617
 Via Ugo Cerletti,46.3191991,9.3919122
@@ -2105,50 +2166,59 @@ Alpe Lendine - Passo di Lendine,46.3352951,9.3031576
 Alpe Piangesca - Passo d'Avero,46.3613893,9.4350586
 Alpe Preda - Passo dell'Alpigia,46.3695034,9.3307980
 Alpe Servizio Passo dell' Alpigia,46.3820022,9.3285830
-Avero - Daloo,46.3503148,9.3877975
+Avero - Daloo,46.3502970,9.3877975
 Avero - Passo d'Avero,46.3630761,9.4081864
+Bypass temporaneo,46.3634398,9.3628495
 Caurga - Lago del Truzzo,46.3551266,9.3240108
 Cimaganda - Avero,46.3696554,9.3778757
-Crespallo - Lagunch,46.3446963,9.3925175
-La Camoscera,46.3581204,9.3333664
+Crespallo - Lagunch,46.3446878,9.3925175
+La Camoscera,46.3581324,9.3333476
 Lagazzuolo - Lago Grande,46.3354386,9.3308932
 Lago del Truzzo - Passo dell'Alpigia,46.3647287,9.3207531
 Lago del Truzzo - Rifugio Carlo Emilio,46.3612218,9.3125498
+Motta Secca-Olcera,46.3569507,9.3779742
 Mott del Piano - Crespallo,46.3531748,9.3940238
-Olmo - Laguzzolo,46.3358997,9.3466917
+Olmo - Laguzzolo,46.3359422,9.3466614
+Passo d'Avero - Pizzo Alto,46.3581095,9.4167518
 Passo d'Avero - Pizzo Somma Valle,46.3638347,9.4224514
 Passo della Forcola - Passo Lendine,46.3282938,9.2953722
 Passo di Lei - Bocchetta di Sommavalle,46.3685510,9.4273885
 Passo di Somma Valle - Pizzo di Somma Valle,46.3681784,9.4243783
 Perandone - Mott del Piano,46.3559506,9.4017358
-Pista per S. Antonio,46.3480728,9.3439219
+Pianazzola - Dalò (B32),46.3301090,9.3948509
+Pista per S. Antonio,46.3476167,9.3483255
 Pizzaccio - Via Normale,46.3286854,9.2973410
 Pizzo Stella - Cresta Sud,46.3745847,9.4237837
 Pizzo Stella - Via Normale dal Rifugio Chiavenna,46.3896766,9.4151808
 RifugioCarlo Emilio Lago del Forato,46.3623393,9.3007775
-San Bernardo - Sant'Antonio,46.3483114,9.3523650
+San Bernardo - Sant'Antonio,46.3483198,9.3523395
 Sant'Antonio - Caurga,46.3492086,9.3339398
 Scala Santa,46.3621051,9.3648153
-Scanabecco - Sant'Antonio,46.3485314,9.3466504
-Sentiero della Condotta,46.3525379,9.3462107
+Scanabecco - Sant'Antonio,46.3485498,9.3466249
+Sentiero Attrezzato Pianazzola-Dalò,46.3283646,9.3892386
+Sentiero della Condotta,46.3525500,9.3461112
 Sentiero dell'Alpe di Prosto,46.3536131,9.3174649
 Sentiero Lagazzuolo - Lago Grande,46.3340764,9.3275260
 Sentiero per Avero,46.3698429,9.3860209
-Sentiero per Laguzzolo,46.3367705,9.3242934
-Sentiero per Olmo,46.3331884,9.3612278
+Sentiero per Cigolino/Sommarovina,46.3237230,9.3772253
+Sentiero per Laguzzolo,46.3368255,9.3287299
+Sentiero per Olmo,46.3331884,9.3612184
 Sentiero per Tecchi,46.3763821,9.3463026
-Sommarovina - Colones,46.3205375,9.3596461
+Sommarovina - Cigolino,46.3196902,9.3685122
+Sommarovina - Colones,46.3205173,9.3595828
 SS36 del lago di Como e dello Spluga,46.3395125,9.3704452
-Strada per Dalò,46.3351862,9.3812488
-Strada per Lagunc,46.3359517,9.3858193
-Strada per Sommarovina,46.3256492,9.3604589
-Strada per Uggia,46.3345795,9.3745624
+Strada Consortile Monti di Menarola,46.3095899,9.3475449
+Strada Consorzio Madonna della Grazie,46.3114729,9.3656263
+Strada per Dalò,46.3351428,9.3812589
+Strada per Lagunc,46.3359503,9.3858862
+Strada per Sommarovina,46.3256290,9.3604354
+Strada per Uggia,46.3346043,9.3745445
 Strada Statale 36 del lago di Como e dello Spluga,46.3464822,9.3689726
 Tecchi - Alpe Cascina,46.3739688,9.3405911
 to Bivacco del Servizio,46.3748145,9.3031907
-Traccia per Monte Mater,46.3262340,9.3385941
-Uggia - Daloo,46.3322687,9.3811437
-Via Spluga,46.3511259,9.3649983
+Traccia per Monte Mater,46.3262208,9.3385941
+Uggia - Daloo,46.3321507,9.3814595
+Via Spluga,46.3591623,9.3621083
 Frazione Frontale,46.3490966,10.3636396
 Frazione Sommacologna,46.3303433,10.3060380
 Galleria Le Prese,46.3542301,10.3522366
@@ -2270,6 +2340,7 @@ Via Milano,46.4591326,10.3582066
 Via Mulino,46.4590592,10.3566419
 Via Nazionale,46.4432933,10.3597839
 Via Nuova,46.4542745,10.3746985
+Via Ortigara,46.4618873,10.3466860
 Via Osteglio,46.4610066,10.3571207
 Via Pedemonte,46.4279576,10.3521403
 Via per Calosio,46.4604054,10.3469544
@@ -2280,13 +2351,13 @@ Via Poz,46.4240765,10.3519481
 Via Pozzaglio,46.4346077,10.3522759
 Via Pradecc,46.4518265,10.3731780
 Via Roma,46.4269104,10.3555464
-Via Sambor,46.4624290,10.3476545
+Via Sambor,46.4624275,10.3477013
 Via San Martino,46.4243522,10.3525804
 Via San Pietro,46.4503062,10.3809099
 Via Santel,46.4503351,10.3732145
 Via Santela,46.4613455,10.3466611
 Via Scleva,46.4253185,10.3521235
-Via Scuole,46.4621556,10.3474126
+Via Scuole,46.4621556,10.3474209
 Via Somdoss,46.4524024,10.3726540
 Via Stelvio,46.3814561,10.3602003
 Via Torraccia,46.4235640,10.3532711
@@ -2299,20 +2370,23 @@ Alpe Servizio Passo dell' Alpigia,46.3820022,9.3285830
 Campodolcino-Madesimo per Pian del Lanzo,46.4171519,9.3517143
 Fraciscio - Gualdera,46.4002554,9.3637990
 Gualdera - Bondeno,46.3883804,9.3630464
+Lago Bianco-Pian dei Cavalli-San Sisto,46.4151847,9.2964391
 Località Motta,46.4219012,9.3551333
 Made for fun,46.4301270,9.3657853
+Nome  Lago Bianco-Pian dei Cavalli-San Sisto,46.4106620,9.3084181
 Non fidabile / non credibile,46.4215293,9.3209077
 parte di C20,46.4173069,9.3054261
 parte di C30,46.4264391,9.3218764
+Pian dei Cavalli-Val Febbraro,46.4247671,9.2814600
 Piazza Ministrali,46.4019526,9.3542756
 Pizzo Stella - Via Normale dal Rifugio Chiavenna,46.3896766,9.4151808
 Prestone Alpe Servizio,46.3945435,9.3444442
-San Sisto - Alpe Cusone,46.4066532,9.3153083
+San Sisto - Alpe Cusone,46.4066792,9.3153272
 SS36 del lago di Como e dello Spluga,46.4260558,9.3449118
-Starleggia - San Sisto,46.4138803,9.3262016
+Starleggia - San Sisto,46.4145500,9.3271960
 Strada Provinciale di Isola,46.4230629,9.3405533
 Strada Statale 36 del lago di Como e dello Spluga,46.3896151,9.3535023
-Strerrata per San Sisto,46.4100811,9.3205224
+Strerrata per San Sisto,46.4100922,9.3205224
 Valle delle streghe,46.4288438,9.3633791
 Vecchia Mulattiera per il Passo Angeloga,46.4026015,9.4090452
 Via Corti,46.4039808,9.3535276
@@ -2324,7 +2398,7 @@ Via don Romeo Ballerini,46.4023485,9.3545049
 Via Fraciscio,46.4035524,9.3641695
 Via Giavere,46.4018830,9.3539506
 Via Giovanni XXIII,46.3999927,9.3515939
-Via Iséli,46.4061972,9.3508549
+Via Iséli,46.4062522,9.3507885
 Via Lago Azzurro,46.4039966,9.3520565
 Via la Strécia,46.4011808,9.3510296
 Viale dei Mercati d'Arti e Mestieri,46.4016629,9.3518283
@@ -2332,7 +2406,7 @@ Via Luciano Leonardi,46.4101044,9.3484562
 Via Macolino,46.4052588,9.3507898
 Via San Sisto,46.4081076,9.3468179
 Via Spluga,46.3931583,9.3509948
-Via Starleggia,46.4143657,9.3391104
+Via Starleggia,46.4143585,9.3391051
 Via Tini,46.3997296,9.3518680
 Diga del lago di San Giacomo di Fraele,46.5348802,10.2793612
 Passo Umbrail,46.5403055,10.4329809
@@ -2433,24 +2507,30 @@ Via Teola,46.4825386,10.2601948
 Via Viola,46.4838851,10.2696041
 Via XXV Aprile,46.4899101,10.3086332
 Via Zardin,46.4879954,10.2963475
-Bivacco Cecchini - Cime di Loga Sud,46.4727323,9.2764304
-Bivacco Cecchini- CIme di Val Loga,46.4753965,9.2793538
+Bivacco Cecchini - Cime di Loga Sud,46.4727397,9.2763848
+Bivacco Cecchini- Passo di Val Loga,46.4767863,9.2808208
+Ca' di Goss-Canto,46.4452542,9.3273058
+Ca di Raseri-Canturi,46.4430103,9.3218083
 Campodolcino-Madesimo per Pian del Lanzo,46.4171519,9.3517143
-Groppera - Pizzo Mater,46.4395459,9.3886523
-Le Mede - Biv. Val Loga,46.4730653,9.3030781
+Cima di Val Loga Centrale - via Normale,46.4755868,9.2776581
+Groppera - Pizzo Mater,46.4395016,9.3886523
+Le Mede - Biv. Val Loga,46.4730482,9.3032219
 Località Motta,46.4291599,9.3564242
 Località Scalcoggia,46.4295081,9.3518294
 Località Zerbi,46.4455603,9.3644740
 Made for fun,46.4301270,9.3657853
 Montespluga - Bivacco Suretta,46.4944555,9.3588757
-Monte Spluga - Bivacco Val Loga,46.4810863,9.3072218
+Monte Spluga - Bivacco Val Loga,46.4810692,9.3073764
 Montespluga - Lago Nero - lago Ghiacciato,46.4870825,9.3639725
 Non fidabile / non credibile,46.4215293,9.3209077
 parte di C30,46.4264391,9.3218764
 Passeggiata La Strecia,46.4481787,9.3661176
+Passo di Val Loga - Cime di Val Loga,46.4753799,9.2754545
+Pian dei Cavalli-Val Febbraro,46.4247671,9.2814600
 Piazza Gemelli,46.4378162,9.3596467
 Piazza Giovanni Bertacchi,46.4346941,9.3568545
-Pista per Frondaglio,46.4362481,9.3214524
+Pista per Frondaglio,46.4362555,9.3214792
+Pizzo Tambò - Passo Spluga,46.4997095,9.2988533
 Ponte degli Svizzeri,46.4647395,9.3344600
 Sentiero per Spadolazzo,46.4846077,9.3754953
 Sentiero per Val Sterla,46.4678451,9.3957404
@@ -2459,13 +2539,12 @@ SS36 del lago di Como e dello Spluga,46.4540537,9.3382275
 Strada Provinciale di Isola,46.4430442,9.3356561
 Strada Statale 36 del lago di Como e dello Spluga,46.4617322,9.3431284
 Traccia per il Pizzo di Emet,46.4648007,9.4049308
-"Trace, traces",46.4424797,9.3134153
 Valle delle streghe,46.4288438,9.3633791
 Vamlera - Le Mede,46.4611395,9.3158931
 Vecchia Strada Isola - Pianazzo,46.4376108,9.3393656
 Vecchia strada Pianazzo - Madesimo,46.4266107,9.3455371
 Via A. De Giacomi,46.4417278,9.3597323
-Via alla Fonte,46.4365151,9.3585947
+Via alla Fonte,46.4365188,9.3585947
 Via alle Scuole,46.4370247,9.3591387
 Via Andine,46.4378704,9.3607857
 Via Andossi,46.4354969,9.3557602
@@ -2486,7 +2565,7 @@ Via Spluga,46.4508745,9.3273729
 Galleria del Rastello,46.5091956,10.3833733
 Galleria Diroccamento,46.5098264,10.3788797
 Galleria Piattamartina,46.5081412,10.3705761
-Goldseeweg - Sentiero del Lago d'Oro,46.5297270,10.4532225
+Goldseeweg - Sentiero del Lago d'Oro,46.5306839,10.4532341
 III Galleria,46.5092771,10.3867947
 IV Galleria,46.5094969,10.3909148
 Passerella pedonale Giuseppe Marelli,46.4655641,10.3748849
@@ -2659,7 +2738,7 @@ Take it easy,46.5329183,10.1627964
 Take it Easy,46.5399541,10.1587140
 Via All,46.4988683,10.1195093
 Via Òlta,46.5479101,10.1394626
-Via Arneira,46.5174116,10.1862918
+Via Arneira,46.5172631,10.1864541
 Via Beltràm,46.5575719,10.1424316
 Via Bondi,46.5381832,10.1374248
 Via Borch,46.5205019,10.1261153
@@ -2678,8 +2757,8 @@ Via dala Gesa,46.5426861,10.1386869
 Via dala Madonina,46.5478532,10.1414174
 Via Dali Mìna,46.4934757,10.1174256
 Via dali Mina,46.4925852,10.1195026
-Via dali Strozia,46.5360699,10.1422132
-Via Dali Strozia,46.5348381,10.1423015
+Via dali Strozia,46.5360827,10.1419271
+Via Dali Strozia,46.5348509,10.1422701
 Via dela Gesa,46.5257748,10.1782687
 Via del Foscagno,46.5176240,10.1791559
 Via deli Crosceta,46.5206104,10.1809754
