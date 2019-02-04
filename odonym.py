@@ -13,7 +13,7 @@ def handle(msg):
     now=datetime.datetime.now()
     csvname = "/tmp/" + odonym.replace(" ", "") + ".csv"
 
-    query = "cat /home/pi/git/scripts/???_names.csv | grep \"" + odonym + "\" > " + csvname                    
+    query = "cat /home/pi/git/scripts/latestrelease/???_names.csv | grep \"" + odonym + "\" > " + csvname                    
     addheader = "sed -i '1 i\odonym,lat,lon' " + csvname
 
     print 'Built command: %s' % query
@@ -25,7 +25,7 @@ def handle(msg):
     bot.sendDocument(chat_id, document=open(csvname, 'rb'))
 #   curl -T my-local-file.txt ftp://ftp.example.com --user user:secret
 
-bot = telepot.Bot(Ã'place your token here')
+bot = telepot.Bot('place your token here')
 bot.message_loop(handle)
 print 'I am listening ...'
 
